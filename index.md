@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: NHG Office of Human Research Protection Programme
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: This Site is currently under Construction.
