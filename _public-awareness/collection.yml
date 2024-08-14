@@ -2,6 +2,7 @@ collections:
   public-awareness:
     output: true
     order:
+      - Frequently Asked Questions.md
       - Participation Opportunities.md
       - Useful Information.md
       - Public Events.md
