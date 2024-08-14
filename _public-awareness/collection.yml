@@ -2,4 +2,5 @@ collections:
   public-awareness:
     output: true
     order:
+      - Useful Information.md
       - Public Events.md
