@@ -1,4 +1,5 @@
 collections:
   public-awareness:
     output: true
-    order: []
+    order:
+      - Public Events.md
