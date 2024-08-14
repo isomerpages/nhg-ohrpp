@@ -7,8 +7,7 @@ permalink: /
 notification: This Site is currently under Construction.
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: NHG Office of Human Research Protection Programme
       background: /images/hero-banner.png
-      variant: image
+      variant: center
 ---
