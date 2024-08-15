@@ -14,6 +14,11 @@ Population Health.</p>
 <p>The NHG DSRB has been accredited by the US-based Association for Accreditation
 of Human Research Protection Program (AAHRPP) since 2007, a recognition
 for its high standards in human subject protection.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn more about the DSRB and our Human Research Protection Program here.</p>
+</li>
+</ul>
 <p></p>
 <h4><strong>Research Quality Management (RQM)</strong></h4>
 <p>The Research Quality Management unit provides quality assurance activities
@@ -23,9 +28,13 @@ the Singapore Guideline for Good Clinical Practice (SGGCP) and NHG Proper
 Conduct of Research SOPs.</p>
 <p>The RQM unit also undertakes continuous improvement initiatives with the
 DSRB to ensure and continue high quality and efficient review of research
-applications.
-<br>
-</p>
+applications.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn more about RQM programs and activities here.</p>
+</li>
+</ul>
+<p></p>
 <h4><strong>Partnerships &amp; Outreach (P&amp;O)</strong></h4>
 <p>The Partnership &amp; Outreach unit oversees the extension of ethics review
 services and oversight to external healthcare set-ups and agencies.</p>
@@ -40,7 +49,10 @@ and implementing educational support initiatives for investigators, clinical
 research coordinators and other clinical research professionals.</p>
 <p>This unit also oversees the propagation of Responsible Conduct of Research
 (RCR) culture and education within the research community.</p>
-<p>If you wish to find out more about the training programmes offered by
-RE, <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/04+training+and+education/ohrpp+pi+training" rel="noopener noreferrer nofollow" target="_blank"><u>click here</u></a></strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn more about our researcher training programs.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
