@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - OHRPP Units.md
       - NHG Group Research & Innovation.md
       - Office of Human Research Protection Programme (OHRPP).md
+      - OHRPP Units.md
