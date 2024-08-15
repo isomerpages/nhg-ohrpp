@@ -20,27 +20,27 @@ for its high standards in human subject protection.</p>
 to ensure that research protocols approved by the DSRB are carried out
 ethically and in accordance with all applicable regulations, particularly
 the Singapore Guideline for Good Clinical Practice (SGGCP) and NHG Proper
-Conduct of Research (PCR)SOPs. The RQM unit also undertakes continuous
-improvement initiatives with the DSRB to ensure and continue high quality
-and efficient review of research applications.
+Conduct of Research SOPs.</p>
+<p>The RQM unit also undertakes continuous improvement initiatives with the
+DSRB to ensure and continue high quality and efficient review of research
+applications.
 <br>
 </p>
-<h4><strong>Partnerships &amp; Outreach</strong></h4>
-<p>This unit oversees the extension of ethics review services and oversight
-to external healthcare set-ups and agencies. Such research partnerships
-provide a common platform of ethics review and establish common standards
-of research conduct in the different institutions. The team also coordinates
-public education efforts to create a better-informed population on their
-participation in clinical trials or clinical research.
-<br>
-<br>
-<br><strong>d) Research Education</strong>
-<br>
-<br>This unit is responsible for developing training programs and implementing
-educational support initiatives for investigators, clinical research coordinators
-and other clinical research professionals. This unit also oversees the
-propagation of Responsible Conduct of Research (RCR) culture and education
-within the research community.</p>
-<p>&nbsp;</p>
+<h4><strong>Partnerships &amp; Outreach (P&amp;O)</strong></h4>
+<p>The Partnership &amp; Outreach unit oversees the extension of ethics review
+services and oversight to external healthcare set-ups and agencies.</p>
+<p>Such research partnerships provide a common platform of ethics review
+and establish common standards of research conduct in the different institutions.
+The team also coordinates public education efforts to create a better-informed
+population on their participation in clinical trials or clinical research.</p>
+<p></p>
+<h4><strong>Research Education (RE)</strong></h4>
+<p>The Research Education unit is responsible for developing training programs
+and implementing educational support initiatives for investigators, clinical
+research coordinators and other clinical research professionals.</p>
+<p>This unit also oversees the propagation of Responsible Conduct of Research
+(RCR) culture and education within the research community.</p>
 <p>If you wish to find out more about the training programmes offered by
 RE, <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/04+training+and+education/ohrpp+pi+training" rel="noopener noreferrer nofollow" target="_blank"><u>click here</u></a></strong>.</p>
+<p></p>
+<p></p>
