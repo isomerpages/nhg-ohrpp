@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: NHG Office of Human Research Protection Programme
 contacts:
   - content:
-      - phone: ""
-      - email: ""
-      - other: "123"
-    title: ""
+      - phone: +65 6471 3266
+      - email: ohrpp@nhg.com.sg
+      - other: (Office hours only)
+    title: NHG Domain Specific Review Boards (DSRB)
 feedback: ""
 ---
