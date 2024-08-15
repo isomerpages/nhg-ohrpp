@@ -14,5 +14,10 @@ contacts:
       - email: NHGRISecretariat@nhg.com.sg
       - other: (Office hours only)
     title: NHG Research Institution (RI) Secretariat
+  - content:
+      - phone: ""
+      - email: researchquality@nhg.com.sg
+      - other: (Office hours only)
+    title: NHG Research Quality Management (RQM)
 feedback: ""
 ---
