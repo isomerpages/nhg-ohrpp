@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - OHRPP Units/Research Education (RE).md
       - OHRPP Units/Research Quality Management (RQM).md
       - OHRPP Units/Domain Specific Review Board (DSRB).md
       - OHRPP Units/OHRPP Units.md
