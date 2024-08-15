@@ -4,19 +4,19 @@ permalink: /about-ohrpp/
 variant: tiptap
 description: ""
 ---
-<p>The Office of Human Research Protection Programme (OHRPP) at NHG Group
-Research &amp; Innovation ensures the ethical conduct of human research
-by overseeing ethics reviews, providing researcher education, and monitoring
-compliance with regulations. The OHRPP is dedicated to protecting the rights
-and safety of research participants, maintaining high standards through
-international accreditation. They also engage in public outreach to promote
-awareness and understanding of participant rights in research. This commitment
-supports the ethical and effective conduct of research within NHG.</p>
+<p>The <strong>Office of Human Research Protection Programme (OHRPP)</strong>,<strong> </strong>a
+unit of the NHG Group Research &amp; Innovation, ensures the ethical conduct
+of human research by overseeing ethics reviews, providing researcher education,
+and monitoring compliance with regulations.</p>
+<p>The OHRPP is dedicated to protecting the rights and safety of research
+participants, maintaining high standards through international accreditation.
+They also engage in public outreach to promote awareness and understanding
+of participant rights in research. This commitment supports the ethical
+and effective conduct of research within NHG.</p>
 <h4><strong>Ensuring Ethical Research Practices</strong></h4>
-<p>The Office of Human Research Protection Programme (OHRPP) at NHG Group
-Research &amp; Innovation is committed to safeguarding the rights, safety,
-and well-being of research participants. This is achieved through rigorous
-ethics reviews and comprehensive oversight of human research activities.</p>
+<p>The OHRPP is committed to safeguarding the rights, safety, and well-being
+of research participants. This is achieved through rigorous ethics reviews
+and comprehensive oversight of human research activities.</p>
 <p>The OHRPP is internationally accredited, reflecting NHG's dedication to
 maintaining high standards in research ethics and governance.</p>
 <h4><strong>Key Functions</strong></h4>
@@ -58,12 +58,6 @@ offering resources and information sessions.</p>
 </li>
 <li>
 <p>Research Quality Management (RQM)</p>
-</li>
-<li>
-<p>Research Administration Office (RAO)</p>
-</li>
-<li>
-<p>Translational Research Office (TRO)</p>
 </li>
 </ul>
 <p></p>
