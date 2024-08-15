@@ -4,3 +4,4 @@ permalink: /nhg-group-research-innovation/
 variant: tiptap
 description: ""
 ---
+<p></p>
