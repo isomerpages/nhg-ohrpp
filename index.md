@@ -11,7 +11,7 @@ sections:
       background: /images/hero-banner.png
       variant: center
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: Announcements
       id: resources
+      button: See more here
 ---
