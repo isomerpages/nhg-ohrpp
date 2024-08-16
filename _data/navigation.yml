@@ -2,6 +2,8 @@ logo: /images/OHRPP Logo/NHGlogo.jpg
 links:
   - title: About
     collection: about
+  - title: Announcements
+    resource_room: true
   - title: Public Awareness
     collection: public-awareness
   - title: Contact Us
