@@ -10,4 +10,8 @@ sections:
       title: NHG Office of Human Research Protection Programme
       background: /images/hero-banner.png
       variant: center
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
