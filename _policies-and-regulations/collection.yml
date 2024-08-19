@@ -1,4 +1,5 @@
 collections:
   policies-and-regulations:
     output: true
-    order: []
+    order:
+      - Personal Data Protection Act (PDPA).md
