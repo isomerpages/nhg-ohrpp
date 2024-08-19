@@ -4,7 +4,7 @@ permalink: /nhg-group-research-innovation/
 variant: tiptap
 description: ""
 ---
-<p>At NHG, we believe that <strong>Research </strong>and <strong>Innovation </strong>are
+<p>At the <strong>National Healthcare Group (NHG)</strong>, we believe that <strong>Research </strong>and <strong>Innovation </strong>are
 at the heart of <strong>advancing healthcare</strong>.</p>
 <p>Established in 2004, <strong>NHG Group Research &amp; Innovation (GRI)</strong> is
 dedicated to cultivating medical research and developing innovative medical
@@ -28,5 +28,5 @@ research and collaboration.</p>
 </li>
 </ul>
 <p></p>
-<p>Learn more about what we do here.</p>
-<p></p>
+<p>Learn more about the National Healthcare Group (NHG) here.</p>
+<p>Learn more about what NHG Group Research &amp; Innovation does here.</p>
