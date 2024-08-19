@@ -1,5 +1,5 @@
 collections:
-  ethics:
+  about-ethics:
     output: true
     order:
       - Research Ethics Framework.md
