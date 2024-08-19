@@ -2,6 +2,7 @@ collections:
   ethics:
     output: true
     order:
+      - Research Ethics Framework.md
       - Applying for Ethics Approval.md
       - Ethics Review Outcomes.md
       - DSRB FAQs.md
