@@ -2,4 +2,5 @@ collections:
   policies-and-regulations:
     output: true
     order:
+      - Revised Regulatory Framework for Clinical Trials.md
       - Personal Data Protection Act (PDPA).md
