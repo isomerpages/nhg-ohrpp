@@ -2,5 +2,6 @@ collections:
   conducting-research:
     output: true
     order:
+      - About Ethics Review/Research Ethics Framework.md
       - About Ethics Review/Ethics Review & Approval.md
       - About Ethics Review/.keep
