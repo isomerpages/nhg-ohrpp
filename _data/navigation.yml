@@ -4,6 +4,10 @@ links:
     collection: about
   - title: Announcements
     resource_room: true
+  - title: Research Ethics
+    collection: about-ethics
+  - title: Conducting Research
+    collection: conducting-research
   - title: Public Awareness
     collection: public-awareness
   - title: Contact Us
