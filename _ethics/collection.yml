@@ -2,4 +2,5 @@ collections:
   ethics:
     output: true
     order:
+      - Ethics Review Outcomes.md
       - DSRB FAQs.md
