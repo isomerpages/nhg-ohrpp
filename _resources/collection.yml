@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - Minimum Training Requirements/.keep
       - Who can be a Principal Investigator?.md
+      - Minimum Training Requirements/.keep
