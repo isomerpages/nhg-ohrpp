@@ -2,5 +2,6 @@ collections:
   ethics:
     output: true
     order:
+      - Applying for Ethics Approval.md
       - Ethics Review Outcomes.md
       - DSRB FAQs.md
