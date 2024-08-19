@@ -1,7 +1,7 @@
 logo: /images/OHRPP Logo/NHGlogo.jpg
 links:
-  - title: About
-    collection: about
+  - title: About Us
+    collection: about-us
   - title: Announcements
     resource_room: true
   - title: Research Ethics
