@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About Ethics Review/.keep
-      - Ethics Review & Approval.md
       - Research Ethics Framework.md
