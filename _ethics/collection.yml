@@ -1,4 +1,5 @@
 collections:
   ethics:
     output: true
-    order: []
+    order:
+      - DSRB FAQs.md
