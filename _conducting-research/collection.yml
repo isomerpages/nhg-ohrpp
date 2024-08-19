@@ -1,4 +1,5 @@
 collections:
   conducting-research:
     output: true
-    order: []
+    order:
+      - Research Ethics Framework.md
