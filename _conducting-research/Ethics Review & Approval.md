@@ -4,8 +4,6 @@ permalink: /ethics-review-approval/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Overview of the Ethics Review Process</strong></h4>
-<p></p>
 <p><strong>Application Process</strong>
 </p>
 <p>All research applications must be submitted to the DSRB via the ECOS.
