@@ -2,6 +2,7 @@ collections:
   conducting-research:
     output: true
     order:
+      - About Ethics Review/DSRB FAQs.md
       - About Ethics Review/.keep
       - About Ethics Review/Research Ethics Framework.md
       - About Ethics Review/Applying for Ethics Approval.md
