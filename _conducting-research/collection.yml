@@ -1,5 +1,4 @@
 collections:
   conducting-research:
     output: true
-    order:
-      - About Ethics Review/.keep
+    order: []
