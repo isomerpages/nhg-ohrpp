@@ -4,7 +4,7 @@ permalink: /research-quality/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Quality Assurance</strong></h4>
+<h4><strong>About the NHG Research Quality Management Programme </strong></h4>
 <p>The NHG Research Quality Management (RQM) Programme provides quality assurance
 activities to ensure that research protocols approved by the NHG Domain
 Specific Review Board (DSRB) are carried out ethically and in accordance
@@ -12,7 +12,7 @@ with all applicable regulations. This includes adherence to the Singapore
 Guideline for Good Clinical Practice (SGGCP) and NHG Proper Conduct of
 Research Standard Operating Procedures (SOPs).</p>
 <p></p>
-<h4><strong>Continuous Improvement</strong> </h4>
+<h4><strong>Continuous Improvement</strong></h4>
 <p>The RQM Programme also undertakes continuous improvement initiatives with
 the DSRB to maintain and enhance the quality and efficiency of research
 application reviews.</p>
