@@ -1,0 +1,4 @@
+collections:
+  quality:
+    output: true
+    order: []
