@@ -1,8 +1,0 @@
-collections:
-  top:
-    output: true
-    order:
-      - L1 Text.md
-      - 2nd Level.md
-      - 2nd Level Folder/.keep
-      - 2nd Level Folder/3rd Level.md
