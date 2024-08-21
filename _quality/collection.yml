@@ -1,4 +1,5 @@
 collections:
   quality:
     output: true
-    order: []
+    order:
+      - Quality Improvement.md
