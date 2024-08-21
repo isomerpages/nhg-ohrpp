@@ -2,5 +2,4 @@ collections:
   quality:
     output: true
     order:
-      - About Research Quality/Overview of Research Quality.md
       - About Research Quality/.keep
