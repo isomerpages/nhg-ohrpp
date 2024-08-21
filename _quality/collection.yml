@@ -2,5 +2,5 @@ collections:
   quality:
     output: true
     order:
-      - Study Reviews (Audits).md
       - Overview of Research Quality.md
+      - Study Reviews (Audits).md
