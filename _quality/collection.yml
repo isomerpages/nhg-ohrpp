@@ -2,7 +2,7 @@ collections:
   quality:
     output: true
     order:
-      - Overview of Research Quality.md
+      - Research Quality Management Programme.md
       - Study Reviews (Audits).md
       - Principal Investigator Self Assessment Programme.md
       - Research Monitoring.md
