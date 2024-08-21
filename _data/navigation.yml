@@ -1,9 +1,11 @@
 logo: /images/OHRPP Logo/NHGlogo.jpg
 links:
-  - title: About Us
+  - title: About
     collection: about-us
   - title: Ethics
     collection: ethics
+  - title: Quality
+    collection: quality
   - title: Conducting Research
     collection: conducting-research
   - title: Regulations
