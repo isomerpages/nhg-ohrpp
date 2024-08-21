@@ -1,4 +1,5 @@
 collections:
   quality:
     output: true
-    order: []
+    order:
+      - Overview of Research Quality.md
