@@ -10,17 +10,23 @@ to generalisable knowledge is considered research and will require NHG
 DSRB review and approval if it involves patients, staff, premises or facilities
 of NHG institutions and all other institutions under the oversight of NHG
 DSRB.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Click here to learn more about&nbsp;<strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/roam+intro" rel="noopener noreferrer nofollow" target="_blank"><u>using the ROAM System</u></a></strong> for
 submissions to the DSRB.</p>
+</li>
+<li>
 <p>Click here to find out&nbsp;<strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/7f0b6962-a62c-417e-99d5-0480a9e72948/Docs+required+for+DSRB+submission+v2.1_FINAL_301215.pdf?MOD=AJPERES&amp;CVID=ngbb8yU&amp;CVID=ngbb8yU" rel="noopener noreferrer nofollow" target="_blank"><u>what documents are required for the submission of an application</u></a></strong> via
 ROAM.</p>
+</li>
+</ul>
 <p>
 <br><strong>Why is Ethics-DSRB Approval Required?</strong>
 </p>
-<p>All research proposals that intend to enrol human subjects must meet certain
-criteria before study procedures can be initiated. The criteria are based
-on the principles of respect for persons, beneficence and justice as discussed
-in the Belmont Report.&nbsp;</p>
+<p>All research proposals that intend to enroll human subjects must meet
+certain criteria before study procedures can be initiated. The criteria
+are based on the principles of respect for persons, beneficence and justice
+as discussed in the Belmont Report.&nbsp;</p>
 <p>The Principal Investigator is strongly encouraged to submit their application
 well before the deadline for submission to allow some time for the DSRB
 to check for any missing documents for information. The DSRB relies solely
