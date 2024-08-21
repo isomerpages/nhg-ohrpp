@@ -2,4 +2,5 @@ collections:
   top:
     output: true
     order:
+      - 2nd Level Folder/.keep
       - 2nd Level.md
