@@ -4,7 +4,7 @@ permalink: /research-quality/
 variant: tiptap
 description: ""
 ---
-<h4><strong>About the NHG Research Quality Management Programme </strong></h4>
+<h4><strong>About the NHG Research Quality Management Programme</strong></h4>
 <p>The NHG Research Quality Management (RQM) Programme provides quality assurance
 activities to ensure that research protocols approved by the NHG Domain
 Specific Review Board (DSRB) are carried out ethically and in accordance
