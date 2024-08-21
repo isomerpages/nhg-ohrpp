@@ -1,5 +1,4 @@
 collections:
   quality:
     output: true
-    order:
-      - About Research Quality/.keep
+    order: []
