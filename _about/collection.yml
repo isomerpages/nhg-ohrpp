@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about:
     output: true
     order:
       - NHG Group Research & Innovation.md
