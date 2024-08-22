@@ -2,7 +2,7 @@ collections:
   conducting-research:
     output: true
     order:
-      - Data & Tissue Management/.keep
-      - DSRB Ethics Review/.keep
-      - Researcher Qualification/Who can be a Principal Investigator?.md
       - Researcher Qualification/.keep
+      - Researcher Qualification/Who can be a Principal Investigator?.md
+      - DSRB Ethics Review/.keep
+      - Data & Tissue Management/.keep
