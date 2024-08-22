@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Templates.md
       - Singapore Regulations/.keep
       - Singapore Regulations/Human Biomedical Research Act (HBRA).md
       - Singapore Regulations/Revised Regulatory Framework for Clinical Trials.md
