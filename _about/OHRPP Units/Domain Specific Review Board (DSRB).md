@@ -27,10 +27,19 @@ for its high standards in human subject protection.</p>
 based on broad but related disease groupings while Domain F focuses on
 Population Health.</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Content Images/DSRB_Domains_2Nov2012.jpg">
+</div>
+<p><strong><sup>NOTE: </sup></strong><sup>For Allied Health, Nursing &amp; Para-clinical research protocols, please select the most appropriate Domain according to the main disease type/condition being studied.</sup>
+</p>
 <p>Each Board is constituted in compliance with the Singapore Guideline for
 Good Clinical Practice. This arrangement ensures that more appropriate
 expertise can be concentrated within each Domain to assess the scientific
 and ethical merits of the protocols submitted for ethics review.</p>
+<p></p>
+<h4><strong>Contact information</strong></h4>
+<p><strong>NHG Domain Specific Review Board (DSRB)</strong>
+<br>Hotline: (65) 6471 3266
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">OHRPP@nhg.com.sg</a>
+<br>Download <a href="/files/Content Files/DSRB_Contact_List_12_June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">DSRB Secretariat Contact List</a> here.</p>
+<p></p>
