@@ -2,6 +2,7 @@ collections:
   conducting-research:
     output: true
     order:
+      - NHG Investigator Manual.md
       - Researcher Qualification/.keep
       - Researcher Qualification/Who can be a Principal Investigator?.md
       - Researcher Qualification/Minimum Training Requirements.md
