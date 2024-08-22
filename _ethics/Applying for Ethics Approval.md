@@ -4,8 +4,7 @@ permalink: /ethics-review-approval/
 variant: tiptap
 description: ""
 ---
-<p><strong>Application Process</strong>
-</p>
+<h4><strong>Application Process</strong></h4>
 <p>All research applications must be submitted to the DSRB via the ECOS.
 <br>
 <br>Once the Principal Investigator submits an application via ROAM, it will
@@ -17,8 +16,7 @@ the application only after both the DR and IR have endorsed it.
 to review their study. The DSRB may re-assign your application to another
 Domain upon preliminary review of your application.</p>
 <p>&nbsp;</p>
-<p><strong>Review Process</strong>
-</p>
+<h4><strong>Review Process</strong></h4>
 <p>Based on the level of risk in which research participants will be exposed
 to, all research studies submitted will be classified under one of the
 following review categories:
@@ -73,8 +71,7 @@ vary depending on factors such as the completeness of the application,
 complexity of the study, the response of the Investigator to DSRB's queries
 and availability of a meeting quorum.</p>
 <p>&nbsp;</p>
-<p><strong>Review Criteria</strong>
-</p>
+<h4><strong>Review Criteria</strong></h4>
 <p>All research studies that intend to involve human subjects, use their
 biological samples and/or data, must meet certain criteria before study
 procedures can be initiated. The criteria are based on the principles of
@@ -100,8 +97,7 @@ of privacy of research participants and confidentiality of data collected.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>For more information</strong>
-</p>
+<h4><strong>Learn more</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>See here for the specialties under each DSRB domain.</p>
