@@ -2,4 +2,5 @@ collections:
   resources:
     output: true
     order:
+      - Regulations/Human Biomedical Research Act (HBRA).md
       - Regulations/.keep
