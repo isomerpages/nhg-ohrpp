@@ -2,8 +2,8 @@ collections:
   conducting-research:
     output: true
     order:
-      - Researcher Qualification/Minimum Training Requirements.md
       - Researcher Qualification/.keep
       - Researcher Qualification/Who can be a Principal Investigator?.md
+      - Researcher Qualification/Minimum Training Requirements.md
       - DSRB Ethics Review/.keep
       - Data & Tissue Management/.keep
