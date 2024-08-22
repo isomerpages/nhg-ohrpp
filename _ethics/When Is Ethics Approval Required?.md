@@ -93,25 +93,20 @@ be expected to result.</p>
 <li>
 <p>Selection of subjects is equitable. In making this assessment, the DSRB
 will take into action account the following:</p>
-</li>
-</ul>
-<blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>The purpose of the research</em>
-</p>
+<p>The purpose of the research</p>
 </li>
 <li>
-<p><em>The setting in which the research will be conducted.</em>
-</p>
+<p>The setting in which the research will be conducted.</p>
 </li>
 <li>
-<p><em>Special problems of research involving vulnerable populations (i.e. children, prisoners, pregnant women, mentally disabled persons or economically or educationally disadvantaged persons.)</em>
-</p>
+<p>Special problems of research involving vulnerable populations (i.e. children,
+prisoners, pregnant women, mentally disabled persons or economically or
+educationally disadvantaged persons.)</p>
 </li>
 </ul>
-</blockquote>
-<ul>
+</li>
 <li>
 <p>Informed consent will be sought from each prospective subject or the subject’s
 legally acceptable representative, in accordance, and to the extent requirements
