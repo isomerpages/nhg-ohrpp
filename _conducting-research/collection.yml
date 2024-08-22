@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Data Collection & Storage.md
-      - NHG Investigator Manual.md
+      - NHG Investigator's Manual.md
       - Researcher Qualification/.keep
       - Researcher Qualification/Who can be a Principal Investigator?.md
       - Researcher Qualification/Minimum Training Requirements.md
