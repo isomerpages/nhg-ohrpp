@@ -6,9 +6,8 @@ description: ""
 ---
 <h4><strong>Research Ethics Framework</strong></h4>
 <p>All research involving patients, staff, premises, or facilities of NHG
-institutions and all other institutions under the oversight of NHG Domain
-Specific Review Board (DSRB) must be reviewed and approved by DSRB prior
-to initiation.</p>
+institutions and all other institutions under the oversight of NHG <strong>Domain Specific Review Board (DSRB)</strong> must
+be reviewed and approved by DSRB prior to initiation.</p>
 <p>All approved research projects must comply with DSRB requirements as outlined
 in the NHG DSRB Investigator Manual. The DSRB requirements are based on
 Declaration of Helsinki and the ethical principles in the Belmont Report.
