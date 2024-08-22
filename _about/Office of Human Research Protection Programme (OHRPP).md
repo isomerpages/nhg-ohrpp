@@ -4,21 +4,21 @@ permalink: /about-ohrpp/
 variant: tiptap
 description: ""
 ---
-<p>The <strong>Office of Human Research Protection Programme (OHRPP)</strong>,<strong> </strong>a
-unit of the NHG Group Research &amp; Innovation, ensures the ethical conduct
-of human research by overseeing ethics reviews, providing researcher education,
-and monitoring compliance with regulations.</p>
-<p>The OHRPP is dedicated to protecting the rights and safety of research
-participants, maintaining high standards through international accreditation.
-They also engage in public outreach to promote awareness and understanding
-of participant rights in research. This commitment supports the ethical
-and effective conduct of research within NHG.</p>
+<p>The <strong>Office of Human Research Protection Programme (OHRPP)</strong>,<strong> </strong>under
+the <strong>NHG Group Research &amp; Innovation (GRI)</strong>, is dedicated
+to safeguarding the rights, safety, and well-being of research participants,
+and maintaining high standards in research ethics and governance in NHG.</p>
+<p></p>
 <h4><strong>Ensuring Ethical Research Practices</strong></h4>
-<p>The OHRPP is committed to safeguarding the rights, safety, and well-being
-of research participants. This is achieved through rigorous ethics reviews
-and comprehensive oversight of human research activities.</p>
-<p>The OHRPP is internationally accredited, reflecting NHG's dedication to
-maintaining high standards in research ethics and governance.</p>
+<p>The OHRPP ensures the ethical conduct of human research activities through
+rigorous ethics reviews, comprehensive oversight of human research activities,
+continuous researcher education and maintaining high standards through
+international accreditation.</p>
+<p>In addition, OHRPP also engages in public outreach activities to promote
+awareness and understanding of participant rights in research.</p>
+<p>This reflects NHG's commitment to maintaining high standards in research
+ethics and governance to support the ethical and effective conduct of research.</p>
+<p></p>
 <h4><strong>Key Functions</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
