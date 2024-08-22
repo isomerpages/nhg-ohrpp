@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - NHG Group Research & Innovation.md
-      - NHG's Accredited Human Research Protection Program.md
       - Office of Human Research Protection Programme (OHRPP).md
       - OHRPP Units/.keep
       - OHRPP Units/Domain Specific Review Board (DSRB).md
