@@ -62,7 +62,9 @@ safety and well-being as a top priority. As an AAHRPP-accredited<strong>*</stron
 NHG adheres to the highest standards of research ethics and governance.
 This ensures that all research conducted under our umbrella is ethical,
 transparent, and trustworthy.
-<br><strong>*</strong>  <sub>Association for the Accreditation of Human Research Protection Program (AAHRPP)</sub>
+<br><strong>*</strong>  <sub>Association for the Accreditation of Human Research Protection Program (AAHRPP). </sub>
+<a href="/aahrpp-accreditation/" rel="noopener nofollow" target="_blank"><sub>Learn more here</sub>
+</a>
 </p>
 <p><strong>Developing Talent</strong>
 </p>
