@@ -25,10 +25,14 @@ towards building healthier and resilient communities, and Adding Years
 of Healthy Life to the people we serve.​</p>
 <p>Learn more about the <a href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx" rel="noopener nofollow" target="_blank">National Healthcare Group (NHG)</a> here.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Content Images/NHG_Insts_Logo.png">
+</div>
+<p></p>
 <h4><strong>NHG Group Research &amp; Innovation</strong></h4>
 <p>At NHG, we believe that <strong>Research </strong>and <strong>Innovation </strong>are
 at the heart of <strong>advancing healthcare</strong>.</p>
-<p>Established in 2004 as an NHG HQ Office, the <strong>NHG Group Research &amp; Innovation (GRI)</strong> is
+<p>Established in 2004 in NHG, the <strong>NHG Group Research &amp; Innovation (GRI)</strong> is
 dedicated to cultivating medical research and developing innovative medical
 technologies through collaborative partnerships with our academic partners
 and the MedTech industry.</p>
