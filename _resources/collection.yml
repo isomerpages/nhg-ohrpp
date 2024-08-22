@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - NHG Research Policies.md
-      - Regulations/.keep
-      - Regulations/Human Biomedical Research Act (HBRA).md
-      - Regulations/Revised Regulatory Framework for Clinical Trials.md
-      - Regulations/Personal Data Protection Act (PDPA).md
+      - Singapore Regulations/.keep
+      - Singapore Regulations/Human Biomedical Research Act (HBRA).md
+      - Singapore Regulations/Revised Regulatory Framework for Clinical Trials.md
+      - Singapore Regulations/Personal Data Protection Act (PDPA).md
