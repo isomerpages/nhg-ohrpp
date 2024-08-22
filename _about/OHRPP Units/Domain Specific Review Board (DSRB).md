@@ -35,7 +35,7 @@ based on broad but related disease groupings while Domain F focuses on
 Population Health.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Content Images/DSRB_Domains_2Nov2012.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Content Images/DSRB_Domains_2Nov2012.jpg">
 </div>
 <p><strong><sup>NOTE: </sup></strong><sup>For Allied Health, Nursing &amp; Para-clinical research protocols, please select the most appropriate Domain according to the main disease type/condition being studied.</sup>
 </p>
