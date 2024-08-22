@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Any study which involves systematic investigation, including research
 development, testing, and evaluation, and are designed to develop or contribute
-to generalisable knowledge is considered research and will require NHG
+to generalizable knowledge is considered research and will require NHG
 DSRB review and approval if it involves patients, staff, premises or facilities
 of NHG institutions and all other institutions under the oversight of NHG
 DSRB.</p>
@@ -20,9 +20,7 @@ submissions to the DSRB.</p>
 ROAM.</p>
 </li>
 </ul>
-<p>
-<br><strong>Why is Ethics-DSRB Approval Required?</strong>
-</p>
+<h4><br><strong>Why is DSRB Approval Required?</strong></h4>
 <p>All research proposals that intend to enroll human subjects must meet
 certain criteria before study procedures can be initiated. The criteria
 are based on the principles of respect for persons, beneficence and justice
@@ -31,9 +29,7 @@ as discussed in the Belmont Report.&nbsp;</p>
 well before the deadline for submission to allow some time for the DSRB
 to check for any missing documents for information. The DSRB relies solely
 on the documentation submitted by the Principal Investigator for review.</p>
-<p>
-<br><strong>How do I determine if my research requires Ethics-DSRB Approval?</strong>
-</p>
+<h4><br><strong>Which research activities requires DSRB Approval?</strong></h4>
 <p>Types of studies that may require DSRB Approval:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -74,8 +70,7 @@ proposal for a preliminary assessment. The Principal Investigator may submit
 an application for the DSRB to review. The DSRB will issue a notification
 to the Principal Investigator if the DSRB determines that the proposal
 does not require review/approval.</p>
-<p><strong>What are the criteria for approval?</strong>
-</p>
+<h4><strong>What are the criteria for DSRB Approval?</strong></h4>
 <p>The DSRB will consider the following elements of review which are also
 the minimum criteria for DSRB approval for new applications, study amendments
 and continuing review:</p>
