@@ -1,5 +1,4 @@
 collections:
   regulations:
     output: true
-    order:
-      - Human Biomedical Research Act (HBRA).md
+    order: []
