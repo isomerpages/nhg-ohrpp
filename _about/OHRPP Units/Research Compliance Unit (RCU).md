@@ -6,8 +6,8 @@ description: ""
 third_nav_title: OHRPP Units
 ---
 <h4><strong>Establishment &amp; Scope</strong></h4>
-<p>The NHG Research Compliance Unit (RCU) ensures NHG’s compliance with the
-Human Biomedical Research Act (HBRA).</p>
+<p>The <strong>NHG Research Compliance Unit (RCU)</strong> ensures NHG’s compliance
+with the Human Biomedical Research Act (HBRA).</p>
 <p></p>
 <p>The RCU oversees 5 key portfolios:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
