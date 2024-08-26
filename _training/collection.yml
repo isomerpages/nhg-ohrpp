@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Newsletters/Tissue Compliance Circular.md
       - Newsletters/.keep
       - Newsletters/OHRPP Post Its.md
       - Newsletters/Qualité.md
