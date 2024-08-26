@@ -2,6 +2,7 @@ collections:
   conducting-research:
     output: true
     order:
+      - Regulations/Personal Data Protection Act (PDPA).md
       - Regulations/Human Biomedical Research Act (HBRA).md
       - Regulations/NHG Research Policies.md
       - Regulations/.keep
