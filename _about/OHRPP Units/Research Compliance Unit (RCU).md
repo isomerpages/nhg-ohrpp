@@ -79,6 +79,13 @@ of research, which is the operative principle.</p>
 </details>
 </div>
 <p></p>
-<p>Contact information</p>
+<h4><strong>Contact information</strong></h4>
+<p>Secretariat for Research Data Oversight Committee (RDOC): <a href="mailto:RDOCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">RDOCSecretariat@nhg.com.sg</a>
+</p>
+<p>Secretariat for Tissue Compliance Committee (TCC): <a href="mailto:NHGTCCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGTCCSecretariat@nhg.com.sg</a>
+</p>
+<p>Secretariat for Responsible Conduct of Research (RCR): <a href="mailto:NHGRCRSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGRCRSecretariat@nhg.com.sg</a>
+</p>
+<p></p>
 <p></p>
 <p></p>
