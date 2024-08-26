@@ -43,6 +43,9 @@ the HBRA, the PDPA and HIM.</p>
 <summary><strong>Secretariat for Tissue Compliance Committee (TCC)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>The NHG Tissue Compliance Committee (TCC) was formed to advise on the
+set up, conduct and monitoring of institutional human tissue banks. The
+TCC comprises representatives from each NHG institution.</p>
 <p></p>
 </div>
 </details>
