@@ -59,9 +59,7 @@ TCC comprises representatives from each NHG institution.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Responsible Conduct of Research (RCR)</strong>
-</p>
-<p>The Responsible Conduct of Research (RCR) Unit aims to equip our researchers
+<p>The Responsible Conduct of Research (RCR) unit aims to equip our researchers
 with the knowledge of best practices in research to guide them in making
 the right decisions. This would be especially applicable in instances that
 challenge individual values and integrity.&nbsp;</p>
