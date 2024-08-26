@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Researcher Training.md
       - Newsletters/.keep
       - Newsletters/About.md
       - Newsletters/OHRPP Post Its.md
@@ -9,4 +10,3 @@ collections:
       - Newsletters/Chicken Soup for the Busy Coordinator.md
       - Newsletters/Tissue Compliance Circular.md
       - Newsletters/HBR Case Studies.md
-      - Researcher Training.md
