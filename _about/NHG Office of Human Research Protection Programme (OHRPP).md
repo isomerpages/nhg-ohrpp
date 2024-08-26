@@ -47,19 +47,23 @@ offering resources and information sessions.</p>
 <h4>&nbsp;<strong>Our OHRPP Units:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Domain Specific Review Board (DSRB)</p>
+<p><a href="/dsrb/" rel="noopener nofollow" target="_blank">Domain Specific Review Board (DSRB)</a>
+</p>
 </li>
 <li>
-<p>Partnership &amp; Outreach (P&amp;O)</p>
+<p><a href="/po/" rel="noopener nofollow" target="_blank">Partnership &amp; Outreach (P&amp;O)</a>
+</p>
 </li>
 <li>
 <p>Research Compliance Unit (RCU)</p>
 </li>
 <li>
-<p>Research Education (RE)</p>
+<p><a href="/re/" rel="noopener nofollow" target="_blank">Research Education (RE)</a>
+</p>
 </li>
 <li>
-<p>Research Quality Management (RQM)</p>
+<p><a href="/rqm/" rel="noopener nofollow" target="_blank">Research Quality Management (RQM)</a>
+</p>
 </li>
 </ul>
 <p></p>
