@@ -16,3 +16,5 @@ links:
     collection: public-awareness
   - title: Contact Us
     url: /contact-us/
+  - title: New resource room
+    resource_room: true
