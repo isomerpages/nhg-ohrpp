@@ -41,4 +41,10 @@ Framework, the Tissue Secretariat have initiated a publication series called
 in tissue banking activities.</p>
 <p>See the Tissue Compliance Circular here.</p>
 <p></p>
+<h4><strong>HBR Case Study Circular</strong></h4>
+<p>The HBR Case Study Circular shares good practices and negative examples
+using short case studies on a regular basis to help researchers understand
+the what-to’s and how-to’s of Human Biomedical Research Act (HBRA).</p>
+<p>See the HBR Case Study Circular here.</p>
+<p></p>
 <p></p>
