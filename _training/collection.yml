@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Newsletters/Chicken Soup for the Busy Coordinator.md
       - Newsletters/Qualité.md
       - Newsletters/OHRPP Post Its.md
       - Newsletters/.keep
