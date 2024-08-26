@@ -2,6 +2,7 @@ collections:
   conducting-research:
     output: true
     order:
+      - Regulations/Revised Regulatory Framework for Clinical Trials.md
       - Regulations/Personal Data Protection Act (PDPA).md
       - Regulations/Human Biomedical Research Act (HBRA).md
       - Regulations/NHG Research Policies.md
