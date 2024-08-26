@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p>The <strong>Office of Human Research Protection Programme (OHRPP)</strong>,<strong> </strong>under
-the <strong>NHG Group Research &amp; Innovation (GRI)</strong>, is dedicated
-to safeguarding the rights, safety, and well-being of research participants,
-and maintaining high standards in research ethics and governance in NHG.</p>
+the <strong>Group Research &amp; Innovation (GRI)</strong> in the <strong>National Healthcare Group (NHG)</strong>,
+is dedicated to safeguarding the rights, safety, and well-being of research
+participants, and maintaining high standards in research ethics and governance
+in NHG.</p>
 <p></p>
 <h4><strong>Ensuring Ethical Research Practices</strong></h4>
 <p>The OHRPP ensures the ethical conduct of human research activities through
@@ -60,4 +61,9 @@ offering resources and information sessions.</p>
 <p>Research Quality Management (RQM)</p>
 </li>
 </ul>
+<p></p>
+<h4><strong>Learn More</strong></h4>
+<p>About the <a href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx" rel="noopener nofollow" target="_blank">National Healthcare Group (NHG) here</a>.</p>
+<p>About the NHG Group Research &amp; Innovation here.</p>
+<p></p>
 <p></p>
