@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Regulations/.keep
-      - NHG Research Policies.md
       - Templates.md
       - NHG Investigator's Manual.md
       - Researcher Qualification/.keep
