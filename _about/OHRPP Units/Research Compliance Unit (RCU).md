@@ -15,6 +15,7 @@ Human Biomedical Research Act (HBRA).</p>
 <summary><strong>Secretariat for Research Institution (RI)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>The NHG Research Institution (RI) is responsible for ensuring that all
 human biomedical research conducted under its supervision and control is
 in compliance with the HBRA.</p>
@@ -43,6 +44,7 @@ the HBRA, the PDPA and HIM.</p>
 <summary><strong>Secretariat for Tissue Compliance Committee (TCC)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>The NHG Tissue Compliance Committee (TCC) was formed to advise on the
 set up, conduct and monitoring of institutional human tissue banks. The
 TCC comprises representatives from each NHG institution.</p>
