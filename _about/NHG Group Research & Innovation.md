@@ -10,16 +10,6 @@ healthcare in Singapore recognized for delivering high value patient care.
 Our clinical services are provided through an integrated system of primary
 care polyclinics, acute care tertiary hospitals, community hospitals, national
 specialty centres, and community-based ambulatory care centres.</p>
-<p>Together, we provide comprehensive, holistic, and innovative healthcare
-to address the needs of our patients and the population we serve. As a
-learning organization, we are establishing ourselves as an academic health
-system to drive clinical excellence, raise research intensity and grow
-our academic partnerships to continually improve the way we deliver care
-to our patients.</p>
-<p>As the Regional Health Manager for 1.5 million residents in Central and
-North Singapore, NHG collaborates with private general practices, public
-and community health and social care providers to keep residents well and
-healthy.</p>
 <p>With more than 20,000 healthcare professionals in NHG, we are committed
 towards building healthier and resilient communities, and Adding Years
 of Healthy Life to the people we serve.​</p>
@@ -54,36 +44,6 @@ research and collaboration.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>Key Areas of Focus</strong></h4>
-<p><strong>Upholding Research Integrity</strong>
-</p>
-<p>Research Participants can trust that our researchers will always put their
-safety and well-being as a top priority. As an AAHRPP-accredited<strong>*</strong> organization,
-NHG adheres to the highest standards of research ethics and governance.
-This ensures that all research conducted under our umbrella is ethical,
-transparent, and trustworthy.
-<br><strong>*</strong>  <sub>Association for the Accreditation of Human Research Protection Program (AAHRPP). </sub>
-<a href="/aahrpp-accreditation/" rel="noopener nofollow" target="_blank"><sub>Learn more here</sub>
-</a>
-</p>
-<p><strong>Developing Talent</strong>
-</p>
-<p>We invest in nurturing our clinicians and researchers through extensive
-training and development programs. Our goal is to cultivate a new generation
-of talented clinician-scientists who will lead future healthcare innovations.
-We also continually enhance our research infrastructure to support these
-endeavors.</p>
-<p><strong>Collaborations &amp; Partnerships</strong>
-</p>
-<p>NHG is committed to building strong partnerships with academic institutions,
-industry leaders, and government agencies. By working together, we accelerate
-the discovery and implementation of innovative solutions to address pressing
-healthcare challenges, ultimately improving patient care.</p>
+<p>Learn more about NHG Group Research &amp; Innovation here.</p>
+<h4></h4>
 <p></p>
-<h4><strong>Get Involved</strong></h4>
-<p>Whether you're a researcher, a healthcare company, or a member of the
-public, we invite you to join us in our mission to advance healthcare.</p>
-<p>Together, we can make a difference in the lives of patients and add Years
-of Healthy Life to the people we serve</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
