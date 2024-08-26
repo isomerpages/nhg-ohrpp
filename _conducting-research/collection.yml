@@ -9,9 +9,10 @@ collections:
       - Researcher Qualification/Minimum Training Requirements.md
       - Data Collection & Storage.md
       - Data & Tissue Management/.keep
-      - Regulations/.keep
-      - Regulations/Revised Regulatory Framework for Clinical Trials.md
-      - Regulations/Personal Data Protection Act (PDPA).md
-      - Regulations/Human Biomedical Research Act (HBRA).md
-      - Regulations/NHG Research Policies.md
+      - Regulations & Policies/.keep
+      - Regulations & Policies/Revised Regulatory Framework for Clinical
+        Trials.md
+      - Regulations & Policies/Personal Data Protection Act (PDPA).md
+      - Regulations & Policies/Human Biomedical Research Act (HBRA).md
+      - Regulations & Policies/NHG Research Policies.md
       - Templates.md
