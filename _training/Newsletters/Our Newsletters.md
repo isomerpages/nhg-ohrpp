@@ -5,10 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Newsletters
 ---
-<p>The NHG OHRPP regularly publishes several newsletters and circulars to
-educate and inform the NHG research community and to foster a research
-culture grounded in high ethical standards, responsible conduct of research
-and continuous education.</p>
+<h4><strong>About our Newsletters &amp; Circulars</strong></h4>
+<p>The NHG OHRPP and her units regularly publishes several newsletters and
+circulars to educate and inform the NHG research community and to foster
+a research culture grounded in high ethical standards, responsible conduct
+of research and continuous education.</p>
 <p></p>
 <h4><strong>OHRPP Post-Its</strong></h4>
 <p>OHRPP Post-Its is a quarterly newsletter to provide the research community
