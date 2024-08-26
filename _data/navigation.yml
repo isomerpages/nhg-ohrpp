@@ -10,9 +10,9 @@ links:
     collection: training
   - title: Conducting Research
     collection: conducting-research
+  - title: Resources
+    resource_room: true
   - title: Public Awareness
     collection: public-awareness
   - title: Contact Us
     url: /contact-us/
-  - title: New resource room
-    resource_room: true
