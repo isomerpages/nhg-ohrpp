@@ -5,19 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Our Newsletters
 ---
-<p>The NHG OHRPP &amp; her units regularly publish a range of newsletters
-that are intended to educate and inform the NHG research community, and
-to foster a research culture grounded in high ethical standards.</p>
-<p></p>
-<h4><strong>Catalyst</strong></h4>
-<p>Published by NHG Group Research &amp; Innovation (GRI), the Catalyst focuses
-on frontline research issues and targets the research community as its
-core readership. Catalyst has evolved from a hardcopy magazine to an online
-research newsletter e-Catalyst since Feb/Mar 2015.</p>
-<p>Each issue, published quarterly, is carefully planned for, with the articles
-strategically selected and finally put together for your reading pleasure.</p>
-<p>See the Catalyst here.</p>
-<p></p>
 <h4><strong>OHRPP Post-Its</strong></h4>
 <p>OHRPP Post-Its is a quarterly newsletter published by the NHG Office of
 Human Research Protection Programme (OHRPP). It serves to provide the research
