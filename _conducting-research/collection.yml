@@ -2,16 +2,16 @@ collections:
   conducting-research:
     output: true
     order:
+      - NHG Investigator's Manual.md
+      - DSRB Ethics Review Guide/.keep
+      - Researcher Qualification/.keep
+      - Researcher Qualification/Who can be a Principal Investigator?.md
+      - Researcher Qualification/Minimum Training Requirements.md
+      - Data Collection & Storage.md
+      - Data & Tissue Management/.keep
+      - Regulations/.keep
       - Regulations/Revised Regulatory Framework for Clinical Trials.md
       - Regulations/Personal Data Protection Act (PDPA).md
       - Regulations/Human Biomedical Research Act (HBRA).md
       - Regulations/NHG Research Policies.md
-      - Regulations/.keep
       - Templates.md
-      - NHG Investigator's Manual.md
-      - Researcher Qualification/.keep
-      - Researcher Qualification/Who can be a Principal Investigator?.md
-      - Researcher Qualification/Minimum Training Requirements.md
-      - DSRB Ethics Review Guide/.keep
-      - Data & Tissue Management/.keep
-      - Data Collection & Storage.md
