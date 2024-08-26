@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Singapore Regulations/.keep
-      - Singapore Regulations/Human Biomedical Research Act (HBRA).md
       - Singapore Regulations/Revised Regulatory Framework for Clinical Trials.md
       - Singapore Regulations/Personal Data Protection Act (PDPA).md
