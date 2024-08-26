@@ -2,5 +2,6 @@ collections:
   training:
     output: true
     order:
+      - Our Newsletters/Our Newsletters.md
       - Our Newsletters/.keep
       - Researcher Training.md
