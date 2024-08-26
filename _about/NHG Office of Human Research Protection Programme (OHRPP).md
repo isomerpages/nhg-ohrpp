@@ -4,13 +4,14 @@ permalink: /about-ohrpp/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Establishment</strong></h4>
 <p>The <strong>Office of Human Research Protection Programme (OHRPP)</strong>,<strong> </strong>under
 the <strong>Group Research &amp; Innovation (GRI)</strong> in the <strong>National Healthcare Group (NHG)</strong>,
 is dedicated to safeguarding the rights, safety, and well-being of research
 participants, and maintaining high standards in research ethics and governance
 in NHG.</p>
 <p></p>
-<h4><strong>Ensuring Ethical Research Practices</strong></h4>
+<h4><strong>Scope</strong></h4>
 <p>The OHRPP ensures the ethical conduct of human research activities through
 rigorous ethics reviews, comprehensive oversight of human research activities,
 continuous researcher education and maintaining high standards through
