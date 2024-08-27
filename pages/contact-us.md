@@ -8,9 +8,9 @@ contacts:
       - phone: ""
       - email: ""
       - other: <p>If you have a query, feedback or wish to report a problem related to
-          this website, please fill in <a target="_blank"
-          href="https://form.gov.sg/66cd3291616f19d49e231c48"><strong><u>this
-          online Form here</u></strong></a>.</p>
+          this website, please fill in <a
+          href="https://form.gov.sg/66cd26438e875a1eec4ac1c2"><u><strong>this
+          online Form here</strong></u></a>.&nbsp;</p>
     title: For Enquires & Feedback
 feedback: https://form.gov.sg/66cd26438e875a1eec4ac1c2
 ---
