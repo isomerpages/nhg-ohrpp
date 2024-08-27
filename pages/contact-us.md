@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: NHG Office of Human Research Protection Programme
+agency_name: NHG Office of Human Research Protection Programme (OHRPP)
 contacts:
   - content:
       - phone: +65 6471 3266
