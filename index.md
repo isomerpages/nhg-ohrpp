@@ -7,7 +7,7 @@ permalink: /
 notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
   - hero:
-      title: NHG Office of Human Research Protection Programme
+      title: NHG Office of Human Research Protection Programme (OHRPP)
       background: /images/hero-banner.png
       variant: center
   - resources:
