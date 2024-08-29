@@ -15,7 +15,7 @@ colors:
       color: "#148582"
     - title: media-color-five
       color: "#324b4a"
-description: An Isomer site of the Singapore Government
+description: A National Healthcare Group (NHG) site built with Isomer
 permalink: none
 baseurl: ""
 exclude:
