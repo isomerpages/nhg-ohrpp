@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Newsletters
 ---
-<h4><strong>About our Newsletters &amp; Circulars</strong></h4>
+<h4><strong>About our Publications</strong></h4>
 <p>The NHG OHRPP and her units regularly publishes several newsletters and
 circulars to educate and inform the NHG research community and to foster
 a research culture grounded in high ethical standards, responsible conduct
