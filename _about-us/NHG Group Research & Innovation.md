@@ -93,7 +93,7 @@ conduct of research within NHG.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Research Admin Office (RAO)</summary>
+<summary>Research Administration Office (RAO)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Research Administration Office (RAO) supports all offices and units
 under GRI as the key liaison for research finance matters. In addition,
