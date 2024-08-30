@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Researcher Training.md
-      - Newsletters/.keep
-      - Newsletters/About.md
-      - Newsletters/OHRPP Post Its.md
-      - Newsletters/Qualité.md
-      - Newsletters/Chicken Soup for the Busy Coordinator.md
-      - Newsletters/Tissue Compliance Circular.md
-      - Newsletters/HBR Case Studies.md
+      - Publications/.keep
+      - Publications/About.md
+      - Publications/OHRPP Post Its.md
+      - Publications/Qualité.md
+      - Publications/Chicken Soup for the Busy Coordinator.md
+      - Publications/Tissue Compliance Circular.md
+      - Publications/HBR Case Studies.md
