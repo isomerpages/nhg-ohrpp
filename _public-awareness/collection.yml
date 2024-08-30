@@ -2,8 +2,8 @@ collections:
   public-awareness:
     output: true
     order:
-      - Your Rights as a Research Participant.md
       - Participating in Research.md
+      - Your Rights as a Research Participant.md
       - Frequently Asked Questions.md
       - Participation Opportunities.md
       - Useful Information.md
