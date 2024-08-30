@@ -2,6 +2,7 @@ collections:
   public-awareness:
     output: true
     order:
+      - Participating in Research.md
       - Frequently Asked Questions.md
       - Participation Opportunities.md
       - Useful Information.md
