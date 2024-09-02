@@ -2,7 +2,6 @@ collections:
   training:
     output: true
     order:
-      - Other Training Courses & Seminars.md
       - Registration Information/.keep
       - Registration Information/Course Fee Categories.md
       - Registration Information/Registration FAQs.md
@@ -12,6 +11,7 @@ collections:
       - Proper Conduct of Research/PCR 002 Module.md
       - Proper Conduct of Research/PCR 003 Module.md
       - Proper Conduct of Research/PCR 400 Module.md
+      - Other Training Courses & Seminars.md
       - Publications/.keep
       - Publications/About our Publications.md
       - Publications/OHRPP Post Its.md
