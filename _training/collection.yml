@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Proper Conduct of Research/Proper Conduct of Research Courses.md
       - Proper Conduct of Research/.keep
       - Registration Information/Course Fee Categories.md
       - Registration Information/Registration FAQs.md
