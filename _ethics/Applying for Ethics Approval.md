@@ -15,7 +15,10 @@ the application only after both the DR and IR have endorsed it.
 <br>The Principal Investigator should select the most appropriate DSRB domain
 to review their study. The DSRB may re-assign your application to another
 Domain upon preliminary review of your application.</p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/About Us/OHRPP Units/DSRB_Domains_2Nov2012.jpg">
+</div>
 <h4><strong>Review Process</strong></h4>
 <p>Based on the level of risk in which research participants will be exposed
 to, all research studies submitted will be classified under one of the
@@ -70,7 +73,6 @@ calendar days. However, the time frame from submission to approval will
 vary depending on factors such as the completeness of the application,
 complexity of the study, the response of the Investigator to DSRB's queries
 and availability of a meeting quorum.</p>
-<p>&nbsp;</p>
 <h4><strong>Review Criteria</strong></h4>
 <p>All research studies that intend to involve human subjects, use their
 biological samples and/or data, must meet certain criteria before study
@@ -80,7 +82,7 @@ autonomy, beneficence and justice as discussed in the Belmont Report.
 <br>In general, a research study must fulfill the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Risks are minimized, and are reasonable in relation to anticipated benefits.</p>
+<p>Risks are minimized and are reasonable in relation to anticipated benefits.</p>
 </li>
 <li>
 <p>Selection of subjects is equitable.</p>
@@ -96,18 +98,5 @@ of privacy of research participants and confidentiality of data collected.</p>
 <p>Additional protection for vulnerable populations.</p>
 </li>
 </ul>
-<p></p>
-<h4><strong>Learn more</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>See here for the specialties under each DSRB domain.</p>
-</li>
-<li>
-<p>See here for more information abotu ECOS.</p>
-</li>
-<li>
-<p>For more information on the types of research studies that fall under
-each review category, please click HERE (Page 43).</p>
-</li>
-</ul>
+<h4></h4>
 <p></p>
