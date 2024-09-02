@@ -62,23 +62,6 @@ fee of $15 (before GST).</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Would there be any Continuing Professional Educations points awarded for the courses that I attend?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Relevant training courses conducted by the NHG Group Research &amp; Innovation
-will be submitted to the Singapore Medical Council (SMC), Singapore Nursing
-Board (SNB) and Singapore Pharmacy Council (SPC) for CME / CNE / CPE points
-respectively. All applications for CME / CNE / CPE points are subjected
-to approval by the respective councils.</p>
-<p>All attendees are required to submit their professional registration number
-(e.g. MCR) via the registration portal in order for us to apply for CPE
-points.</p>
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>My colleagues and I are interested in an event. Can we register as a group? Will we be eligible for a group discount?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -138,16 +121,11 @@ Programme.</p>
 <summary><strong>I have registered for the event but did not receive any confirmation. What should I do?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>For Proper Conduct of Research courses:</strong>
-</p>
+<p></p>
 <p>Please email <a href="mailto:research_courseadmin@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">research_courseadmin@nhg.com.sg</a> with
 your name, contact number, institution and the full title of the event
 that you had registered for.</p>
-<p><strong>For all other training courses:</strong>
-</p>
-<p>Please email <a href="mailto:researchtraining@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">researchtraining@nhg.com.sg</a> with
-your name, contact number, institution and the full title of the event
-that you had registered for.</p>
+<p></p>
 <p></p>
 </div>
 </details>
