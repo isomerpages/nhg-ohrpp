@@ -58,14 +58,12 @@ on the documentation submitted by the Principal Investigator for review.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>*QA/AI Activity Checklist</strong>
-<br>The QA/QI Activity Checklist may be used to determine if a QA / QI study
-requires DSRB review. Where the response to&nbsp;all&nbsp;questions&nbsp;in&nbsp;the
-checklist is “No”, and where there is no intention to share the information
-with others (i.e. contributing to generalizable knowledge) at the onset
-of the study, the QA / QI study will not be subject to DSRB review. Download
-the QA/QI Activity Checklist here.</p>
-<p>&nbsp;</p>
+<p><strong>*QA/AI Activity Checklist: </strong>The QA/QI Activity Checklist
+may be used to determine if a QA / QI study requires DSRB review. Where
+the response to&nbsp;all&nbsp;questions&nbsp;in&nbsp;the checklist is “No”,
+and where there is no intention to share the information with others (i.e.
+contributing to generalizable knowledge) at the onset of the study, the
+QA / QI study will not be subject to DSRB review. Download the <a href="/files/Ethics/QA_QI_Checklist_30_June_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">QA/QI Activity Checklist here</a>.</p>
 <p>When in doubt whether an activity requires DSRB review and approval, the
 Principal Investigator may contact the DSRB and provide a summary of the
 proposal for a preliminary assessment. The Principal Investigator may submit
@@ -78,7 +76,7 @@ the minimum criteria for DSRB approval for new applications, study amendments
 and continuing review:</p>
 <ul>
 <li>
-<p>Risks to subjects are minimised by using procedures which are consistent
+<p>Risks to subjects are minimized by using procedures which are consistent
 with sound research design, do not unnecessarily expose subjects to risks,
 and when appropriate already being performed for diagnostic or treatment
 purpose.</p>
@@ -135,6 +133,4 @@ safeguards have been included in the study to protect the rights and welfare
 of these subjects.</p>
 </li>
 </ul>
-<p>
-<br>To understand which category of review your study falls under, please
-see the page "<strong><em><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/02+ethics+and+quality/apply+ethics+approval/understand+ethics+review+processs" rel="noopener noreferrer nofollow" target="_blank"><u>Understand&nbsp;the&nbsp;Ethics&nbsp;Review&nbsp;Process&nbsp;-&nbsp;Review&nbsp;Process</u></a></em></strong>".</p>
+<p></p>
