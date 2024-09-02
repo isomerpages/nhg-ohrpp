@@ -251,14 +251,29 @@ Study</p>
 <p></p>
 <p></p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2016</summary>
+<summary>CRCS-CRP Forum (9 Dec 2016)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Risk-based monitoring: After Years of talking about it, where are we now?</p>
+</li>
+<li>
+<p>Human Biomedical Research Act: Scope and Regulatory Framework</p>
+<p></p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
