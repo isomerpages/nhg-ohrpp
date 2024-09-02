@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Other Training Courses & Seminars.md
       - Registration Information/.keep
       - Registration Information/Course Fee Categories.md
       - Registration Information/Registration FAQs.md
