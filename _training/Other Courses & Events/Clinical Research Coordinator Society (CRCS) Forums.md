@@ -136,7 +136,7 @@ Innovation</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Looking back at 2018
+<p><strong><a href="/files/Training Files/CRCS Forum 2018/Looking_back_at_2018_7_Dec_2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Looking back at 2018 </a></strong>
 <br>Ms Sumitra Sachidanandan
 <br>Regulatory Consultants - GCP Unit, Innovation Office &amp; Clinical Trials
 Branch, Medicinal Products Pre-market Cluster, Health Products Regulation
@@ -146,7 +146,7 @@ Group, HSA</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Post Activation of Human Biomedical Research Act: Compliance and Risks
+<p><strong><a href="/files/Training Files/CRCS Forum 2018/Post_Activation_of_Human_Biomedical_Research_Act_7_Dec_2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Post Activation of Human Biomedical Research Act: Compliance and Risks </a></strong>
 <br>Dr Yeo Jing Ping
 <br>Director, Office of Research Integrity, Compliance and Ethics, SingHealth</p>
 </li>
@@ -154,7 +154,7 @@ Group, HSA</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Monitoring Programme for Human Biomedical Research Studies
+<p><strong><a href="/files/Training Files/CRCS Forum 2018/Monitoring_Programme_for_Human_Biomedical_Research_Studies_7_Dec_2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Monitoring Programme for Human Biomedical Research Studies </a></strong>
 <br>Ms Jaslin Tan Shen Fong
 <br>Senior Executive, Research Quality Management Unit, Research &amp; Development
 Office, National Healthcare Group (NHG)</p>
@@ -169,8 +169,7 @@ Office, National Healthcare Group (NHG)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>CRCs/CRPs and CIS: Developing Sound Communication and Interpersonal Skills
-(CIS) Is Essential for Success
+<p><strong><a href="/files/Training Files/CRCS Forum 2018/Developing_Sound_Communication_And_Interpersonal_Skills_14_Sep_2018.pdf" rel="noopener noreferrer nofollow" target="_blank">CRCs/CRPs and CIS: Developing Sound Communication and Interpersonal Skills (CIS) Is Essential for Success </a></strong>
 <br>Dr Aamir Shaikh, MD, DPBM
 <br>Founder, Health Care Consultant, Assansa</p>
 </li>
@@ -178,7 +177,7 @@ Office, National Healthcare Group (NHG)</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Conflict Management / Problem Solving
+<p><strong><a href="/files/Training Files/CRCS Forum 2018/Conflict_Management_14_Sep_2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Conflict Management / Problem Solving </a></strong>
 <br>Mr Nelson Wong
 <br>Founder &amp; Director, CSI Medical Research</p>
 </li>
@@ -186,8 +185,8 @@ Office, National Healthcare Group (NHG)</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Why Service Excellence Matters and How to EXC3ITE (Execute) It? Mr Chan
-Peng, Tech Observer Asia Pacific</p>
+<p><strong><a href="/files/Training Files/CRCS Forum 2018/Why_Service_Excellence_Matters_14_Sep_2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Why Service Excellence Matters and How to EXC3ITE (Execute) It?</a></strong> 
+<br>Mr Chan Peng, Tech Observer Asia Pacific</p>
 <p></p>
 </li>
 </ul>
@@ -202,15 +201,14 @@ Peng, Tech Observer Asia Pacific</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Implications for Investigator Initiated Trials - Risk Based Approaches
-in Managing Clinical Trials
+<p><strong><a href="/files/Training Files/CRCS Forum 2017/Implications_for_Investigator_Initiated_Trials_1_Dec_2017.pdf" rel="noopener noreferrer nofollow" target="_blank">Implications for Investigator Initiated Trials - Risk Based Approaches in Managing Clinical Trials </a></strong>
 <br>Ms. Lisa Marie Saldanha, IQVIA</p>
 </li>
 </ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Looking Back at the Changes in Clinical Trials and CRM Regulations
+<p><strong>Looking Back at the Changes in Clinical Trials and CRM Regulations</strong> 
 <br>The presentation shared by HSA can be accessed <a href="http://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Clinical_Trials/Industry_Communication.html" rel="noopener nofollow" target="_blank">accessed here</a>.</p>
 <p></p>
 </li>
@@ -223,20 +221,20 @@ in Managing Clinical Trials
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Issue Management / Quality Risk Management Implications with ICH GCP E6
-(R2) and ISO 31000 and Implementation within Quality System</p>
+<p><strong><a href="/files/Training Files/CRCS Forum 2017/Issue_Management_and_Quality_Risk_Management_Implications.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue Management / Quality Risk Management Implications with ICH GCP E6 (R2) and ISO 31000 and Implementation within Quality System</a></strong>
+</p>
 </li>
 <li>
-<p>Data integrity in Clinical Research - Expectations and Considerations
-for Quality Control and Assurance</p>
+<p><strong><a href="/files/Training Files/CRCS Forum 2017/Data_integrity_in_Clinical_Research.pdf" rel="noopener noreferrer nofollow" target="_blank">Data integrity in Clinical Research - Expectations and Considerations for Quality Control and Assurance</a></strong>
+</p>
 </li>
 <li>
-<p>Identification of Critical Data and Processes in Clinical Trial and Incorporation
-of Risk Mitigation into Protocol</p>
+<p><strong><a href="/files/Training Files/CRCS Forum 2017/Identification_of_Critical_Data_and_Processes_in_Clinical_Trial.pdf" rel="noopener noreferrer nofollow" target="_blank">Identification of Critical Data and Processes in Clinical Trial and Incorporation of Risk Mitigation into Protocol</a></strong>
+</p>
 </li>
 <li>
-<p>Ensuring GCP Compliance in Investigator Initiated Trials (IITs) - A Case
-Study</p>
+<p><strong><a href="/files/Training Files/CRCS Forum 2017/Ensuring_GCP_Compliance_in_Investigator_Initiated_Trials.pdf" rel="noopener noreferrer nofollow" target="_blank">Ensuring GCP Compliance in Investigator Initiated Trials (IITs) - A Case Study</a></strong>
+</p>
 <p></p>
 </li>
 </ul>
@@ -251,7 +249,8 @@ Study</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Risk-based monitoring: After Years of talking about it, where are we now?</p>
+<p><strong><a href="/files/Training Files/CRCS Forum 2016/Risk_based_monitoring_9_Dec_2016.pdf" rel="noopener noreferrer nofollow" target="_blank">Risk-based monitoring: After Years of talking about it, where are we now?</a></strong>
+</p>
 </li>
 <li>
 <p>Human Biomedical Research Act: Scope and Regulatory Framework</p>
