@@ -115,14 +115,15 @@ Innovation</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.hsa.gov.sg/docs/default-source/hprg-io-ctb/looking-back-at-2019-(crcs_3dec2019).pdf?sfvrsn=a19a028c_2)" rel="noopener noreferrer nofollow" target="_blank"><u>Looking back at 2019</u></a></strong>
-<br>Ms. Sumitra Sachidanandan
-<br>Regulatory Consultant – GCP Unit, Innovation Office &amp; Clinical Trials
-Branch, Medicinal Products Pre-market Cluster, Health Products Regulation
-Group, Health Sciences Authority</p>
+<br>Ms. Sumitra Sachidanandan, Regulatory Consultant – GCP Unit
+<br>Innovation Office &amp; Clinical Trials Branch,
+<br>Medicinal Products Pre-market Cluster,
+<br>Health Products Regulation Group,
+<br>Health Sciences Authority</p>
+<p></p>
 </li>
 <li>
-<p>
-<br><strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/7dfb242b-df5c-4e7e-86ed-4e345806a1ed/CRC+forum+2019+Consent+requirements.pdf?MOD=AJPERES&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb" rel="noopener noreferrer nofollow" target="_blank"><u>Requirement of Appropriate Consent for Conduct of Human Biomedical Research and Handling of Human Tissue</u></a></strong>
+<p><strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/7dfb242b-df5c-4e7e-86ed-4e345806a1ed/CRC+forum+2019+Consent+requirements.pdf?MOD=AJPERES&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb" rel="noopener noreferrer nofollow" target="_blank"><u>Requirement of Appropriate Consent for Conduct of Human Biomedical Research and Handling of Human Tissue</u></a></strong>
 <br>Dr. May Thu MA
 <br>Senior Manager, Biomedical Research Regulation Branch, Regulatory Compliance
 &amp; Enforcement Division, Health Regulation Group, Ministry of Health</p>
