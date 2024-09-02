@@ -11,20 +11,15 @@ Procedures, known as the PCR-SOPs, are a set of guidelines developed by
 the NHG Group Research &amp; Innovation&nbsp;to provide detailed procedures
 on conducting research in accordance with applicable guidelines and regulations.
 <br>
-<br>The <strong>Proper Conduct of Research (PCR) courses</strong> seek to equip
+<br>The <strong>Proper Conduct of Research (PCR) Course</strong> seeks to equip
 Clinical Research professionals with the knowledge and skills in the proper
 conduct of research.
 <br>
-<br>The entire series of PCR Courses comprises 4 main modules, with multiple
-topics covered under each module. Participants are encouraged to sign up
-for all 4 modules to obtain a holistic appreciation of all the aspects
-of PCR. There are no pre-requisites to be fulfilled for taking each PCR
-Modules.</p>
-<h4><strong>Who Should Attend</strong></h4>
-<p>This course is intended for Investigators, Researchers, Clinical Research
-Coordinators, Research Assistants and anyone who is carrying out research
-activities in NHG.</p>
-<h4><strong>Course features</strong></h4>
+<br>The entire PCR Course comprises 4 main modules, with multiple topics covered
+under each module. Participants are encouraged to sign up for all 4 modules
+to obtain a holistic appreciation of all the aspects of PCR. There are
+no pre-requisites to be fulfilled for taking each PCR Modules.</p>
+<h4><strong>Course Features</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Contents updated with the latest regulatory controls, guidelines and SOPs</p>
@@ -40,7 +35,10 @@ activities in NHG.</p>
 knowledge application</p>
 </li>
 </ul>
-<h4><strong>Courses Offered</strong></h4>
+<h4><strong>Who Should Attend</strong></h4>
+<p>This course is intended for Investigators, Researchers, Clinical Research
+Coordinators and Research Assistants.</p>
+<h4><strong>Course Modules</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>PCR-001: Subject Recruitment and Informed Consent</strong>
@@ -61,7 +59,7 @@ with PCR-001 (new course content).</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>PCR-002: Study Start-Up, Data Management, Investigational Product &amp; Safety Reporting </strong>
+<summary><strong>PCR-002: Study Start-Up, Data Management, Investigational Product &amp; Safety Reporting</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In this online module, Participants will gain knowledge and principles
