@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Other Courses & Events/.keep
       - Registration Information/.keep
       - Registration Information/Course Fee Categories.md
       - Registration Information/Registration FAQs.md
