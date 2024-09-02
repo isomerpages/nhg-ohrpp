@@ -2,11 +2,11 @@ collections:
   training:
     output: true
     order:
-      - Proper Conduct of Research/PCR Course Synopsis.md
-      - Proper Conduct of Research/.keep
+      - Registration Information/.keep
       - Registration Information/Course Fee Categories.md
       - Registration Information/Registration FAQs.md
-      - Registration Information/.keep
+      - Proper Conduct of Research/.keep
+      - Proper Conduct of Research/PCR Course Synopsis.md
       - Publications/.keep
       - Publications/About our Publications.md
       - Publications/OHRPP Post Its.md
