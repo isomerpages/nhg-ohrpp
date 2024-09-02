@@ -200,11 +200,51 @@ Peng, Tech Observer Asia Pacific</p>
 </details>
 </div>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2017</summary>
+<summary><strong>CRCS-CRP Forum (1 Dec 2017)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Implications for Investigator Initiated Trials - Risk Based Approaches
+in Managing Clinical Trials
+<br>Ms. Lisa Marie Saldanha, IQVIA</p>
+</li>
+</ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Looking Back at the Changes in Clinical Trials and CRM Regulations
+<br>The presentation shared by HSA can be accessed <a href="http://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Clinical_Trials/Industry_Communication.html" rel="noopener nofollow" target="_blank">accessed here</a>.</p>
+<p></p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>CRCS-CRP Forum (25 Aug 2017)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Issue Management / Quality Risk Management Implications with ICH GCP E6
+(R2) and ISO 31000 and Implementation within Quality System</p>
+</li>
+<li>
+<p>Data integrity in Clinical Research - Expectations and Considerations
+for Quality Control and Assurance</p>
+</li>
+<li>
+<p>Identification of Critical Data and Processes in Clinical Trial and Incorporation
+of Risk Mitigation into Protocol</p>
+</li>
+<li>
+<p>Ensuring GCP Compliance in Investigator Initiated Trials (IITs) - A Case
+Study</p>
+<p></p>
+</li>
+</ul>
 </div>
 </details>
 </div>
