@@ -38,7 +38,8 @@ knowledge application</p>
 <h4><strong>Who Should Attend</strong></h4>
 <p>This course is intended for Investigators, Researchers, Clinical Research
 Coordinators and Research Assistants.</p>
-<h4><strong>Course Modules</strong></h4>
+<h4><strong>PCR Modules</strong></h4>
+<p>See the synopsis for each PCR Module below:</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>PCR-001: Subject Recruitment and Informed Consent</strong>
