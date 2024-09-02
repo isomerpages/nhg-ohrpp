@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Clinical Research Coordinator Society (CRCS) Forums.md
       - Researcher Training.md
       - General Registration Info/.keep
       - General Registration Info/Course Fee Categories.md
