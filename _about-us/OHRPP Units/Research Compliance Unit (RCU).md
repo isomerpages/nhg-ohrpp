@@ -7,9 +7,7 @@ third_nav_title: OHRPP Units
 ---
 <h4><strong>Establishment &amp; Scope</strong></h4>
 <p>The <strong>NHG Research Compliance Unit (RCU)</strong> ensures NHG’s compliance
-with the Human Biomedical Research Act (HBRA).</p>
-<p></p>
-<p>The RCU oversees 5 key portfolios:</p>
+with the Human Biomedical Research Act (HBRA). The RCU oversees 5 key portfolios:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Secretariat for Research Institution (RI)</strong>
@@ -77,7 +75,32 @@ TCC comprises representatives from each NHG institution.</p>
 <summary><strong>Execution of Proactive Monitoring Framework</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Clinical Trials involving Therapeutic Products, Cell and Gene Therapy and/or Complementary Health Products regulated by the Health Sciences Authority (HSA)</strong>
+</p>
+<p>Monitoring is a function that is mandated by ICH-GCP for the conduct of
+Clinical Trials that are regulated by the Health Sciences Authority (HSA)
+under the Health Products Act and Medicines Act.</p>
+<p>For Industry-Sponsored Clinical Trials, it is the responsibility of the
+Sponsor to establish a thorough monitoring system.</p>
+<p>For Principal Investigator (PI)-Initiated Clinical Trials, the monitoring
+function is usually performed by the Institution/Investigator.</p>
 <p></p>
+<p><strong>Human Biomedical Research Studies regulated by the Ministry Of Health (MOH)</strong>
+</p>
+<p>Under the Human Biomedical Research Act (HBRA), part 5, section 23(2),
+each Research Institution (RI) is required to supervise, review and proactively
+monitor its human biomedical research (HBR) studies.</p>
+<p>In NHG, a monitoring framework was developed to meet this statutory requirement.
+The objectives of the NHG Monitoring Programme are to:</p>
+<p>(i) Safeguard the safety and well-being of the research participants;</p>
+<p>(ii) Ensure good quality and integrity of the research data; and to</p>
+<p>(iii) Ensure the conduct of the study is in accordance to applicable regulations,
+policies and guidelines</p>
+<p>The NHG Monitoring Programme focuses on PI-Initiated studies conducted
+in NHG institutions. The extent of monitoring depends on the nature and
+risks of the study and the experience of the PI.</p>
+<p>You may refer to the Frequently Asked Questions about the monitoring framework
+here.</p>
 </div>
 </details>
 <details class="isomer-details">
