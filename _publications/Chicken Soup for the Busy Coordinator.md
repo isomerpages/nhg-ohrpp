@@ -43,8 +43,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Biological Samples</strong>
-</summary>
+<summary>Biological Samples</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>(1) Biological Samples</p>
 </div>
@@ -53,8 +52,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Data Collection &amp; Source Documentation</strong>
-</summary>
+<summary>Data Collection &amp; Source Documentation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -63,8 +61,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Databases</strong>
-</summary>
+<summary>Databases</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -73,8 +70,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>DSRB Documentation</strong>
-</summary>
+<summary>DSRB Documentation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -83,8 +79,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Informed Consent</strong>
-</summary>
+<summary>Informed Consent</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -93,8 +88,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Investigational Product Accountability</strong>
-</summary>
+<summary>Investigational Product Accountability</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -103,8 +97,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Investigator File and Overall Study Documentation</strong>
-</summary>
+<summary>Investigator File and Overall Study Documentation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -113,8 +106,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Non-Compliance</strong>
-</summary>
+<summary>Non-Compliance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -123,8 +115,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Pre-Study Activities</strong>
-</summary>
+<summary>Pre-Study Activities</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -133,8 +124,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Regulatory Documentation</strong>
-</summary>
+<summary>Regulatory Documentation</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -143,8 +133,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Research Policy, Guidelines &amp; SOP Updates</strong>
-</summary>
+<summary>Research Policy, Guidelines &amp; SOP Updates</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -153,8 +142,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Study Conduct</strong>
-</summary>
+<summary>Study Conduct</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -163,8 +151,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Study Team &amp; Responsibilities</strong>
-</summary>
+<summary>Study Team &amp; Responsibilities</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -173,8 +160,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Subject Recruitment Procedures</strong>
-</summary>
+<summary>Subject Recruitment Procedures</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -183,8 +169,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Unanticipated Problems Involving Risks to Subjects or Others (UPIRTSO)</strong>
-</summary>
+<summary>Unanticipated Problems Involving Risks to Subjects or Others (UPIRTSO)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -193,8 +178,7 @@ templates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Others</strong>
-</summary>
+<summary>Others</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
