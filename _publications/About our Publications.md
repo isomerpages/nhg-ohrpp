@@ -17,16 +17,6 @@ educational resources and research tools from OHRPP to facilitate research
 conduct operating on high ethical standards.
 <br>See the <a href="/ohrpp-post-its/" rel="noopener nofollow" target="_blank">OHRPP Post-Its here</a>.</p>
 <p></p>
-<p><strong>Qualité</strong>
-<br>Qualité (Quality in French) is a quarterly newsletter which focuses on
-educating researchers and clinical research professionals on research policies,
-best practices and Responsible Conduct of Research (RCR) concepts to facilitate
-high standards of research conduct. The newsletter also regularly features
-common cases of non-compliances meant to educate the research community
-on the proper conduct of research and with tips and recommendations for
-the prevention of similar occurrence.
-<br>See <a href="/qualite/" rel="noopener nofollow" target="_blank">Qualité here</a>.</p>
-<p></p>
 <p><strong>Chicken Soup for the Busy Coordinator</strong>
 <br>The Chicken Soup for the Busy Coordinator is an email circular which contain
 bite-size educational resources for Clinical Research Coordinators. The
