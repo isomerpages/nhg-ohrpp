@@ -2,7 +2,6 @@ collections:
   training:
     output: true
     order:
-      - Registration Information.md
       - Researcher Training.md
       - Publications/.keep
       - Publications/About our Publications.md
