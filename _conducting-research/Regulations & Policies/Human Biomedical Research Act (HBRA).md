@@ -27,7 +27,7 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 <p><strong>Section IV:</strong>  <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/4ffbc0ea-bfa4-4c7f-8d37-f760cc6374ca/S4+HBRA+and+its+implications_v4_Apr23.pdf?MOD=AJPERES&amp;CVID=ouMTSDb&amp;CVID=ouMTSDb&amp;CVID=ouMTSDb" rel="noopener noreferrer nofollow" target="_blank"><u>HBRA and its implications on studies</u></a></strong>&nbsp;</p>
 </li>
 </ul>
-<h4><strong>Resources</strong></h4>
+<h4><strong>HBR Resources</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://sso.agc.gov.sg/Act/HBRA2015" rel="noopener noreferrer nofollow" target="_blank"><u>Human&nbsp;Biomedical&nbsp;Research&nbsp;Act&nbsp;2015</u></a></strong>&nbsp;</p>
@@ -58,32 +58,21 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 </ul>
 <p>For more information, please refer to the <strong><a href="https://www.moh.gov.sg/policies-and-legislation/human-biomedical-research-act" rel="noopener noreferrer nofollow" target="_blank"><u>MOH website.</u></a></strong>
 </p>
-<p>&nbsp;</p>
-<h4><strong><u>NHG Research Governance Framework</u></strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Conducting Research/HBRA/HBRA_Pic02.png">
-</div>
-<p></p>
-<p><strong>HBR Case Studies</strong>
-<br>The NHG RI shares good practices and negative examples using short case
+<h4><strong>HBR Case Studies</strong></h4>
+<p>The NHG RI shares good practices and negative examples using short case
 studies on a regular basis to help researchers understand the what-to’s
 and how-to’s of HBRA.&nbsp;&nbsp;</p>
 <p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Pages/default.aspx?RootFolder=%2Fdept%2Frcu%2FShared%20Library%2FResearch%20Institution%2FCase%20Studies&amp;FolderCTID=0x012000199E8750E1657845AA5E3E6145F7BE8C&amp;View=%7B21F17C1C%2D3C66%2D47CF%2D9B68%2D5E004864E8AF%7D" rel="noopener nofollow" target="_blank">HBR Case Studies here</a>.
 (Restricted: NHG Intranet access required)</p>
-<p>&nbsp;</p>
-<p><strong>Restricted Human Biomedical Research (rHBR)</strong>
-<br>HBR involving human eggs/embryos or human-animal combination are restricted,
+<p></p>
+<h4><strong>Restricted Human Biomedical Research (rHBR)</strong></h4>
+<p>HBR involving human eggs/embryos or human-animal combination are restricted,
 and subject to tighter controls.</p>
 <p>Restricted HBR requires obtaining approval from Institutional Review Board
 (IRB), Institutional Animal Care and Use Committee (IACUC) where applicable,
 and the Director of Medical Services, amongst others.</p>
 <p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Restricted%20Human%20Biomedical%20Research/Restricted%20Human%20Biomedical%20Research%20Application.pdf" rel="noopener nofollow" target="_blank">rHBR information sheet here</a>.
 (Restricted: NHG Intranet access required)</p>
-<p></p>
-<p></p>
-<p>&nbsp;</p>
-<p>vi)&nbsp;&nbsp;&nbsp;<strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/f329c43f-8e16-49cd-827a-e8b80622dcc4/Guidance_on_consent_requirements19_Mar_2019_v6_3.pdf?MOD=AJPERES&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl" rel="noopener noreferrer nofollow" target="_blank"><u>Human Biomedical Research (Tissue Banking – Exemption) Regulations 2019</u></a></strong>
-</p>
 <p></p>
 <p></p>
