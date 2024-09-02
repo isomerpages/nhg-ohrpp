@@ -10,7 +10,6 @@ third_nav_title: OHRPP Units
 developing training programs and implementing educational support initiatives
 for investigators, clinical research coordinators and other clinical research
 professionals.</p>
-<p></p>
 <h4><strong>Scope</strong></h4>
 <p>RE aims to educate and train investigators and study team members in research
 ethics and proper conduct of research to protect human research subjects
@@ -36,7 +35,6 @@ departmental talks and cross institutions or cluster forums/webinars</p>
 <p>See the <a href="/researcher-training/" rel="noopener nofollow" target="_blank">NHG Researcher Training programmes here</a>.</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Contact information</strong></h4>
 <p><strong>NHG Research Education (RE)</strong>
 <br>Email: <a href="mailto:research_education@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">research_education@nhg.com.sg</a>
