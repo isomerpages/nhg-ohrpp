@@ -85,7 +85,8 @@ and subject to tighter controls.</p>
 <p>Restricted HBR requires obtaining approval from Institutional Review Board
 (IRB), Institutional Animal Care and Use Committee (IACUC) where applicable,
 and the Director of Medical Services, amongst others.</p>
-<p>Download the rHBR information sheet here.</p>
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Restricted%20Human%20Biomedical%20Research/Restricted%20Human%20Biomedical%20Research%20Application.pdf" rel="noopener nofollow" target="_blank">rHBR information sheet here</a>.
+(Restricted: NHG Intranet access required)</p>
 <p></p>
 <p><strong>Who should know?</strong>
 </p>
