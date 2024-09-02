@@ -55,7 +55,8 @@ offering resources and information sessions.</p>
 </p>
 </li>
 <li>
-<p>Research Compliance Unit (RCU)</p>
+<p><a href="/rcu/" rel="noopener nofollow" target="_blank">Research Compliance Unit (RCU)</a>
+</p>
 </li>
 <li>
 <p><a href="/re/" rel="noopener nofollow" target="_blank">Research Education (RE)</a>
@@ -67,8 +68,5 @@ offering resources and information sessions.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>Learn More</strong></h4>
-<p>About the <a href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx" rel="noopener nofollow" target="_blank">National Healthcare Group (NHG) here</a>.</p>
-<p>About the NHG Group Research &amp; Innovation here.</p>
-<p></p>
+<h4></h4>
 <p></p>
