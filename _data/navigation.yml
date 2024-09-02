@@ -13,11 +13,7 @@ links:
   - title: Public Awareness
     collection: public-awareness
   - title: Newsroom
-    resource_room: true
-  - title: Contact Us
-    url: /contact-us/
-  - title: Newsroom 2
-    url: /newsroom2
+    url: /newsroom/
     sublinks:
       - title: Announcements
         url: /newsroom/announcements/
@@ -25,3 +21,5 @@ links:
         url: /newsroom/events/
       - title: Publications
         url: /about-publications/
+  - title: Contact Us
+    url: /contact-us/
