@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Proper Conduct of Research
 ---
-<h4><strong>PCR 003: Research Data Collection &amp; Budgeting Module</strong></h4>
+<h4><strong>PCR-003: Research Data Collection &amp; Budgeting Module</strong></h4>
 <p>Participants will learn about the general principles involved in budgeting,
 design and use of a case report form, database design and have an overview
 understanding of how REDCap is used in NHG to aid in data analysis and
