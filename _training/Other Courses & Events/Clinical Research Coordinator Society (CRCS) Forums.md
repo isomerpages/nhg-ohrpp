@@ -5,12 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Other Courses & Events
 ---
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>About CRCS Forums</strong>
-</p>
-</li>
-</ul>
+<h4><strong>About CRCS Forums</strong></h4>
 <p>The CRCS is a community comprising clinical research coordinators across
 various public healthcare institutions in Singapore. CRCS seeks to address
 the training and educational needs for clinical research coordinators involved
@@ -19,7 +14,7 @@ in supporting the conduct of research studies.
 <br>As part of these educational efforts, CRCS forums are held several times
 a year, as a platform for information sharing, exchange of ideas and networking
 across the community. CRCS also collaborates with the Clinical Research
-Professional (CRP) community in Singapore in organising these educational
+Professional (CRP) community in Singapore in organizing these educational
 initiatives.
 <br>&nbsp;<strong>&nbsp;</strong>
 </p>
