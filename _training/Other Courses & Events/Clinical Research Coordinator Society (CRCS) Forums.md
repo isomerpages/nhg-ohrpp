@@ -133,7 +133,13 @@ Innovation</p>
 </details>
 </div>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2018</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 <details class="isomer-details">
 <summary>2018</summary>
 <div data-type="detailsContent" class="isomer-details-content">
