@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Proper Conduct of Research
 ---
-<h4><strong>PCR 002: Study Start-Up, Data Management, Investigational Product (IP) &amp; Safety Reporting Module</strong></h4>
+<h4><strong>PCR-002: Study Start-Up, Data Management, Investigational Product (IP) &amp; Safety Reporting Module</strong></h4>
 <p>Participants will gain knowledge and principles for Study Start-Up, Research
 Data Management, and the types of essential documents to be maintained
 in the investigator file. Participants will also gain a better understanding
