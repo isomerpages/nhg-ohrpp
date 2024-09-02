@@ -10,7 +10,6 @@ third_nav_title: Regulations & Policies
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Conducting Research/HBRA/HBRA_Pic01.png">
 </div>
-<p></p>
 <p><strong>Information Pack for Researchers on the HBR Framework</strong>
 </p>
 <p>The following materials provide researchers involved in the conduct of
@@ -28,9 +27,9 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 </li>
 <li>
 <p><strong>Section IV:</strong>  <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/4ffbc0ea-bfa4-4c7f-8d37-f760cc6374ca/S4+HBRA+and+its+implications_v4_Apr23.pdf?MOD=AJPERES&amp;CVID=ouMTSDb&amp;CVID=ouMTSDb&amp;CVID=ouMTSDb" rel="noopener noreferrer nofollow" target="_blank"><u>HBRA and its implications on studies</u></a></strong>&nbsp;</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Resources</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -88,10 +87,9 @@ and the Director of Medical Services, amongst others.</p>
 <p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Restricted%20Human%20Biomedical%20Research/Restricted%20Human%20Biomedical%20Research%20Application.pdf" rel="noopener nofollow" target="_blank">rHBR information sheet here</a>.
 (Restricted: NHG Intranet access required)</p>
 <p></p>
-<p><strong>Who should know?</strong>
-</p>
-<p>NHG staff who wants to conduct Restricted Human Biomedical Research.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>&nbsp;</p>
 <p>vi)&nbsp;&nbsp;&nbsp;<strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/f329c43f-8e16-49cd-827a-e8b80622dcc4/Guidance_on_consent_requirements19_Mar_2019_v6_3.pdf?MOD=AJPERES&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl" rel="noopener noreferrer nofollow" target="_blank"><u>Human Biomedical Research (Tissue Banking – Exemption) Regulations 2019</u></a></strong>
 </p>
+<p></p>
+<p></p>
