@@ -2,8 +2,8 @@ collections:
   publications:
     output: true
     order:
-      - HBR Case Study Circular.md
       - About our Publications.md
       - OHRPP Post Its.md
       - Chicken Soup for the Busy Coordinator.md
       - Tissue Compliance Circular.md
+      - HBR Case Study Circular.md
