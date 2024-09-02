@@ -294,7 +294,7 @@ Office, National Healthcare Group (NHG)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Updates from the GCP Inspection Team
+<p><strong><a href="http://www.hsa.gov.sg/content/dam/HSA/HPRG/Clinical_Trials/GCP/Common%20GCP%20Inspection%20Findings_2015%20%28CRP-CRCS_3Dec2015%29.pdf" rel="noopener nofollow" target="_blank">Updates from the GCP Inspection Team</a></strong>
 <br>Ms Sumitra Sachidanandan, Health Sciences Authority
 <br>
 </p>
@@ -308,17 +308,17 @@ Office, National Healthcare Group (NHG)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Ethically and scientifically sound: Actual reviews of applications involving
-vulnerable populations
+<p><strong><a href="/files/Training Files/CRCS Forum 2015/Ethically_and_scientifically_sound_28_Aug_2015.pdf" rel="noopener noreferrer nofollow" target="_blank">Ethically and scientifically sound: Actual reviews of applications involving vulnerable populations </a></strong>
 <br>Dr Patricia Yap, IMH</p>
 </li>
 <li>
-<p>Research in Children: Challenges
+<p><strong><a href="/files/Training Files/CRCS Forum 2015/Research_in_Children_Challenges_28_Aug_2015.pdf" rel="noopener noreferrer nofollow" target="_blank">Research in Children: Challenges </a></strong>
 <br>Prof Quak Seng Hock, NUH</p>
 </li>
 <li>
-<p>The Process of Obtaining Informed Consent in Vulnerable Population
+<p><strong><a href="/files/Training Files/CRCS Forum 2015/The_Process_of_Obtaining_Informed_Consent_in_Vulnerable_Population_28_Aug_2015.pdf" rel="noopener noreferrer nofollow" target="_blank">The Process of Obtaining Informed Consent in Vulnerable Population</a></strong> 
 <br>Prof Swapna Verma, IMH</p>
+<p></p>
 </li>
 </ul>
 </div>
