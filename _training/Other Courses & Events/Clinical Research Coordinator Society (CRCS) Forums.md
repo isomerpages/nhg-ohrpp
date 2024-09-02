@@ -156,15 +156,65 @@ Innovation</p>
 </div>
 </details>
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2015</summary>
+<summary><strong>CRCS-CRP Forum (3 Dec 2015)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Updates from the GCP Inspection Team
+<br>Ms Sumitra Sachidanandan, Health Sciences Authority
+<br>
+</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>CRCS-CRP Forum (28 Aug 2015)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Ethically and scientifically sound: Actual reviews of applications involving
+vulnerable populations
+<br>Dr Patricia Yap, IMH</p>
+</li>
+<li>
+<p>Research in Children: Challenges
+<br>Prof Quak Seng Hock, NUH</p>
+</li>
+<li>
+<p>The Process of Obtaining Informed Consent in Vulnerable Population
+<br>Prof Swapna Verma, IMH</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>CRCS-CRP Forum (12 Dec 2014)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Common GCP Inspection Findings for 2014
+<br>Ms Sumitra Sachidanandan, HSA</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Serious Breaches
+<br>Ms Poh Cuiqin, HSA
+<br>(Slides not available)</p>
+<p></p>
+</li>
+</ul>
+</div>
+</details>
 <details class="isomer-details">
 <summary><strong>CRCS Forum (25 July 2014)</strong>
 </summary>
@@ -181,13 +231,12 @@ Innovation</p>
 <li>
 <p>Impact of Privacy Laws in Clinical Trials
 <br>Ms Rebecca Chew, Rajah &amp; Tann LLP</p>
+<p></p>
 </li>
 </ul>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
