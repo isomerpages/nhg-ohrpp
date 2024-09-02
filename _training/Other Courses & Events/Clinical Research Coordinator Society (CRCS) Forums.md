@@ -266,22 +266,19 @@ Office, National Healthcare Group (NHG)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>PDPA Updates: Management and Protection of Patients’ Data
+<p><strong><a href="/files/Training Files/CRCS Forum 2016/PDPA_Updates_Management_and_Protection_of_Patients_Data_26_Aug_2016.pdf" rel="noopener noreferrer nofollow" target="_blank">PDPA Updates: Management and Protection of Patients’ Data </a></strong>
 <br>Mr Benjamin Cheong, Rajah &amp; Tann Singapore LLP</p>
 </li>
 <li>
-<p>Considerations for Using Electronic Medical Records (EMR) in Clinical
-Trials
+<p><strong><a href="/files/Training Files/CRCS Forum 2016/Considerations_for_Using_Electronic_Medical_Records_26_Aug_2016.pdf" rel="noopener noreferrer nofollow" target="_blank">Considerations for Using Electronic Medical Records (EMR) in Clinical Trials </a></strong>
 <br>Mr Alex Goh, GlaxoSmithKline Pharmaceuticals</p>
 </li>
 <li>
-<p>Management of Electronic Trial Master Files and Essential Documents in
-Pharma and CROs
+<p><strong><a href="/files/Training Files/CRCS Forum 2016/Management_of_Electronic_Trial_Master_Files_and_Essential_Documents_26_Aug_2016.pdf" rel="noopener noreferrer nofollow" target="_blank">Management of Electronic Trial Master Files and Essential Documents in Pharma and CROs </a></strong>
 <br>Ms Jingyi Lin, PAREXEL</p>
 </li>
 <li>
-<p>Using Electronic Patient-Reported Outcomes (ePRO) in Clinical Trials:
-Lessons Learnt
+<p><strong><a href="/files/Training Files/CRCS Forum 2016/Using_Electronic_Patient_Reported_Outcomes__ePRO__in_Clinical_Trials_26_Aug_2016.pdf" rel="noopener noreferrer nofollow" target="_blank">Using Electronic Patient-Reported Outcomes (ePRO) in Clinical Trials: Lessons Learnt </a></strong>
 <br>Ms Chong Pei-Fen, Quintiles</p>
 <p></p>
 </li>
