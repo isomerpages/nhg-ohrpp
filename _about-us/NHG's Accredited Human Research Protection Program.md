@@ -13,11 +13,9 @@ March 2007.</p>
 </p>
 </blockquote>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Content Images/Full_AAHRPP_Accreditation_Seal.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/About Us/AAHRPP/Full_AAHRPP_Accreditation_Seal.png">
 </div>
-<p></p>
 <p></p>
 <h4><strong>What is AAHRPP?</strong></h4>
 <p>AAHRPP is an independent and non-profit organization that performs accreditation
@@ -25,7 +23,7 @@ of Human Subjects’ Protection Programs of institutions conducting research.
 AAHRPP accredits organizations that demonstrate standard of research subject
 protection beyond the threshold of regulatory requirements.</p>
 <p><a href="https://www.aahrpp.org/about/our-mission-and-history" rel="noopener noreferrer nofollow" target="_blank"><u>Learn more about AAHRPP here</u></a>.</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.aahrpp.org/about/our-mission-and-history"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Content Images/AAHRPP_Logo.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.aahrpp.org/about/our-mission-and-history"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/About Us/AAHRPP/AAHRPP_Logo.jpg"></a>
 <p></p>
 <p></p>
 <h4><strong>Why does AAHRPP-Accreditation matter?</strong></h4>
