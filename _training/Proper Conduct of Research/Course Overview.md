@@ -62,13 +62,12 @@ interactive case scenarios, and quizzes and informative reference materials.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In this online module, Participants will gain knowledge and principles
 for Study Start-Up, Research Data Management, and the types of essential
-documents to be maintained in the investigator file.</p>
-<p>Participants will also gain a better understanding about the safety reporting
-requirements for both investigator-initiated and sponsored trials, and
-an appreciation of the myriad of regulations governing investigational
-product management in clinical trials.</p>
-<p>Participants will learn about handling investigational products in accordance
-with Good Clinical Practice principles.</p>
+documents to be maintained in the investigator file. Participants will
+also gain a better understanding about the safety reporting requirements
+for both investigator-initiated and sponsored trials, and an appreciation
+of the myriad of regulations governing investigational product management
+in clinical trials. Participants will learn about handling investigational
+products in accordance with Good Clinical Practice principles.</p>
 <p>Learn more here.</p>
 <p></p>
 </div>
