@@ -5,13 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Regulations & Policies
 ---
-<h4><strong>Human Biomedical Research Act (HBRA)</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Conducting Research/HBRA/HBRA_Pic01.png">
 </div>
-<p><strong>Information Pack for Researchers on the HBR Framework</strong>
-</p>
+<p></p>
+<h4><strong>Information Pack for Researchers on the HBR Framework</strong></h4>
 <p>The following materials provide researchers involved in the conduct of
 HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 <ul data-tight="true" class="tight">
@@ -27,11 +25,9 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 </li>
 <li>
 <p><strong>Section IV:</strong>  <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/4ffbc0ea-bfa4-4c7f-8d37-f760cc6374ca/S4+HBRA+and+its+implications_v4_Apr23.pdf?MOD=AJPERES&amp;CVID=ouMTSDb&amp;CVID=ouMTSDb&amp;CVID=ouMTSDb" rel="noopener noreferrer nofollow" target="_blank"><u>HBRA and its implications on studies</u></a></strong>&nbsp;</p>
-<p></p>
 </li>
 </ul>
-<p><strong>Resources</strong>
-</p>
+<h4><strong>Resources</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://sso.agc.gov.sg/Act/HBRA2015" rel="noopener noreferrer nofollow" target="_blank"><u>Human&nbsp;Biomedical&nbsp;Research&nbsp;Act&nbsp;2015</u></a></strong>&nbsp;</p>
@@ -60,10 +56,8 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 </p>
 </li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp;</p>
 <p>For more information, please refer to the <strong><a href="https://www.moh.gov.sg/policies-and-legislation/human-biomedical-research-act" rel="noopener noreferrer nofollow" target="_blank"><u>MOH website.</u></a></strong>
 </p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <h4><strong><u>NHG Research Governance Framework</u></strong></h4>
 <p></p>
