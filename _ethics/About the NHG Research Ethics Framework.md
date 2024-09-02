@@ -17,5 +17,5 @@ by the Bioethics Advisory Committee.</p>
 in the ethics approval application process, such as templates for 'Participant
 Information Sheet &amp; Consent Form' and 'Study Protocol'.&nbsp;</p>
 <p>The NHG Investigator Manual, together with many other resources and templates
-for investigators can be found and available here. ( <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/resources" rel="noopener noreferrer nofollow" target="_blank"><u>downloaded here</u></a></strong>.)</p>
+for investigators can be found and <a href="/investigator-manual/" rel="noopener nofollow" target="_blank">available here</a>.</p>
 <p></p>
