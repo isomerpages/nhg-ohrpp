@@ -2,8 +2,6 @@ collections:
   training:
     output: true
     order:
-      - Other Courses & Events/Other Courses & Seminars.md
-      - Other Courses & Events/.keep
       - Registration Information/.keep
       - Registration Information/Course Fee Categories.md
       - Registration Information/Registration FAQs.md
@@ -13,6 +11,8 @@ collections:
       - Proper Conduct of Research/PCR 002 Module.md
       - Proper Conduct of Research/PCR 003 Module.md
       - Proper Conduct of Research/PCR 400 Module.md
+      - Other Courses & Events/.keep
+      - Other Courses & Events/Other Courses & Seminars.md
       - Educational Materials/.keep
       - Educational Materials/About our Publications.md
       - Educational Materials/OHRPP Post Its.md
