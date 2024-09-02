@@ -12,15 +12,11 @@ of NHG institutions and all other institutions under the oversight of NHG
 DSRB.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click here to learn more about&nbsp;<strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/roam+intro" rel="noopener noreferrer nofollow" target="_blank"><u>using the ROAM System</u></a></strong> for
-submissions to the DSRB.</p>
-</li>
-<li>
-<p>Click here to find out&nbsp;<strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/7f0b6962-a62c-417e-99d5-0480a9e72948/Docs+required+for+DSRB+submission+v2.1_FINAL_301215.pdf?MOD=AJPERES&amp;CVID=ngbb8yU&amp;CVID=ngbb8yU" rel="noopener noreferrer nofollow" target="_blank"><u>what documents are required for the submission of an application</u></a></strong> via
-ROAM.</p>
+<p>Learn more about using the <strong>Ethics and Compliance Online System (ECOS)</strong> for
+<a href="ecossupport.gri.nhg.com.sg/userguides/" rel="noopener nofollow" target="_blank">ethics submissions to the DSRB here</a>.</p>
 </li>
 </ul>
-<h4><br><strong>Why is DSRB Approval Required?</strong></h4>
+<h4><strong>Why is DSRB Approval Required?</strong></h4>
 <p>All research proposals that intend to enroll human subjects must meet
 certain criteria before study procedures can be initiated. The criteria
 are based on the principles of respect for persons, beneficence and justice
