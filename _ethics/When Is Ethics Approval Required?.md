@@ -25,7 +25,7 @@ as discussed in the Belmont Report.&nbsp;</p>
 well before the deadline for submission to allow some time for the DSRB
 to check for any missing documents for information. The DSRB relies solely
 on the documentation submitted by the Principal Investigator for review.</p>
-<h4><br><strong>Which research activities requires DSRB Approval?</strong></h4>
+<h4><strong>Which Research Activities requires DSRB Approval?</strong></h4>
 <p>Types of studies that may require DSRB Approval:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -38,7 +38,6 @@ on the documentation submitted by the Principal Investigator for review.</p>
 <p>Tissue Repositories</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Types of studies that may not require DSRB Approval:</p>
 <ul>
 <li>
@@ -54,11 +53,18 @@ on the documentation submitted by the Principal Investigator for review.</p>
 <p>Infection Control</p>
 </li>
 <li>
-<p>Quality Assessment &amp; Improvement (QA/QI)*.</p>
+<p>Quality Assessment &amp; Improvement (QA/QI)<strong>*</strong>
+</p>
+<p></p>
 </li>
 </ul>
-<p><em>* This </em><strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/63e46d50-54ab-45d4-9c54-727cb263a25f/QA+QI+Checklist+v30june+2020.docx?MOD=AJPERES&amp;CVID=nfD5Ktg&amp;CVID=nfD5Ktg&amp;CVID=nfD5Ktg&amp;CVID=nfD5Ktg" rel="noopener noreferrer nofollow" target="_blank"><u>Checklist</u></a></strong><em> may be used to determine if a QA / QI study requires DSRB review. Where the response to&nbsp; all&nbsp; questions&nbsp; in&nbsp; the&nbsp; QA&nbsp; /&nbsp; QI checklist is “No”, and where there is no intention to share the information with others (i.e. contributing to generalisable knowledge) at the onset of the study, the QA / QI study will not be subject to DSRB review.</em>
-</p>
+<p><strong>*QA/AI Activity Checklist</strong>
+<br>The QA/QI Activity Checklist may be used to determine if a QA / QI study
+requires DSRB review. Where the response to&nbsp;all&nbsp;questions&nbsp;in&nbsp;the
+checklist is “No”, and where there is no intention to share the information
+with others (i.e. contributing to generalizable knowledge) at the onset
+of the study, the QA / QI study will not be subject to DSRB review. Download
+the QA/QI Activity Checklist here.</p>
 <p>&nbsp;</p>
 <p>When in doubt whether an activity requires DSRB review and approval, the
 Principal Investigator may contact the DSRB and provide a summary of the
