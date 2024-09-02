@@ -2,7 +2,6 @@ collections:
   training:
     output: true
     order:
-      - Singapore Research Ethics Conference (SREC).md
       - Registration Information/.keep
       - Registration Information/Course Fee Categories.md
       - Registration Information/Registration FAQs.md
@@ -12,6 +11,7 @@ collections:
       - Proper Conduct of Research/PCR 002 Module.md
       - Proper Conduct of Research/PCR 003 Module.md
       - Proper Conduct of Research/PCR 400 Module.md
+      - Singapore Research Ethics Conference (SREC).md
       - Other Courses & Events/.keep
       - Other Courses & Events/Researcher Training.md
       - Educational Materials/.keep
