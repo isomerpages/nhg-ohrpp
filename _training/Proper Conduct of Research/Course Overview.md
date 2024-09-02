@@ -50,7 +50,7 @@ on ethical and regulatory requirements throughout the phase of planning,
 designing, conducting and maintaining proper documentation. Best practices,
 tips and common errors will also be covered in this course which includes
 interactive case scenarios, and quizzes and informative reference materials.</p>
-<p>Learn more here.</p>
+<p><a href="/pcr-001/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
 <p></p>
 </div>
 </details>
@@ -68,7 +68,7 @@ for both investigator-initiated and sponsored trials, and an appreciation
 of the myriad of regulations governing investigational product management
 in clinical trials. Participants will learn about handling investigational
 products in accordance with Good Clinical Practice principles.</p>
-<p>Learn more here.</p>
+<p><a href="/pcr-002/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
 <p></p>
 </div>
 </details>
@@ -83,7 +83,7 @@ involved in budgeting, design and use of a case report form, database design
 and have an overview understanding of how REDCap is used in NHG to aid
 in data analysis and capture in research.</p>
 <p>conduct of research studies.</p>
-<p>Learn more here.</p>
+<p><a href="/pcr-003/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
 <p></p>
 </div>
 </details>
@@ -97,7 +97,8 @@ audits and inspections. The content will allow participants to understand
 the purpose of site monitoring, responsibilities of monitors, and concepts
 surrounding risk-based monitoring; including the process of audits and
 inspections, conducted either by external parties and/or regulatory authorities.&nbsp;</p>
-<p>Learn more here.</p>
+<p><a href="/pcr-400/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
+<p></p>
 </div>
 </details>
 </div>
