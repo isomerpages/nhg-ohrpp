@@ -16,3 +16,12 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
+  - title: Newsroom 2
+    url: /newsroom2
+    sublinks:
+      - title: Announcements
+        url: /newsroom/announcements/
+      - title: Events
+        url: /newsroom/events/
+      - title: Publications
+        url: /permalink
