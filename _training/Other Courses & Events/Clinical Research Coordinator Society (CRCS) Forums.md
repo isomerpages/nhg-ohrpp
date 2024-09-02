@@ -127,6 +127,7 @@ Innovation</p>
 <br>Dr. May Thu MA
 <br>Senior Manager, Biomedical Research Regulation Branch, Regulatory Compliance
 &amp; Enforcement Division, Health Regulation Group, Ministry of Health</p>
+<p></p>
 </li>
 </ul>
 </div>
@@ -135,15 +136,64 @@ Innovation</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2018</summary>
+<summary>CRCS-CRP Forum (07 Dec 2018)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Looking back at 2018
+<br>Ms Sumitra Sachidanandan
+<br>Regulatory Consultants - GCP Unit, Innovation Office &amp; Clinical Trials
+Branch, Medicinal Products Pre-market Cluster, Health Products Regulation
+Group, HSA</p>
+</li>
+</ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Post Activation of Human Biomedical Research Act: Compliance and Risks
+<br>Dr Yeo Jing Ping
+<br>Director, Office of Research Integrity, Compliance and Ethics, SingHealth</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monitoring Programme for Human Biomedical Research Studies
+<br>Ms Jaslin Tan Shen Fong
+<br>Senior Executive, Research Quality Management Unit, Research &amp; Development
+Office, National Healthcare Group (NHG)</p>
+<p></p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary>2018</summary>
+<summary>CRCS-CRP Forum (14 Sep 2018)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>CRCs/CRPs and CIS: Developing Sound Communication and Interpersonal Skills
+(CIS) Is Essential for Success
+<br>Dr Aamir Shaikh, MD, DPBM
+<br>Founder, Health Care Consultant, Assansa</p>
+</li>
+</ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Conflict Management / Problem Solving
+<br>Mr Nelson Wong
+<br>Founder &amp; Director, CSI Medical Research</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Why Service Excellence Matters and How to EXC3ITE (Execute) It? Mr Chan
+Peng, Tech Observer Asia Pacific</p>
+<p></p>
+</li>
+</ul>
 </div>
 </details>
 </div>
