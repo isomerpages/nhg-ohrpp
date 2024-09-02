@@ -1,6 +1,6 @@
 title: NHG Office of Human Research Protection Programme (OHRPP)
 url: https://ethics.gri.nhg.com.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/OHRPP Logo/favicon-isomer.ico
 colors:
   primary-color: "#21409a"
   secondary-color: "#00828d"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d3klp0713m5tta.amplifyapp.com
 prod: https://master.d2xg4pfdtrypjl.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/OHRPP Logo/favicon-isomer.ico
 is_government: false
 google_analytics_ga4: G-PK950Z6NG6
 linkedin-insights: ""
