@@ -132,6 +132,7 @@ Innovation</p>
 </div>
 </details>
 </div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>2018</summary>
@@ -140,6 +141,8 @@ Innovation</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>2017</summary>
@@ -148,6 +151,9 @@ Innovation</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>2016</summary>
@@ -156,8 +162,6 @@ Innovation</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -196,9 +200,6 @@ vulnerable populations
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
