@@ -136,7 +136,8 @@ Innovation</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>CRCS-CRP Forum (07 Dec 2018)</summary>
+<summary><strong>CRCS-CRP Forum (07 Dec 2018)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -168,7 +169,8 @@ Office, National Healthcare Group (NHG)</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>CRCS-CRP Forum (14 Sep 2018)</summary>
+<summary><strong>CRCS-CRP Forum (14 Sep 2018)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -197,7 +199,6 @@ Peng, Tech Observer Asia Pacific</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
