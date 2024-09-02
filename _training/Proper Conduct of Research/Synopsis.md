@@ -54,6 +54,7 @@ reference materials.</p>
 <p><strong>*</strong> Note: The previous PCR-200 course has been replaced
 with PCR-001 (new course content).</p>
 <p>Learn more here.</p>
+<p></p>
 </div>
 </details>
 </div>
@@ -108,6 +109,31 @@ inspections, conducted either by external parties and/or regulatory authorities.
 </div>
 </details>
 </div>
+<p></p>
+<h4><strong>Schedule</strong></h4>
+<p>This Online PCR Course is available on a continuous basis (via E-Learning).</p>
+<h4><strong>Registration</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Registration for this Course is currently open. Go to the <a href="https://form.gov.sg/66177cd0a14ba8cd75876ca4" rel="noopener nofollow" target="_blank">PCR Course Registration (via FormSG) here</a>.
+<br>
+</p>
+</li>
+<li>
+<p><strong>For NHG Staff: </strong>Register <a href="https://elearn.sg/nhg/Login/Login.aspx" rel="noopener nofollow" target="_blank">here for the PCR course</a>.
+<br>Download the Self-Registration Guide for NHG Staff here.</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>See General Course Registration FAQs here.</p>
+</li>
+<li>
+<p>See how to download your Course E-Certificate here</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For any enquiries, please contact the Research Course Admin at <strong><a href="mailto:research_courseadmin@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>research_courseadmin@nhg.com.sg</u></a></strong>
