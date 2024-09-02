@@ -67,21 +67,16 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h4><strong><u>NHG Research Governance Framework</u></strong></h4>
-<p>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Conducting Research/HBRA/HBRA_Pic02.png">
 </div>
 <p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
 <p><strong>HBR Case Studies</strong>
-</p>
-<p>The NHG RI shares good practices and negative examples using short case
+<br>The NHG RI shares good practices and negative examples using short case
 studies on a regular basis to help researchers understand the what-to’s
-and how-to’s of HBRA.&nbsp;&nbsp;
-<br>Click <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Pages/default.aspx?RootFolder=%2Fdept%2Frcu%2FShared%20Library%2FResearch%20Institution%2FCase%20Studies&amp;FolderCTID=0x012000199E8750E1657845AA5E3E6145F7BE8C&amp;View=%7B21F17C1C%2D3C66%2D47CF%2D9B68%2D5E004864E8AF%7D" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
-view/download the Case Studies. (NHG Intranet access required)</p>
+and how-to’s of HBRA.&nbsp;&nbsp;</p>
+<p>Download the HBR Case Studies here. (Restricted: NHG Intranet access required)</p>
 <p>&nbsp;</p>
 <p><strong><u>Restricted Human Biomedical Research (rHBR)</u></strong>
 </p>
