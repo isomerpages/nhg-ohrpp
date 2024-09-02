@@ -5,12 +5,11 @@ permalink: /contact-us/
 agency_name: NHG Office of Human Research Protection Programme (OHRPP)
 contacts:
   - content:
-      - phone: ""
-      - email: ""
-      - other: <p>If you have a query, feedback or wish to report a problem related to
-          this website, please fill in <a target="_blank"
-          href="https://form.gov.sg/66cd26438e875a1eec4ac1c2"><u><strong>this
-          online Form here</strong></u></a>.&nbsp;</p>
-    title: For Enquires & Feedback
-feedback: https://form.gov.sg/66cd26438e875a1eec4ac1c2
+      - phone: +65 6471 3266
+      - email: OHRPP@nhg.com.sg
+      - other: <a target="_blank"
+          href="https://staging.d2xg4pfdtrypjl.amplifyapp.com/files/Content%20Files/DSRB_Contact_List_12_June_2024.pdf">DSRB
+          Secretariat Contact List</a>
+    title: NHG Domain Specific Review Boards (DSRB)
+feedback: ""
 ---
