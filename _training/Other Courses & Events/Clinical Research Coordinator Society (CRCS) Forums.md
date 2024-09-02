@@ -96,7 +96,7 @@ Innovation</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/c489257e-b691-406a-843e-f6f027a41897/20210331_Managing+impact+of+CT+during+COVID.pdf?MOD=AJPERES&amp;CVID=nBvQX1c&amp;CVID=nBvQX1c&amp;CVID=nBvQX1c&amp;CVID=nBvQX1c&amp;CVID=nBvQX1c&amp;CVID=nBvQX1c&amp;CVID=nBvQX1c&amp;CVID=nBvQX1c&amp;CVID=nBvQX1c&amp;CVID=nBvQX1c" rel="noopener noreferrer nofollow" target="_blank"><u>Managing the impact of clinical trials during the COVID-19 pandemic</u></a></strong>
+<p><a href="/files/Training Files/CRCS Forum/20210331_Managing_impact_of_CT_during_COVID.pdf" rel="noopener noreferrer nofollow" target="_blank">Managing the impact of clinical trials during the COVID-19 pandemic</a>
 <br>Ms. Sumitra Sachidanandan, Regulatory Consultant
 <br>Innovation Office &amp; Clinical Trials Branch
 <br>Health Products Regulation Group
