@@ -48,13 +48,13 @@ right to cancel the course and will fully refund all paid fees.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Below are the minimum requirements to obtain the E-Certificate of Attendance
 / Achievement respectively.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Training/course_attendance_min_req_table.jpg">
-</div>
+<p></p>
+<p></p>
 <p>The e-certificates would be sent to you via email after course completion.</p>
 <p>&nbsp;</p>
 <p>All requests for re-issuance of e-certificates for courses that were conducted
-more than 1 year before the date of request would be subjected to an administrative
+more than 1 year before the date of request, would be dependent on the
+availability of proof of record and subject to approval and an administrative
 fee of $15 (before GST).</p>
 <p></p>
 </div>
