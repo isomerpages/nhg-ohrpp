@@ -35,6 +35,6 @@ in tissue banking activities.
 <br>The HBR Case Study Circular shares good practices and negative examples
 using short case studies on a regular basis to help researchers understand
 the what-to’s and how-to’s of Human Biomedical Research Act (HBRA).
-<br>See the <a href="/hbr-case-studies/" rel="noopener nofollow" target="_blank">HBR Case Study Circular here</a>.</p>
+<br>See the <a href="/hbr-circular/" rel="noopener nofollow" target="_blank">HBR Case Study Circular here</a>.</p>
 <p></p>
 <p></p>
