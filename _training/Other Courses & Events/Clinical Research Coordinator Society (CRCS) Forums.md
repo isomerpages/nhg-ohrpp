@@ -253,7 +253,8 @@ Office, National Healthcare Group (NHG)</p>
 </p>
 </li>
 <li>
-<p>Human Biomedical Research Act: Scope and Regulatory Framework</p>
+<p><strong><a href="/files/Training Files/CRCS Forum 2016/Human_Biomedical_Research_Act_9_Dec_2016.pdf" rel="noopener noreferrer nofollow" target="_blank">Human Biomedical Research Act: Scope and Regulatory Framework</a></strong>
+</p>
 <p></p>
 </li>
 </ul>
@@ -376,4 +377,5 @@ vulnerable populations
 <p></p>
 <p></p>
 <p></p>
-<p></p>
+<p><a href="/files/Training Files/CRCS Forum 2016/Human_Biomedical_Research_Act_9_Dec_2016.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
