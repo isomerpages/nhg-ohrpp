@@ -68,6 +68,9 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 <p>&nbsp;</p>
 <h4><strong><u>NHG Research Governance Framework</u></strong></h4>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Conducting Research/HBRA/HBRA_Pic02.png">
+</div>
 <p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
