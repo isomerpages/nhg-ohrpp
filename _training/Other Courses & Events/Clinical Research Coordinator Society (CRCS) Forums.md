@@ -253,7 +253,8 @@ Study</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>CRCS-CRP Forum (9 Dec 2016)</summary>
+<summary><strong>CRCS-CRP Forum (9 Dec 2016)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -267,9 +268,30 @@ Study</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>CRCS-CRP Forum (26 Aug 2016)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>PDPA Updates: Management and Protection of Patients’ Data
+<br>Mr Benjamin Cheong, Rajah &amp; Tann Singapore LLP</p>
+</li>
+<li>
+<p>Considerations for Using Electronic Medical Records (EMR) in Clinical
+Trials
+<br>Mr Alex Goh, GlaxoSmithKline Pharmaceuticals</p>
+</li>
+<li>
+<p>Management of Electronic Trial Master Files and Essential Documents in
+Pharma and CROs
+<br>Ms Jingyi Lin, PAREXEL</p>
+</li>
+<li>
+<p>Using Electronic Patient-Reported Outcomes (ePRO) in Clinical Trials:
+Lessons Learnt
+<br>Ms Chong Pei-Fen, Quintiles</p>
 <p></p>
+</li>
+</ul>
 </div>
 </details>
 </div>
