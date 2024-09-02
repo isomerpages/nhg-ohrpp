@@ -249,8 +249,6 @@ Study</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>CRCS-CRP Forum (9 Dec 2016)</strong>
@@ -268,7 +266,8 @@ Study</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>CRCS-CRP Forum (26 Aug 2016)</summary>
+<summary><strong>CRCS-CRP Forum (26 Aug 2016)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -295,7 +294,6 @@ Lessons Learnt
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
