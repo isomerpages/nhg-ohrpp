@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Application Process</strong></h4>
-<p>All research applications must be submitted to the DSRB via the ECOS.
+<p>All research applications must be submitted to the DSRB via the <a href="https://ecossupport.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">Ethics and Compliance Online System (ECOS)</a>.
 <br>
 <br>Once the Principal Investigator submits an application via ROAM, it will
 be automatically routed to the Department Representative (DR) and subsequently
