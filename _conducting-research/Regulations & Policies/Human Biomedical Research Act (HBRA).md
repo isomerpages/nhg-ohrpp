@@ -80,13 +80,13 @@ and how-to’s of HBRA.&nbsp;&nbsp;</p>
 (Restricted: NHG Intranet access required)</p>
 <p>&nbsp;</p>
 <p><strong>Restricted Human Biomedical Research (rHBR)</strong>
-</p>
-<p>HBR involving human eggs/embryos or human-animal combination are restricted,
-and subject to tighter controls.
-<br>Restricted HBR requires obtaining approval from Institutional Review Board
+<br>HBR involving human eggs/embryos or human-animal combination are restricted,
+and subject to tighter controls.</p>
+<p>Restricted HBR requires obtaining approval from Institutional Review Board
 (IRB), Institutional Animal Care and Use Committee (IACUC) where applicable,
 and the Director of Medical Services, amongst others.</p>
-<p>To find out more about rHBR application, click <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Restricted%20Human%20Biomedical%20Research/Restricted%20Human%20Biomedical%20Research%20Application.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.&nbsp;</p>
+<p>Download the rHBR information sheet here.</p>
+<p></p>
 <p><strong>Who should know?</strong>
 </p>
 <p>NHG staff who wants to conduct Restricted Human Biomedical Research.</p>
