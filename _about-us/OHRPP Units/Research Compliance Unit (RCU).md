@@ -21,6 +21,32 @@ in compliance with the HBRA.</p>
 <p>For the purpose of coordinating research across collaborative studies,
 the RI of the submitting/lead Principal Investigator will be assumed as
 the lead RI.</p>
+<p><strong>About the RI Policy</strong>
+</p>
+<p>The RI Policy outlines the functions and duties of NHG RI and duties of
+the NHG Principal Person In Charge (PIC) to fulfill the requirements of
+the HBRA and describes the NHG research governance framework that enables
+the RI to meet the requirements of the HBRA and other relevant Acts and
+regulations applicable to research. This also outlines the roles and responsibilities
+of the following committees that provide oversight of human biomedical
+research (HBR) activities in NHG:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Research Committee (RC)</p>
+</li>
+<li>
+<p>Research Ethics Committee (REC)</p>
+</li>
+<li>
+<p>Tissue Compliance Committee (TCC)</p>
+</li>
+<li>
+<p>Research Data Oversight Committee (RDOC)</p>
+</li>
+</ul>
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Institution/NHG%20Research%20Institution%20(RI)%20Policy%20%5BAPPROVED%5D.pdf?Web=1" rel="noopener nofollow" target="_blank">NHG RI Policy here</a> (Restricted:
+NHG Intranet access required).</p>
+<p></p>
 <p></p>
 </div>
 </details>
