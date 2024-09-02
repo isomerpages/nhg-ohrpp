@@ -166,9 +166,23 @@ Innovation</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2014</summary>
+<summary><strong>CRCS Forum (25 July 2014)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Conducting Monitoring Visit for Investigator-Initiated Studies
+<br>Mr Xia Yu, SCRI</p>
+</li>
+<li>
+<p>Quality Control for Phase I Trials – Site Perspectives
+<br>Ms Yew Lay Hwa, CGH</p>
+</li>
+<li>
+<p>Impact of Privacy Laws in Clinical Trials
+<br>Ms Rebecca Chew, Rajah &amp; Tann LLP</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
