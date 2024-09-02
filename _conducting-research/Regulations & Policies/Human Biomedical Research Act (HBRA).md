@@ -66,47 +66,12 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong><u>NHG Research Governance Framework</u></strong>
-</p>
+<h4><strong><u>NHG Research Governance Framework</u></strong></h4>
 <p>&nbsp;</p>
 <p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong><u>NHG Research Compliance Unit (RCU)</u></strong>
-</p>
-<p>RCU ensures NHG’s compliance with the Human Biomedical Research Act (HBRA).&nbsp;</p>
-<p>&nbsp;</p>
-<p>RCU oversees 5 key portfolios:&nbsp;</p>
-<p>a. <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/human+biomedical+research+act+-+hbra+#RI" rel="noopener noreferrer nofollow" target=""><u>Secretariat for Research Institution (RI)</u></a></strong>
-</p>
-<p>b. <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/research+data+management" rel="noopener noreferrer nofollow" target="_blank"><u>Secretariat for Research Data Oversight Committee (RDOC)</u></a></strong>&nbsp;&nbsp;</p>
-<p>c. <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/human+tissue+framework" rel="noopener noreferrer nofollow" target="_blank"><u>Secretariat for Tissue Compliance Committee (TCC)</u></a></strong>
-</p>
-<p>d. <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/02+ethics+and+quality/research+quality/monitoring" rel="noopener noreferrer nofollow" target="_blank"><u>Execution of Proactive Monitoring Framework</u></a></strong>&nbsp;</p>
-<p>e. <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/responsible+conduct+of+research+%28rcr%29" rel="noopener noreferrer nofollow" target="_blank"><u>Secretariat for Responsible Conduct of Research (RCR)</u></a></strong>
-</p>
-<p>&nbsp;</p>
-<p><strong><u>NHG Research Institution (RI)</u></strong>
-</p>
-<p>The NHG RI is responsible for ensuring that all human biomedical research
-conducted under its supervision and control is in compliance with the HBRA.
-<br>For the purpose of coordinating research across collaborative studies,
-the RI of the submitting/lead PI will be assumed as the lead RI.</p>
-<p><strong>About the RI Policy</strong>
-</p>
-<p>The RI Policy outlines the functions and duties of NHG RI and duties of
-the NHG Principal Person In Charge (PIC) to fulfill the requirements of
-the HBRA, and describes the NHG research governance framework that enables
-the RI to meet the requirements of the HBRA and other relevant Acts and
-regulations applicable to research. This also outlines the roles and responsibilities
-of the following committees that provide oversight of human biomedical
-research (HBR) activities in NHG:</p>
-<p>i)&nbsp; &nbsp; Research Committee (RC)</p>
-<p>ii)&nbsp; &nbsp;Research Ethics Committee (REC)</p>
-<p>iii)&nbsp; Tissue Compliance Committee (TCC)</p>
-<p>iv)&nbsp; Research Data Oversight Committee (RDOC)</p>
-<p>Get a copy of the NHG RI Policy <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Institution/NHG%20Research%20Institution%20(RI)%20Policy%20%5BAPPROVED%5D.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> (NHG
-Intranet access required).</p>
+<p></p>
 <p><strong>HBR Case Studies</strong>
 </p>
 <p>The NHG RI shares good practices and negative examples using short case
