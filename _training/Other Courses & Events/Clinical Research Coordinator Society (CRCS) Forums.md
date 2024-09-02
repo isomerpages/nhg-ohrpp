@@ -332,7 +332,7 @@ Office, National Healthcare Group (NHG)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Common GCP Inspection Findings for 2014
+<p><strong><a href="http://www.hsa.gov.sg/content/dam/HSA/HPRG/Clinical_Trials/GCP/Common%20GCP%20Inspection%20Findings_2014%20(CRP-CRCS_12Dec2014).pdf" rel="noopener nofollow" target="_blank">Common GCP Inspection Findings for 2014</a></strong>
 <br>Ms Sumitra Sachidanandan, HSA</p>
 </li>
 </ul>
@@ -353,15 +353,15 @@ Office, National Healthcare Group (NHG)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Conducting Monitoring Visit for Investigator-Initiated Studies
+<p><strong><a href="/files/Training Files/CRCS Forum 2014/Conducting_Monitoring_Visit_for_Investigator_Initiated_Studies_25_Jul_2014.pdf" rel="noopener noreferrer nofollow" target="_blank">Conducting Monitoring Visit for Investigator-Initiated Studies </a></strong>
 <br>Mr Xia Yu, SCRI</p>
 </li>
 <li>
-<p>Quality Control for Phase I Trials – Site Perspectives
+<p><strong><a href="/files/Training Files/CRCS Forum 2014/Quality_Control_for_Phase_I_Trials___Site_Perspectives_25_Jul_2014.pdf" rel="noopener noreferrer nofollow" target="_blank">Quality Control for Phase I Trials – Site Perspectives </a></strong>
 <br>Ms Yew Lay Hwa, CGH</p>
 </li>
 <li>
-<p>Impact of Privacy Laws in Clinical Trials
+<p><strong><a href="/files/Training Files/CRCS Forum 2014/Impact_of_Personal_Data_Protectection_Laws_in_Clinical_Trials_25_Jul_2014.pdf" rel="noopener noreferrer nofollow" target="_blank">Impact of Privacy Laws in Clinical Trials </a></strong>
 <br>Ms Rebecca Chew, Rajah &amp; Tann LLP</p>
 <p></p>
 </li>
@@ -374,5 +374,4 @@ Office, National Healthcare Group (NHG)</p>
 <p></p>
 <p></p>
 <p></p>
-<p><a href="/files/Training Files/CRCS Forum 2016/Human_Biomedical_Research_Act_9_Dec_2016.pdf" rel="noopener nofollow" target="_blank">file</a>
-</p>
+<p></p>
