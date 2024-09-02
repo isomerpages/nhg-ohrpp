@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About our Publications.md
-      - OHRPP Post Its.md
       - Chicken Soup for the Busy Coordinator.md
-      - Tissue Compliance Circular.md
       - HBR Case Study Circular.md
+      - OHRPP Post Its.md
+      - Tissue Compliance Circular.md
