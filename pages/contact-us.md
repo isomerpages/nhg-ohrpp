@@ -11,5 +11,30 @@ contacts:
           href="https://staging.d2xg4pfdtrypjl.amplifyapp.com/files/Content%20Files/DSRB_Contact_List_12_June_2024.pdf">DSRB
           Secretariat Contact List</a>
     title: NHG Domain Specific Review Boards (DSRB)
+  - content:
+      - phone: ""
+      - email: research_education@nhg.com.sg
+      - other: ""
+    title: NHG Research Education (RE)
+  - content:
+      - phone: ""
+      - email: researchquality@nhg.com.sg
+      - other: ""
+    title: NHG Research Quality Management (RQM) Programme
+  - content:
+      - phone: ""
+      - email: RDOCSecretariat@nhg.com.sg
+      - other: ""
+    title: NHG Research Data Oversight Committee Secretariat
+  - content:
+      - phone: ""
+      - email: NHGTCCSecretariat@nhg.com.sg
+      - other: ""
+    title: NHG Tissue Compliance Committee Secretariat
+  - content:
+      - phone: ""
+      - email: NHGRCRSecretariat@nhg.com.sg
+      - other: ""
+    title: NHG Responsible Conduct of Research Secretariat
 feedback: ""
 ---
