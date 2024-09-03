@@ -18,7 +18,7 @@ and contain essential information and practical knowledge that can be applied
 at work. We hope that the Chicken Soup will indeed be a nourishing resource
 for you!</p>
 <p></p>
-<h4><strong>Latest Issue</strong></h4>
+<h4><strong>Latest Issues</strong></h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">August 2024 : Understanding ECOS CRMS Non-Investigator Roles</div><div class="isomer-card-description">Learn more about the various Non-Investigator Roles that can be found in the ECOS system, and what you can do with them.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
@@ -34,10 +34,7 @@ Khoo Teck Puat Hospital</div>
 </div>
 <p></p>
 <h4><strong>Past Issues by Topic</strong></h4>
-<p><strong>DISCLAIMER: Past Issues/Articles may contain best practices, policies or SOPs that have been superseded or may no longer relevant or applicable.</strong>
-</p>
-<p><strong>For NHG and partner institutions, we encourage you to refer to our website or the latest NHG PCR SOPs (available via NHG Intranet access or Partner Institution’s CRU/Research office).&nbsp; Always refer to your own institution’s latest policy, SOPs, guidance documents and templates.</strong>
-</p>
+<p></p>
 <p></p>
 <p>a</p>
 <p>b</p>
