@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
-<h4><strong>Chicken Soup for the Busy Coordinator</strong></h4>
+<h4><strong>What is Chicken Soup?</strong></h4>
 <p>The <strong>Clinical Research Coordinator Society (CRCS)</strong> is aware
 that our multi-tasking coordinators often have to deal with ambiguous problems
 and situations.</p>
