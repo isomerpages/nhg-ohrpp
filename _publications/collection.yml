@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - About our Publications.md
       - Chicken Soup Series/.keep
       - Chicken Soup Series/Chicken Soup for the Busy Coordinator.md
       - Chicken Soup Series/Biological Samples.md
@@ -21,7 +22,6 @@ collections:
       - Chicken Soup Series/Unanticipated Problems Involving Risks to Subjects
         or Others (UPIRTSO).md
       - Chicken Soup Series/Other Topics.md
-      - About our Publications.md
       - HBR Case Study Circular.md
       - OHRPP Post Its.md
       - Tissue Compliance Circular.md
