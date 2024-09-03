@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Chicken Soup for the Busy Coordinator.md
+      - Chicken Soup Series/Unanticipated Problems Involving Risks to Subjects
+        or Others (UPIRTSO).md
       - Chicken Soup Series/.keep
       - About our Publications.md
       - HBR Case Study Circular.md
