@@ -13,7 +13,7 @@ in tissue banking activities.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>These Circulars are access-restricted to NHG Staff. </strong>
+<p><strong>These Circulars are access-restricted to NHG Staff.</strong>
 </p>
 </li>
 <li>
@@ -23,7 +23,55 @@ in tissue banking activities.</p>
 </ul>
 <p></p>
 <p></p>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2024 Circulars</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/30.%20TCC%20Issue%202-2024_Final_28Feb2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Attention to clinical laboratories: Do you know that appropriate consent
+must be obtained before clinical human tissue specimens can be supplied
+for research?
+<br>1. Why is appropriate consent required for the supply of de-identified
+human tissue for research
+<br>2. Requirements to be fulfiled prior to the release of tissue
+<br>(Released 28 Feb 2024)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/29.%20TCC%20Issue%201-2024_Final_16Jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 01/2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TCC Requirements for Industry-Sponsored Studies
+<br>Addressing FAQs on human tissue management for industry-sponsored studies:
+<br>1. Tissue samples stored for a few hours in the institution's freezer;
+should a tissue bank be set up for this temporary storage?
+<br>2. How should temporarily stored samples be managed - records to be maintained
+and scope of monitoring. Introduction to PCT 1505-04 NHG Tissue Banking
+Activities Monitoring Plan Template
+<br>3. Who can perform tissue bank / tissue collection monitoring
+<br>
+<br>(Released 16 Jan 2024)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
