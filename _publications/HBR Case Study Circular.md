@@ -13,7 +13,7 @@ in tissue banking activities.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>These Circulars are access-restricted to NHG Staff.</strong>
+<p><strong>These Circulars are access-restricted to NHG Staff only.</strong>
 </p>
 </li>
 <li>
@@ -620,4 +620,17 @@ Do? A 3-step Guide.
 </div>
 </details>
 </div>
+<p></p>
+<p><strong>NOTE</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>These Circulars are access-restricted to NHG Staff only.</strong>
+</p>
+</li>
+<li>
+<p><strong>NHG-Intranet access is required before they can be downloaded.</strong>
+</p>
+</li>
+</ul>
 <p></p>
