@@ -25,7 +25,7 @@ in tissue banking activities.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2024 Circulars</strong>
+<summary><strong>2024 Circulars (2)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -75,7 +75,7 @@ Activities Monitoring Plan Template
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2023 Circulars</strong>
+<summary><strong>2023 Circulars (3)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -140,7 +140,7 @@ Tissue Framework (HTF) Course before commencing tissue banking activities
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2022 Circulars</strong>
+<summary><strong>2022 Circulars (6)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -263,7 +263,7 @@ Consent
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2021 Circulars</strong>
+<summary><strong>2021 Circulars (4)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -370,7 +370,7 @@ tissue had been collected and made non-identifiable before 01 Nov 2019.
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2020 Circulars</strong>
+<summary><strong>2020 Circulars (10)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -540,7 +540,7 @@ of additional tissue for future research
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2019 Circulars</strong>
+<summary><strong>2019 Circulars (5)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
