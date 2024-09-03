@@ -7,14 +7,14 @@ third_nav_title: Chicken Soup Series
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p>(Jun 24) ECOS - How to Add Team Members in Clinical Research Management
+<p>(Jun 2024) ECOS - How to Add Team Members in Clinical Research Management
 (CRMS)</p>
 </li>
 <li>
-<p>(Apr 24) Ethics and Compliance Online System (ECOS) Launch</p>
+<p>(Apr 2024) Ethics and Compliance Online System (ECOS) Launch</p>
 </li>
 <li>
-<p>(Feb 24) Ethics and Compliance Online System (ECOS)</p>
+<p>(Feb 2024) Ethics and Compliance Online System (ECOS)</p>
 </li>
 </ul>
 <p></p>
