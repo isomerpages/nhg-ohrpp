@@ -34,158 +34,23 @@ Khoo Teck Puat Hospital</div>
 </div>
 <p></p>
 <h4><strong>Past Issues by Topic</strong></h4>
-<p><strong>DISCLAIMER: Past issues/articles may contain best practices or SOPs that have been superseded or may no longer relevant.</strong>
+<p><strong>DISCLAIMER: Past Issues/Articles may contain best practices, policies or SOPs that have been superseded or may no longer relevant or applicable.</strong>
 </p>
-<p>For NHG and partner institutions, we encourage you to refer to our website
-or the latest <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/resources/pcr+sops+and+templates" rel="noopener noreferrer nofollow" target="_blank"><u>NHG PCR SOPs</u></a></strong> (available
-via NHG Intranet access or Partner Institution’s CRU/Research office).&nbsp;
-Always refer to your own institution’s latest policy/ SOPs/ guidance documents/
-templates.</p>
+<p><strong>For NHG and partner institutions, we encourage you to refer to our website or the latest NHG PCR SOPs (available via NHG Intranet access or Partner Institution’s CRU/Research office).&nbsp; Always refer to your own institution’s latest policy, SOPs, guidance documents and templates.</strong>
+</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Biological Samples</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>(1) Biological Samples</p>
-</div>
-</details>
-</div>
+<p>a</p>
+<p>b</p>
+<p>c</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Data Collection &amp; Source Documentation</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Databases</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>DSRB Documentation</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Informed Consent</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Investigational Product Accountability</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Investigator File and Overall Study Documentation</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Non-Compliance</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Pre-Study Activities</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Regulatory Documentation</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Research Policy, Guidelines &amp; SOP Updates</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Study Conduct</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Study Team &amp; Responsibilities</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Subject Recruitment Procedures</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Unanticipated Problems Involving Risks to Subjects or Others (UPIRTSO)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Others</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<p><strong>DISCLAIMER: Past issues/articles may contain best practices or SOPs that have been superseded or may no longer relevant.</strong>
+<p><strong>DISCLAIMER: Past Issues/Articles may contain best practices, policies or SOPs that have been superseded or may no longer relevant or applicable.</strong>
+</p>
+<p><strong>For NHG and partner institutions, we encourage you to refer to our website or the latest NHG PCR SOPs (available via NHG Intranet access or Partner Institution’s CRU/Research office).&nbsp; Always refer to your own institution’s latest policy, SOPs, guidance documents and templates.</strong>
 </p>
 <p></p>
