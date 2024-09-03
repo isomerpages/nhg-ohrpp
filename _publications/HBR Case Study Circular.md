@@ -9,15 +9,209 @@ Framework, the Tissue Secretariat have initiated a publication series called
 “Tissue Compliance Circular” for tissue custodians and individuals involved
 in tissue banking activities.</p>
 <p>The Circulars are organized by their release dates.</p>
-<p><strong>NOTE: These Circulars are access-restricted to NHG Staff. NHG-Intranet access is required before they can be downloaded.</strong>
+<p><strong>NOTE</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>These Circulars are access-restricted to NHG Staff. </strong>
+</p>
+</li>
+<li>
+<p><strong>NHG-Intranet access is required before they can be downloaded.</strong>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2023 Circulars</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/28.%20TCC%20Issue%203-2023_Final_10Jul2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 03/2023</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Human Tissue Framework (HTF) Practicum Course. Register your interest
+by 16 August 2023.
+<br>1. Link for registration
+<br>2. Held via zoom on 30 August 2023
+<br>(Released 10 Jul 2023)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/27.%20TCC%20Issue%202-2023_Final_29May2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2023</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NHG Tissue Bank Monitoring Framework
+<br>1. Types of monitoring activities within the NHG Tissue Bank Monitoring
+Framework (i.e. SIV, SMV, Annual Tissue Banking Activity Self-Assessment
+(TASA))
+<br>2. Scope of the NHG Tissue Bank Monitoring Framework
+<br>3. How should monitoring activities be documented - PCT 1502-01 NHG Tissue
+Bank Review Checklist
+<br>4. New/Updated resources
+<br>a) PCT 1505-04 NHG Tissue Banking Activities Monitoring Plan Template
+<br>b) PCT 1501-B04 Quality Management of Tissue Banks and Tissue Collections
+<br>c) PCT 1504-08 Tissue Banking Activity Self-Assessment Form (TASAF)
+<br>(Released 29 May 2023)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/26.%20TCC%20Issue%201-2023_Final_06Feb2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 01/2023</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New to Tissue Banking Activities? In NHG, you must complete the Human
+Tissue Framework (HTF) Course before commencing tissue banking activities
+<br>1. Who should complete the HTF Course
+<br>2. What to expect from the HTF Course
+<br>3. When should the HTF Course be completed
+<br>4. How to access the HTF Course
+<br>(Released 6 Feb 2023)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
-<p></p>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2022 Circulars</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/25.%20TCC%20Issue%206-2022_Final_29Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 06/2022</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Which application form should you use? – Tissue Bank Application Form
+or Tissue Collection Application Form?
+<br>1. Information on which Tissue Application Form to use under different
+scenarios
+<br>2. Announcement on new resource: NHG Investigator's Manual Chapter 9 -
+Tissue Repository
+<br>3. Announcement on updated resources
+<br>a) 1703-01 TB application form
+<br>b) 1703-03 TB amendment form
+<br>c) 1703-04 TC amendment form
+<br>d) 1703-07 Declaration of LHBM
+<br>e) 1703-09 TC status report form
+<br>f) 1704-05 ICF for donation of biological material
+<br>(Released 6 Dec 2022)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/24.%20TCC%20Issue%205-2022_Final_29Sep2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 05/2022</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Compliance Case Study: Storage of Leftover Tissue Without Consent
+<br>1. Case study of non-compliance that was observed at a&nbsp; TQM on-site
+audit on 23 Aug 2022.
+<br>a) Non-compliance from TB-2021-002
+<br>b) There was a transfer in custodianship of tissues from the study team
+PI to the TB custodian. Custodian did not check through the ICFs nor verify
+and track the consent restrictions of each sample received till much later.
+It was noted that there leftover blood specimens from a donor were stored
+without appropriate consent.
+<br>c) Introduction to the 1504-09 Tissue Handover Form to document transfer
+of custodianship
+<br>
+<br>2. Announcement that the 1703-02 Tissue Collection Form has been updated
+<br>(Released 29 Sep 2022)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/23.%20TCC%20Issue%204-2022_Final_02Aug2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 04/2022</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Human Tissue Framework (HTF) Practicum Course. Register your interest
+by 16 September 2022.
+<br>1. Introduction to the HTF Practicum Course
+<br>2. Link for registration
+<br>3. Held via zoom on 30 September 2022
+<br>(Released 4 Aug 2022)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/22.%20TCC%20Issue%203-2022_Final_13Jun2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 03/2022</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Documenting Right to Meet HBRA 37(9)
+<br>1. Implications of HBRA 37(9)
+<br>2. Scenarios where HBRA 37(9) is applicable/not applicable
+<br>3. Introduction ot 1505-03 Letter of Undertaking for Leftover Tissues
+Template to comply with HBRA 37(9)
+<br>4. Reminder that appropriate consent must be obtained from donors before
+supplying leftover diagnostic tissue
+<br>5. Reminder on the Human Tissue Framework Forum
+<br>(Released 13 Jun 2022)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/21.%20TCC%20Issue%202-2022_Final_29Mar2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2022</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Attention: Updates to the NHG Policy for Tissue Banks
+<br>1. 4 key updates to the policy dated 11Feb2022
+<br>2. Reminder to register with NHG TCC if researcher is involved in tissue
+banking activities
+<br>3. Annoucement that HTF Minimum Training Requirements will be extended
+to SAF staff/doctors appointed in NHG
+<br>(Released 29 Mar 2022)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/20.%20TCC%20Issue%201-2022_Final_03Feb2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 01/2022</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Compliance Case Study: Storage of Leftover Tissue Without Appropraite
+Consent
+<br>Case study of non-compliance that was observed at a TQM remote audit on
+30 Sep 2021.
+<br>a) Non-compliance from TB-2019-002 at KTPH
+<br>b) Donor autonomy was neglected
+<br>c) Storage without appropriate consent
+<br>(Released 3 Feb 2022)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
