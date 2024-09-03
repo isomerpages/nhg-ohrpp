@@ -33,21 +33,74 @@ Khoo Teck Puat Hospital</div>
 </a>
 </div>
 <p></p>
-<h4><strong>Past Issues by Topic</strong></h4>
+<h4><strong>Past Issues</strong></h4>
+<p>Here are the past Chicken Soup issues organized by Topic.</p>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Biological Samples</p>
+</li>
+<li>
+<p>Data Collection &amp; Source Documentation</p>
+</li>
+<li>
+<p>Database (No related articles yet.)</p>
+</li>
+<li>
+<p>DSRB Documentation</p>
+</li>
+<li>
+<p>Ethics and Compliance Online System (ECOS)</p>
+</li>
+<li>
+<p>Informed Consent</p>
+</li>
+<li>
+<p>Investigational Product Accountability</p>
+</li>
+<li>
+<p>Investigator File and Overall Study Documentation</p>
+</li>
+<li>
+<p>Non-Compliance</p>
+</li>
+<li>
+<p>Pre-Study Activities</p>
+</li>
+<li>
+<p>Regulatory Documentation</p>
+</li>
+<li>
+<p>Research Policy, Guidelines &amp; SOP Updates</p>
+</li>
+<li>
+<p>Study Conduct</p>
+</li>
+<li>
+<p>Study Team &amp; Responsibilities</p>
+</li>
+<li>
+<p>Subject Recruitment Procedures</p>
+</li>
+<li>
+<p>Unanticipated Problems Involving Risks to Subjects or Others (UPIRTSO)</p>
+</li>
+<li>
+<p>Other Topics</p>
+</li>
+</ul>
 <p></p>
-<p>a</p>
-<p>b</p>
-<p>c</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>DISCLAIMER: Past Issues/Articles may contain best practices, policies or SOPs that have been superseded or may no longer relevant or applicable.</strong>
-</p>
-<p><strong>For NHG and partner institutions, we encourage you to refer to our website or the latest NHG PCR SOPs (available via NHG Intranet access or Partner Institution’s CRU/Research office).&nbsp; Always refer to your own institution’s latest policy, SOPs, guidance documents and templates.</strong>
-</p>
+<h4><strong>DISCLAIMER</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Past Issues/Articles may contain best practices, policies or SOPs that
+have been superseded or may no longer relevant or applicable.</p>
+</li>
+<li>
+<p>For NHG and partner institutions, we encourage you to refer to our website
+or the latest NHG PCR SOPs (available via NHG Intranet access or Partner
+Institution’s CRU/Research office).&nbsp; Always refer to your own institution’s
+latest policy, SOPs, guidance documents and templates.</p>
+</li>
+</ul>
 <p></p>
