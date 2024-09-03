@@ -8,10 +8,11 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Mar 23) How to obtain informed consent from subjects with cognitive impairment</p>
+<p>(Mar 2023) How to obtain informed consent from subjects with cognitive
+impairment</p>
 </li>
 <li>
-<p>(Nov 22) Regulatory Guidance on Consent Requirements for Clinical Trials
+<p>(Nov 2022) Regulatory Guidance on Consent Requirements for Clinical Trials
 involving Collection and Use of Human Tissue</p>
 </li>
 <li>
@@ -19,42 +20,43 @@ involving Collection and Use of Human Tissue</p>
 it impact your study?</p>
 </li>
 <li>
-<p>(Feb 22) Informed Consent Process During Covid-19 Period</p>
+<p>(Feb 2022) Informed Consent Process During Covid-19 Period</p>
 </li>
 <li>
-<p>(Oct 21) When is Re-consenting of Research Subjects Needed?</p>
+<p>(Oct 2021) When is Re-consenting of Research Subjects Needed?</p>
 </li>
 <li>
-<p>(Aug 21) Impartial Witness &amp; Witness In Informed Consent-Taking For
-HBR Studies</p>
+<p>(Aug 2021) Impartial Witness &amp; Witness In Informed Consent-Taking
+For HBR Studies</p>
 </li>
 <li>
-<p>(Dec 20) Pointers for Electronic Consent (e-Consent)</p>
+<p>(Dec 2020) Pointers for Electronic Consent (e-Consent)</p>
 </li>
 <li>
-<p>(Nov 20) Informed Consent: When is an Impartial Witness Needed?</p>
+<p>(Nov 2020) Informed Consent: When is an Impartial Witness Needed?</p>
 </li>
 <li>
-<p>(Nov 19) How Should Consent Be Obtained From Subjects Lacking Mental Capacity?</p>
+<p>(Nov 2019) How Should Consent Be Obtained From Subjects Lacking Mental
+Capacity?</p>
 </li>
 <li>
-<p>(May 19) Witness requirements for Informed Consent process</p>
+<p>(May 2019) Witness requirements for Informed Consent process</p>
 </li>
 <li>
-<p>(Oct 18) Obtaining Consent for Adults lacking mental capacity in Human
+<p>(Oct 2018) Obtaining Consent for Adults lacking mental capacity in Human
 Biomedical Research</p>
 </li>
 <li>
-<p>(Jul 18) Re-consenting for HBR studies extending past 31 October 2018
+<p>(Jul 2018) Re-consenting for HBR studies extending past 31 October 2018
 involving the use of individually identifiable data/ materials</p>
 </li>
 <li>
-<p>(Apr 18) Processes for Consenting A Subject Into A Clinical Trial In An
-Emergency Situation</p>
+<p>(Apr 2018) Processes for Consenting A Subject Into A Clinical Trial In
+An Emergency Situation</p>
 </li>
 <li>
-<p>(Sep 17) How should Consent be obtained for Subjects who are unable to
-read?</p>
+<p>(Sep 2017) How should Consent be obtained for Subjects who are unable
+to read?</p>
 </li>
 </ul>
 <p></p>
