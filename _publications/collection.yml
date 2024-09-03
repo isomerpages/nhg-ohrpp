@@ -2,7 +2,6 @@ collections:
   publications:
     output: true
     order:
-      - Chicken Soup for the Busy Coordinator.md
       - Chicken Soup Series/Biological Samples.md
       - Chicken Soup Series/Database.md
       - Chicken Soup Series/DSRB Documentation.md
