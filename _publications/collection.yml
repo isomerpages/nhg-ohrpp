@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Chicken Soup for the Busy Coordinator.md
+      - Chicken Soup Series/DSRB Documentation.md
       - Chicken Soup Series/Ethics and Compliance Online System (ECOS).md
       - Chicken Soup Series/Informed Consent.md
       - Chicken Soup Series/Investigational Product Accountability.md
