@@ -2,7 +2,6 @@ collections:
   publications:
     output: true
     order:
-      - Chicken Soup Series/Chicken Soup for the Busy Coordinator.md
       - Chicken Soup Series/.keep
       - About our Publications.md
       - HBR Case Study Circular.md
