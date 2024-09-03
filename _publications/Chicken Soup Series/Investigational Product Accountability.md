@@ -5,7 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
+<ul data-tight="true" class="tight">
+<li>
 <p>(Nov 2021) Common Findings related to Investigational Product (IP) Management</p>
+</li>
+</ul>
 <p></p>
 <p><strong>DISCLAIMER</strong>
 </p>
