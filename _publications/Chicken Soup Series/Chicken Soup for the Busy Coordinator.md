@@ -25,9 +25,7 @@ for you!</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">July 2024 : Responsible Conduct of Research (RCR) - Authorship and Publications</div>
 <div class="isomer-card-description">Learn about the criteria for authorship, good publication practices, and
-how to avoid authorship disputes for a successful publication. Read more
-in our latest article by Qi Xiaoge, Senior Clinical Research Coordinator,
-Khoo Teck Puat Hospital</div>
+how to avoid authorship disputes for a successful publication.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a>
