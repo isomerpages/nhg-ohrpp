@@ -8,15 +8,15 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Jun 23) Precautions for Handling and Collecting Biological Specimens
+<p>(Jun 2023) Precautions for Handling and Collecting Biological Specimens
 during a Pandemic</p>
 </li>
 <li>
-<p>(May 23) Storage / Usage / Supplying of Leftover Human Tissue from Current
+<p>(May 2023) Storage / Usage / Supplying of Leftover Human Tissue from Current
 HBR</p>
 </li>
 <li>
-<p>(Apr 21) Biological Specimen Management</p>
+<p>(Apr 2021) Biological Specimen Management</p>
 </li>
 </ul>
 <p></p>
