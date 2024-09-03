@@ -5,7 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
+<ul data-tight="true" class="tight">
+<li>
 <p>(Oct 22) Using REDCap as Data Collection Tool for Research</p>
+</li>
+</ul>
 <p></p>
 <p><strong>DISCLAIMER</strong>
 </p>
