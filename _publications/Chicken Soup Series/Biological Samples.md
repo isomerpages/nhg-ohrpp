@@ -20,8 +20,7 @@ HBR</p>
 </li>
 </ul>
 <p></p>
-<p><strong>DISCLAIMER</strong>
-</p>
+<h4><strong>DISCLAIMER</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Past Issues/Articles may contain best practices, policies or SOPs that
