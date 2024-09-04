@@ -112,9 +112,51 @@ for download at the end of this page.</p>
 </details>
 </div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>(5) I’ve completed other research ethics training programmes, can I use it to waive the completion of the CITI Program?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The DSRB also accepts the SGGCP/GCP certificate as completion of the minimum
+training requirements.</p>
+<p>However, if you have completed other research ethics training programmes
+that are organised and conducted by a reputable body such as NHG institutions,
+Health Sciences Authority, National University of Singapore etc., you may
+apply for a waiver of the CITI Program for DSRB’s evaluation.</p>
+<p>Any programme that qualifies as a research ethics training equivalent
+to the CITI Program, should be at least an 8-hour programme and should
+address most of the following topics:
+<br>(1) History &amp; Ethics Principles of Research Ethics
+<br>(2) Regulatory Framework and Guidelines in Singapore
+<br>(3) Informed Consent
+<br>(4) Privacy and Confidentiality Issues</p>
 <p></p>
+<p>Please note that the <strong>National University Health System GCP Training Course</strong>  <strong><u>cannot</u></strong> be
+used to waive the completion of the CITI Program.</p>
 <p></p>
+</div>
+</details>
+</div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>(6) How do I apply&nbsp;for the waiver of CITI Program?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You can complete the CITI Minimum Training Requirement Waiver Form and
+email a copy of the waiver form to <strong><a href="mailto:min_ethics_training@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>min_ethics_training@nhg.com.sg</u></a></strong>.
+The DSRB will review the submitted form and determine whether waiver can
+be granted.
+<br>
+<br>Please note that approval for the waiver of CITI certification <strong><u>does not</u></strong> exempt
+investigators and study team members from completing the FCOI course.
+<br>
+<br>Please refer to the List of Available Guides, Forms and Useful Links available
+for download at the end of this page.</p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
