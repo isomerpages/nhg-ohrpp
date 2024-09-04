@@ -14,7 +14,7 @@ involved in research activities have basic research ethics training. The
 intent of having minimum training requirements is for Principal Investigators
 and the research community to appreciate and apply the underlying ethical
 principles to their day-to-day research practice.</p>
-<h4><strong>PART A – Minimum Training Requirements for Staff from NHG and Partner Institutions</strong></h4>
+<h4><strong>Minimum Training Requirements for Staff from NHG and Partner Institutions</strong></h4>
 <p></p>
 <p>There are 3 main types of training courses available:</p>
 <ul data-tight="true" class="tight">
