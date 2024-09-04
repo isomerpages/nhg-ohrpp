@@ -61,12 +61,43 @@ new Clinical Trials and amendments.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>a</summary>
+<summary><strong>(3) Is the completion of GCP training considered a minimum training for Population Health Research (Submission to DSRB Domain F)?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Investigators who are conducting population health research <strong><u>may not</u></strong> substitute
+completion of GCP Course for the CITI Program. This is because the contents
+covered in the GCP Course focuses on clinical trials involving medicinal/therapeutic
+products or devices, which are not relevant to the population health research.</p>
 <p></p>
 </div>
 </details>
 </div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>(4) What are the other accepted GCP Courses?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Other GCP courses which are recognised by DSRB include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Good Clinical Practice course, jointly conducted by SingHealth Investigational
+Medicine Unit and SingHealth Academy</p>
+</li>
+</ul>
+<p>If you have attended a GCP course conducted by an organisation that is
+not listed above, you may email a copy of the completion certificate and
+course agenda with the speakers’ designations to <strong><a href="mailto:min_ethics_training@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>min_ethics_training@nhg.com.sg</u></a></strong> for
+consideration. Requests for recognition of other GCP courses will be reviewed
+on a case-by-case basis.</p>
+<p>Note: Only courses that cover Singapore’s regulatory requirements and
+legal framework for clinical trials are likely to meet the criteria for
+recognition and should be submitted for review.</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
