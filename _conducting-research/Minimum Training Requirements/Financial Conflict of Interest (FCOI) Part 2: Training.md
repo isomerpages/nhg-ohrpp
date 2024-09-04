@@ -74,7 +74,8 @@ for download at the end of this page.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>4. Are there any alternative ways to complete the FCOI training?</summary>
+<summary><strong>(4) Are there any alternative ways to complete the FCOI training?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes. If you have completed either of the following alternative methods,
 you will be considered as having completed the FCOI training:</p>
