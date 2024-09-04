@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Who can be a Principal Investigator?.md
+      - Minimum Training Requirements/fcoi training.md
       - Minimum Training Requirements/.keep
       - Minimum Training Requirements/Overview of Minimum Training
         Requirements.md
