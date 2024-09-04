@@ -98,10 +98,37 @@ recognition and should be submitted for review.</p>
 </details>
 </div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>(5) Do I still need to complete the Financial Conflict of Interest (FCOI) Training Requirements?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes. With effect from <strong>1st January 2015</strong>, all investigators
+and study team members who are involved in the design, conduct or reporting
+of the research in institutions under the oversight of the NHG DSRB are
+required to complete the <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/fcoi+intro" rel="noopener noreferrer nofollow" target="_blank"><u>FCOI&nbsp;Course</u></a></strong>.
+<br>
+</p>
+</div>
+</details>
+</div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>(6) How do I update my GCP Training Status in ECOS?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please refer to the guidebook to updating your Minimum Training Status
+on the ECOS system. The guidebook will show ECOS Users how to access the
+Minimum Training Module to upload their training certificates into their
+User Profile.</p>
+<p><a href="https://ecossupport.gri.nhg.com.sg/files/User%20Guides/General%20ECOS%20Functionality/ECOS_Submitting_Min_Training_Certs_7_May_2024.pdf" rel="noopener nofollow" target="_blank"><u>Download here</u></a>
+</p>
 <p></p>
+</div>
+</details>
+</div>
 <p></p>
-<p></p>
-<p></p>
+<p>Updated: 23 Aug 2024</p>
 <p></p>
 <p></p>
