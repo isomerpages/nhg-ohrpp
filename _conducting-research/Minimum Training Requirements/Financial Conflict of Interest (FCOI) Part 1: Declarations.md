@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Minimum Training Requirements
 ---
-<h4><strong>PART I&nbsp;–&nbsp;Financial Conflict of Interest Declaration Requirements&nbsp;</strong></h4>
+<h4><strong>PART I&nbsp;–&nbsp;FCOI Declaration Requirements&nbsp;</strong></h4>
 <p>Investigators and study team members who are involved in research that
 is conducted under the oversight of NHG or partner institutions should
 not have conflicting interests that may adversely affect the protection
