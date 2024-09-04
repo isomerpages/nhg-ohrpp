@@ -85,9 +85,9 @@ you will be considered as having completed the FCOI training:</p>
 Requirements in your FCOI Declaration Form.</p>
 <p></p>
 <p>*The CITI Conflicts of Interest Course contains the following modules:
-<br>a. Financial Conflicts of Interest: Overview, Investigator Responsibilities,
+<br>(a) Financial Conflicts of Interest: Overview, Investigator Responsibilities,
 and COI Rules (COI-Basic) (ID: 15070)
-<br>b. Institutional Responsibilities as They Affect Investigators (COI-Basic)
+<br>(b) Institutional Responsibilities as They Affect Investigators (COI-Basic)
 (ID: 15072)</p>
 <p><strong>Alternative method 2</strong>
 <br>(i) You have completed the CITI Biomedical Basic Course which contains
@@ -99,5 +99,27 @@ Requirements in your FCOI Declaration Form.</p>
 </div>
 </details>
 </div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>(5) How do I update my FCOI Training Status?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>When you have completed the FCOI Course, you are encouraged to upload
+a copy of the completion report, which lists the modules that you have
+completed, onto your ECOS User Profile -&gt; ‘Minimum Training Certificates'
+section. Please select the appropriate Training Certification i.e. 'FCOI
+CITI'.</p>
+<p></p>
+<p>Upon receipt and verification, the Minimum Training Secretariat will update
+your FCOI CITI Training Status in ECOS. Please allow some time for processing.</p>
+<p></p>
+<p>You can refer to the ECOS User Guide for Minimum Training Module here.</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
