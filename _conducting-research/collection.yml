@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Who can be a Principal Investigator?.md
+      - Minimum Training Requirements/Collaborative Institutional Training
+        Initiative (CITI).md
       - Minimum Training Requirements/.keep
       - Minimum Training Requirements/Minimum Training Requirements.md
       - DSRB Ethics Review Guide/.keep
