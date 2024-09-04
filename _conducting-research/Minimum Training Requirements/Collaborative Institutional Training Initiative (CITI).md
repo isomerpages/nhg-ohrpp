@@ -158,6 +158,38 @@ for download at the end of this page.</p>
 </details>
 </div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>(7) How do I update my Minimum Training Status on the ECOS system?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please refer to the guidebook to updating your Minimum Training Status
+on the ECOS system. The guidebook will show ECOS Users how to access the
+Minimum Training Module to upload their training certificates into their
+User Profile.</p>
+<p><a href="https://ecossupport.gri.nhg.com.sg/files/User%20Guides/General%20ECOS%20Functionality/ECOS_Submitting_Min_Training_Certs_7_May_2024.pdf" rel="noopener nofollow" target="_blank">Download here</a>
+</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong>Useful Links</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit the CITI Program website here - <a href="http://www.citiprogram.org/" rel="noopener noreferrer nofollow" target="_blank"><u>www.citiprogram.org</u></a>
+</p>
+</li>
+<li>
+<p>Download the <a href="/files/Minimum Training/Guide_to_CITI_Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">Step-by-Step Guide to CITI Registration here</a>.</p>
+</li>
+<li>
+<p>Download the <a href="https://for.sg/citiwaiverform" rel="noopener nofollow" target="_blank">CITI Minimum Training Requirement Waiver Form here</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p>
