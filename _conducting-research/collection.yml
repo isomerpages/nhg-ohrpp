@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Who can be a Principal Investigator?.md
-      - NHG Investigator's Manual.md
       - DSRB Ethics Review Guide/.keep
       - Researcher Qualification/.keep
       - Researcher Qualification/Minimum Training Requirements.md
