@@ -2,6 +2,7 @@ collections:
   conducting-research:
     output: true
     order:
+      - Minimum Training Requirements/.keep
       - Who can be a Principal Investigator?.md
       - DSRB Ethics Review Guide/.keep
       - Researcher Qualification/.keep
