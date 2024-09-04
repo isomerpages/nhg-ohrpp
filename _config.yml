@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#d2232a"
     - title: media-color-three
-      color: "#00828d"
+      color: "#4a90e2"
     - title: media-color-four
-      color: "#00828d"
+      color: "#8d000f"
     - title: media-color-five
-      color: "#00828d"
+      color: "#f1671b"
 description: A National Healthcare Group (NHG) site built with Isomer
 permalink: none
 baseurl: ""
