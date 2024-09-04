@@ -69,5 +69,5 @@ study forms)</p>
 detected during study reviews will be recommended in the detailed audit
 report. The PI would be required to take actions in accordance to auditor’s
 recommendations and submit a Corrective and Preventive Action (CAPA) plan
-within a stipulated timeline</p>
+within a stipulated timeline.</p>
 <p></p>
