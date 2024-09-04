@@ -121,10 +121,14 @@ your FCOI CITI Training Status in ECOS. Please allow some time for processing.</
 </div>
 <p></p>
 <h4><strong>Useful Links</strong></h4>
-<p>Download a step-by-step Guide to Completing the FCOI Course for Investigators
-here.</p>
-<p>Download a step-by-step Guide to Completing the FCOI Course for Study
-Team Members here.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Download a step-by-step Guide to <a href="/files/FCOI Files/Guide_to_Completing_the_FCOI_Course_for_Investigators.pdf" rel="noopener noreferrer nofollow" target="_blank">Completing the FCOI Course for Investigators here</a>.</p>
+</li>
+<li>
+<p>Download a step-by-step Guide to <a href="/files/FCOI Files/Guide_to_Completing_the_FCOI_Course_for_Study_Team_Members.pdf" rel="noopener noreferrer nofollow" target="_blank">Completing the FCOI Course for Study Team Members here</a>.</p>
+</li>
+</ul>
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and queries, please contact the Minimum Ethics Training
