@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Minimum Training Requirements
 ---
-<h4><strong>PART I&nbsp;–&nbsp;Financial Conflict Of Interest Declaration Requirements&nbsp;</strong></h4>
+<h4><strong>PART I&nbsp;–&nbsp;Financial Conflict of Interest Declaration Requirements&nbsp;</strong></h4>
 <p>Investigators and study team members who are involved in research that
 is conducted under the oversight of NHG or partner institutions should
 not have conflicting interests that may adversely affect the protection
@@ -56,7 +56,7 @@ the submitted 2023 and 2024 FCOI Declarations. Please <a href="/files/FCOI Files
 </p>
 <p>From May 2024 onwards, please submit the FCOI Declaration via the Ethics
 and Compliance Online System (ECOS). You may refer to the <strong>ECOS User Guide for FCOI Module</strong> which
-can be <a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener nofollow" target="_blank">downloaded from here.</a> 
+can be <a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener nofollow" target="_blank">downloaded from here.</a>
 </p>
 <p>&nbsp;</p>
 <p></p>
