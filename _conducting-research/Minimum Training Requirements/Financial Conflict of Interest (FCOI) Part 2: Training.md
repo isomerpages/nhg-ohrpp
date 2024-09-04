@@ -39,14 +39,64 @@ for download at the end of this page.</p>
 <summary><strong>(2) I have not obtained my CITI certification; do I need to complete the FCOI course/modules in addition to the basic set of CITI modules?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Principal Investigators and Co-Investigators who have not obtained their
+CITI certification as of 1st January 2015 will need to complete the full
+set of 10 core modules and 5 elective modules, as described in item 1.1
+above. The 2 FCOI modules are encompassed within the 10 core modules in
+CITI. Therefore, there is no need to complete the FCOI course/modules separately.</p>
+<p>It is not mandatory for Study Team Members to complete the full set of
+10 core modules and 5 elective modules. They will only need to complete
+the 2 modules described in item 1.1.</p>
+<p>Please refer to the List of Available Guides, Forms and Useful Links available
+for download at the end of this page.</p>
 <p></p>
 </div>
 </details>
 </div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>(3) I have obtained my CITI certification; do I need to complete the FCOI course/modules?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Principal Investigators, Co-Investigators and Study Team Members who have
+obtained their CITI certification before 1st January 2015 will be considered
+to have completed the FCOI course if they had completed the 2 FCOI modules.</p>
+<p>If they had not completed the modules, they can choose to complete the
+missing elective CITI module “Conflicts of Interest in Research Involving
+Human Subjects” or complete the FCOI course.</p>
+<p>Please refer to the List of Available Guides, Forms and Useful Links available
+for download at the end of this page.</p>
 <p></p>
+</div>
+</details>
+</div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>4. Are there any alternative ways to complete the FCOI training?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes. If you have completed either of the following alternative methods,
+you will be considered as having completed the FCOI training:</p>
+<p><strong>Alternative method 1</strong>
+<br>(i) You have completed the CITI Conflicts of Interest Course* and
+<br>(ii) You have declared that you have read the latest FCOI Declaration
+Requirements in your FCOI Declaration Form.</p>
 <p></p>
+<p>*The CITI Conflicts of Interest Course contains the following modules:
+<br>a. Financial Conflicts of Interest: Overview, Investigator Responsibilities,
+and COI Rules (COI-Basic) (ID: 15070)
+<br>b. Institutional Responsibilities as They Affect Investigators (COI-Basic)
+(ID: 15072)</p>
+<p><strong>Alternative method 2</strong>
+<br>(i) You have completed the CITI Biomedical Basic Course which contains
+the Conflicts of Interest in Human Subjects Research (ID:17464) module
+and
+<br>(ii) You have declared that you have read the latest FCOI Declaration
+Requirements in your FCOI Declaration Form.</p>
 <p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
