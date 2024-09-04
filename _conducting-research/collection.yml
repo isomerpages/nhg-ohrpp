@@ -3,16 +3,16 @@ collections:
     output: true
     order:
       - Who can be a Principal Investigator?.md
-      - Minimum Training Requirements/HBRA – Human Tissue Framework Course.md
-      - Minimum Training Requirements/HBR Essential Research Conduct (ERC)
-        Course.md
-      - Minimum Training Requirements/Financial Conflict of Interest (FCOI)
-        Training Requirements.md
-      - Minimum Training Requirements/Good Clinical Practice (GCP) Training.md
-      - Minimum Training Requirements/Collaborative Institutional Training
-        Initiative (CITI).md
       - Minimum Training Requirements/.keep
       - Minimum Training Requirements/Minimum Training Requirements.md
+      - Minimum Training Requirements/Collaborative Institutional Training
+        Initiative (CITI).md
+      - Minimum Training Requirements/Good Clinical Practice (GCP) Training.md
+      - Minimum Training Requirements/Financial Conflict of Interest (FCOI)
+        Training Requirements.md
+      - Minimum Training Requirements/HBR Essential Research Conduct (ERC)
+        Course.md
+      - Minimum Training Requirements/HBRA – Human Tissue Framework Course.md
       - DSRB Ethics Review Guide/.keep
       - Data Collection & Storage.md
       - Data & Tissue Management/.keep
