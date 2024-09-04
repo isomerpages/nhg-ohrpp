@@ -27,7 +27,7 @@ Practice (GCP) and all other applicable guidelines and regulations.</p>
 <h4></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Who can be a Principal Investigator?</strong>
+<summary><strong>1. Who can be a Principal Investigator?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The PI should be a staff of NHG or partner institution for research conducted
@@ -55,19 +55,19 @@ a research, please refer to the NHG Investigator’s Manual which is available&n
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;i. Visiting Consultants</p>
+<p>Visiting Consultants</p>
 </li>
 <li>
-<p>ii. Conditionally Registered Medical Practitioners</p>
+<p>Conditionally Registered Medical Practitioners</p>
 </li>
 <li>
-<p>iii. Conditionally / Temporarily Registered Dentist</p>
+<p>Conditionally / Temporarily Registered Dentist</p>
 </li>
 <li>
-<p>iv. Multi-centre between different clusters (<strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/02+ethics+and+quality/dsrb+policy+updates/dsrb+announcements" rel="noopener noreferrer nofollow" target="_self"><u>CIRB-DSRB mutual recognition</u></a></strong>)&nbsp;</p>
+<p>Multi-centre between different clusters (<strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/02+ethics+and+quality/dsrb+policy+updates/dsrb+announcements" rel="noopener noreferrer nofollow" target="_self"><u>CIRB-DSRB mutual recognition</u></a></strong>)&nbsp;</p>
 </li>
 <li>
-<p>v. <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/02+ethics+and+quality/dsrb+policy+updates/dsrb+announcements" rel="noopener noreferrer nofollow" target="_self"><u>Multi-centre within NHG and Partner institutions</u></a></strong>
+<p><strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/02+ethics+and+quality/dsrb+policy+updates/dsrb+announcements" rel="noopener noreferrer nofollow" target="_self"><u>Multi-centre within NHG and Partner institutions</u></a></strong>
 </p>
 </li>
 </ul>
@@ -80,37 +80,44 @@ a research, please refer to the NHG Investigator’s Manual which is available&n
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>What other qualifications must the PI have?</strong>
+<summary><strong>2. What other qualifications must the PI have?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The PI must be:
-<br>•&nbsp;&nbsp; &nbsp;Qualified by education,
-<br>•&nbsp;&nbsp; &nbsp;Training and experience to assume responsibility for
-the proper conduct of a research study and,
-<br>•&nbsp;&nbsp; &nbsp;Should meet all qualifications specified by the applicable
-regulatory requirements.
+<p>The PI must be:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Qualified by education,</p>
+</li>
+<li>
+<p>Training and experience to assume responsibility for the proper conduct
+of a research study and,</p>
+</li>
+<li>
+<p>Should meet all qualifications specified by the applicable regulatory
+requirements.
 <br>
 </p>
+</li>
+</ul>
 </div>
 </details>
 </div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>What are the qualifications for being a PI for a Clinical Trial?</strong>
+<summary><strong>3. What are the qualifications for being a PI for a Clinical Trial?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-<br>Refer to the above table.</p>
+<br>Refer to the Table in part 1 "Who can be a Principal Investigator?" above</p>
 <p></p>
 <p>For more information regarding HSA requirements on who can be a PI, click <strong><a href="https://www.hsa.gov.sg/clinical-trials/conducting" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>&nbsp;OR
 visit</p>
 <p><strong><a href="https://www.hsa.gov.sg/clinical-trials/conducting" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hsa.gov.sg/clinical-trials/conducting</u></a></strong>
 </p>
 <p>For more information regarding on Pharmacist being a PI -
-<br>1. Download a copy of the Regulations from <strong><a href="https://www.hsa.gov.sg/clinical-trials/conducting" rel="noopener noreferrer nofollow" target="_blank"><u>https://sso.agc.gov.sg/SL/HPA2007-S332-2016</u></a></strong>
-</p>
-<p>2. Download a copy of the guidance from <strong><a href="https://www.hsa.gov.sg/clinical-trials/conducting" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moh.gov.sg/hpp/pharmacists/guidelines</u></a></strong>&nbsp;&nbsp;</p>
+<br>1. Download a copy of the <a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener nofollow" target="_blank">Regulations here</a>.</p>
+<p>2. Download a copy of the <a href="https://www.moh.gov.sg/hpp/pharmacists/guidelines" rel="noopener nofollow" target="_blank">Guidance here</a>.</p>
 <p></p>
 </div>
 </details>
