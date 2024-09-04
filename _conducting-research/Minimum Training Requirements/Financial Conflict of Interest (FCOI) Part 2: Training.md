@@ -15,6 +15,23 @@ how conflicting interests may adversely affect the protection of participants
 or the credibility of the human research protection programme.</p>
 <p></p>
 <h4><strong>FAQs</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>(1) What is the NHG CITI FCOI course?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Financial Conflicts of Interest (FCOI) course is a sub-component of
+the CITI Program. It comprises of 2 core modules:
+<br>(1) NHG – Singapore. Overview of Domain Specific Review Board (DSRB) Review
+Process (ID: 810)
+<br>(2) Conflicts of Interest in Human Subjects Research (ID:17464)</p>
+<p>It is important to affiliate with “<strong>National Healthcare Group – Singapore</strong>”
+so that you can access the FCOI Course.</p>
+<p>Please refer to the List of Available Guides, Forms and Useful Links available
+for download at the end of this page.</p>
 <p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
