@@ -47,7 +47,8 @@ Health Research.</p>
 <summary><strong>(2) I’m conducting Biomedical Research (Submission to DSRB Domains A-E). Which CITI modules should I complete?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Curriculum:</strong> Human Research</p>
+<p><strong>Curriculum: Human Research</strong>
+</p>
 <p><strong>(A) Core Modules</strong>
 </p>
 <p>You will need to complete 7 fundamental research ethics modules and the
@@ -66,6 +67,53 @@ specialty.</p>
 </div>
 </details>
 </div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>(3) I’m conducting Population Health Research (Submission to DSRB Domain F). Which CITI modules should I complete?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Curriculum: Human Research</strong>
+</p>
+<p><strong>(A) Core Modules</strong>
+<br>You will need to complete 7 fundamental research ethics modules and the
+following 3 modules specific for NHG Investigators:
+<br>(1) National Healthcare Group – Singapore
+<br>(2) NHG – Singapore. Overview of the Regulatory Framework and Guidelines
+in Singapore
+<br>(3) NHG – Singapore. Overview of Domain Specific Review Board (DSRB) Review
+Process</p>
+<p></p>
+<p><strong>(B) Elective Modules</strong>
+<br>You will need to complete 5 elective modules out of the 11 Social, Behavioural
+and Educational (SBE) related modules based on the relevance to the nature
+of your studies and your areas of specialty. These modules can be identified
+by ‘SBE’ in the suffix.</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>(4) How do I register for the CITI Program?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You can register for the program through the online system at <strong><a href="http://www.citiprogram.org/" rel="noopener noreferrer nofollow" target="_blank"><u>www.citiprogram.org</u></a></strong>.
+<br>
+<br><strong>It is important to affiliate with “<u>National Healthcare Group – Singapore</u>” so that you can access the correct curriculum.</strong>
+<br>
+<br>Upon completing the registration form, you can immediately begin your
+learning with the CITI program.
+<br>
+<br>Please refer to the List of Available Guides, Forms and Useful Links available
+for download at the end of this page.</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
