@@ -2,9 +2,9 @@ collections:
   conducting-research:
     output: true
     order:
-      - Minimum Training Requirements/Minimum Training Requirements.md
-      - Minimum Training Requirements/.keep
       - Who can be a Principal Investigator?.md
+      - Minimum Training Requirements/.keep
+      - Minimum Training Requirements/Minimum Training Requirements.md
       - DSRB Ethics Review Guide/.keep
       - Data Collection & Storage.md
       - Data & Tissue Management/.keep
