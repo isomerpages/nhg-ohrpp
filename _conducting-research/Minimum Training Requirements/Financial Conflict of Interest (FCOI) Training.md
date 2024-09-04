@@ -58,14 +58,22 @@ the submitted 2023 and 2024 FCOI Declarations. Please <a href="/files/FCOI Files
 and Compliance Online System (ECOS). You may refer to the <strong>ECOS User Guide for FCOI Module</strong> which
 can be <a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener nofollow" target="_blank">downloaded from here.</a>
 </p>
-<p>&nbsp;</p>
-<h4><strong>Useful Links</strong></h4>
 <p></p>
+<h4><strong>Useful Links</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Download the <a href="/files/FCOI Files/FCOI_FAQs_v010724.pdf" rel="noopener noreferrer nofollow" target="_blank">FCOI Frequently Asked Questions here</a>.</p>
+</li>
+<li>
 <p>See the <a href="http://www.ecfr.gov/cgi-bin/text-idx?rgn=div5&amp;node=45:1.0.1.1.51" rel="noopener noreferrer nofollow" target="_blank"><u>Electronic Code of Federal Regulations, PART 94 -&nbsp;RESPONSIBLE PROSPECTIVE CONTRACTORS here</u></a>
 </p>
-<p>Download the <a href="/files/FCOI Files/DHHS_Financial_Disclosure_Guidance_Feb_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">DHHS&nbsp;Guidance&nbsp;for&nbsp;Clinical&nbsp;Investigators,&nbsp;Industry,&nbsp;and&nbsp;FDA&nbsp;Staff -  Financial&nbsp;Disclosure&nbsp;by&nbsp;Clinical&nbsp;Investigators&nbsp;(February&nbsp;2013)&nbsp;document here</a>.</p>
-<h4><br><strong>Contact information</strong></h4>
+</li>
+<li>
+<p>Download the <a href="/files/FCOI Files/DHHS_Financial_Disclosure_Guidance_Feb_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">DHHS&nbsp;Guidance&nbsp;for&nbsp;Clinical&nbsp;Investigators,&nbsp;Industry,&nbsp;and&nbsp;FDA&nbsp;Staff - Financial&nbsp;Disclosure&nbsp;by&nbsp;Clinical&nbsp;Investigators&nbsp;(February&nbsp;2013)&nbsp;document here</a>.</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>Contact information</strong></h4>
 <p>For more information and queries, please contact the FCOI Declaration
 Secretariat:
 <br>Email: <a href="https://www.research.nhg.com.sg/wps/wcm/connect/a582e9bf-ec94-49ab-ad63-36720c7aa8dc/FCOI_FAQs_v010724_Cleaned.pdf?MOD=AJPERES&amp;amp;CVID=p2g6Qeh&amp;amp;CVID=p2g6Qeh" rel="noopener noreferrer nofollow" target="_blank"><u>DSRB_FCOI@nhg.com.sg</u></a>
