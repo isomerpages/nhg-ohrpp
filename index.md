@@ -11,7 +11,7 @@ sections:
       background: /images/Hero Banners/hero-banner.png
       variant: center
   - resources:
-      title: Latest News, Announcements & Events
+      title: Latest Announcements & Events
       id: resources
       button: See more here
 ---
