@@ -25,7 +25,7 @@ NHG Intranet access required).&nbsp;</p>
 <h4><strong>Resources</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/personal+data+protection+act+-+pdpa" rel="noopener noreferrer nofollow" target="_blank"><u>Personal Data Protection Act (PDPA)</u></a>&nbsp;</p>
+<p><a href="/pdpa/" rel="noopener noreferrer nofollow" target="_blank"><u>Personal Data Protection Act (PDPA)</u></a>&nbsp;</p>
 </li>
 <li>
 <p><a href="https://redcapsupport.gri.nhg.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>NHG-REDCap</u></a>
