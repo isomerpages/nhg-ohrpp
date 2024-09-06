@@ -21,6 +21,14 @@ regulations.</p>
 NHG Intranet access required).&nbsp;</p>
 <p><strong>Who should know?</strong>
 <br>All NHG staff involved in handling any NHG research data.</p>
+<p></p>
+<h4><strong>NHG Standing Database</strong></h4>
+<p><strong>With effect from 01 August 2020</strong>, all NHG Standing Database
+applications will be routed to the <strong>NHG Research Data Institutional Deputies (IDs)</strong> for
+approval. Please note that you should only proceed with your standing database
+activities after receiving approval from your ID.</p>
+<p>For information on NHG Standing Databases requirements, please <a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/standing+databases" rel="noopener noreferrer nofollow" target="_blank"><u>see here</u></a>.&nbsp;</p>
+<p></p>
 <h4><strong>Resources</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -47,13 +55,6 @@ NHG Intranet access required)</p>
 NHG Intranet access required)</p>
 </li>
 </ul>
-<p></p>
-<h4><strong>NHG Standing Database</strong></h4>
-<p><strong>With effect from 01 August 2020</strong>, all NHG Standing Database
-applications will be routed to the <strong>NHG Research Data Institutional Deputies (IDs)</strong> for
-approval. Please note that you should only proceed with your standing database
-activities after receiving approval from your ID.</p>
-<p>For information on NHG Standing Databases requirements, please <a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/standing+databases" rel="noopener noreferrer nofollow" target="_blank"><u>see here</u></a>.&nbsp;</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For any enquiries, please contact the <strong>NHG Research Data Secretariat</strong> at
