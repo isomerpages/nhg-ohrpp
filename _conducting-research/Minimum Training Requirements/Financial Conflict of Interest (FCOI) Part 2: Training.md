@@ -134,7 +134,7 @@ your FCOI CITI Training Status in ECOS. Please allow some time for processing.</
 </li>
 </ul>
 <p></p>
-<h4><strong>Contact information</strong></h4>
+<h4><strong>Contact Information</strong></h4>
 <p>For any enquiries, please contact the <strong>Minimum Ethics Training Secretariat</strong>:
 <br>Email: <a href="mailto:min_ethics_training@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">min_ethics_training@nhg.com.sg</a>
 <br>DID: 6471 3266
