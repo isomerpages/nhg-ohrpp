@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Data & Tissue Management
 ---
-<h4><strong>Research Data Management</strong></h4>
+<h4><strong>Managing Research Data</strong></h4>
 <p>In accordance with the <strong>Human Biomedical Research Act (HBRA)</strong> Section
 27, every person who has obtained individually identifiable information
 or human biological material for the purposes of human biomedical research
@@ -13,7 +13,7 @@ must take all reasonable steps and safeguards as may be necessary, including
 rendering information or material non identifiable, to protect such information
 or material against accidental or unlawful loss, modification or destruction,
 or unauthorised access, disclosure, copying, use or modification.</p>
-<h4><strong>About the NHG Research Data Policy</strong></h4>
+<h4><strong>NHG Research Data Policy</strong></h4>
 <p>The NHG Research Data Policy provides the framework for governing research
 data to ensure compliance with the HBRA, Personal Data Protection Act (PDPA),
 Healthtech Instruction Manual (HIM), Synapxe policies and all other relevant
@@ -51,13 +51,15 @@ NHG Intranet access required)</p>
 <p></p>
 <h4><strong>NHG Standing Database</strong></h4>
 <p><strong>With effect from 01 August 2020</strong>, all NHG Standing Database
-applications will be routed to the NHG Research Data Institutional Deputies
-(IDs) for approval. Please note that you should only proceed with your
-standing database activities after receiving approval from your ID.</p>
-<p>For information on NHG Standing Databases requirements, please see <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/standing+databases" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.&nbsp;</p>
+applications will be routed to the <strong>NHG Research Data Institutional Deputies (IDs)</strong> for
+approval. Please note that you should only proceed with your standing database
+activities after receiving approval from your ID.</p>
+<p>For information on NHG Standing Databases requirements, please <a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/standing+databases" rel="noopener noreferrer nofollow" target="_blank"><u>see here</u></a>.&nbsp;</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
-<p>NHG Research Data Secretariat – <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/NHG%20Research%20Data%20Policy.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>RDOCSecretariat@nhg.com.sg</u></a></strong>
+<p>For any enquiries, please contact the <strong>NHG Research Data Secretariat</strong> at
+<a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/NHG%20Research%20Data%20Policy.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>RDOCSecretariat@nhg.com.sg</u>
+</a>
 </p>
 <p></p>
 <p></p>
