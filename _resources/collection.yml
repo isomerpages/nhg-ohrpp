@@ -1,0 +1,6 @@
+collections:
+  resources:
+    output: true
+    order:
+      - NHG Investigator's Manual.md
+      - Templates.md

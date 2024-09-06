@@ -1,0 +1,27 @@
+collections:
+  publications:
+    output: true
+    order:
+      - About our Publications.md
+      - Chicken Soup Series/.keep
+      - Chicken Soup Series/About Chicken Soup for the Busy Coordinator.md
+      - Chicken Soup Series/Biological Samples.md
+      - Chicken Soup Series/Database.md
+      - Chicken Soup Series/DSRB Documentation.md
+      - Chicken Soup Series/Ethics and Compliance Online System (ECOS).md
+      - Chicken Soup Series/Informed Consent.md
+      - Chicken Soup Series/Investigational Product Accountability.md
+      - Chicken Soup Series/Investigator File and Overall Study Documentation.md
+      - Chicken Soup Series/Non Compliance.md
+      - Chicken Soup Series/Pre Study Activities.md
+      - Chicken Soup Series/Regulatory Documentation.md
+      - Chicken Soup Series/Research Policy, Guidelines & SOP Updates.md
+      - Chicken Soup Series/Study Conduct.md
+      - Chicken Soup Series/Study Team & Responsibilities.md
+      - Chicken Soup Series/Subject Recruitment Procedures.md
+      - Chicken Soup Series/Unanticipated Problems Involving Risks to Subjects
+        or Others (UPIRTSO).md
+      - Chicken Soup Series/Other Topics.md
+      - HBR Case Study Circulars.md
+      - OHRPP Post Its.md
+      - Tissue Compliance Circulars.md
