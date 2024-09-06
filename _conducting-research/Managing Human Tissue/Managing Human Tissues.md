@@ -153,7 +153,8 @@ Khai Pang (Senior Consultant, TTSH) and comprises representatives from
 each NHG institution.</p>
 <p>For the list of TCC members, please <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Tissue%20Compliance%20Committee%20(TCC)%20%E2%80%93%20List%20of%20Members.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>click here</u></a></strong> *.</p>
 <p></p>
-<p></p>
+<h4><strong>Registering a Tissue Bank</strong></h4>
+<p>Learn more about registering a Tissue Bank here.</p>
 <p></p>
 <p></p>
 <p></p>
