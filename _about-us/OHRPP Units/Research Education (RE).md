@@ -32,7 +32,8 @@ departmental talks and cross institutions or cluster forums/webinars</p>
 <h4><strong>Learn more</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>See the <a href="/researcher-training/" rel="noopener nofollow" target="_blank">NHG Researcher Training programmes here</a>.</p>
+<p>See the <a href="/pcr-overview/" rel="noopener nofollow" target="_blank">NHG Researcher Training Programmes here.</a>
+</p>
 </li>
 </ul>
 <h4><strong>Contact information</strong></h4>
