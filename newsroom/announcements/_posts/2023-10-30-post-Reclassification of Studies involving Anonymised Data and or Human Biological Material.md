@@ -64,7 +64,7 @@ RNR criteria.&nbsp;</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>Please click <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/resources/ethics+forms+and+templates++++" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> to
+<p>Please <a href="https://for.sg/declaration-annoymised-data-180823" rel="noopener nofollow" target="_blank">click here</a> to
 download the declaration checklist.&nbsp;</p>
 <p>If you have any questions, please contact us at <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/resources/ethics+forms+and+templates++++" rel="noopener noreferrer nofollow" target="_blank"><u>OHRPP@nhg.com.sg</u></a></strong>.</p>
 <p>&nbsp;</p>
