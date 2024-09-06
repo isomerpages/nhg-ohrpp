@@ -14,4 +14,13 @@ sections:
       title: Latest Announcements & Events
       id: resources
       button: See more here
+  - announcements:
+      title: Latest Announcements & Coming Events
+      id: announcements
+      announcement_items:
+        - title: DSRB Announcement
+          date: 06 September 2024
+          announcement: Revised DSRB Review Fees effective from 01 April 2024,
+          link_text: Learn more
+          link_url: /dsrb-260324/
 ---
