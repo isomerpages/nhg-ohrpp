@@ -6,6 +6,11 @@ description: ""
 third_nav_title: Minimum Training Requirements
 ---
 <h4><strong>PART I&nbsp;–&nbsp;FCOI Declaration Requirements&nbsp;</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Conducting Research/Min Training Pics/FCOIsmall.jpg">
+</div>
+<p></p>
 <p>Investigators and study team members who are involved in research that
 is conducted under the oversight of NHG or partner institutions should
 not have conflicting interests that may adversely affect the protection
