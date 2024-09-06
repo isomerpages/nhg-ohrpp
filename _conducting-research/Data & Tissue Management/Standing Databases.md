@@ -25,7 +25,7 @@ submitting the Standing Database (SDB) Application Form to the NHG Research
 Data Institutional Deputy.</p>
 <p>Please note that you should only proceed with your standing database activities
 after receiving approval from your ID.</p>
-<p></p>
+<p>For information on NHG Standing Databases requirements, please see <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/standing+databases" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.</p>
 <p></p>
 <p>
 <br>
