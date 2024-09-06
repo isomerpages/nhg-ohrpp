@@ -2,9 +2,6 @@ collections:
   training:
     output: true
     order:
-      - General Registration Info/.keep
-      - General Registration Info/Course Fee Categories.md
-      - General Registration Info/Registration FAQs.md
       - Proper Conduct of Research/.keep
       - Proper Conduct of Research/Course Overview.md
       - Proper Conduct of Research/PCR 001 Module.md
@@ -12,5 +9,8 @@ collections:
       - Proper Conduct of Research/PCR 003 Module.md
       - Proper Conduct of Research/PCR 400 Module.md
       - Other Training Courses.md
+      - General Registration Info/.keep
+      - General Registration Info/Course Fee Categories.md
+      - General Registration Info/Registration FAQs.md
       - Clinical Research Coordinator Society (CRCS) Forums.md
       - Singapore Research Ethics Conference (SREC).md
