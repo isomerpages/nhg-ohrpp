@@ -65,7 +65,7 @@ can be <a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener no
 <p>Download the <a href="/files/FCOI Files/FCOI_FAQs_v010724.pdf" rel="noopener noreferrer nofollow" target="_blank">FCOI Frequently Asked Questions here</a>.</p>
 </li>
 <li>
-<p>See the <a href="http://www.ecfr.gov/cgi-bin/text-idx?rgn=div5&amp;node=45:1.0.1.1.51" rel="noopener noreferrer nofollow" target="_blank"><u>Electronic Code of Federal Regulations, PART 94 -&nbsp;RESPONSIBLE PROSPECTIVE CONTRACTORS here</u></a>
+<p>Learn more about the <a href="http://www.ecfr.gov/cgi-bin/text-idx?rgn=div5&amp;node=45:1.0.1.1.51" rel="noopener noreferrer nofollow" target="_blank"><u>Electronic Code of Federal Regulations, PART 94 -&nbsp;RESPONSIBLE PROSPECTIVE CONTRACTORS here</u></a>
 </p>
 </li>
 <li>
@@ -74,8 +74,7 @@ can be <a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener no
 </ul>
 <p></p>
 <h4><strong>Contact information</strong></h4>
-<p>For more information and queries, please contact the FCOI Declaration
-Secretariat:
+<p>For any enquiries, please contact the <strong>FCOI Declaration Secretariat</strong>:
 <br>Email: <a href="https://www.research.nhg.com.sg/wps/wcm/connect/a582e9bf-ec94-49ab-ad63-36720c7aa8dc/FCOI_FAQs_v010724_Cleaned.pdf?MOD=AJPERES&amp;amp;CVID=p2g6Qeh&amp;amp;CVID=p2g6Qeh" rel="noopener noreferrer nofollow" target="_blank"><u>DSRB_FCOI@nhg.com.sg</u></a>
 <br>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
