@@ -22,8 +22,6 @@ regulations.</p>
 NHG Intranet access required).&nbsp;</p>
 <p><strong>Who should know?</strong>
 <br>All NHG staff involved in handling any NHG research data.</p>
-<p></p>
-<h4></h4>
 <h4><strong>Resources</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -50,14 +48,17 @@ NHG Intranet access required)</p>
 NHG Intranet access required)</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong><u>NHG Standing Database</u></strong>
-<br>With effect from 01 August 2020, all NHG Standing Database applications
-will be routed to the NHG Research Data Institutional Deputies (IDs) for
-approval. Please note that you should only proceed with your standing database
-activities after receiving approval from your ID.</p>
+<p></p>
+<h4><strong>NHG Standing Database</strong></h4>
+<p><strong>With effect from 01 August 2020</strong>, all NHG Standing Database
+applications will be routed to the NHG Research Data Institutional Deputies
+(IDs) for approval. Please note that you should only proceed with your
+standing database activities after receiving approval from your ID.</p>
 <p>For information on NHG Standing Databases requirements, please see <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/standing+databases" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Contact Us&nbsp;</strong>
-<br>NHG Research Data Secretariat – <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/NHG%20Research%20Data%20Policy.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>RDOCSecretariat@nhg.com.sg</u></a></strong>
+<p></p>
+<h4><strong>Contact Information</strong></h4>
+<p>NHG Research Data Secretariat – <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/NHG%20Research%20Data%20Policy.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>RDOCSecretariat@nhg.com.sg</u></a></strong>
 </p>
+<p></p>
+<p></p>
+<p></p>
