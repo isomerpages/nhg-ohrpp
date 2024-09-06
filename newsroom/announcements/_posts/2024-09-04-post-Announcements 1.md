@@ -8,7 +8,8 @@ image: ""
 variant: tiptap
 ---
 <h4><strong>DSRB-100524: Revisions to Exemption Categories</strong></h4>
-<p></p>
+<p><strong>30 May 2024</strong>
+</p>
 <p>The Exemption Categories have been updated with the intention to align
 with the US Final Rule and adapted to be relevant to the local context.</p>
 <p>The key changes are highlighted in the table below:</p>
@@ -248,6 +249,6 @@ contaminant at or below the level found to be safe</p>
 </tr>
 </tbody>
 </table>
-<p><em>*ECOS: Ethics and Compliance Online System</em><strong><a rel="nofollow" target=""><u><br></u></a></strong>
+<p><strong>*</strong> COS: Ethics and Compliance Online System<strong><a rel="nofollow" target=""><u><br></u></a></strong>
 </p>
 <p></p>
