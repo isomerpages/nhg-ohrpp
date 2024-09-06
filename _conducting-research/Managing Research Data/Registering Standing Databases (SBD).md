@@ -5,3 +5,50 @@ variant: tiptap
 description: ""
 third_nav_title: Managing Research Data
 ---
+<p><strong>With effect from 01 August 2020</strong>, all NHG Standing Database
+applications will be routed to the <strong>NHG Research Data Institutional Deputies (IDs)</strong> for
+approval. Please note that you should only proceed with your standing database
+activities after receiving approval by your ID.</p>
+<p>The following diagram outlines the approval process for registering a
+NHG Standing Database.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Conducting Research/Standing Database Pics/SBD_ApprovalProcess.png">
+</div>
+<p></p>
+<h4><strong>Standing Database Online System (SDB Online System)</strong></h4>
+<p>Launched in September 2021, the <strong>NHG Standing Database Online System</strong> is
+an online portal for NHG Custodians to submit their SDB applications to
+ID <strong>(only for NHG Standing Databases)</strong>.</p>
+<p>For NHG Standing Databases that had previously acknowledge by DSRB via
+ROAM and foresee that these Standing Databases will continue beyond 2023
+may opt to apply thru the SDB Online System.</p>
+<p>Access the <a href="http://monitoring.nhg.com.sg/" rel="noopener nofollow" target="_blank">SDB Online System here</a> (Restricted:
+NHG Intranet access required).</p>
+<p></p>
+<h4><strong>Registering Non–NHG Standing Databases</strong></h4>
+<p>All Non-NHG Standing Databases and Tissue Banks can be registered in the
+ECOS system. <strong>Learn more here.</strong>
+</p>
+<p></p>
+<h4><strong>Resources</strong></h4>
+<p>You may refer to the following SDB Online System User Guides (Restricted:
+NHG Intranet access required).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/Standing%20Database%20Online%20System/%5b1607-B001%5d%20NHG%20Guideline%20for%20Standing%20Databases_Custodian%20and%20Data%20Administrator.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>SDB Custodian User Guide</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/Standing%20Database%20Online%20System/%5b1607-B002%5d%20NHG%20Guideline%20for%20Standing%20Databases%20%E2%80%93%20DR_IR_DSRB_IDA_ID.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Department Representative (DR) / Institution Representative (IR) User Guide</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/Standing%20Database%20Online%20System/%5b1606-B002%5d%20NHG%20Standing%20Database%20Application%20Form%20Template.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sample Standing Databases Application form</u></a>
+</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>Contact Information</strong></h4>
+<p>For enquiries on NHG Standing Database applications and registration,
+please contact the NHG Research Data Secretariat at <a href="mailto:RDOCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">RDOCSecretariat@nhg.com.sg</a>
+</p>
