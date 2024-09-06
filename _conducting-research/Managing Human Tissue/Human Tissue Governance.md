@@ -136,7 +136,7 @@ required) for more details.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/cb5a007d-b536-499a-8a07-16863bcff795/1506-05+Guidance+To+Store+And+Use+Leftover+Human+Tissue+for+Future+Research.pdf?MOD=AJPERES&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Guidance Document to Store and Use Leftover Human Tissue for Future Research</u></a> 
+<p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/cb5a007d-b536-499a-8a07-16863bcff795/1506-05+Guidance+To+Store+And+Use+Leftover+Human+Tissue+for+Future+Research.pdf?MOD=AJPERES&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Guidance Document to Store and Use Leftover Human Tissue for Future Research</u></a>
 </p>
 </li>
 </ul>
@@ -156,9 +156,9 @@ tissue banks.</p>
 and comprises representatives from each NHG institution.</p>
 <p>For the list of TCC members, please <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Tissue%20Compliance%20Committee%20(TCC)%20%E2%80%93%20List%20of%20Members.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>click here</u></a></strong> *.</p>
 <p></p>
-<h4><strong>Registering a Tissue Bank</strong></h4>
-<p>Learn more about registering a Tissue Bank here.</p>
-<p></p>
+<h4><strong>Contact Information</strong></h4>
+<p>For any enquiries, please contact the NHG TCC Secretariat at <a href="mailto:NHGTCCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGTCCSecretariat@nhg.com.sg</a> 
+</p>
 <p></p>
 <p></p>
 <p></p>
