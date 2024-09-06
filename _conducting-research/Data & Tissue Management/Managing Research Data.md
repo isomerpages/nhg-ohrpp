@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Data & Tissue Management
 ---
-<h4><strong>Managing Research Data</strong></h4>
 <p>In accordance with the <strong>Human Biomedical Research Act (HBRA)</strong> Section
 27, every person who has obtained individually identifiable information
 or human biological material for the purposes of human biomedical research
