@@ -37,9 +37,8 @@ differ according to their study roles. The Table below summarizes the minimum
 training requirements.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Minimum Training/MinTrainingRequirements.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Conducting Research/Min Training Pics/MinTrainingRequirements.jpg">
 </div>
-<p></p>
 <p><strong><sup>1 </sup></strong>All investigators, study team members and
 external institution staff involved in the design, conduct or reporting
 of research in institutions under the oversight of NHG DSRB are required
@@ -94,9 +93,8 @@ partner institutions who are involved in cross-cluster studies that are
 submitted to DSRB for review. Refer to the <strong><a href="http://research.singhealth.com.sg/Pages/CentralisedInstitutionalReviewBoard.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>CIRB website</u></a></strong> for
 more details.</p>
 <p></p>
-<h4><strong>Contact Details</strong></h4>
-<p>For more information and queries, please contact the Administrator:</p>
-<p><u>Minimum Ethics Training Secretariat</u>
+<h4><strong>Contact Information</strong></h4>
+<p>For any enquiries, please contact the Minimum Ethics Training Secretariat:
 <br>Email: <strong><a href="mailto:min_ethics_training@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>min_ethics_training@nhg.com.sg</u></a></strong>
 <br>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
