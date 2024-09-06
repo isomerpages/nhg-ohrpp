@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Minimum Training Requirements
 ---
 <h4><strong>Part 2 - FCOI Training Requirements</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Conducting Research/Min Training Pics/FCOIsmall.jpg">
+</div>
 <p>Since 1st January 2015, all investigators and study team members who are
 involved in the design, conduct or reporting of the research that is conducted
 under the oversight of NHG or its partner institutions are required to
@@ -131,7 +135,7 @@ your FCOI CITI Training Status in ECOS. Please allow some time for processing.</
 </ul>
 <p></p>
 <h4><strong>Contact information</strong></h4>
-<p>For more information and queries, please contact the <strong>Minimum Ethics Training Secretariat</strong>:
+<p>For any enquiries, please contact the <strong>Minimum Ethics Training Secretariat</strong>:
 <br>Email: <a href="mailto:min_ethics_training@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">min_ethics_training@nhg.com.sg</a>
 <br>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
