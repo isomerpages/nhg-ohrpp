@@ -23,4 +23,9 @@ sections:
           announcement: Revised DSRB Review Fees effective from 01 April 2024,
           link_text: Learn more
           link_url: /dsrb-260324/
+        - title: DSRB Announcement
+          date: 06 September 2024
+          announcement: Revisions to Exemption Categories
+          link_text: Learn more
+          link_url: /dsrb-100524/
 ---
