@@ -20,16 +20,15 @@ custodians provide assurance to comply with NHG and BAC’s guidelines for
 data and tissue banking activities for potential research.</p>
 <p></p>
 <h4><strong>Who should be the “Owner” of the Standing Database?</strong></h4>
-<p>The respective institutions/cluster (“Owner”) possesses ownership of Standing
-Databases set up by their staff.</p>
+<p>The <strong>respective Institutions/Cluster (“Owner”)</strong> possesses
+ownership of Standing Databases set up by their staff.</p>
 <p>The <strong>Head of Department (HOD)</strong> is the appropriate authority
-to endorse as “<strong>Owner</strong>” for Standing Databases created within
-his/her department.</p>
+to endorse as “<strong>Owner</strong>” for Standing Databases created <strong>within his/her department</strong>.</p>
 <p>The <strong>Chairman Medical Board (CMB)</strong> or equivalent is the appropriate
-authority to endorse as “Owner” for standing databases that straddle more
-than one department in his/her institution. Standing Databases that straddle
-more than one institution will require the endorsement by the CMBs or equivalents
-of all institutions concerned.</p>
+authority to endorse as “<strong>Owner</strong>” for standing databases
+that <strong>straddle more than one department in his/her institution</strong>.
+Standing Databases that straddle more than one institution will require
+the endorsement by the CMBs or equivalents of all institutions concerned.</p>
 <p></p>
 <h4><strong>Who should be the “Custodian” of the Standing Database?</strong></h4>
 <p>The “Owner” should appoint a suitable staff (“Custodian”) to be responsible
@@ -52,7 +51,7 @@ in the joint database.</p>
 <p><strong>With effect from 01 August 2020</strong>, all NHG Standing Database
 applications will be routed to the <strong>NHG Research Data Institutional Deputies (IDs)</strong> for
 approval.</p>
-<p>Learn more about Registering a Standing Database here.</p>
+<p>Learn more about <a href="/registering-sbd/" rel="noopener nofollow" target="_blank">Registering a Standing Database here</a>.</p>
 <p></p>
 <p></p>
 <p>
