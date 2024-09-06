@@ -47,8 +47,7 @@ studies at the annual submission of their FCOI Declaration Form.</p>
 <p></p>
 </li>
 </ul>
-<p>Download the <strong><a href="/files/FCOI Files/FCOI_Guide_v020724_Cleaned.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to the FCOI Declaration Requirements</a></strong>
-<a href="/files/FCOI Files/FCOI_Guide_v020724_Cleaned.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Download the <a href="/files/FCOI Files/FCOI_Guide_v020724_Cleaned.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to the FCOI Declaration Requirements here</a>.</p>
 <p></p>
 <h4><strong>Submission of Annual FCOI Declarations</strong></h4>
 <p>Please note that there are some changes made to the validity period of
