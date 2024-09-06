@@ -31,15 +31,11 @@ Practice (GCP) and all other applicable guidelines and regulations.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The PI should be a staff of NHG or partner institution for research conducted
 in NHG or partner institutions.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Conducting Research/PI_MinRequirement.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Conducting Research/PI Pics/PI_MinRequirement.png">
 </div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Conducting Research/PharmPI_MinRequirement1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Conducting Research/PI Pics/PharmPI_MinRequirement1.png">
 </div>
 <p></p>
 <p></p>
