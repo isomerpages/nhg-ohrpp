@@ -8,9 +8,9 @@ colors:
     - title: media-color-one
       color: "#00828d"
     - title: media-color-two
-      color: "#d2232a"
+      color: "#00828d"
     - title: media-color-three
-      color: "#d2232a"
+      color: "#8d000f"
     - title: media-color-four
       color: "#8d000f"
     - title: media-color-five
