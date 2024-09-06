@@ -19,13 +19,19 @@ sections:
       id: announcements
       announcement_items:
         - title: DSRB Announcement
-          date: 06 September 2024
+          date: 26 March 2024
           announcement: Revised DSRB Review Fees effective from 01 April 2024,
           link_text: Learn more
           link_url: /dsrb-260324/
         - title: DSRB Announcement
-          date: 06 September 2024
+          date: 30 May 2024
           announcement: Revisions to Exemption Categories
           link_text: Learn more
           link_url: /dsrb-100524/
+        - title: Coming Event
+          date: 06 September 2024
+          announcement: Singapore Research Ethics Conference 2024. Last Call for
+            Registration!
+          link_text: Lean more
+          link_url: /srec2024lastcall/
 ---
