@@ -5,10 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
+<h4><strong>Chicken Soup Series - Regulatory Documentation</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(May 2022) How to Handle Leftover Tissues for Future Unapproved Research
-and Legacy Human Biological Material (LHBM)</p>
+<p>(May 2022) <a href="/files/Training Files 2CS/(11) Regulatory Docu/May_2022__How_to_Handle_Leftover_Tissues_for_Future_Unapproved_Research_and_Legacy_Human_Biological_Material__LHBM_.pdf" rel="noopener noreferrer nofollow" target="_blank">How to Handle Leftover Tissues for Future Unapproved Research and Legacy Human Biological Material (LHBM)</a>
+</p>
 </li>
 <li>
 <p>(Dec 21) When and How to Register for a Standing Database</p>
