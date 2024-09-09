@@ -5,9 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
+<h4><strong>Chicken Soup Series - Other Topics</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Dec 23) Traits of a Good Clinical Research Coordinator</p>
+<p>(Dec 2023) <a href="/files/Training Files 2CS/(17) Other Topics/Dec_23__Traits_of_a_Good_Clinical_Research_Coordinator.pdf" rel="noopener noreferrer nofollow" target="_blank">Traits of a Good Clinical Research Coordinator</a>
+</p>
 </li>
 </ul>
 <p></p>
