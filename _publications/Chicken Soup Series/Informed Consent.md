@@ -5,19 +5,20 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
-<p></p>
+<p><strong>Chicken Soup Series - Informed Consent</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Mar 2023) How to obtain informed consent from subjects with cognitive
-impairment</p>
+<p>(Mar 2023) <a href="/files/Training Files 2CS/(06) Informed Consent/Mar_23__How_to_obtain_informed_consent_from_subjects_with_cognitive_impairment.pdf" rel="noopener noreferrer nofollow" target="_blank">How to obtain informed consent from subjects with cognitive impairment</a>
+</p>
 </li>
 <li>
-<p>(Nov 2022) Regulatory Guidance on Consent Requirements for Clinical Trials
-involving Collection and Use of Human Tissue</p>
+<p>(Nov 2022) <a href="/files/Training Files 2CS/(06) Informed Consent/Nov_22__Regulatory_Guidance_on_Consent_Requirements_for_Clinical_Trials_involving_Collection_and_Use_of_Human_Tissue.pdf" rel="noopener noreferrer nofollow" target="_blank">Regulatory Guidance on Consent Requirements for Clinical Trials involving Collection and Use of Human Tissue</a>
+</p>
 </li>
 <li>
-<p>(Apr 2022) Changes to Assent requirements and Documentation - How does
-it impact your study?</p>
+<p>(Apr 2022) <a href="/files/Training Files 2CS/(06) Informed Consent/Apr_2022__Changes_to_Assent_requirements_and_Documentation___How_does_it_impact_your_study.pdf" rel="noopener noreferrer nofollow" target="_blank">Changes to Assent requirements and Documentation - How does it impact your study?</a>
+</p>
 </li>
 <li>
 <p>(Feb 2022) Informed Consent Process During Covid-19 Period</p>
