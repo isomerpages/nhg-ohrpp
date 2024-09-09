@@ -284,145 +284,145 @@ and how-to’s of HBRA.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS24%20Lost%20Informed%20Consent%20Forms.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS24 Lost Informed Consent Forms.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS24%20Lost%20Informed%20Consent%20Forms.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS24 Lost Informed Consent Forms</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS23%20Research%20Procedure%20Performed%20Twice%20As%20Participant%20Was%20Enrolled%20Twice.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS23 Research Procedure Performed Twice As Participant Was Enrolled Twice.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS23%20Research%20Procedure%20Performed%20Twice%20As%20Participant%20Was%20Enrolled%20Twice.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS23 Research Procedure Performed Twice as Participant Was Enrolled Twice</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS21%20Sample%20Collection%20Not%20In%20Accordance%20to%20Research%20Protocol.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS21 Sample Collection Not In Accordance to Research Protocol.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS21%20Sample%20Collection%20Not%20In%20Accordance%20to%20Research%20Protocol.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS21 Sample Collection Not in Accordance to Research Protocol</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS22%20Wrong%20Version%20Of%20Informed%20Consent%20Form%20Used.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS22 Wrong Version Of Informed Consent Form Used.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS22%20Wrong%20Version%20Of%20Informed%20Consent%20Form%20Used.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS22 Wrong Version of Informed Consent Form Used</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS20%20Recruitment%20of%20Subject%20Below%20Eligible%20Age.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS20 Recruitment of Subject Below Eligible Age.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS20%20Recruitment%20of%20Subject%20Below%20Eligible%20Age.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS20 Recruitment of Subject Below Eligible Age</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS19%20Ineligible%20Participant%20Recruited.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS19 Ineligible Participant Recruited.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS19%20Ineligible%20Participant%20Recruited.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS19 Ineligible Participant Recruited</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS18%20Two%20Participants%20Recruited%20Despite%20Not%20Meeting%20Eligibility%20Criteria.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS18 Two Participants Recruited Despite Not Meeting Eligibility Criteria.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS18%20Two%20Participants%20Recruited%20Despite%20Not%20Meeting%20Eligibility%20Criteria.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS18 Two Participants Recruited Despite Not Meeting Eligibility Criteria</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS17%20Poorly%20Fitted%20Head%20Device%20Poses%20Risk%20to%20Subject.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS17 Poorly Fitted Head Device Poses Risk to Subject.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS17%20Poorly%20Fitted%20Head%20Device%20Poses%20Risk%20to%20Subject.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS17 Poorly Fitted Head Device Poses Risk to Subject</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS16%20Witness%20Absent%20When%20Taking%20Informed%20Consent%20For%20Interventional%20Study.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS16 Witness Absent When Taking Informed Consent For Interventional Study.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS16%20Witness%20Absent%20When%20Taking%20Informed%20Consent%20For%20Interventional%20Study.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS16 Witness Absent When Taking Informed Consent for Interventional Study</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS15%20Recruiting%20With%20Consent%20Form%20That%20Did%20Not%20Contain%20All%20Elements%20Of%20HBRA%20Section%2012(1).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS15 Recruiting With Consent Form That Did Not Contain All Elements Of HBRA Section 12(1).pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS15%20Recruiting%20With%20Consent%20Form%20That%20Did%20Not%20Contain%20All%20Elements%20Of%20HBRA%20Section%2012(1).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS15 Recruiting With Consent Form That Did Not Contain All Elements Of HBRA Section 12(1)</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS14%20Recruitment%20Of%20Individual%20Who%20Did%20Not%20Meet%20Inclusion%20Criteria.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS14 Recruitment Of Individual Who Did Not Meet Inclusion Criteria.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS14%20Recruitment%20Of%20Individual%20Who%20Did%20Not%20Meet%20Inclusion%20Criteria.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS14 Recruitment Of Individual Who Did Not Meet Inclusion Criteria</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS13%20Appropriate%20Consent%20Not%20Obtained%20From%20Minors.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS13 Appropriate Consent Not Obtained From Minors.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS13%20Appropriate%20Consent%20Not%20Obtained%20From%20Minors.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS13 Appropriate Consent Not Obtained From Minors</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS12%20Witness%20Was%20Present%20During%20The%20Consent%20Taking%20Process%20But%20It%20Was%20Not%20Documented.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS12 Witness Was Present During The Consent Taking Process But It Was Not Documented.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS12%20Witness%20Was%20Present%20During%20The%20Consent%20Taking%20Process%20But%20It%20Was%20Not%20Documented.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS12 Witness Was Present During The Consent Taking Process But It Was Not Documented</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS11%20Principal%20Investigator%20Missed%20Out%20HBRA%20Witness%20During%20Consent%20Taking.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS11 Principal Investigator Missed Out HBRA Witness During Consent Taking.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS11%20Principal%20Investigator%20Missed%20Out%20HBRA%20Witness%20During%20Consent%20Taking.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS11 Principal Investigator Missed Out HBRA Witness During Consent Taking</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS07%20Collection%20Of%20Data%20Without%20Written%20Consent.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS07 Collection Of Data Without Written Consent.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS07%20Collection%20Of%20Data%20Without%20Written%20Consent.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS07 Collection of Data Without Written Consent</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS08%20Recruitment%20Of%20The%20Same%20Individual%20Twice.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS08 Recruitment Of The Same Individual Twice.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS08%20Recruitment%20Of%20The%20Same%20Individual%20Twice.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS08 Recruitment of the Same Individual Twice</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS09%20Recruitment%20Of%20Individual%20Who%20Did%20Not%20Meet%20Inclusion%20Criteria.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS09 Recruitment Of Individual Who Did Not Meet Inclusion Criteria.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS09%20Recruitment%20Of%20Individual%20Who%20Did%20Not%20Meet%20Inclusion%20Criteria.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS09 Recruitment of Individual Who Did Not Meet Inclusion Criteria</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS10%20Recruitment%20Of%20Subjects%20Without%20Informing%20About%20Potential%20Incidental%20Findings.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS10 Recruitment Of Subjects Without Informing About Potential Incidental Findings.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS10%20Recruitment%20Of%20Subjects%20Without%20Informing%20About%20Potential%20Incidental%20Findings.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS10 Recruitment of Subjects Without Informing About Potential Incidental Findings</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS05%20Missing%20Signed%20Informed%20Consent%20Forms.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS05 Missing Signed Informed Consent Forms.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS05%20Missing%20Signed%20Informed%20Consent%20Forms.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS05 Missing Signed Informed Consent Forms</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS06%2020%20Year-Old%20Recruited%20Into%20Research%20Study%20Without%20Parental%20Consent.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS06 20 Year-Old Recruited Into Research Study Without Parental Consent.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS06%2020%20Year-Old%20Recruited%20Into%20Research%20Study%20Without%20Parental%20Consent.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS06 20-Year-Old Recruited into Research Study Without Parental Consent</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS02%20Urine%20Collected%20From%20Dementia%20Subject%20After%20Son%20Gave%20Verbal%20Agreement.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS02 Urine Collected From Dementia Subject After Son Gave Verbal Agreement.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS02%20Urine%20Collected%20From%20Dementia%20Subject%20After%20Son%20Gave%20Verbal%20Agreement.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS02 Urine Collected from Dementia Subject After Son Gave Verbal Agreement</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS03%20No%20Witness%20Was%20Present%20When%20Taking%20Consent%20From%20Subject%20For%20Study%20Involving%20Blood-Taking.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS03 No Witness Was Present When Taking Consent From Subject For Study Involving Blood-Taking.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS03%20No%20Witness%20Was%20Present%20When%20Taking%20Consent%20From%20Subject%20For%20Study%20Involving%20Blood-Taking.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS03 No Witness Was Present When Taking Consent From Subject For Study Involving Blood-Taking</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS04%20Subjects%20Recruited%20Into%20Study%20Involving%20Blood-Taking%20Using%20Consent%20Form%20That%20Did%20Not%20Contain%20All%20Elements%20Of%20HBRA%2012(1).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS04 Subjects Recruited Into Study Involving Blood-Taking Using Consent Form That Did Not Contain All Elements Of HBRA 12(1).pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS04%20Subjects%20Recruited%20Into%20Study%20Involving%20Blood-Taking%20Using%20Consent%20Form%20That%20Did%20Not%20Contain%20All%20Elements%20Of%20HBRA%2012(1).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS04 Subjects Recruited into Study Involving Blood-Taking Using Consent Form That Did Not Contain All Elements of HBRA 12(1)</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS01%20Blood%20Was%20Drawn%20From%20A%20Research%20Subject%20Without%20Appropriate%20Consent.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS01 Blood Was Drawn From A Research Subject Without Appropriate Consent.pdf</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS01%20Blood%20Was%20Drawn%20From%20A%20Research%20Subject%20Without%20Appropriate%20Consent.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS01 Blood Was Drawn from A Research Subject Without Appropriate Consent</u></a>
 </p>
 </td>
 </tr>
