@@ -10,7 +10,71 @@ Human Research Protection Programme (OHRPP). It serves to provide the research
 community with the latest news and update on research policies, SOPs, training
 events, educational resources and research tools from OHRPP to facilitate
 research conduct operating on high ethical standards.</p>
-<p>See the OHRPPP Post-Its here.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Issues for NHG Staff</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>(Restricted: NHG Intranet access required)</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_DEC_23_Newsletter_NHG.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 31 (Dec 2023)</a> 
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_Sept_23_Newsletter_NHG.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 30&nbsp;(Sep 2023)</a>
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_MAY_23_Newsletter_NHG.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 29&nbsp;(May 2023)</a>
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_APR_23_Newsletter_NHG_HBR%20ERC%20V2.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 28 (Apr 2023)</a>
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_FEB_23_Newsletter_NHG.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 27 (Feb 2023)</a>
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_OCT_22_Newsletter_NHG.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 26 (Oct&nbsp;2022)</a>
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_JUL_22_Newsletter%20(NHG).pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 25 (Jul 2022)</a>
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_APR%2022_Newsletter%20(NHG).pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 24 (Apr 2022)</a>
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_Nov%2021_(NHG).pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 23 (Nov&nbsp;2021)</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/d36bb4d6-1fd7-4348-ac3c-3e368d02b698/OHRPP+POST-ITS_Oct+21.pdf?MOD=AJPERES&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox" rel="noopener noreferrer nofollow" target="_blank">Issue 22&nbsp;(Oct 2021)</a>
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_Jun21%20newsletter_(NHG)_rv220621_Final.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue&nbsp;21&nbsp;(Jun&nbsp;2021)</a>
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS%20(for%20NHG)_Issue%2020(Mar%2021)_Final.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 20 (Mar 2021)</a> 
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS%20(for%20NHG)_Issue%2019(Oct%2020)_Final.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 19 (Oct 2020)</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p></p>
 <h4></h4>
 <p></p>
