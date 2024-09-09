@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
-<p><strong>Chicken Soup Series - DSRB Documentation</strong>
-</p>
+<h4><strong>Chicken Soup Series - DSRB Documentation</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>(Jul 2023) <a href="/files/Training Files 2CS/(04) DSRB Documentation/Jul_23__DSRB_Application_Submission_Selection_of_Domain___Category_of_Review_for_Research_Studies.pdf" rel="noopener noreferrer nofollow" target="_blank">DSRB Application Submission: Selection of Domain &amp; Category of Review for Research Studies</a>
