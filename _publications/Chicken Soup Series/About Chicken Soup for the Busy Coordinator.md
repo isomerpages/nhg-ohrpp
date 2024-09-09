@@ -43,40 +43,52 @@ how to avoid authorship disputes for a successful publication.</div>
 <p>Data Collection &amp; Source Documentation</p>
 </li>
 <li>
-<p>Database</p>
+<p><a href="/cs-database/" rel="noopener nofollow" target="_blank">Database</a>
+</p>
 </li>
 <li>
-<p>DSRB Documentation</p>
+<p><a href="/cs-dsrbdoc/" rel="noopener nofollow" target="_blank">DSRB Documentation</a>
+</p>
 </li>
 <li>
-<p>Ethics and Compliance Online System (ECOS)</p>
+<p><a href="/cs-ecos/" rel="noopener nofollow" target="_blank">Ethics and Compliance Online System (ECOS)</a>
+</p>
 </li>
 <li>
-<p>Informed Consent</p>
+<p><a href="/cs-informed-consent/" rel="noopener nofollow" target="_blank">Informed Consent</a>
+</p>
 </li>
 <li>
-<p>Investigational Product Accountability</p>
+<p><a href="/cs-investigationalprod/" rel="noopener nofollow" target="_blank">Investigational Product Accountability</a>
+</p>
 </li>
 <li>
-<p>Investigator File and Overall Study Documentation</p>
+<p><a href="/cs-investigatorfile/" rel="noopener nofollow" target="_blank">Investigator File and Overall Study Documentation</a>
+</p>
 </li>
 <li>
-<p>Non-Compliance</p>
+<p><a href="/cs-noncompliance/" rel="noopener nofollow" target="_blank">Non-Compliance</a>
+</p>
 </li>
 <li>
-<p>Pre-Study Activities</p>
+<p><a href="/cs-prestudy/" rel="noopener nofollow" target="_blank">Pre-Study Activities</a>
+</p>
 </li>
 <li>
-<p>Regulatory Documentation</p>
+<p><a href="/cs-regdoc/" rel="noopener nofollow" target="_blank">Regulatory Documentation</a>
+</p>
 </li>
 <li>
-<p>Research Policy, Guidelines &amp; SOP Updates</p>
+<p><a href="/cs-policy-sop-updates/" rel="noopener nofollow" target="_blank">Research Policy, Guidelines &amp; SOP Updates</a>
+</p>
 </li>
 <li>
-<p>Study Conduct</p>
+<p><a href="/cs-study-conduct/" rel="noopener nofollow" target="_blank">Study Conduct</a>
+</p>
 </li>
 <li>
-<p>Study Team &amp; Responsibilities</p>
+<p><a href="/cs-team-responsibilities/" rel="noopener nofollow" target="_blank">Study Team &amp; Responsibilities</a>
+</p>
 </li>
 <li>
 <p>Subject Recruitment Procedures</p>
