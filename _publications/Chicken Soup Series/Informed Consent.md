@@ -21,7 +21,8 @@ third_nav_title: Chicken Soup Series
 </p>
 </li>
 <li>
-<p>(Feb 2022) Informed Consent Process During Covid-19 Period</p>
+<p>(Feb 2022) <a href="/files/Training Files 2CS/(06) Informed Consent/Feb_22__Informed_Consent_Process_During_Covid_19_Period.pdf" rel="noopener noreferrer nofollow" target="_blank">Informed Consent Process During Covid-19 Period</a>
+</p>
 </li>
 <li>
 <p>(Oct 2021) When is Re-consenting of Research Subjects Needed?</p>
