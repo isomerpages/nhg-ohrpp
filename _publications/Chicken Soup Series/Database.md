@@ -9,7 +9,7 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Oct 22) <a href="/files/Training Files 2CS/(03) Database/Oct_22__Using_REDCap_as_Data_Collection_Tool_for_Research.pdf" rel="noopener noreferrer nofollow" target="_blank">Using REDCap as Data Collection Tool for Research</a>
+<p>(Oct 2022) <a href="/files/Training Files 2CS/(03) Database/Oct_22__Using_REDCap_as_Data_Collection_Tool_for_Research.pdf" rel="noopener noreferrer nofollow" target="_blank">Using REDCap as Data Collection Tool for Research</a>
 </p>
 </li>
 </ul>
