@@ -91,10 +91,12 @@ how to avoid authorship disputes for a successful publication.</div>
 </p>
 </li>
 <li>
-<p>Subject Recruitment Procedures</p>
+<p><a href="/cs-recruitment/" rel="noopener nofollow" target="_blank">Subject Recruitment Procedures</a>
+</p>
 </li>
 <li>
-<p>Unanticipated Problems Involving Risks to Subjects or Others (UPIRTSO)</p>
+<p><a href="/cs-upirtso/" rel="noopener nofollow" target="_blank">Unanticipated Problems Involving Risks to Subjects or Others (UPIRTSO)</a>
+</p>
 </li>
 <li>
 <p>Other General Topics</p>
