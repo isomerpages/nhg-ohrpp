@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
+<h4><strong>Chicken Soup Series - Research Policy, Guidelines &amp; SOP Updates</strong></h4>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
