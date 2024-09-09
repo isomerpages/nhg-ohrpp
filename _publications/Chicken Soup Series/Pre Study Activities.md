@@ -9,7 +9,7 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Sep 21) <a href="/files/Training Files 2CS/(10) Pre Study Activities/Sep_21__How_to_conduct_and_document_E_SIV.pdf" rel="noopener noreferrer nofollow" target="_blank">How to conduct and document E-SIV</a>
+<p>(Sep 2021) <a href="/files/Training Files 2CS/(10) Pre Study Activities/Sep_21__How_to_conduct_and_document_E_SIV.pdf" rel="noopener noreferrer nofollow" target="_blank">How to conduct and document E-SIV</a>
 </p>
 </li>
 </ul>
