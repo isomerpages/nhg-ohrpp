@@ -9,34 +9,37 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Apr 23) What is Collaborative Research?</p>
+<p>(Apr 2023) <a href="/files/Training Files 2CS/(12) Rsrch Policy SOP Updates/Apr_23__What_is_Collaborative_Research.pdf" rel="noopener noreferrer nofollow" target="_blank">What is Collaborative Research?</a>
+</p>
 </li>
 <li>
-<p>(Mar 22) Responsible Conduct of Research (RCR) - Research Misconduct</p>
+<p>(Mar 2022) <a href="/files/Training Files 2CS/(12) Rsrch Policy SOP Updates/Mar_22__Responsible_Conduct_of_Research__RCR____Research_Misconduct.pdf" rel="noopener noreferrer nofollow" target="_blank">Responsible Conduct of Research (RCR) - Research Misconduct</a>
+</p>
 </li>
 <li>
-<p>(Mar 21) Mentorship and Trainee Responsibilities</p>
+<p>(Mar 2021) Mentorship and Trainee Responsibilities</p>
 </li>
 <li>
-<p>(May 20) Translated Informed Consent Forms No Longer Required to be Submitted
-to DSRB</p>
+<p>(May 2020) Translated Informed Consent Forms No Longer Required to be
+Submitted to DSRB</p>
 </li>
 <li>
-<p>(Oct 19) Important Notice on Human Biomedical Research appropriate consent
+<p>(Oct 2019) Important Notice on Human Biomedical Research appropriate consent
 requirements</p>
 </li>
 <li>
-<p>(Jan 19) Management of Incidential Findings – per HBRA requirement</p>
+<p>(Jan 2019) Management of Incidential Findings – per HBRA requirement</p>
 </li>
 <li>
-<p>(Nov 18) Human Biomedical Research (Exemption) Regulations 2018 &amp;
+<p>(Nov 2018) Human Biomedical Research (Exemption) Regulations 2018 &amp;
 Appropriate Consent Requirements</p>
 </li>
 <li>
-<p>(Jan 18) Best Practices on Data Management</p>
+<p>(Jan 2018) Best Practices on Data Management</p>
 </li>
 <li>
-<p>(Jan 15) Responsible Conduct of Research (RCR) – Protection of Human Subjects</p>
+<p>(Jan 2015) Responsible Conduct of Research (RCR) – Protection of Human
+Subjects</p>
 </li>
 </ul>
 <p></p>
