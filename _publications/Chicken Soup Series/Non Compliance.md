@@ -5,10 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
+<h4><strong>Chicken Soup Series - Non-Compliance</strong></h4>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Feb 23) Tips to Prevent Informed Consent Non-Compliances</p>
+<p>(Feb 23) <a href="/files/Training Files 2CS/(09) Non Compliance/Feb_23__Tips_to_Prevent_Informed_Consent_Non_Compliances.pdf" rel="noopener noreferrer nofollow" target="_blank">Tips to Prevent Informed Consent Non-Compliances</a>
+</p>
 </li>
 </ul>
 <p></p>
