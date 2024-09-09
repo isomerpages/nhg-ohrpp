@@ -5,10 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
+<h4><strong>Chicken Soup Series - UPIRTSO</strong></h4>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>HBR Expected SAE ROAM Guide</p>
+<p>(Mar 2018) <a href="/files/Training Files 2CS/(16) UPIRTSO/HBR_Expected_SAE_Roam_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">HBR Expected SAE ROAM Guide</a>
+</p>
 </li>
 </ul>
 <p></p>
