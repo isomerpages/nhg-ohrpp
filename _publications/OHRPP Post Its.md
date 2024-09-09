@@ -11,9 +11,21 @@ community with the latest news and update on research policies, SOPs, training
 events, educational resources and research tools from OHRPP to facilitate
 research conduct operating on high ethical standards.</p>
 <p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Current Issue for NHG Staff</div><div class="isomer-card-link">Issue 32 (Jul 2024)</div></div></a>
+<a rel="noopener noreferrer nofollow" href="www.g.com" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Current Issue for Non-NHG readers</div>
+<div class="isomer-card-link">Issue 32 (Jul 2024)</div>
+</div>
+</a>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Issues for NHG Staff</strong>
+<summary><strong>Past Issues for NHG Staff</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -21,7 +33,7 @@ research conduct operating on high ethical standards.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_DEC_23_Newsletter_NHG.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 31 (Dec 2023)</a> 
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_DEC_23_Newsletter_NHG.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 31 (Dec 2023)</a>
 </p>
 </li>
 <li>
@@ -64,19 +76,70 @@ research conduct operating on high ethical standards.</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS%20(for%20NHG)_Issue%2020(Mar%2021)_Final.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 20 (Mar 2021)</a> 
+<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS%20(for%20NHG)_Issue%2020(Mar%2021)_Final.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 20 (Mar 2021)</a>
 </p>
 </li>
 <li>
 <p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS%20(for%20NHG)_Issue%2019(Oct%2020)_Final.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 19 (Oct 2020)</a>
 </p>
+<p></p>
 </li>
 </ul>
 </div>
 </details>
 </div>
 <p></p>
-<h4></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Past Issues for Non-NHG readers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Issue 31 (Dec 2023)</p>
+</li>
+<li>
+<p>Issue 30 (Sep 2023)</p>
+</li>
+<li>
+<p>Issue 29 (May 2023)</p>
+</li>
+<li>
+<p>Issue 28 (Apr 2023)</p>
+</li>
+<li>
+<p>Issue 27 (Feb 2023)</p>
+</li>
+<li>
+<p>Issue 26 (Oct 2022)</p>
+</li>
+<li>
+<p>Issue 25 (Jul 2022)</p>
+</li>
+<li>
+<p>Issue 24 (Apr 2022)</p>
+</li>
+<li>
+<p>Issue 23 (Nov 2021)</p>
+</li>
+<li>
+<p>Issue 22 (Oct 2021)</p>
+</li>
+<li>
+<p>Issue 21 (Jun 2021)</p>
+</li>
+<li>
+<p>Issue 20 (Mar 2021)</p>
+</li>
+<li>
+<p>Issue 19 (Oct 2020)</p>
+<p></p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p></p>
 <h4></h4>
 <p></p>
