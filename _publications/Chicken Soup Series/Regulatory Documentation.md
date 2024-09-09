@@ -17,16 +17,16 @@ third_nav_title: Chicken Soup Series
 </p>
 </li>
 <li>
-<p>(Jan 20) How to Set Up a Tissue Bank?</p>
+<p>(Jan 20) <a href="/files/Training Files 2CS/(11) Regulatory Docu/Jan_20__How_to_Set_Up_a_Tissue_Bank.pdf" rel="noopener noreferrer nofollow" target="_blank">How to Set Up a Tissue Bank?</a>
+</p>
 </li>
 <li>
-<p>(Jul 19) Clinical Research Material (CRM) notification for Clinical Research
-involving Medical Devices</p>
-</li>
-<li>
-<p>HSA Regulatory overview of clinical trials</p>
+<p>(Jul 19) <a href="/files/Training Files 2CS/(11) Regulatory Docu/Jul_19__Clinical_Research_Material__CRM__notification_for_Clinical_Research_involving_Medical_Devices.pdf" rel="noopener noreferrer nofollow" target="_blank">Clinical Research Material (CRM) notification for Clinical Research involving Medical Devices</a>
+</p>
 </li>
 </ul>
+<p></p>
+<p>Note: Learn more about the <a href="https://www.hsa.gov.sg/clinical-trials/overview" rel="noopener nofollow" target="_blank">regulatory overview of Clinical Trials by Health Sciences Authority (HSA) here</a>.</p>
 <p></p>
 <p><strong>DISCLAIMER</strong>
 </p>
