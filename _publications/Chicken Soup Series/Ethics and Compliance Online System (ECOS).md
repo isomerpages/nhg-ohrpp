@@ -5,19 +5,24 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
+<p><strong>Chicken Soup Series - Ethics and Compliance Online System (ECOS)</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Jun 2024) ECOS - How to Add Team Members in Clinical Research Management
-(CRMS)</p>
+<p>(Jun 2024) <a href="/files/Training Files 2CS/(05) ECOS/Jun_24__ECOS___How_to_Add_Team_Members_in_Clinical_Research_Management__CRMS_.pdf" rel="noopener noreferrer nofollow" target="_blank">ECOS - How to Add Team Members in Clinical Research Management (CRMS)</a>
+</p>
 </li>
 <li>
-<p>(Apr 2024) Ethics and Compliance Online System (ECOS) Launch</p>
+<p>(Apr 2024) <a href="/files/Training Files 2CS/(05) ECOS/Apr_24__Ethics_and_Compliance_Online_System__ECOS__Launch.pdf" rel="noopener noreferrer nofollow" target="_blank">Ethics and Compliance Online System (ECOS) Launch</a>
+</p>
 </li>
 <li>
-<p>(Feb 2024) Ethics and Compliance Online System (ECOS)</p>
+<p>(Feb 2024) <a href="/files/Training Files 2CS/(05) ECOS/Feb_24__Ethics_and_Compliance_Online_System__ECOS_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ethics and Compliance Online System (ECOS)</a>
+</p>
 </li>
 </ul>
 <p></p>
+<p>Note: Learn more about the <a href="https://ecossupport.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">Ethics and Compliance Online System (ECOS) here</a>.</p>
 <p></p>
 <p><strong>DISCLAIMER</strong>
 </p>
