@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Chicken Soup Series
 ---
 <h4><strong>Chicken Soup Series - Ethics and Compliance Online System (ECOS)</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>(Jun 2024) <a href="/files/Training Files 2CS/(05) ECOS/Jun_24__ECOS___How_to_Add_Team_Members_in_Clinical_Research_Management__CRMS_.pdf" rel="noopener noreferrer nofollow" target="_blank">ECOS - How to Add Team Members in Clinical Research Management (CRMS)</a>
