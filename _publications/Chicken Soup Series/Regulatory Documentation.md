@@ -13,15 +13,15 @@ third_nav_title: Chicken Soup Series
 </p>
 </li>
 <li>
-<p>(Dec 21) <a href="/files/Training Files 2CS/(11) Regulatory Docu/Dec_21__When_and_How_to_Register_for_a_Standing_Database.pdf" rel="noopener noreferrer nofollow" target="_blank">When and How to Register for a Standing Database</a>
+<p>(Dec 2021) <a href="/files/Training Files 2CS/(11) Regulatory Docu/Dec_21__When_and_How_to_Register_for_a_Standing_Database.pdf" rel="noopener noreferrer nofollow" target="_blank">When and How to Register for a Standing Database</a>
 </p>
 </li>
 <li>
-<p>(Jan 20) <a href="/files/Training Files 2CS/(11) Regulatory Docu/Jan_20__How_to_Set_Up_a_Tissue_Bank.pdf" rel="noopener noreferrer nofollow" target="_blank">How to Set Up a Tissue Bank?</a>
+<p>(Jan 2020) <a href="/files/Training Files 2CS/(11) Regulatory Docu/Jan_20__How_to_Set_Up_a_Tissue_Bank.pdf" rel="noopener noreferrer nofollow" target="_blank">How to Set Up a Tissue Bank?</a>
 </p>
 </li>
 <li>
-<p>(Jul 19) <a href="/files/Training Files 2CS/(11) Regulatory Docu/Jul_19__Clinical_Research_Material__CRM__notification_for_Clinical_Research_involving_Medical_Devices.pdf" rel="noopener noreferrer nofollow" target="_blank">Clinical Research Material (CRM) notification for Clinical Research involving Medical Devices</a>
+<p>(Jul 2019) <a href="/files/Training Files 2CS/(11) Regulatory Docu/Jul_19__Clinical_Research_Material__CRM__notification_for_Clinical_Research_involving_Medical_Devices.pdf" rel="noopener noreferrer nofollow" target="_blank">Clinical Research Material (CRM) notification for Clinical Research involving Medical Devices</a>
 </p>
 </li>
 </ul>
