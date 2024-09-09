@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About our Publications.md
+      - Chicken Soup Series/DataCollect SourceDoc.md
       - Chicken Soup Series/.keep
       - Chicken Soup Series/About Chicken Soup for the Busy Coordinator.md
       - Chicken Soup Series/Biological Samples.md
