@@ -15,7 +15,7 @@ of research and continuous education.</p>
 bite-size educational resources for Clinical Research Coordinators. The
 monthly Chicken Soup emails are easy to read and contain essential information
 and practical knowledge that can be applied at work.
-<br>See the <a href="/chicken-soup-for-the-busy-coordinator/" rel="noopener nofollow" target="_blank">Chicken Soup for the Busy Coordinator here</a>.</p>
+<br>See the <a href="/abt-chicken-soup/" rel="noopener nofollow" target="_blank">Chicken Soup for the Busy Coordinator here</a>.</p>
 <p></p>
 <p><strong>HBR Case Study Circular</strong>
 <br>The HBR Case Study Circular shares good practices and negative examples
