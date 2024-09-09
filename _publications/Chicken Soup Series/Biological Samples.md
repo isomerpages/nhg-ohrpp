@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
-<p><strong>Chicken Soup Series - Biological Samples</strong>
-</p>
+<h4><strong>Chicken Soup Series - Biological Samples</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>(Jun 2023) <a href="/files/Training Files 2CS/(01) Biological Samples/Jun_23__Precautions_for_Handling_and_Collecting_Biological_Specimens_during_a_Pandemic.pdf" rel="noopener noreferrer nofollow" target="_blank">Precautions for Handling and Collecting Biological Specimens during a Pandemic</a>
