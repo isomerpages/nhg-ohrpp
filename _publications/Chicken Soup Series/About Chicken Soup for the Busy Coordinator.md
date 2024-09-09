@@ -36,13 +36,14 @@ how to avoid authorship disputes for a successful publication.</div>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Biological Samples</p>
+<p><a href="/cs-biosamples/" rel="noopener nofollow" target="_blank">Biological Samples</a>
+</p>
 </li>
 <li>
 <p>Data Collection &amp; Source Documentation</p>
 </li>
 <li>
-<p>Database (No related articles yet.)</p>
+<p>Database</p>
 </li>
 <li>
 <p>DSRB Documentation</p>
@@ -84,7 +85,8 @@ how to avoid authorship disputes for a successful publication.</div>
 <p>Unanticipated Problems Involving Risks to Subjects or Others (UPIRTSO)</p>
 </li>
 <li>
-<p>Other Topics</p>
+<p>Other General Topics</p>
+<p></p>
 </li>
 </ul>
 <p></p>
