@@ -5,11 +5,16 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
+<p><strong>Chicken Soup Series - Databases</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Oct 22) Using REDCap as Data Collection Tool for Research</p>
+<p>(Oct 22) <a href="/files/Training Files 2CS/(03) Database/Oct_22__Using_REDCap_as_Data_Collection_Tool_for_Research.pdf" rel="noopener noreferrer nofollow" target="_blank">Using REDCap as Data Collection Tool for Research</a>
+</p>
 </li>
 </ul>
+<p></p>
+<p>Note: Learn more about <a href="https://redcapsupport.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">NHG REDCap here</a>.</p>
 <p></p>
 <p><strong>DISCLAIMER</strong>
 </p>
