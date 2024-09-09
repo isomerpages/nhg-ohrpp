@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Chicken Soup Series
 ---
 <h4><strong>Chicken Soup Series - Informed Consent</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>(Mar 2023) <a href="/files/Training Files 2CS/(06) Informed Consent/Mar_23__How_to_obtain_informed_consent_from_subjects_with_cognitive_impairment.pdf" rel="noopener noreferrer nofollow" target="_blank">How to obtain informed consent from subjects with cognitive impairment</a>
