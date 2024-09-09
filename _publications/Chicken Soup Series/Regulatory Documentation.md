@@ -13,7 +13,8 @@ third_nav_title: Chicken Soup Series
 </p>
 </li>
 <li>
-<p>(Dec 21) When and How to Register for a Standing Database</p>
+<p>(Dec 21) <a href="/files/Training Files 2CS/(11) Regulatory Docu/Dec_21__When_and_How_to_Register_for_a_Standing_Database.pdf" rel="noopener noreferrer nofollow" target="_blank">When and How to Register for a Standing Database</a>
+</p>
 </li>
 <li>
 <p>(Jan 20) How to Set Up a Tissue Bank?</p>
