@@ -33,33 +33,40 @@ third_nav_title: Chicken Soup Series
 </p>
 </li>
 <li>
-<p>(Jul 2020) Ensuring Data Integrity with Principles of Good Documentation</p>
+<p>(Jul 2020) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Jul_20__Ensuring_Data_Integrity_With_Principles_Of_Good_Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank">Ensuring Data Integrity with Principles of Good Documentation</a>
+</p>
 </li>
 <li>
-<p>(May 2020) Extraction of Data for Use in Research Study</p>
+<p>(May 2020) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/May_20__Extraction_Of_Data_For_Use_In_Research_Study.pdf" rel="noopener noreferrer nofollow" target="_blank">Extraction of Data for Use in Research Study</a>
+</p>
 </li>
 <li>
-<p>(Sept 2019) How should research data be shared?</p>
+<p>(Sept 2019) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Sept_19__How_should_research_data_be_shared.pdf" rel="noopener noreferrer nofollow" target="_blank">How should research data be shared?</a>
+</p>
 </li>
 <li>
-<p>(Dec 2018) How should research data be managed &amp; stored?</p>
+<p>(Dec 2018) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Dec_18__How_should_research_data_be_managed___stored.pdf" rel="noopener noreferrer nofollow" target="_blank">How should research data be managed &amp; stored?</a>
+</p>
 </li>
 <li>
-<p>(Nov 2017) Transferring of Essential Documents (containing Subjects’ Identifiable
-Data) to an Overseas External Collaborator</p>
+<p>(Nov 2017) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Nov_17__Transferring_of_Essential_Documents__containing_Subjects__Identifiable_Data__to_an_Overseas_External_Collaborator.pdf" rel="noopener noreferrer nofollow" target="_blank">Transferring of Essential Documents (containing Subjects’ Identifiable Data) to an Overseas External Collaborator</a>
+</p>
 </li>
 <li>
-<p>(Oct 2017) The Management and Storage of Research data</p>
+<p>(Oct 2017) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Oct_17__The_Management_and_Storage_of_Research_data.pdf" rel="noopener noreferrer nofollow" target="_blank">The Management and Storage of Research data</a>
+</p>
 </li>
 <li>
-<p>(Jul 2017) Source Documentation</p>
+<p>(Jul 2017) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Jul_17__Source_Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank">Source Documentation</a>
+</p>
 </li>
 <li>
-<p>(Jun 2017) Research Involving Non-English Speaking Subjects</p>
+<p>(Jun 2017) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Jun_17__Research_Involving_Non_English_Speaking_Subjects.pdf" rel="noopener noreferrer nofollow" target="_blank">Research Involving Non-English Speaking Subjects</a>
+</p>
 </li>
 <li>
-<p>(Oct 2016) NHG RQM Common Study Review Finding: Data Collection &amp;
-Source Documentation</p>
+<p>(Oct 2016) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Oct_16__NHG_RQM_Common_Study_Review_Finding_Data_Collection___Source_Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG RQM Common Study Review Finding: Data Collection &amp; Source Documentation</a>
+</p>
 </li>
 </ul>
 <p></p>
