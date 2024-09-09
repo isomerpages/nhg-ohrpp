@@ -5,18 +5,20 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
-<p></p>
+<p><strong>Chicken Soup Series - Biological Samples</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Jun 2023) Precautions for Handling and Collecting Biological Specimens
-during a Pandemic</p>
+<p>(Jun 2023) <a href="/files/Training Files 2CS/(01) Biological Samples/Jun_23__Precautions_for_Handling_and_Collecting_Biological_Specimens_during_a_Pandemic.pdf" rel="noopener noreferrer nofollow" target="_blank">Precautions for Handling and Collecting Biological Specimens during a Pandemic</a>
+</p>
 </li>
 <li>
-<p>(May 2023) Storage / Usage / Supplying of Leftover Human Tissue from Current
-HBR</p>
+<p>(May 2023) <a href="/files/Training Files 2CS/(01) Biological Samples/May_23__Storage_Usage_Supplying_of_Leftover_Human_Tissue_from_Current_HBR.pdf" rel="noopener noreferrer nofollow" target="_blank">Storage / Usage / Supplying of Leftover Human Tissue from Current HBR</a>
+</p>
 </li>
 <li>
-<p>(Apr 2021) Biological Specimen Management</p>
+<p>(Apr 2021) <a href="/files/Training Files 2CS/(01) Biological Samples/Apr_21__Biological_Specimen_Management.pdf" rel="noopener noreferrer nofollow" target="_blank">Biological Specimen Management</a>
+</p>
 </li>
 </ul>
 <p></p>
