@@ -99,7 +99,8 @@ how to avoid authorship disputes for a successful publication.</div>
 </p>
 </li>
 <li>
-<p>Other General Topics</p>
+<p><a href="/cs-other-topics/" rel="noopener nofollow" target="_blank">Other General Topics</a>
+</p>
 <p></p>
 </li>
 </ul>
