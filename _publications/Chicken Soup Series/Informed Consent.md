@@ -25,24 +25,28 @@ third_nav_title: Chicken Soup Series
 </p>
 </li>
 <li>
-<p>(Oct 2021) When is Re-consenting of Research Subjects Needed?</p>
+<p>(Oct 2021) <a href="/files/Training Files 2CS/(06) Informed Consent/Oct_21__When_is_Re_consenting_of_Research_Subjects_Needed.pdf" rel="noopener noreferrer nofollow" target="_blank">When is Re-Consenting of Research Subjects Needed?</a>
+</p>
 </li>
 <li>
-<p>(Aug 2021) Impartial Witness &amp; Witness In Informed Consent-Taking
-For HBR Studies</p>
+<p>(Aug 2021) <a href="/files/Training Files 2CS/(06) Informed Consent/Aug_21__Impartial_Witness___Witness_In_Informed_Consent_Taking_For_HBR_Studies.pdf" rel="noopener noreferrer nofollow" target="_blank">Impartial Witness &amp; Witness in Informed Consent-Taking for HBR Studies</a>
+</p>
 </li>
 <li>
-<p>(Dec 2020) Pointers for Electronic Consent (e-Consent)</p>
+<p>(Dec 2020) <a href="/files/Training Files 2CS/(06) Informed Consent/Dec_20__Pointers_for_Electronic_Consent__e_Consent_.pdf" rel="noopener noreferrer nofollow" target="_blank">Pointers for Electronic Consent (e-Consent)</a>
+</p>
 </li>
 <li>
-<p>(Nov 2020) Informed Consent: When is an Impartial Witness Needed?</p>
+<p>(Nov 2020) <a href="/files/Training Files 2CS/(06) Informed Consent/Nov_20__Informed_Consent_When_is_an_Impartial_Witness_Needed.pdf" rel="noopener noreferrer nofollow" target="_blank">Informed Consent: When is an Impartial Witness Needed?</a>
+</p>
 </li>
 <li>
-<p>(Nov 2019) How Should Consent Be Obtained From Subjects Lacking Mental
-Capacity?</p>
+<p>(Nov 2019) <a href="/files/Training Files 2CS/(06) Informed Consent/Nov_19__How_Should_Consent_Be_Obtained_From_Subjects_Lacking_Mental_Capacity.pdf" rel="noopener noreferrer nofollow" target="_blank">How should Consent be obtained from Subjects Lacking Mental Capacity?</a>
+</p>
 </li>
 <li>
-<p>(May 2019) Witness requirements for Informed Consent process</p>
+<p>(May 2019) <a href="/files/Training Files 2CS/(06) Informed Consent/May_19__Witness_requirements_for_Informed_Consent_process.pdf" rel="noopener noreferrer nofollow" target="_blank">Witness requirements for Informed Consent process</a>
+</p>
 </li>
 <li>
 <p>(Oct 2018) Obtaining Consent for Adults lacking mental capacity in Human
@@ -53,8 +57,8 @@ Biomedical Research</p>
 involving the use of individually identifiable data/ materials</p>
 </li>
 <li>
-<p>(Apr 2018) Processes for Consenting A Subject Into A Clinical Trial In
-An Emergency Situation</p>
+<p>(Apr 2018) Processes for Consenting A Subject into A Clinical Trial in
+an Emergency Situation</p>
 </li>
 <li>
 <p>(Sep 2017) How should Consent be obtained for Subjects who are unable
