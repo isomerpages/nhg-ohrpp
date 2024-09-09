@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
-<p><strong>Chicken Soup Series - Databases</strong>
-</p>
+<h4><strong>Chicken Soup Series - Databases</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>(Oct 22) <a href="/files/Training Files 2CS/(03) Database/Oct_22__Using_REDCap_as_Data_Collection_Tool_for_Research.pdf" rel="noopener noreferrer nofollow" target="_blank">Using REDCap as Data Collection Tool for Research</a>
