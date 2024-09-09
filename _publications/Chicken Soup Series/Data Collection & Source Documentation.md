@@ -9,28 +9,34 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Nov 2023) ALCOA Principles for Source Documentation</p>
+<p>(Nov 2023) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Nov_23__ALCOA_Principles_for_Source_Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank">ALCOA Principles for Source Documentation</a>
+</p>
 </li>
 <li>
-<p>(Oct 2023) Collecting, Handling &amp; Storing Data for Research</p>
+<p>(Oct 2023) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Oct_23__Collecting__Handling___Storing_Data_for_Research.pdf" rel="noopener noreferrer nofollow" target="_blank">Collecting, Handling &amp; Storing Data for Research</a>
+</p>
 </li>
 <li>
-<p>(Jan 2023) Using FormSG as a Research Data Capturing Tool</p>
+<p>(Jan 2023) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Jan_23__Using_FormSG_as_a_Research_Data_Capturing_Tool.pdf" rel="noopener noreferrer nofollow" target="_blank">Using FormSG as a Research Data Capturing Tool</a>
+</p>
 </li>
 <li>
-<p>(Jul 2022) Research Data Management (Data Collection, Storage and Transfer)</p>
+<p>(Jul 2022) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Jul_22__Research_Data_Management__Data_Collection_Storage_and_Transfer_.pdf" rel="noopener noreferrer nofollow" target="_blank">Research Data Management (Data Collection, Storage and Transfer)</a>
+</p>
 </li>
 <li>
-<p>(Jan 2021) Study Data Collection and Database Maintenance</p>
+<p>(Jan 2021) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Jan_21__Study_Data_Collection_and_Database_Maintenance.pdf" rel="noopener noreferrer nofollow" target="_blank">Study Data Collection and Database Maintenance</a>
+</p>
 </li>
 <li>
-<p>(Sep 2020) Remote Source Document Verification (SDV) Requirements</p>
+<p>(Sep 2020) <a href="/files/Training Files 2CS/(02) Data Collect n Source Doc/Sep_20__Remote_Source_Document_Verification__SDV__Requirements.pdf" rel="noopener noreferrer nofollow" target="_blank">Remote Source Document Verification (SDV) Requirements</a>
+</p>
 </li>
 <li>
-<p>(Jul 2020) Ensuring Data Integrity With Principles Of Good Documentation</p>
+<p>(Jul 2020) Ensuring Data Integrity with Principles of Good Documentation</p>
 </li>
 <li>
-<p>(May 2020) Extraction Of Data For Use In Research Study</p>
+<p>(May 2020) Extraction of Data for Use in Research Study</p>
 </li>
 <li>
 <p>(Sept 2019) How should research data be shared?</p>
