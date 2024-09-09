@@ -40,7 +40,8 @@ how to avoid authorship disputes for a successful publication.</div>
 </p>
 </li>
 <li>
-<p>Data Collection &amp; Source Documentation</p>
+<p><a href="/cs-datacollect-sourcedoc/" rel="noopener nofollow" target="_blank">Data Collection &amp; Source Documentation</a>
+</p>
 </li>
 <li>
 <p><a href="/cs-database/" rel="noopener nofollow" target="_blank">Database</a>
