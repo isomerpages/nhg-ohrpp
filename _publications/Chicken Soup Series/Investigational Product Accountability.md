@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Chicken Soup Series
 ---
 <h4><strong>Chicken Soup Series - Investigational Product Accountability</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>(Nov 2021) <a href="/files/Training Files 2CS/(07) Investigational Product/Nov_21__Common_Findings_related_to_Investigational_Product__IP__Management.pdf" rel="noopener noreferrer nofollow" target="_blank">Common Findings related to Investigational Product (IP) Management</a>
