@@ -49,20 +49,20 @@ third_nav_title: Chicken Soup Series
 </p>
 </li>
 <li>
-<p>(Oct 2018) Obtaining Consent for Adults lacking mental capacity in Human
-Biomedical Research</p>
+<p>(Oct 2018) <a href="/files/Training Files 2CS/(06) Informed Consent/Oct_18__Obtaining_Consent_for_Adults_lacking_mental_capacity_in_Human_Biomedical_Research.pdf" rel="noopener noreferrer nofollow" target="_blank">Obtaining Consent for Adults lacking mental capacity in Human Biomedical Research</a>
+</p>
 </li>
 <li>
-<p>(Jul 2018) Re-consenting for HBR studies extending past 31 October 2018
-involving the use of individually identifiable data/ materials</p>
+<p>(Jul 2018) <a href="/files/Training Files 2CS/(06) Informed Consent/Jul_18__Re_consenting_for_HBR_studies_extending_past_31_October_2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Re-consenting for HBR studies extending past 31 October 2018 involving the use of individually identifiable data/ materials</a>
+</p>
 </li>
 <li>
-<p>(Apr 2018) Processes for Consenting A Subject into A Clinical Trial in
-an Emergency Situation</p>
+<p>(Apr 2018) <a href="/files/Training Files 2CS/(06) Informed Consent/Apr_18__Processes_for_Consenting_A_Subject_Into_A_Clinical_Trial_In_An_Emergency_Situation.pdf" rel="noopener noreferrer nofollow" target="_blank">Processes for Consenting a Subject into a Clinical Trial in an Emergency Situation</a>
+</p>
 </li>
 <li>
-<p>(Sep 2017) How should Consent be obtained for Subjects who are unable
-to read?</p>
+<p>(Sep 2017) <a href="/files/Training Files 2CS/(06) Informed Consent/Sep_17__How_should_Consent_be_obtained_for_Subjects_who_are_unable_to_read.pdf" rel="noopener noreferrer nofollow" target="_blank">How should Consent be obtained for Subjects who are unable to read?</a>
+</p>
 </li>
 </ul>
 <p></p>
