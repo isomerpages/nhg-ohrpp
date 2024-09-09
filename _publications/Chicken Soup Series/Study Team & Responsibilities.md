@@ -5,20 +5,24 @@ variant: tiptap
 description: ""
 third_nav_title: Chicken Soup Series
 ---
+<h4><strong>Chicken Soup Series - Study Team &amp; Responsibilities</strong></h4>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Jun 22) The Responsibilities of PI, Co-I and Clinical Research Coordinators?</p>
+<p>(Jun 2022) <a href="/files/Training Files 2CS/(14) Study Team Respd/Jun_22__The_Responsibilities_of_PI__Co_I_and_Clinical_Research_Coordinators.pdf" rel="noopener noreferrer nofollow" target="_blank">The Responsibilities of PI, Co-I and Clinical Research Coordinators?</a>
+</p>
 </li>
 <li>
-<p>(Jul 21) Minimum Training Requirements for PI and Study Team Conducting
-Human Biomedical Research (HBR)</p>
+<p>(Jul 2021) <a href="/files/Training Files 2CS/(14) Study Team Respd/Jul_21__Minimum_Training_Requirements_for_PI_and_Study_Team_Conducting_Human_Biomedical_Research__HBR_.pdf" rel="noopener noreferrer nofollow" target="_blank">Minimum Training Requirements for PI and Study Team Conducting Human Biomedical Research (HBR)</a>
+</p>
 </li>
 <li>
-<p>(Mar 17) Involvement of Collaborators in the Study Team</p>
+<p>(Mar 2017) <a href="/files/Training Files 2CS/(14) Study Team Respd/Mar_17__Involvement_of_Collaborators_in_the_Study_Team.pdf" rel="noopener noreferrer nofollow" target="_blank">Involvement of Collaborators in the Study Team</a>
+</p>
 </li>
 <li>
-<p>(Jan 17) Best Practices for Clinical Research Coordinator Handover</p>
+<p>(Jan 2017) <a href="/files/Training Files 2CS/(14) Study Team Respd/Jan_17__Best_Practices_for_Clinical_Research_Coordinator_Handover.pdf" rel="noopener noreferrer nofollow" target="_blank">Best Practices for Clinical Research Coordinator Handover</a>
+</p>
 </li>
 </ul>
 <p></p>
