@@ -11,7 +11,6 @@ are required by the DSRB. While it is not compulsory to use these templates,
 PI's are encouraged to do so.</p>
 <p></p>
 <p>===</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -21,7 +20,7 @@ PI's are encouraged to do so.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Document No.</strong>
+<p><strong>Doc No.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +42,8 @@ PI's are encouraged to do so.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 13, dated 31 Jan&nbsp;22</p>
+<p>Ver 13</p>
+<p>Dated 31 Jan&nbsp;2022</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,8 @@ PI's are encouraged to do so.</p>
 <p>Optional Consent Form for the Donation of Leftover Biological Samples&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 2.0, dated 26 Nov 21</p>
+<p>Ver 2.0</p>
+<p>Dated 26 Nov 2021</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +67,8 @@ PI's are encouraged to do so.</p>
 with English Short Consent Form Template for non-english speaking subject&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 2.0, dated 26 Nov 21</p>
+<p>Ver 2.0</p>
+<p>Dated 26 Nov 2021</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +81,8 @@ with Simplified Chinese Short Consent Form Template for non-english speaking
 subject&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 2.0, dated 26 Nov 21</p>
+<p>Ver 2.0</p>
+<p>Dated 26 Nov 2021</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +94,8 @@ subject&nbsp;</p>
 with Malay Short Consent Form Template for non-english speaking subject&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 2.0, dated 26 Nov 21</p>
+<p>Ver 2.0</p>
+<p>Dated 26 Nov 2021</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +107,8 @@ with Malay Short Consent Form Template for non-english speaking subject&nbsp;</p
 with Tamil Short Consent Form Template for non-english speaking subject&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 2.0, dated 26 Nov 21</p>
+<p>Ver 2.0</p>
+<p>Dated 26 Nov 2021</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +119,8 @@ with Tamil Short Consent Form Template for non-english speaking subject&nbsp;</p
 <p>Study&nbsp;Protocol&nbsp;Template</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 3, dated 1 Jun 09</p>
+<p>Ver 3</p>
+<p>Dated 1 Jun 2009</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +131,8 @@ with Tamil Short Consent Form Template for non-english speaking subject&nbsp;</p
 <p>Sample&nbsp;language&nbsp;for&nbsp;documentation&nbsp;of&nbsp;Capacity&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 1, dated 1 Aug 06</p>
+<p>Ver 1</p>
+<p>Dated 1 Aug 2006</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +144,8 @@ with Tamil Short Consent Form Template for non-english speaking subject&nbsp;</p
 speaking subject</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 10, dated&nbsp;30 Nov 18</p>
+<p>Ver 10</p>
+<p>Dated&nbsp;30 Nov 2018</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +156,8 @@ speaking subject</p>
 <p>ICF&nbsp;with&nbsp;Simplified&nbsp;Chinese&nbsp;language&nbsp;Short&nbsp;Consent&nbsp;Form&nbsp;Template&nbsp;for&nbsp;non-english&nbsp;speaking&nbsp;subjects&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 10, dated&nbsp;30 Nov 18</p>
+<p>Ver 10</p>
+<p>Dated&nbsp;30 Nov 2018</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +168,8 @@ speaking subject</p>
 <p>ICF&nbsp;with&nbsp;Malay&nbsp;language&nbsp;Short&nbsp;Consent&nbsp;Form&nbsp;Template&nbsp;for&nbsp;non-english&nbsp;speaking&nbsp;subjects&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 10, dated&nbsp;30 Nov 18</p>
+<p>Ver 10</p>
+<p>Dated&nbsp;30 Nov 2018</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +181,8 @@ speaking subject</p>
 subjects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 10, dated&nbsp;30 Nov 18</p>
+<p>Ver 10</p>
+<p>Dated&nbsp;30 Nov 2018</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +194,8 @@ subjects</p>
 <p>Summary of Updates to DSRB Assent Form Template&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 2, dated 14 Feb 22</p>
+<p>Ver 2</p>
+<p>Dated 14 Feb 2022</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +206,8 @@ subjects</p>
 <p>Certification&nbsp;of&nbsp;Translation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 1, dated 13 Aug 12</p>
+<p>Ver 1</p>
+<p>Dated 13 Aug 2012</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +218,8 @@ subjects</p>
 <p>Declaration of Use of Annoymised Data and/or Samples for Research</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ver 1, dated 18 Aug 23</p>
+<p>Ver 1</p>
+<p>Dated 18 Aug 2023</p>
 </td>
 </tr>
 </tbody>
