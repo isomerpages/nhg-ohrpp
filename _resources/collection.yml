@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - dsrbprocessguide.md
       - NHG Investigator's Manual.md
       - Templates.md
