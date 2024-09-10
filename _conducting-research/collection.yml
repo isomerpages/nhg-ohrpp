@@ -2,6 +2,7 @@ collections:
   conducting-research:
     output: true
     order:
+      - NHG Research Policies/NHG Research Policies.md
       - NHG Research Policies/.keep
       - NHG Research Policies/NHG Investigators' Manual.md
       - NHG Research Policies/NHG Proper Conduct of Research SOPs.md
