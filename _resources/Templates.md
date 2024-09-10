@@ -4,7 +4,7 @@ permalink: /templates/
 variant: tiptap
 description: ""
 ---
-<p>DSRB Templates for Study Documentation</p>
+<h4><strong>DSRB Templates for Study Documentation</strong></h4>
 <p>The following templates are provided as a guide for PI's to create their
 own study documents. These templates contain the critical elements which
 are required by the DSRB. While it is not compulsory to use these templates,
