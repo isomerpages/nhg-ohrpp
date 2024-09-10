@@ -7,11 +7,10 @@ third_nav_title: Chicken Soup Series
 ---
 <h4><strong>Chicken Soup Series - Biological Samples</strong></h4>
 <p></p>
-<p>(Jun 2023) Precautions for Handling and Collecting Biological Specimens
-during a Pandemic
-<br>(May 2023) Storage / Usage / Supplying of Leftover Human Tissue from Current
-HBR
-<br>(Apr 2021) Biological Specimen Management</p>
+<p><a href="/files/Chicken Soup/Biological Samples/Jun_23__Precautions_for_Handling_and_Collecting_Biological_Specimens_during_a_Pandemic.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jun 2023) Precautions for Handling and Collecting Biological Specimens during a Pandemic </a>
+<br><a href="/files/Chicken Soup/Biological Samples/May_23__Storage_Usage_Supplying_of_Leftover_Human_Tissue_from_Current_HBR.pdf" rel="noopener noreferrer nofollow" target="_blank">(May 2023) Storage / Usage / Supplying of Leftover Human Tissue from Current HBR </a>
+<br><a href="/files/Chicken Soup/Biological Samples/Apr_21__Biological_Specimen_Management.pdf" rel="noopener noreferrer nofollow" target="_blank">(Apr 2021) Biological Specimen Management</a>
+</p>
 <p></p>
 <p>
 <br>
