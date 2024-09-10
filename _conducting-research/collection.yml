@@ -2,7 +2,6 @@ collections:
   conducting-research:
     output: true
     order:
-      - NHG Research Policies.md
       - Who can be a Principal Investigator?.md
       - Minimum Training Requirements/.keep
       - Minimum Training Requirements/Overview of Minimum Training
@@ -22,11 +21,12 @@ collections:
       - Managing Research Data/Data Governance.md
       - Managing Research Data/About NHG Standing Databases (SDB).md
       - Managing Research Data/Registering Standing Databases (SBD).md
+      - Managing Human Tissue/.keep
       - Managing Human Tissue/Human Tissue Governance.md
       - Managing Human Tissue/About NHG Tissue Banks.md
       - Managing Human Tissue/Registering Tissue Banks.md
-      - Managing Human Tissue/.keep
       - Research Regulations/.keep
       - Research Regulations/Revised Regulatory Framework for Clinical Trials.md
       - Research Regulations/Personal Data Protection Act (PDPA).md
       - Research Regulations/Human Biomedical Research Act (HBRA).md
+      - NHG Research Policies.md
