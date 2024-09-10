@@ -2,7 +2,6 @@ collections:
   conducting-research:
     output: true
     order:
-      - Clinical Trial Insurance.md
       - Who can be a Principal Investigator?.md
       - Minimum Training Requirements/.keep
       - Minimum Training Requirements/Overview of Minimum Training
@@ -35,3 +34,4 @@ collections:
       - Managing Human Tissue/Human Tissue Governance.md
       - Managing Human Tissue/About NHG Tissue Banks.md
       - Managing Human Tissue/Registering Tissue Banks.md
+      - Clinical Trial Insurance.md
