@@ -114,6 +114,17 @@ speaking subject (Ver 2.0, Dated 26 Nov 2021)</p>
 </details>
 </div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Anonymized Data/Samples for Research</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Declaration of Use of Anonymized Data and/or Samples for Research (Ver
+1, Dated 18 Aug 2023)</p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
