@@ -47,8 +47,9 @@ personal data only for purposes that would be considered appropriate to
 a reasonable person in the given circumstances.</p>
 </li>
 </ul>
-<p><strong>References and Further Reading</strong>
-<br>For more information on the Personal Data Protection Act, please refer
+<p></p>
+<h4><strong>References and Further Reading</strong></h4>
+<p>For more information on the Personal Data Protection Act, please refer
 to the following websites:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -62,4 +63,9 @@ to the following websites:</p>
 </p>
 </li>
 </ul>
+<p></p>
+<h4><strong>NHG Data Protection Offices</strong></h4>
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared Library/Research Data/List of NHG DPO and DP Offices.pdf" rel="noopener nofollow" target="_blank">List of NHG DPOs and DP Offices here</a>.
+(Restricted: NHG Intranet access required)</p>
+<p></p>
 <p></p>
