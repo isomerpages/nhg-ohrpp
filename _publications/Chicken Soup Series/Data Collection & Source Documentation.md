@@ -7,23 +7,22 @@ third_nav_title: Chicken Soup Series
 ---
 <h4><strong>Chicken Soup Series - Data Collection &amp; Source Documentation</strong></h4>
 <p></p>
-<p>(Nov 2023) ALCOA Principles for Source Documentation
-<br>(Oct 2023) Collecting, Handling &amp; Storing Data for Research
-<br>(Jan 2023) Using FormSG as a Research Data Capturing Tool
-<br>(Jul 2022) Research Data Management (Data Collection, Storage and Transfer)
-<br>(Jan 2021) Study Data Collection and Database Maintenance
-<br>(Sep 2020) Remote Source Document Verification (SDV) Requirements
-<br>(Jul 2020) Ensuring Data Integrity with Principles of Good Documentation
-<br>(May 2020) Extraction of Data for Use in Research Study
-<br>(Sept 2019) How should research data be shared?
-<br>(Dec 2018) How should research data be managed &amp; stored?
-<br>(Nov 2017) Transferring of Essential Documents (containing Subjects’ Identifiable
-Data) to an Overseas External Collaborator
-<br>(Oct 2017) The Management and Storage of Research data
-<br>(Jul 2017) Source Documentation
-<br>(Jun 2017) Research Involving Non-English Speaking Subjects
-<br>(Oct 2016) NHG RQM Common Study Review Finding: Data Collection &amp;
-Source Documentation</p>
+<p><a href="/files/Chicken Soup/DataCollectionSourceDocs/Nov_23__ALCOA_Principles_for_Source_Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank">(Nov 2023) ALCOA Principles for Source Documentation </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Oct_23__Collecting__Handling___Storing_Data_for_Research.pdf" rel="noopener noreferrer nofollow" target="_blank">(Oct 2023) Collecting, Handling &amp; Storing Data for Research </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Jan_23__Using_FormSG_as_a_Research_Data_Capturing_Tool.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jan 2023) Using FormSG as a Research Data Capturing Tool </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Jul_22__Research_Data_Management__Data_Collection_Storage_and_Transfer_.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jul 2022) Research Data Management (Data Collection, Storage and Transfer) </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Jan_21__Study_Data_Collection_and_Database_Maintenance.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jan 2021) Study Data Collection and Database Maintenance </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Sep_20__Remote_Source_Document_Verification__SDV__Requirements.pdf" rel="noopener noreferrer nofollow" target="_blank">(Sep 2020) Remote Source Document Verification (SDV) Requirements </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Jul_20__Ensuring_Data_Integrity_With_Principles_Of_Good_Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jul 2020) Ensuring Data Integrity with Principles of Good Documentation </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/May_20__Extraction_Of_Data_For_Use_In_Research_Study.pdf" rel="noopener noreferrer nofollow" target="_blank">(May 2020) Extraction of Data for Use in Research Study </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Sept_19__How_should_research_data_be_shared.pdf" rel="noopener noreferrer nofollow" target="_blank">(Sept 2019) How should research data be shared? </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Dec_18__How_should_research_data_be_managed___stored.pdf" rel="noopener noreferrer nofollow" target="_blank">(Dec 2018) How should research data be managed &amp; stored? </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Nov_17__Transferring_of_Essential_Documents__containing_Subjects__Identifiable_Data__to_an_Overseas_External_Collaborator.pdf" rel="noopener noreferrer nofollow" target="_blank">(Nov 2017) Transferring of Essential Documents (containing Subjects’ Identifiable Data) to an Overseas External Collaborator </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Oct_17__The_Management_and_Storage_of_Research_data.pdf" rel="noopener noreferrer nofollow" target="_blank">(Oct 2017) The Management and Storage of Research data </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Jul_17__Source_Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jul 2017) Source Documentation </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Jul_17__Source_Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jun 2017) Research Involving Non-English Speaking Subjects </a>
+<br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Oct_16__NHG_RQM_Common_Study_Review_Finding_Data_Collection___Source_Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank">(Oct 2016) NHG RQM Common Study Review Finding: Data Collection &amp; Source Documentation</a>
+</p>
 <p>
 <br>
 </p>
