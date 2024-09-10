@@ -10,7 +10,7 @@ third_nav_title: OHRPP Units
 with the Human Biomedical Research Act (HBRA). The RCU oversees 5 key portfolios:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Secretariat for Research Institution (RI)</strong>
+<summary><strong>Research Institution Secretariat</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The NHG Research Institution (RI) is responsible for ensuring that all
@@ -42,27 +42,27 @@ research (HBR) activities in NHG:</p>
 <p>Research Data Oversight Committee (RDOC)</p>
 </li>
 </ul>
-<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Institution/NHG%20Research%20Institution%20(RI)%20Policy%20%5BAPPROVED%5D.pdf?Web=1" rel="noopener nofollow" target="_blank">NHG RI Policy here</a> (Restricted:
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Institution/NHG%20Research%20Institution%20(RI)%20Policy%20%5BAPPROVED%5D.pdf?Web=1" rel="noopener nofollow" target="_blank">NHG Research Institution (RI) Policy here</a> (Restricted:
 NHG Intranet access required).</p>
 <p></p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Secretariat for Research Data Oversight Committee (RDOC)</strong>
+<summary><strong>Research Data Secretariat</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The NHG Research Data Secretariat (RDS) provides support to the NHG Principal
-Person-In-Charge (PIC) to oversee cluster policies and procedures on the
-use and management of research data. Research Data Working Committee (RDWC)
-will work with the RDS to make recommendations for the improvement of research
-data management practices to ensure compliance with legislations, in particular
-the HBRA, the PDPA and HIM.</p>
+<p>The NHG <strong>Research Data Secretariat (RDS)</strong> provides support
+to the NHG Principal Person-In-Charge (PIC) to oversee cluster policies
+and procedures on the use and management of research data. Research Data
+Working Committee (RDWC) will work with the RDS to make recommendations
+for the improvement of research data management practices to ensure compliance
+with legislations, in particular the HBRA, the PDPA and HIM.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Secretariat for Tissue Compliance Committee (TCC)</strong>
+<summary><strong>Tissue Compliance Committee Secretariat</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The NHG Tissue Compliance Committee (TCC) was formed to advise on the
@@ -104,7 +104,7 @@ here.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Secretariat for Responsible Conduct of Research (RCR)</strong>
+<summary><strong>Responsible Conduct of Research Secretariat</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -121,18 +121,18 @@ of research, which is the operative principle.</p>
 </details>
 </div>
 <p></p>
-<h4><strong>Contact information</strong></h4>
+<h4><strong>Contact Information</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secretariat for Research Data Oversight Committee (RDOC): <a href="mailto:RDOCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">RDOCSecretariat@nhg.com.sg</a>
+<p>Research Data Secretariat: <a href="mailto:RDOCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">RDOCSecretariat@nhg.com.sg</a>
 </p>
 </li>
 <li>
-<p>Secretariat for Tissue Compliance Committee (TCC): <a href="mailto:NHGTCCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGTCCSecretariat@nhg.com.sg</a>
+<p>Tissue Compliance Committee Secretariat: <a href="mailto:NHGTCCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGTCCSecretariat@nhg.com.sg</a>
 </p>
 </li>
 <li>
-<p>Secretariat for Responsible Conduct of Research (RCR): <a href="mailto:NHGRCRSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGRCRSecretariat@nhg.com.sg</a>
+<p>Responsible Conduct of Research Secretariat: <a href="mailto:NHGRCRSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGRCRSecretariat@nhg.com.sg</a>
 </p>
 </li>
 </ul>
