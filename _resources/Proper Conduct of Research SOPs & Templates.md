@@ -10,12 +10,14 @@ to provide detailed procedures on conducting research in accordance with
 applicable guidelines and regulations. You may adapt and modify these templates
 to suit your individual research needs.</p>
 <p></p>
-<h5><strong>For Clinical Trials Regulated Under the Health Products Act and Medicines Act&nbsp;&nbsp;&nbsp;</strong></h5>
+<p><strong>For Clinical Trials Regulated Under the Health Products Act and Medicines Act&nbsp;&nbsp;&nbsp;</strong>
+</p>
 <p>Please note that the revised regulatory requirements should be complied
 with from 1st Nov 2016. You may refer to <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/regulatory+submission+requirements" rel="noopener noreferrer nofollow" target="_blank"><u>this&nbsp;link</u></a></strong> for
 more details on the revised requirements.</p>
 <p></p>
-<h5><strong>For Human Biomedical Research Regulated Under the Human Biomedical Research Act (HBRA)&nbsp;&nbsp;</strong></h5>
+<p><strong>For Human Biomedical Research Regulated Under the Human Biomedical Research Act (HBRA)&nbsp;&nbsp;</strong>
+</p>
 <p>Please note that the PCR SOPs have been updated in alignment with the
 HBRA. Please familiarise yourselves with the new requirements.</p>
 <p></p>
@@ -25,7 +27,11 @@ HBRA. Please familiarise yourselves with the new requirements.</p>
 updated:&nbsp;21-Mar-24)</p>
 <p></p>
 <p></p>
-<h5><strong>Proper Conduct of Research</strong></h5>
+<h5><strong>PCR SOPs &amp; Templates</strong></h5>
+<p>These documents are strictly for internal circulation among NHG Staff
+members and Authorized personnel only.</p>
+<p><strong>Access to these files is Restricted (NHG Intranet access required).</strong>
+</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -187,7 +193,8 @@ updated:&nbsp;21-Mar-24)</p>
 </details>
 </div>
 <p></p>
-<p></p>
+<p><strong>Access to these files is Restricted (NHG Intranet access required).</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
