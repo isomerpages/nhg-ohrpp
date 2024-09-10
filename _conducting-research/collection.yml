@@ -2,7 +2,7 @@ collections:
   conducting-research:
     output: true
     order:
-      - NHG Research Policies/investigatormanual.md
+      - NHG Research Policies/NHG Investigators' Manual.md
       - NHG Research Policies/Responsible Conduct of Research (RCR).md
       - NHG Research Policies/.keep
       - Who can be a Principal Investigator?.md
