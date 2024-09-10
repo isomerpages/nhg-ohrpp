@@ -75,3 +75,5 @@ Investigator may write to the Research Ethics Committee (REC). The REC
 will then discuss the study and the DSRB’s decision at the next scheduled
 meeting.</p>
 <p>&nbsp;</p>
+<p><strong>Resources</strong>: See the <a href="/dsrb-reviewguide/" rel="noopener nofollow" target="_blank">DSRB Review Requirements &amp; Process Guide here</a>.</p>
+<p></p>
