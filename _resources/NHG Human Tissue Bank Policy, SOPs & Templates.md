@@ -4,7 +4,7 @@ permalink: /human-tissue-bank-policy-sop-templates/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Human Tissue Bank Policy, Proper Conduct of Tissue Bank (PCT) SOPs &amp; Templates</strong></h4>
+<h4><strong>NHG Human Tissue Bank Policy</strong><br><strong>NHG Proper Conduct of Tissue Bank (PCT) SOPs &amp; Templates</strong></h4>
 <p>These are a set of guidelines and templates developed by NHG Tissue Compliance
 Committee to provide detailed procedures on conducting tissue banking activities
 in accordance with applicable guidelines and regulations (e.g. HBRA).&nbsp;
