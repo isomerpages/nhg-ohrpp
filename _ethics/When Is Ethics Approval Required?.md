@@ -134,3 +134,5 @@ of these subjects.</p>
 </li>
 </ul>
 <p></p>
+<p><strong>Resources</strong>: See the <a href="/dsrb-reviewguide/" rel="noopener nofollow" target="_blank">DSRB Review Requirements &amp; Process Guide here</a>.</p>
+<p></p>
