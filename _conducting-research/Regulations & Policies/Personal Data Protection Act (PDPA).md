@@ -6,19 +6,19 @@ description: ""
 third_nav_title: Regulations & Policies
 ---
 <p>The purpose of the <strong>Personal Data Protection Act (PDPA)</strong> is
-to govern the collection, use and disclosure of personal data by organisations
-in a manner that recognises both the right of individuals to protect their
-personal data, and the need of organisations to collect, use or disclose
+to govern the collection, use and disclosure of personal data by organizations
+in a manner that recognizes both the right of individuals to protect their
+personal data, and the need of organizations to collect, use or disclose
 personal data for purposes that a reasonable person would consider appropriate
 in the circumstances.
 <br>
 <br><strong>PERSONAL DATA </strong>refers to data, whether true or not, about
 an individual who can be identified from that data; or from that data and
-other information to which the organisation has or is likely to have access.
+other information to which the organization has or is likely to have access.
 <br>
 <br>This includes unique identifiers (e.g. NRIC number, passport number),
 as well as any set of data (e.g. name, age, address, telephone number,
-occupation, etc) which when taken together would be able to identify the
+occupation, etc.) which when taken together would be able to identify the
 individual.
 <br>
 <br>Researchers should note that the scope of PDPA only applies to identifiable
