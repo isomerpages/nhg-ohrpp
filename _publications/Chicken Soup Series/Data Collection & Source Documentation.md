@@ -24,8 +24,23 @@ third_nav_title: Chicken Soup Series
 <br><a href="/files/Chicken Soup/DataCollectionSourceDocs/Oct_16__NHG_RQM_Common_Study_Review_Finding_Data_Collection___Source_Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank">(Oct 2016) NHG RQM Common Study Review Finding: Data Collection &amp; Source Documentation</a>
 </p>
 <p>
-<br>
+<br>====</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Chicken Soup/DataCollectionSourceDocs/Nov_23__ALCOA_Principles_for_Source_Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank">(Nov 2023) ALCOA Principles for Source Documentation</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Chicken Soup/DataCollectionSourceDocs/Oct_23__Collecting__Handling___Storing_Data_for_Research.pdf" rel="noopener noreferrer nofollow" target="_blank">(Oct 2023) Collecting, Handling &amp; Storing Data for Research</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Chicken Soup/DataCollectionSourceDocs/Jan_23__Using_FormSG_as_a_Research_Data_Capturing_Tool.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jan 2023) Using FormSG as a Research Data Capturing Tool</a>
+</p>
+</li>
+</ul>
+<p>===</p>
+<p></p>
 <p></p>
 <p><strong><sup>DISCLAIMER: </sup></strong><sup>Past Issues/Articles may contain best practices, policies or SOPs that have been superseded or may no longer relevant or applicable. For NHG and partner institutions, we encourage you to refer to the latest NHG PCR SOPs (available via NHG Intranet access or Partner Institution’s CRU/Research office).&nbsp; Always refer to your own institution’s latest policy, SOPs, guidance documents and templates.</sup>
 </p>
