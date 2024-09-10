@@ -4,12 +4,7 @@ permalink: /human-tissue-bank-policy-sop-templates/
 variant: tiptap
 description: ""
 ---
-<h3>Human Tissue Bank Policy, Proper Conduct of Tissue Bank (PCT) SOPs &amp; Templates</h3>
-<p>
-<br>
-</p>
-<p><strong>Human Tissue Bank Policy, PCT SOPs &amp; Templates</strong>
-</p>
+<h4><strong>Human Tissue Bank Policy, Proper Conduct of Tissue Bank (PCT) SOPs &amp; Templates</strong></h4>
 <p>These are a set of guidelines and templates developed by NHG Tissue Compliance
 Committee to provide detailed procedures on conducting tissue banking activities
 in accordance with applicable guidelines and regulations (e.g. HBRA).&nbsp;
@@ -21,7 +16,7 @@ tissue banking activities.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Human Tissue Bank Policy</strong>
+<summary><strong>NHG Human Tissue Bank Policy</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/1601-A02%20NHG%20Policy%20for%20Tissue%20Banks.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1601-A02&nbsp;NHG&nbsp;Policy&nbsp;for&nbsp;Tissue&nbsp;Banks</u></a>
@@ -42,7 +37,7 @@ tissue banking activities.</p>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/1501-A03%20Training%20and%20Education.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1501-A03&nbsp;Training&nbsp;and&nbsp;Education</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/1501-B01%20Pre%20Initiation%20of%20Tissue%20Banking%20Activities.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1501-B01&nbsp;Pre&nbsp;Initiation&nbsp;of&nbsp;Tissue&nbsp;Banking&nbsp;Activities</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/1501-B01%20Pre%20Initiation%20of%20Tissue%20Banking%20Activities.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1501-B01&nbsp;Pre-Initiation&nbsp;of&nbsp;Tissue&nbsp;Banking&nbsp;Activities</u></a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/1501-B02%20Interaction%20with%20the%20NHG%20TCC.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1501-B02&nbsp;Interaction&nbsp;with&nbsp;NHG&nbsp;Tissue&nbsp;Compliance&nbsp;Committee</u></a>
 </p>
