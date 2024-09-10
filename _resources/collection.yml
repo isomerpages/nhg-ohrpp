@@ -2,6 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - dsrbprocessguide.md
+      - DSRB Review Requirements & Process Guide.md
       - NHG Investigator's Manual.md
       - Templates.md
