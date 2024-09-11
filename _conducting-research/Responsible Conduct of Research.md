@@ -181,6 +181,10 @@ institution to institution. In numerous instances, more than one response
 to a RCR situation may be considered acceptable research practice.</p>
 <p>The NHG-RCR Manual will describe the core components of RCR (along with
 recommended guides to carry out research responsibly).</p>
-<p>Download the <strong>Responsible Conduct of Research Manual here.</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Download the<strong> <a href="/rcr-manual/" rel="noopener nofollow" target="_blank">Responsible Conduct of Research Manual here</a>.</strong>
 </p>
+</li>
+</ul>
 <p></p>
