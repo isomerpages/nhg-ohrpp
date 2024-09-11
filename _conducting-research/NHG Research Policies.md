@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Policies that Researchers should know</strong></h3>
-<p>Prior to starting your research, we urge that you familiarize yourself
-with the following policies/guidelines:</p>
+<p>Prior to starting your research, we urge all researchers to familiarize
+themselves with the following policies/guidelines:</p>
 <p></p>
 <h4><strong>NHG Responsible Conduct of Research (RCR) Manual</strong></h4>
 <p>As part of the NHG Office of Human Research Protection Programme (OHRPP)’s
