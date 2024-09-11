@@ -183,8 +183,7 @@ to a RCR situation may be considered acceptable research practice.</p>
 recommended guides to carry out research responsibly).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the<strong> <a href="/rcr-manual/" rel="noopener nofollow" target="_blank">Responsible Conduct of Research Manual here</a>.</strong>
-</p>
+<p>Download the<strong> </strong><a href="/rcr-manual/" rel="noopener nofollow" target="_blank">Responsible Conduct of Research Manual here</a>.</p>
 </li>
 </ul>
 <p></p>
