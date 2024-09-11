@@ -216,17 +216,52 @@ their research applications for submission to the DSRB via the ECOS system.</p>
 <summary><strong>(I) Common Errors &amp; Helpful Tips for Answering DSRB Application Form Questions (FOR POPULATION HEALTH DOMAIN)&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Section B – HBR Declaration</p>
-<p>Section B – Study Team Members</p>
-<p>Section E – Study Funding Info</p>
-<p>Section G – Study Information</p>
-<p>Section H – Research Population</p>
-<p>Section I – Research Procedures</p>
-<p>Section J – Recruitment Method</p>
-<p>Section K – Consent</p>
-<p>Section L – Waiver of Consent</p>
-<p>Section N – Privacy &amp; Confidentiality</p>
-<p>Section O &amp; P – Bio Samples &amp; Results &amp; Outcome of Research</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/DSRB Guide/(I) Common Errors Pop Health/i01_CE_PopHealth_Section_B_HBR_Declaration_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section B – HBR Declaration</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(I) Common Errors Pop Health/i02_CE_PopHealth_Section_B_Study_Team_Members_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section B – Study Team Members</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(I) Common Errors Pop Health/i03_CE_PopHealth_Section_E_Study_Funding_Info_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section E – Study Funding Info</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(I) Common Errors Pop Health/i04_CE_PopHealth_Section_G_Study_Information_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section G – Study Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(I) Common Errors Pop Health/i05_CE_PopHealth_Section_H_Research_Population_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section H – Research Population</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(I) Common Errors Pop Health/i06_CE_PopHealth_Section_J_Recruitment_Method_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section I – Research Procedures</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(I) Common Errors Pop Health/i06_CE_PopHealth_Section_J_Recruitment_Method_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section J – Recruitment Method</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(I) Common Errors Pop Health/i07_CE_PopHealth_Section_K_Consent_Process_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section K – Consent Process</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(I) Common Errors Pop Health/i08_CE_PopHealth_Section_L_Waiver_of_Consent_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section L – Waiver of Consent</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(I) Common Errors Pop Health/i09_CE_PopHealth_Section_N_Privacy_n_Confidentiality_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section N – Privacy &amp; Confidentiality</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(I) Common Errors Pop Health/i10_CE_PopHealth_Sect_O_BioSamples_Sect_P_Results_Research_Outcomes_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section O &amp; P – Bio Samples &amp; Results &amp; Outcome of Research</a>
+</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
