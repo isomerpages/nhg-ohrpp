@@ -54,19 +54,20 @@ above NHG Investigator’s Manual which are of interest.</p>
 <p><a href="/files/Investigator Manual/IM_Chapter_4_Submission_to_DSRB.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 4 -&nbsp;Submission to DSRB</a>&nbsp;</p>
 </li>
 <li>
-<p>Chapter 5 -&nbsp;Informed Consent&nbsp;</p>
+<p><a href="/files/Investigator Manual/IM_Chapter_5_Informed_Consent.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 5 -&nbsp;Informed Consent</a>&nbsp;</p>
 </li>
 <li>
-<p>Chapter 6 - Vulnerable Population</p>
+<p><a href="/files/Investigator Manual/IM_Chapter_6_Vulnerable_Population.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 6 - Vulnerable Population</a>
+</p>
 </li>
 <li>
-<p>Chapter 7 - Study Conduct&nbsp;</p>
+<p><a href="/files/Investigator Manual/IM_Chapter_7_Study_Conduct.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 7 - Study Conduct</a>&nbsp;</p>
 </li>
 <li>
-<p>Chapter 8 - Standing Database&nbsp;</p>
+<p><a href="/files/Investigator Manual/IM_Chapter_8_Standing_Database.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 8 - Standing Database</a>&nbsp;</p>
 </li>
 <li>
-<p>Chapter 9 - Tissue Repository&nbsp;</p>
+<p><a href="/files/Investigator Manual/IM_Chapter_6_Vulnerable_Population.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 9 - Tissue Repository</a>&nbsp;</p>
 </li>
 </ul>
 <p></p>
