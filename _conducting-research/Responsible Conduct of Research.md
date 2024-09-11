@@ -188,3 +188,12 @@ recommended guides to carry out research responsibly).</p>
 </li>
 </ul>
 <p></p>
+<h4><strong>CITI Modules on Responsible Conduct of Research</strong></h4>
+<p>CITI modules on RCR seek to educate researchers and research staff on
+the responsible conduct of research in fields such as Biomedical Sciences,
+Research Administration and Social, Behavioral &amp; Education Sciences
+through thinking questions.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
