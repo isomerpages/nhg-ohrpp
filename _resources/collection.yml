@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Responsible Conduct of Research Manual.md
       - NHG Investigator's Manual.md
       - DSRB Review Requirements & Process Guide.md
       - DSRB Templates for Study Documentation.md
