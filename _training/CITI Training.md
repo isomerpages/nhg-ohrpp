@@ -8,7 +8,7 @@ description: ""
 <p>The <strong>Collaborative Institutional Training Initiative (CITI) Training</strong> is
 a leading provider of research education content that is web-based to facilitate
 the training of investigators and staff who are conducting research.</p>
-<p>&nbsp;</p>
+<p></p>
 <h4><strong>Who Should Complete the CITI Program?</strong></h4>
 <p>All <strong>Principal Investigators (PI)</strong>, <strong>Site Principal Investigators (Site PI)</strong> and<strong> Co-Investigators (Co-I)</strong> of
 research conducted within NHG and partner institutions are required to
@@ -17,11 +17,9 @@ as to be able to appreciate and apply the ethical principles underlying
 research to their day-to-day practice of research.
 <br>
 </p>
-<p></p>
-<p>
-<br>CITI Training registration is via the&nbsp; <strong><a href="https://www.citiprogram.org/" rel="noopener noreferrer nofollow" target="_blank"><u>Collaborative Institutional Training Initiative (CITI Program) website</u></a></strong>.
-(<strong><a href="https://www.citiprogram.org/" rel="noopener noreferrer nofollow" target="_blank"><u>www.citiprogram.org</u></a></strong>)
-<br>&nbsp;</p>
+<p>Learn more about <a href="/overview-min-training/" rel="noopener nofollow" target="_blank">Minimum Training Requirements for Staff from NHG and Partner Institutions here</a><strong>.</strong>
+</p>
+<p>Learn more about the CITI Training Programme here.</p>
 <p>See here for <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/citi+intro" rel="noopener noreferrer nofollow" target="_blank"><u>more information regarding the CITI Training Programme</u></a></strong>.</p>
 <p>&nbsp;</p>
 <h4><strong>CITI Modules on Responsible Conduct of Research </strong>(Optional)</h4>
