@@ -6,8 +6,8 @@ description: ""
 ---
 <p>These are some of the other Researcher Training Courses which are organized
 by NHG Group Research &amp; Innovation.</p>
-<p>Do remember to check our Events Calendar here for the latest course and
-events listing.</p>
+<p>Do remember to check our <a href="/newsroom/events/" rel="noopener nofollow" target="_blank">Events Calendar here</a> for
+the latest course and events listing.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -19,9 +19,11 @@ requirements, the Good Clinical Practice (GCP) Online Course seeks to equip
 participants with basic knowledge and understanding of how GCP principles
 may be applied to the conduct of clinical trials.</p>
 <p><a href="https://talentdev.gri.nhg.com.sg/gcp-course/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
-<p></p>
 </div>
 </details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Research Methodology Courses</strong>
 </summary>
@@ -31,9 +33,7 @@ and measure progress, and what indicates success.&nbsp;Learn how to design
 a research protocol and write a good research paper or grant proposal to
 increase your chances in research and grant application and much more.</p>
 <p><a href="https://talentdev.gri.nhg.com.sg/abt-rm-courses/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
-<p></p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
