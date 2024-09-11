@@ -5,18 +5,27 @@ variant: tiptap
 description: ""
 third_nav_title: Minimum Training Requirements
 ---
-<p>All Principal Investigators (PIs), Site Principal Investigators (Site
-PIs) and Co-Investigators (Co-Is) of research conducted within NHG and
-partner institutions are required to complete the CITI Program’s Investigator’s
-Course.</p>
-<p>PIs, Site PIs and Co-Is who have completed the Singapore Guideline for
-Good Clinical Practice (SGGCP)/Good Clinical Practice (GCP) Course do not
-need to complete the CITI Program. The SGGCP/GCP Course may be used as
-an alternate minimum training requirement.</p>
+<h4><strong>About CITI Training</strong></h4>
+<p>The <strong>Collaborative Institutional Training Initiative (CITI) Training</strong> is
+a leading provider of research education content that is web-based to facilitate
+the training of investigators and staff who are conducting research.</p>
+<p></p>
+<h4><strong>Who Should Complete the CITI Program?</strong></h4>
+<p>All <strong>Principal Investigators (PI)</strong>, <strong>Site Principal Investigators (Site PI)</strong> and <strong>Co-Investigators (Co-I)</strong> of
+research conducted within NHG and partner institutions are required to
+complete the <strong>CITI Program “Biomedical Research Investigators and Key Personnel” course</strong> so
+as to be able to appreciate and apply the ethical principles underlying
+research to their day-to-day practice of research.</p>
+<p></p>
+<p><strong>Waiver of CITI Training Requirement</strong>
+</p>
+<p>PIs, Site PIs and Co-Is who have completed the <strong>Singapore Guideline for Good Clinical Practice (SGGCP)/Good Clinical Practice (GCP) Course</strong> do
+not need to complete the CITI Program. The SGGCP/GCP Course may be used
+as an alternate minimum training requirement.</p>
 <p>The DSRB will continue to accept and review applications from Investigators
 who have yet to complete the CITI Program or GCP Course. However, the DSRB
-will&nbsp;NOT grant ethics approval for the applications until receipt
-of the Investigator's CITI or SGGCP/GCP certificates.</p>
+will&nbsp;<strong>NOT </strong>grant ethics approval for the applications
+until receipt of the Investigator's CITI or SGGCP/GCP certificates.</p>
 <p></p>
 <h4><strong>FAQs</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
