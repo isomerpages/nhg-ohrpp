@@ -26,6 +26,12 @@ as an alternate minimum training requirement.</p>
 who have yet to complete the CITI Program or GCP Course. However, the DSRB
 will&nbsp;<strong>NOT </strong>grant ethics approval for the applications
 until receipt of the Investigator's CITI or SGGCP/GCP certificates.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Download the <a href="https://for.sg/citiwaiverform" rel="noopener nofollow" target="_blank"><u>CITI Minimum Training Requirement Waiver Form here</u></a>
+</p>
+</li>
+</ul>
 <p></p>
 <h4><strong>FAQs</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -191,10 +197,6 @@ User Profile.</p>
 </li>
 <li>
 <p>Download the <a href="/files/Minimum Training/Guide_to_CITI_Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">Step-by-Step Guide to CITI Registration here</a>.</p>
-</li>
-<li>
-<p>Download the <a href="https://for.sg/citiwaiverform" rel="noopener nofollow" target="_blank">CITI Minimum Training Requirement Waiver Form here</a>
-</p>
 </li>
 </ul>
 <p></p>
