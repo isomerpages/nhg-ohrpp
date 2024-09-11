@@ -34,6 +34,12 @@ updated: 21 Nov 2023)&nbsp;</p>
 above NHG Investigator’s Manual which are of interest.</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Cover &amp; Foreword</p>
+</li>
+<li>
+<p>Content Page</p>
+</li>
+<li>
 <p>Chapter 1 -&nbsp;Research Governance&nbsp;</p>
 </li>
 <li>
