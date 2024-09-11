@@ -42,6 +42,13 @@ institutions and relevant laws.</p>
 </div>
 <p></p>
 <h4><strong>Components of Responsible Conduct of Research</strong></h4>
+<p>Responsible Conduct of Research is made up of the following components.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Resp Conduct Research Pics/RCR_Components.png">
+</div>
+<p></p>
+<p></p>
 <p>The components of RCR are summarized as follows.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -141,7 +148,8 @@ to responsible authorship and be aware of practices to avoid.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>8. Peer Review</summary>
+<summary><strong>8. Peer Review</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Researchers should understand the qualities of responsible peer review,
 the importance of meeting deadlines for review, the importance of assessing
@@ -166,5 +174,13 @@ responsibility for compliance through all stages of the research.</p>
 </div>
 <p></p>
 <p></p>
-<p></p>
+<h4><strong>Responsible Conduct of Research Manual</strong></h4>
+<p>Responsible Conduct of Research (RCR) is and can be learned in multifarious
+ways and standards for RCR may vary from department to department and possibly
+institution to institution. In numerous instances, more than one response
+to a RCR situation may be considered acceptable research practice.</p>
+<p>The NHG-RCR Manual will describe the core components of RCR (along with
+recommended guides to carry out research responsibly).</p>
+<p>Download the <strong>Responsible Conduct of Research Manual here.</strong>
+</p>
 <p></p>
