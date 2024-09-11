@@ -2,7 +2,6 @@ collections:
   training:
     output: true
     order:
-      - CITI Training.md
       - Proper Conduct of Research/.keep
       - Proper Conduct of Research/PCR Course Overview.md
       - Proper Conduct of Research/PCR 001 Module.md
@@ -11,6 +10,7 @@ collections:
       - Proper Conduct of Research/PCR 400 Module.md
       - Proper Conduct of Research/Course Fee Categories.md
       - Proper Conduct of Research/Registration FAQs.md
+      - CITI Training.md
       - Other Training Courses.md
       - Clinical Research Coordinator Society (CRCS) Forums.md
       - Singapore Research Ethics Conference (SREC).md
