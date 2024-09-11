@@ -164,16 +164,48 @@ their research applications for submission to the DSRB via the ECOS system.</p>
 <summary><strong>(H) Common Errors &amp; Helpful Tips for Answering DSRB Application Form Questions (FOR BIOMEDICAL DOMAIN)&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>&nbsp;Section B – HBR Declaration</p>
-<p>&nbsp;Section B – Study Team Members</p>
-<p>&nbsp;Section E – Study Funding Info</p>
-<p>&nbsp;Section F – Research Methodology</p>
-<p>&nbsp;Section H – Recruitment Details</p>
-<p>&nbsp;Section I – Recruitment Target</p>
-<p>&nbsp;Section K – Participant Characteristics</p>
-<p>&nbsp;Section P – Consent Process</p>
-<p>&nbsp;Section Q – Waiver of Consent</p>
-<p>&nbsp;Section R &amp; S – Data Confidentiality &amp; Biomaterials</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/DSRB Guide/(H) CE Biomedical/H01_CE_Biomed_Section_B_HBR_Declaration_Nov22.pdf" rel="noopener noreferrer nofollow" target="_blank">Section B – HBR Declaration</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(H) CE Biomedical/H02_CE_Biomed_Section_B_Study_Team_Members_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section B – Study Team Members</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(H) CE Biomedical/H03_CE_Biomed_Section_E_Study_Funding_Info_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section E – Study Funding Info</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(H) CE Biomedical/H04_CE_Biomed_Section_F_Research_Methodology_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section F – Research Methodology</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(H) CE Biomedical/H05_CE_Biomed_Section_H_Recruitment_Details_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section H – Recruitment Details</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(H) CE Biomedical/H06_CE_Biomed_Section_I_Recruitment_Target_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section I – Recruitment Target</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(H) CE Biomedical/H07_CE_Biomed_Section_K_Participant_Characteristics__Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section K – Participant Characteristics</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(H) CE Biomedical/H08_CE_Biomed_Section_P_Consent_Process__Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section P – Consent Process</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(H) CE Biomedical/H09_CE_Biomed_Section_Q_Waiver_of_Consent_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section Q – Waiver of Consent</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Guide/(H) CE Biomedical/H10_CE_Biomed_Sect_R_Data_Confid_Sect_S_Biomaterials_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Section R &amp; S – Data Confidentiality &amp; Biomaterials</a>
+</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </div>
 </details>
