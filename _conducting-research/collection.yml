@@ -2,6 +2,7 @@ collections:
   conducting-research:
     output: true
     order:
+      - Responsible Conduct of Research.md
       - Who can be a Principal Investigator?.md
       - Minimum Training Requirements/.keep
       - Minimum Training Requirements/Overview of Minimum Training
