@@ -37,10 +37,17 @@ institutions and relevant laws.</p>
 </ul>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Resp Conduct Research Pics/SupportRCR.png">
+</div>
 <p></p>
-<p></p>
+<h4><strong>Components of Responsible Conduct of Research</strong></h4>
 <p>The components of RCR are summarized as follows.</p>
-<p>1. Research Misconduct</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>1. Research Misconduct</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>(A) RCR Research Misconduct Event(s) is defined as Falsification, Fabrication
 or Plagiarism in proposing, performing, or reviewing research, or in reporting
 research results.</p>
@@ -48,50 +55,116 @@ research results.</p>
 or any other RCR Event(s) that may be categorized under one of the components
 listed above.</p>
 <p></p>
-<p>What to do if there is suspected Research Misconduct?</p>
-<p>OHRPP recommends that the Whistle-Blower (the individual reporting the
-suspected research misconduct) adheres to his/her institution’s policies
+<p><strong>What to do if there is suspected Research Misconduct?</strong>
+</p>
+<p>NHG OHRPP recommends that the Whistle-Blower (the individual reporting
+the suspected research misconduct) adheres to his/her institution’s policies
 and or guidelines for whistle-blowing if there is suspected research misconduct.</p>
 <p></p>
-<p>Download the RCR Event/ RCR Research Misconduct Event Report Form For
+<p>Download the RCR Event/ RCR Research Misconduct Event Report Form for
 Institution here.</p>
 <p></p>
-<p>2. Protection of Human Subjects</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2. Protection of Human Subjects</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Researchers have the responsibility of obtaining appropriate approval
 before conducting research involving human subjects.</p>
+</div>
+</details>
+</div>
 <p></p>
-<p>3. Conflicts of Interests (COI) &amp; Commitment</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>3. Conflicts of Interests (COI) &amp; Commitment</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Researchers should recognize the Conflicts of Interest that are crucial
 and that there are required steps to be taken to ensure that they do not
 interfere with the responsible practice of research.</p>
+</div>
+</details>
+</div>
 <p></p>
-<p>4. Data Management Practices</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>4. Data Management Practices</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Researchers should be familiar with the important considerations for data
 management.</p>
+</div>
+</details>
+</div>
 <p></p>
-<p>5. Mentor and Trainee Responsibilities</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>5. Mentor and Trainee Responsibilities</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Researchers should understand the basic responsibilities of mentor-trainee
 relationship so as to ultimately produce independent and responsible researchers.</p>
+</div>
+</details>
+</div>
 <p></p>
-<p>6. Collaborative Research</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>6. Collaborative Research</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Researchers should appreciate that effective collaboration begins with
 a clear understanding of roles and relationships, good collaboration requires
 effective management plans and appreciate that different institutions may
 have different research practices.</p>
+</div>
+</details>
+</div>
 <p></p>
-<p>7. Authorship and Publication</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>7. Authorship and Publication</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Researchers should appreciate the minimum standards of responsible publications,
 understand the elements of a responsible publication, appreciate what contributes
 to responsible authorship and be aware of practices to avoid.</p>
+</div>
+</details>
+</div>
 <p></p>
-<p>8. Peer Review</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>8. Peer Review</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Researchers should understand the qualities of responsible peer review,
 the importance of meeting deadlines for review, the importance of assessing
 quality of the research paper, appreciate the role of the reviewer to judge
 the importance of the research and understand the importance of preserving
 confidentiality.</p>
-<p>9. The Welfare of Lab Animals</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>9. The Welfare of Lab Animals</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Researchers intending to use animals in their research should know what
 activities are subject to regulation(s), understand and follow the rules
 for research approval, obtain appropriate training and accept continuing
 responsibility for compliance through all stages of the research.</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
