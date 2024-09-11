@@ -8,11 +8,6 @@ description: ""
 <p>The <strong>Collaborative Institutional Training Initiative (CITI) Training</strong> is
 a leading provider of research education content that is web-based to facilitate
 the training of investigators and staff who are conducting research.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Visit the <a href="https://about.citiprogram.org/" rel="noopener nofollow" target="_blank">Collaborative Institutional Training Initiative website here</a>.</p>
-</li>
-</ul>
 <p></p>
 <h4><strong>Who Should Complete the CITI Program?</strong></h4>
 <p>All <strong>Principal Investigators (PI)</strong>, <strong>Site Principal Investigators (Site PI)</strong> and<strong> Co-Investigators (Co-I)</strong> of
@@ -27,7 +22,7 @@ day-to-day practice of research.</p>
 </p>
 </li>
 <li>
-<p>Learn more about the CITI Training Programme here.</p>
+<p>Learn more about the <a href="/citi/" rel="noopener nofollow" target="_blank">CITI Training Programme here</a>.</p>
 </li>
 </ul>
 <p></p>
@@ -47,6 +42,24 @@ about Responsible Conduct of Research through these online elective modules.</p>
 </li>
 </ul>
 <p></p>
+<h4><strong>Registration</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Download the <a href="/files/Minimum Training/Guide_to_CITI_Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">Step-by-Step Guide to CITI Registration here</a>.</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>Useful Links</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit the CITI Program website here - <a href="http://www.citiprogram.org/" rel="noopener noreferrer nofollow" target="_blank"><u>www.citiprogram.org</u></a>
+</p>
+</li>
+<li>
+<p>Download the <a href="https://for.sg/citiwaiverform" rel="noopener nofollow" target="_blank">CITI Minimum Training Requirement Waiver Form here</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
