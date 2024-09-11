@@ -72,7 +72,35 @@ Act (HBRA).</p>
 </li>
 </ul>
 <p></p>
-<p></p>
+<h4><strong>Suggested Readings &amp; References</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Belmont Report (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.hhs.gov/ohrp</u></a></strong>)</p>
+</li>
+<li>
+<p>ICH Guidelines (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.ich.org/products/guidelines.html</u></a></strong>)</p>
+</li>
+<li>
+<p>Declaration of Helsinki (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/</u></a></strong>)</p>
+</li>
+<li>
+<p>Guidance by the Bioethics Advisory Committee (BAC) (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.bioethics-singapore.org</u></a></strong>)</p>
+</li>
+<li>
+<p>Human Biomedical Research Act (HBRA) (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moh.gov.sg/policies-and-legislation/human-biological-research-act</u></a></strong>)</p>
+</li>
+<li>
+<p>Health Products (Cell, Tissue and Gene Therapy Products) Regulations (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>https://sso.agc.gov.sg/SL-Supp/S104-2021/Published/20210217?DocDate=20210217</u></a></strong>)</p>
+</li>
+<li>
+<p>Health Sciences Authority (HSA) Guidance Documents for Clinical Trials
+(<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.hsa.gov.sg/clinical-trials/regulatory-guidances</u></a></strong>)</p>
+</li>
+<li>
+<p>Regulatory requirements for Clinical Trials regulated under the Health
+Products Act and Medicines Act (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/regulatory+submission+requirements</u></a></strong>)&nbsp;</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
