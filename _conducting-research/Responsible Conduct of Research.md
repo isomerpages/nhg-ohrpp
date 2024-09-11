@@ -193,7 +193,11 @@ recommended guides to carry out research responsibly).</p>
 the responsible conduct of research in fields such as Biomedical Sciences,
 Research Administration and Social, Behavioral &amp; Education Sciences
 through thinking questions.</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn more about the <a href="/citi-trainingprogm/" rel="noopener nofollow" target="_blank">CITI Training Programme and its RCR modules here</a>.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
