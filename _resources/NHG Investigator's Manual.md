@@ -24,8 +24,8 @@ Needs to Know (4th Edition, 21 Nov 2023)</p>
 <p>The summary of the updates to NHG Investigator Manual can be viewed here.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="https://www.research.nhg.com.sg/wps/wcm/connect/da8cd1c2-59cf-44a8-a3bf-8724791f8496/Summary+of+Change_21Nov23.pdf?MOD=AJPERES&amp;CVID=oLMMbnF&amp;CVID=oLMMbnF" rel="noopener noreferrer nofollow" target="_blank"><u>Summary of Changes here</u></a> (Last
-updated: 21 Nov 2023)&nbsp;</p>
+<p>Download the <a href="/files/Investigator Manual/IM_Summary_of_Change_21Nov2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes here</a> (Last
+updated: 21 Nov 2023).</p>
 </li>
 </ul>
 <p></p>
@@ -34,13 +34,15 @@ updated: 21 Nov 2023)&nbsp;</p>
 above NHG Investigator’s Manual which are of interest.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Cover &amp; Foreword</p>
+<p><a href="/files/Investigator Manual/IM_Cover_And_Foreword.pdf" rel="noopener noreferrer nofollow" target="_blank">Cover &amp; Foreword</a>
+</p>
 </li>
 <li>
-<p>Content Page</p>
+<p><a href="/files/Investigator Manual/IM_Content_Page.pdf" rel="noopener noreferrer nofollow" target="_blank">Content Page</a>
+</p>
 </li>
 <li>
-<p>Chapter 1 -&nbsp;Research Governance&nbsp;</p>
+<p><a href="/files/Investigator Manual/IM_Chapter_1_Research_Governance.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 1 -&nbsp;Research Governance</a>&nbsp;</p>
 </li>
 <li>
 <p>Chapter 2 -&nbsp;Regulation Requirements&nbsp;</p>
