@@ -28,7 +28,7 @@ Needs to Know (4th Edition, 21 Nov 2023)</p>
 updated: 21 Nov 2023)&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <h4><strong>Individual Chapters</strong></h4>
 <p>Alternatively, you may choose to download the individual Chapters of the
 above NHG Investigator’s Manual which are of interest.</p>
