@@ -49,17 +49,30 @@ with applicable guidelines and regulations.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>NHG Human Tissue Bank Policy, SOPs &amp; Templates</strong></h4>
-<p>The purpose of the NHG Human Tissue Bank Policy, SOPs and Templates<strong> </strong>is
-to outline the definitions, the establishment, ethical consideration, ownership,
-governance and management of the NHG tissue banks for research to ensure
-that tissue banking activities are in accordance with the requirements
-of the Human Biomedical Research Act (HBRA).</p>
+<h4><strong>NHG Research Data Policy</strong></h4>
+<p>The NHG Research Data Policy provides the framework for governing research
+data to ensure compliance with the HBRA, Personal Data Protection Act (PDPA),
+Healthtech Instruction Manual (HIM), Synapxe policies and all other relevant
+regulations.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/human-tissue-bank-policy-sop-templates/" rel="noopener nofollow" target="_blank">NHG Human Tissue Bank Policy, SOPs &amp; Templates here</a>.</p>
+<p>Learn more about the <a href="/data-governance/" rel="noopener nofollow" target="_blank">NHG Research Data Policy here</a>.</p>
 </li>
 </ul>
 <p></p>
-<h4></h4>
+<h4><strong>NHG Human Tissue Bank Policy</strong></h4>
+<p>The purpose of the NHG Human Tissue Bank Policy is to outline the definitions,
+the establishment, ethical consideration, ownership, governance and management
+of the NHG tissue banks for research to ensure that tissue banking activities
+are in accordance with the requirements of the Human Biomedical Research
+Act (HBRA).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn more about the <a href="/tissue-governance/" rel="noopener nofollow" target="_blank">NHG Human Tissue Bank Policy here</a>.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
