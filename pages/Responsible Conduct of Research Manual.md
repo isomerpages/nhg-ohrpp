@@ -14,7 +14,7 @@ research practice.</p>
 RCR (along with recommended guides to carry out research responsibly).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <strong>NHG Responsible Conduct of Research (RCR) Manual (Full Version, ver 1.1) here</strong>.</p>
+<p>Download the <strong><a href="/files/Resp Conduct Research Manual/RCR_Complete_Manual_Jan2021.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Responsible Conduct of Research (RCR) Manual (Full Version, ver 1.1) here</a></strong>.</p>
 </li>
 </ul>
 <p></p>
@@ -23,40 +23,52 @@ RCR (along with recommended guides to carry out research responsibly).</p>
 which are of interest.&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Foreword</p>
+<p><a href="/files/Resp Conduct Research Manual/RCR01_Foreword.pdf" rel="noopener noreferrer nofollow" target="_blank">Foreword</a>
+</p>
 </li>
 <li>
-<p>RCR Content</p>
+<p><a href="/files/Resp Conduct Research Manual/RCR02_RCR_Content_Jan2021.pdf" rel="noopener noreferrer nofollow" target="_blank">RCR Content</a>
+</p>
 </li>
 <li>
-<p>General Principles of Responsible Research</p>
+<p><a href="/files/Resp Conduct Research Manual/RCR03_General_Principles_of_Responsible_Research_Jan2021.pdf" rel="noopener noreferrer nofollow" target="_blank">General Principles of Responsible Research</a>
+</p>
 </li>
 <li>
-<p>Research Misconduct</p>
+<p><a href="/files/Resp Conduct Research Manual/RCR04_Research_Misconduct_Jan2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Research Misconduct</a>
+</p>
 </li>
 <li>
-<p>Protection of Humans Subjects</p>
+<p><a href="/files/Resp Conduct Research Manual/RCR05_Protection_of_Human_Subjects_Jan2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Protection of Humans Subjects</a>
+</p>
 </li>
 <li>
-<p>Conflict of Interest</p>
+<p><a href="/files/Resp Conduct Research Manual/RCR06_Conflict_of_Interest_Jan2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Conflict of Interest</a>
+</p>
 </li>
 <li>
-<p>Data Management Practice</p>
+<p><a href="/files/Resp Conduct Research Manual/RCR07_Data_Management_Practice_Jan_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Data Management Practice</a>
+</p>
 </li>
 <li>
-<p>Mentorship and Trainee Responsibilities</p>
+<p><a href="/files/Resp Conduct Research Manual/RCR08_Mentorship_Trainee_Responsibilities_Jan_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Mentorship and Trainee Responsibilities</a>
+</p>
 </li>
 <li>
-<p>Collaborative Research</p>
+<p><a href="/files/Resp Conduct Research Manual/RCR09_Collaborative_Research_Jan_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Collaborative Research</a>
+</p>
 </li>
 <li>
-<p>Authorship and Publication</p>
+<p><a href="/files/Resp Conduct Research Manual/RCR10_Authorship_and_Publication_Jan2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Authorship and Publication</a>
+</p>
 </li>
 <li>
-<p>Peer Review</p>
+<p><a href="/files/Resp Conduct Research Manual/RCR11_Peer_Review_Jan2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Peer Review</a>
+</p>
 </li>
 <li>
-<p>The Welfare of Lab Animals</p>
+<p><a href="/files/Resp Conduct Research Manual/RCR12_Welfare_of_Lab_Animals.pdf" rel="noopener noreferrer nofollow" target="_blank">The Welfare of Lab Animals</a>
+</p>
 </li>
 </ol>
 <p></p>
