@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - CITI Training.md
       - Proper Conduct of Research/.keep
       - Proper Conduct of Research/PCR Course Overview.md
       - Proper Conduct of Research/PCR 001 Module.md
