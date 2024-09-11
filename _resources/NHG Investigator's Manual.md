@@ -45,13 +45,13 @@ above NHG Investigator’s Manual which are of interest.</p>
 <p><a href="/files/Investigator Manual/IM_Chapter_1_Research_Governance.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 1 -&nbsp;Research Governance</a>&nbsp;</p>
 </li>
 <li>
-<p>Chapter 2 -&nbsp;Regulation Requirements&nbsp;</p>
+<p><a href="/files/Investigator Manual/IM_Chapter_2_Regulation_Requirements.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 2 -&nbsp;Regulation Requirements</a>&nbsp;</p>
 </li>
 <li>
-<p>Chapter 3 -&nbsp;The Study Team&nbsp;</p>
+<p><a href="/files/Investigator Manual/IM_Chapter_3_The_Study_Team.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 3 -&nbsp;The Study Team</a>&nbsp;</p>
 </li>
 <li>
-<p>Chapter 4 -&nbsp;Submission to DSRB&nbsp;</p>
+<p><a href="/files/Investigator Manual/IM_Chapter_4_Submission_to_DSRB.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 4 -&nbsp;Submission to DSRB</a>&nbsp;</p>
 </li>
 <li>
 <p>Chapter 5 -&nbsp;Informed Consent&nbsp;</p>
