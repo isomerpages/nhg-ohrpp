@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: NHG Research Policies
 ---
-<h3><strong>NHG Research Policies That You Must Know</strong></h3>
+<h3><strong>Policies that Researchers need to know</strong></h3>
 <p>Prior to starting your research, we urge that you familiarize yourself
 with the following policies/guidelines:</p>
 <p></p>
