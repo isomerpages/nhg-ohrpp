@@ -4,22 +4,20 @@ permalink: /dsrb-reviewguide/
 variant: tiptap
 description: ""
 ---
-<h4><strong>About this Guide</strong></h4>
-<p>
-<br>The <strong>DSRB Requirements &amp; Review Process Guide</strong> serves
+<p>The <strong>DSRB Requirements &amp; Review Process Guide</strong> serves
 to provide you with information to help you understand the requirements
 of DSRB Application Processes (i.e. Exempt Review, Expedited Review, Full
 Board Review) and Common Errors made when filling in the ROAM Application
 Form for both Biomedical and Population Health research.</p>
-<p>Researchers are encouraged to first read the <strong>various DSRB Requirements &amp; Review topics</strong> to
-be familiarized with the requirements prior to drafting their research
-applications for submission to the DSRB via the ECOS system.</p>
+<p>Researchers are encouraged to first read the various DSRB Requirements
+&amp; Review topics to be familiarized with the requirements prior to drafting
+their research applications for submission to the DSRB via the ECOS system.</p>
 <p>Please do visit us regularly to be kept up to date with our latest guides.
 <br>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Research Governance&nbsp;</strong>
+<summary><strong>(A) Research Governance</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Introduction to NHG OHRPP</p>
@@ -33,7 +31,8 @@ and Study Team)</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>DSRB Minimum Training Requirements&nbsp;</summary>
+<summary><strong>(B) DSRB Minimum Training Requirements&nbsp;</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Minimum Training Requirement (Biomed &amp;&nbsp;Population Health Domain
 Studies)&nbsp;</p>
@@ -43,7 +42,7 @@ Studies)&nbsp;</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Overview of DSRB Review Requirements</strong>
+<summary><strong>(C) Overview of DSRB Review Requirements</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>When is DSRB Review Required?&nbsp;</p>
@@ -52,11 +51,10 @@ F)</p>
 </div>
 </details>
 </div>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>DSRB Application Process &amp; Submission Deadlines&nbsp;</strong>
+<summary><strong>(D) DSRB Application Process &amp; Submission Deadlines</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>DSRB Submission Deadlines &amp; Full Board Meeting Dates</p>
@@ -64,10 +62,10 @@ F)</p>
 </div>
 </details>
 </div>
-<p>&nbsp;</p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>DSRB Review Categories &amp; Criteria&nbsp;</strong>
+<summary><strong>(E) DSRB Review Categories &amp; Criteria&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Exempt Category</p>
@@ -76,12 +74,13 @@ F)</p>
 </div>
 </details>
 </div>
-<p>&nbsp;</p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>DSRB Review Outcomes &amp; Additional Reminders&nbsp;</strong>
+<summary><strong>(F) DSRB Review Outcomes &amp; Post Approval Reporting Requirements</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>DSRB Review Outcomes &amp; Additional Reminders&nbsp;</p>
 <p>Post Approval Reporting Requirements&nbsp;&nbsp;</p>
 <p>Study Closure</p>
 </div>
@@ -90,7 +89,7 @@ F)</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>GENERAL CONSIDERATIONS FOR BIOMEDICAL &amp; POPULATION HEALTH&nbsp;</strong>
+<summary><strong>(G) General Considerations for Biomedical &amp; Population Health</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>General Considerations</p>
@@ -100,7 +99,7 @@ F)</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Common Errors &amp; Helpful Tips for Answering DSRB Application Form Questions (BIOMEDICAL DOMAIN)&nbsp;</strong>
+<summary><strong>(H) Common Errors &amp; Helpful Tips for Answering DSRB Application Form Questions (FOR BIOMEDICAL DOMAIN)&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>&nbsp;Section B – HBR DECLARATION</p>
@@ -119,7 +118,7 @@ F)</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Common Errors &amp; Helpful Tips for Answering DSRB Application Form Questions (POPULATION HEALTH DOMAIN)&nbsp;</strong>
+<summary><strong>(I) Common Errors &amp; Helpful Tips for Answering DSRB Application Form Questions (FOR POPULATION HEALTH DOMAIN)&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Section B – HBR DECLARATION</p>
