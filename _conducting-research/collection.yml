@@ -2,7 +2,6 @@ collections:
   conducting-research:
     output: true
     order:
-      - NHG Research Policies.md
       - Responsible Conduct of Research.md
       - Who can be a Principal Investigator?.md
       - Minimum Training Requirements/.keep
@@ -23,6 +22,7 @@ collections:
       - Research Regulations/Revised Regulatory Framework for Clinical Trials.md
       - Research Regulations/Personal Data Protection Act (PDPA).md
       - Research Regulations/Human Biomedical Research Act (HBRA).md
+      - NHG Research Policies.md
       - Managing Research Data/.keep
       - Managing Research Data/Data Governance.md
       - Managing Research Data/About NHG Standing Databases (SDB).md
