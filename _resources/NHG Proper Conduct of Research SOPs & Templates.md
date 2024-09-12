@@ -4,33 +4,31 @@ permalink: /pcr-sop-templates/
 variant: tiptap
 description: ""
 ---
-<h5><strong>Proper Conduct of Research Standard Operating Procedures and Templates</strong></h5>
+<h4><strong>NHG Proper Conduct of Research </strong><br><strong>Standard Operating Procedures and Templates</strong></h4>
 <p>These are a set of guidelines and templates developed by NHG Group Research
 to provide detailed procedures on conducting research in accordance with
 applicable guidelines and regulations. You may adapt and modify these templates
 to suit your individual research needs.</p>
 <p></p>
 <p><strong>For Clinical Trials Regulated Under the Health Products Act and Medicines Act&nbsp;&nbsp;&nbsp;</strong>
-</p>
-<p>Please note that the revised regulatory requirements should be complied
+<br>Please note that the revised regulatory requirements should be complied
 with from 1st Nov 2016. You may refer to <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/regulatory+submission+requirements" rel="noopener noreferrer nofollow" target="_blank"><u>this&nbsp;link</u></a></strong> for
 more details on the revised requirements.</p>
 <p></p>
 <p><strong>For Human Biomedical Research Regulated Under the Human Biomedical Research Act (HBRA)&nbsp;&nbsp;</strong>
-</p>
-<p>Please note that the PCR SOPs have been updated in alignment with the
-HBRA. Please familiarise yourselves with the new requirements.</p>
+<br>Please note that the PCR SOPs have been updated in alignment with the
+HBRA. Please familiarize yourselves with the new requirements.</p>
 <p></p>
-<h5><strong>Summary of Updates to Proper Conduct of Research SOPs</strong></h5>
+<h4><strong>Summary of Updates</strong></h4>
 <p>The summary of the recent updates to PCR SOPs can be downloaded here.</p>
 <p><strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/aae86876-aef9-4c7d-bcd3-7d183b01cc09/PCR+SOP+SoC_21Mar2024.pdf?MOD=AJPERES&amp;CVID=oVAMCH-&amp;CVID=oVAMCH-" rel="noopener noreferrer nofollow" target="_blank"><u>Summary of Changes to PCR SOP</u></a></strong> (Last
 updated:&nbsp;21-Mar-24)</p>
 <p></p>
 <p></p>
-<h5><strong>PCR SOPs &amp; Templates</strong></h5>
+<h4><strong>PCR SOPs &amp; Templates</strong></h4>
 <p>These documents are strictly for internal circulation among NHG Staff
 members and Authorized personnel only.</p>
-<p><strong>Access to these files is Restricted (NHG Intranet access required).</strong>
+<p><strong>* Access to these files is Restricted (NHG Intranet access required).</strong>
 </p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -193,7 +191,7 @@ members and Authorized personnel only.</p>
 </details>
 </div>
 <p></p>
-<p><strong>Access to these files is Restricted (NHG Intranet access required).</strong>
+<p><strong>* Access to these files is Restricted (NHG Intranet access required).</strong>
 </p>
 <p></p>
 <p></p>
