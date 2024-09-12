@@ -4,15 +4,15 @@ permalink: /human-tissue-bank-policy-sop-templates/
 variant: tiptap
 description: ""
 ---
-<h4><strong>NHG Human Tissue Bank Policy</strong><br><strong>NHG Proper Conduct of Tissue Bank (PCT) SOPs &amp; Templates</strong></h4>
+<h4><strong>NHG Human Tissue Bank Policy</strong><br><strong>Proper Conduct of Tissue Bank SOPs &amp; Templates</strong></h4>
 <p>These are a set of guidelines and templates developed by NHG Tissue Compliance
 Committee to provide detailed procedures on conducting tissue banking activities
 in accordance with applicable guidelines and regulations (e.g. HBRA).&nbsp;
 You may adapt and modify these guidelines and templates to suit your individual
 tissue banking activities.</p>
-<p>*<strong>NOTE</strong>: <em>These document downloads can only be accessed when you have </em><strong><em>direct access to the NHG Intranet</em></strong><em>. You may also be required to login with your NHG ADID.<br></em><strong><em>These documents are strictly for internal circulation among NHG Staff and Authorized personnel only.</em></strong>
+<p><strong>These documents are strictly for internal circulation among NHG Staff and Authorized personnel only.</strong>
+<br><strong>* Access to these files is Restricted (NHG Intranet access required).</strong>
 </p>
-<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -175,6 +175,8 @@ tissue banking activities.</p>
 </details>
 </div>
 <p></p>
+<p><strong>* Access to these files is Restricted (NHG Intranet access required).</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
