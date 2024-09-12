@@ -15,7 +15,6 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 <summary><strong>Study Protocol Template</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://for.sg/study-protocol-template" rel="noopener nofollow" target="_blank">207-002: Study&nbsp;Protocol&nbsp;Template (Ver 3, Dated 1 Jun 2009)</a>
@@ -32,14 +31,14 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 <summary><strong>Informed Consent Form Template (English)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://for.sg/informed-consent-form-template" rel="noopener nofollow" target="_blank">207-001: Informed Consent Form Template (Ver 13, Dated 31 Jan&nbsp;2022)</a>
 </p>
 </li>
 <li>
-<p>Summary of Changes for ICF Template</p>
+<p><a href="/files/DSRB Templates/Summary_Updates_to_DSRB_Informed_Consent_Form_Template_14_Feb_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes for Informed Consent Form Template</a>
+</p>
 </li>
 </ul>
 <p></p>
@@ -52,9 +51,15 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 <summary><strong>Child/ Participant Assent Form</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>207-008: Assent Form&nbsp;Template (Ver 2, Dated 14 Feb 2022)</p>
-<p>Summary of Updates to DSRB Assent Form Template&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://for.sg/assent-form-template" rel="noopener nofollow" target="_blank">207-008: Assent Form&nbsp;Template (Ver 2, Dated 14 Feb 2022)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSRB Templates/Summary_Updates_to_DSRB_Assent_Form_Template_14_Feb_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Updates to Child / Participant Assent Form Template</a>&nbsp;</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
