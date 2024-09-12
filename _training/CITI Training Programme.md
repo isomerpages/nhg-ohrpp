@@ -216,6 +216,13 @@ learning with the CITI program.</p>
 </li>
 </ul>
 <p></p>
+<h4><strong>Contact Information</strong></h4>
+<p>For any enquiries, please contact the Minimum Ethics Training Secretariat:
+<br>Email: <strong><a href="mailto:min_ethics_training@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>min_ethics_training@nhg.com.sg</u></a></strong>
+<br>DID: 6471 3266
+<br>Office of Human Research Protection Programme (OHRPP)
+<br>NHG Group Research &amp; Innovation</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
