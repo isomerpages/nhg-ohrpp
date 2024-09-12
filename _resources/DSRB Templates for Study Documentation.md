@@ -70,9 +70,12 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 <summary><strong>Documentation of Capacity</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>207-003: Sample&nbsp;language&nbsp;for&nbsp;documentation&nbsp;of&nbsp;Capacity&nbsp;(Ver
-1, Dated 1 Aug 2006)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://for.sg/sample-documentation-of-capacity" rel="noopener nofollow" target="_blank">207-003: Sample&nbsp;language&nbsp;for&nbsp;documentation&nbsp;of&nbsp;Capacity&nbsp;(Ver 1, Dated 1 Aug 2006)</a>
+</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
@@ -83,7 +86,6 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 <summary><strong>Translated Short Consent Form Template for Non-English-speaking Subject</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>207-004: ICF with <strong>ORIGINAL ENGLISH</strong> Short Consent Form Template
@@ -117,7 +119,6 @@ Form Template (Ver 10, Dated 30 Nov 2018)</p>
 <summary><strong>Optional Consent Form for Donation of Leftover Biological Samples</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>1704-15: Optional Consent Form for the Donation of Leftover Biological
@@ -153,12 +154,15 @@ subject (Ver 2.0, Dated 26 Nov 2021)</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Anonymized Data/Samples for Research</strong>
+<summary><strong>Declaration of Use of Anonymized Data/Samples for Research</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Declaration of Use of Anonymized Data and/or Samples for Research (Ver
-1, Dated 18 Aug 2023)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://for.sg/declaration-anonymized-research-data-samples" rel="noopener nofollow" target="_blank">Declaration of Use of Anonymized Data and/or Samples for Research (Ver 1, Dated 18 Aug 2023)</a>
+</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
