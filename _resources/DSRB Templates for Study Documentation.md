@@ -91,24 +91,34 @@ Form Template (Ver 10, Dated 30 Nov 2018)</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>1704-15: Optional Consent Form for the Donation of Leftover Biological
 Samples (Ver 2.0, Dated 26 Nov 2021)</p>
-<p></p>
+</li>
+<li>
 <p>1704-16: Optional Consent Form for the Donation of Leftover Biological
-Samples with <strong>ENGLISH</strong> Short Consent Form Template for non-English
-speaking subject (Ver 2.0, Dated 26 Nov 2021)</p>
-<p></p>
+Samples with ENGLISH Short Consent Form Template for non-English speaking
+subject (Ver 2.0, Dated 26 Nov 2021)</p>
+</li>
+<li>
 <p>1704-17: Optional Consent Form for the Donation of Leftover Biological
-Samples with <strong>SIMPLIFIED CHINESE</strong> Short Consent Form Template
-for non-English speaking subject (Ver 2.0, Dated 26 Nov 2021)</p>
-<p></p>
+Samples with SIMPLIFIED CHINESE Short Consent Form Template for non-English
+speaking subject (Ver 2.0, Dated 26 Nov 2021)</p>
+</li>
+<li>
 <p>1704-18: Optional Consent Form for the Donation of Leftover Biological
-Samples with <strong>MALAY </strong>Short Consent Form Template for non-English
-speaking subject (Ver 2.0, Dated 26 Nov 2021)</p>
-<p></p>
+Samples with MALAY Short Consent Form Template for non-English speaking
+subject (Ver 2.0, Dated 26 Nov 2021)</p>
+</li>
+<li>
 <p>1704-19: Optional Consent Form for the Donation of Leftover Biological
-Samples with <strong>TAMIL </strong>Short Consent Form Template for non-English
-speaking subject (Ver 2.0, Dated 26 Nov 2021)</p>
+Samples with TAMIL Short Consent Form Template for non-English speaking
+subject (Ver 2.0, Dated 26 Nov 2021)
+<br>
+<br>Download the Zip file package for the above Templates here.</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
