@@ -27,7 +27,7 @@ day-to-day practice of research.</p>
 </p>
 </li>
 <li>
-<p>Learn more about the <a href="/citi/" rel="noopener nofollow" target="_blank">CITI Training Programme here</a>.</p>
+<p>Learn more about the <a href="/citi/" rel="noopener nofollow" target="_blank">CITI Training Programme in NHG here</a>.</p>
 </li>
 </ul>
 <p></p>
@@ -43,7 +43,7 @@ individual values and integrity.</p>
 about Responsible Conduct of Research through these online elective modules.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learn more about <a href="/responsible-conduct-of-research/" rel="noopener nofollow" target="_blank">Responsible Conduct of Research (RCR) and its components here</a>.&nbsp;</p>
+<p>Learn more about the <a href="/responsible-conduct-of-research/" rel="noopener nofollow" target="_blank">NHG Responsible Conduct of Research (RCR) and its components here</a>.&nbsp;</p>
 </li>
 </ul>
 <p></p>
@@ -203,26 +203,16 @@ User Profile.</p>
 </details>
 </div>
 <p></p>
-<h4><strong>Useful Links</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Visit the CITI Program website here - <a href="http://www.citiprogram.org/" rel="noopener noreferrer nofollow" target="_blank"><u>www.citiprogram.org</u></a>
-</p>
-</li>
-<li>
-<p>Download the <a href="/files/Minimum Training/Guide_to_CITI_Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">Step-by-Step Guide to CITI Registration here</a>.</p>
-</li>
-</ul>
-<p></p>
 <h4><strong>Registration</strong></h4>
-<p>You can register for the CITI Training Programme here: <a href="http://www.citiprogram.org/" rel="noopener noreferrer nofollow" target="_blank"><u>www.citiprogram.org</u></a>.</p>
+<p>Staff from NHG and partner institutions can register for the CITI Training
+Programme here: <a href="http://www.citiprogram.org/" rel="noopener noreferrer nofollow" target="_blank"><u>www.citiprogram.org</u></a>.</p>
 <p><strong>It is important to affiliate with “National Healthcare Group – Singapore” so that you can access the correct curriculum.</strong>
 </p>
 <p>Upon completing the registration form, you can immediately begin your
 learning with the CITI program.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/files/Minimum Training/Guide_to_CITI_Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">Step-by-Step Guide to CITI Registration here</a>.</p>
+<p>Download the <a href="/files/Minimum Training/Guide_to_CITI_Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Step-by-Step Guide to CITI Registration here</a>.</p>
 </li>
 </ul>
 <p></p>
