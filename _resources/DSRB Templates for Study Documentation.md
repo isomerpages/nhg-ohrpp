@@ -89,7 +89,7 @@ Form Template (Ver 10, Dated 30 Nov 2018)</p>
 </li>
 </ul>
 <p></p>
-<p>Download the Zip file package for the above Templates here.</p>
+<p>Download the <a href="https://for.sg/consent-form-translated" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
 <p></p>
 </div>
 </details>
@@ -128,7 +128,7 @@ subject (Ver 2.0, Dated 26 Nov 2021)</p>
 </li>
 </ul>
 <p></p>
-<p>Download the Zip file package for the above Templates here.</p>
+<p>Download the <a href="https://for.sg/consent-form-biosample-donation" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
 <p></p>
 </div>
 </details>
