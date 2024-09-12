@@ -7,22 +7,28 @@ third_nav_title: OHRPP Units
 ---
 <h4><strong>Establishment &amp; Scope</strong></h4>
 <p>The <strong>NHG Research Compliance Unit (RCU)</strong> ensures NHG’s compliance
-with the Human Biomedical Research Act (HBRA). The RCU oversees 5 key portfolios:</p>
+with Singapore's <strong>Human Biomedical Research Act (HBRA)</strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn more about the <a href="/hbra/" rel="noopener nofollow" target="_blank">Human Biomedical Research Act (HBRA) here</a>.</p>
+</li>
+</ul>
+<p></p>
+<p>The NHG Research Compliance Unit oversees 5 key portfolios:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Research Institution Secretariat</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The NHG Research Institution (RI) is responsible for ensuring that all
-human biomedical research conducted under its supervision and control is
-in compliance with the HBRA.</p>
+<p>The <strong>NHG Research Institution (RI)</strong> is responsible for ensuring
+that all human biomedical research conducted under its supervision and
+control is in compliance with the HBRA.</p>
 <p>For the purpose of coordinating research across collaborative studies,
 the RI of the submitting/lead Principal Investigator will be assumed as
 the lead RI.</p>
-<p><strong>About the RI Policy</strong>
-</p>
-<p>The RI Policy outlines the functions and duties of NHG RI and duties of
-the NHG Principal Person In Charge (PIC) to fulfill the requirements of
+<p><strong>About the Research Institution (RI) Policy</strong>
+<br>The RI Policy outlines the functions and duties of NHG RI and duties of
+the NHG Principal Person-In-Charge (PIC) to fulfill the requirements of
 the HBRA and describes the NHG research governance framework that enables
 the RI to meet the requirements of the HBRA and other relevant Acts and
 regulations applicable to research. This also outlines the roles and responsibilities
@@ -120,6 +126,7 @@ of research, which is the operative principle.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <ul data-tight="true" class="tight">
