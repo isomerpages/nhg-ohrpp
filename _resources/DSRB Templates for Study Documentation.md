@@ -16,7 +16,12 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>207-002: Study&nbsp;Protocol&nbsp;Template (Ver 3, Dated 1 Jun 2009)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://for.sg/study-protocol-template" rel="noopener nofollow" target="_blank">207-002: Study&nbsp;Protocol&nbsp;Template (Ver 3, Dated 1 Jun 2009)</a>
+</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
@@ -28,8 +33,15 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>207-001: Informed Consent Form Template (Ver 13, Dated 31 Jan&nbsp;2022)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://for.sg/informed-consent-form-template" rel="noopener nofollow" target="_blank">207-001: Informed Consent Form Template (Ver 13, Dated 31 Jan&nbsp;2022)</a>
+</p>
+</li>
+<li>
 <p>Summary of Changes for ICF Template</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
