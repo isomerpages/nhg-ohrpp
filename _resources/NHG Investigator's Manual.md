@@ -15,8 +15,7 @@ trials), ethical provisions and institutional policies governing research
 conduct for Investigators, Researchers &amp; Study Administrators.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the NHG Investigator’s Manual -&nbsp;All that an Investigator
-Needs to Know (4th Edition, 21 Nov 2023)</p>
+<p>Download the <a href="/files/Investigator Manual/NHG_Investigator_Manual_4th_Edition.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Investigator’s Manual -&nbsp;All that an Investigator Needs to Know (4th Edition) here</a>.</p>
 </li>
 </ul>
 <p></p>
