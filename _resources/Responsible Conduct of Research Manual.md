@@ -14,7 +14,7 @@ research practice.</p>
 RCR (along with recommended guides to carry out research responsibly).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <strong><a href="/files/Resp Conduct Research Manual/RCR_Complete_Manual_Jan2021.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Responsible Conduct of Research (RCR) Manual (Full Version, ver 1.1) here</a></strong>.</p>
+<p>Download the <a href="/files/Resp Conduct Research Manual/RCR_Complete_Manual_Jan2021.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Responsible Conduct of Research (RCR) Manual (Version 1.1) here</a>.</p>
 </li>
 </ul>
 <p></p>
