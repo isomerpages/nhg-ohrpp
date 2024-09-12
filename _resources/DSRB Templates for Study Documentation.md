@@ -67,19 +67,29 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>207-004: ICF with <strong>ORIGINAL ENGLISH</strong> Short Consent Form Template
 (Ver 10, Dated 30 Nov 2018)</p>
-<p></p>
+</li>
+<li>
 <p>207-005: ICF with <strong>SIMPLIFIED CHINESE</strong> language Short Consent
 Form Template (Ver 10, Dated 30 Nov 2018)</p>
-<p></p>
+</li>
+<li>
 <p>207-006: ICF with <strong>MALAY </strong>language Short Consent Form Template
 (Ver 10, Dated 30 Nov 2018)</p>
-<p></p>
+</li>
+<li>
 <p>207-007: ICF with <strong>TAMIL </strong>language Short Consent Form Template
 (Ver 10, Dated 30 Nov 2018)</p>
-<p></p>
+</li>
+<li>
 <p>207-009: Certification of Translation (Ver 1, Dated 13 Aug 2012)</p>
+</li>
+</ul>
+<p></p>
+<p>Download the Zip file package for the above Templates here.</p>
 <p></p>
 </div>
 </details>
@@ -114,11 +124,11 @@ subject (Ver 2.0, Dated 26 Nov 2021)</p>
 <li>
 <p>1704-19: Optional Consent Form for the Donation of Leftover Biological
 Samples with TAMIL Short Consent Form Template for non-English speaking
-subject (Ver 2.0, Dated 26 Nov 2021)
-<br>
-<br>Download the Zip file package for the above Templates here.</p>
+subject (Ver 2.0, Dated 26 Nov 2021)</p>
 </li>
 </ul>
+<p></p>
+<p>Download the Zip file package for the above Templates here.</p>
 <p></p>
 </div>
 </details>
