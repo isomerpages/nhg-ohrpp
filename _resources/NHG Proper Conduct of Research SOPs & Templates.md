@@ -26,9 +26,8 @@ updated:&nbsp;21-Mar-24)</p>
 <p></p>
 <p></p>
 <h4><strong>PCR SOPs &amp; Templates</strong></h4>
-<p>These documents are strictly for internal circulation among NHG Staff
-members and Authorized personnel only.</p>
-<p><strong>* Access to these files is Restricted (NHG Intranet access required).</strong>
+<p><strong>These documents are strictly for internal circulation among NHG Staff and Authorized personnel only.</strong>
+<br><strong>* Access to these files is Restricted (NHG Intranet access required).</strong>
 </p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
