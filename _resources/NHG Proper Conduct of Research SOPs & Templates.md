@@ -171,42 +171,80 @@ updated:&nbsp;21-Mar-24)</p>
 <summary><strong>Logs</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-001%20SOP%20Comm%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-001:&nbsp;SOP&nbsp;Communication&nbsp;Log&nbsp;(Effective&nbsp;01-Jun-2006)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-002%20Study%20Respon%20or%20Del%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-002:&nbsp;Study&nbsp;Responsibility&nbsp;/&nbsp;Delegation&nbsp;Log&nbsp;(Effective&nbsp;05-Mar-2020)</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-003%20NC%20Proto%20Deviation%20Track%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-003:&nbsp;Non-compliance&nbsp;/&nbsp;Protocol&nbsp;Deviation&nbsp;Tracking&nbsp;Log&nbsp;(Effective&nbsp;05-Mar-2020)</u></a>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-003%20NC%20Proto%20Deviation%20Track%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-003:&nbsp;Non-compliance / Protocol Deviation Tracking Log (Effective&nbsp;05-Mar-2020)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-004%20Device%20Accountability%20Log.doc" rel="noopener noreferrer nofollow" target="_blank"><u>509-004:&nbsp;Device&nbsp;Accountability&nbsp;Log&nbsp;(Effective&nbsp;27-Dec-2018)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-005%20IP%20Inven%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-005:&nbsp;Investigational&nbsp;Product&nbsp;Inventory&nbsp;Log&nbsp;(Effective&nbsp;14-May-2013)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-006%20Site%20Monit%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-006:&nbsp;Site&nbsp;Monitoring&nbsp;Log&nbsp;(Effective&nbsp;14-May-2013)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-007%20Sub%20Screen%20and%20Enroll%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-007:&nbsp;Subject&nbsp;Screening&nbsp;and&nbsp;Enrollment&nbsp;Log&nbsp;(Effective&nbsp;04-Mar-2020)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-008%20Sub%20Visit%20Sche%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-008:&nbsp;Subject&nbsp;Visit&nbsp;Schedule&nbsp;Log&nbsp;(Effective&nbsp;05-Mar-2020)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-009%20Bio%20Speci%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-009:&nbsp;Biological&nbsp;Specimen&nbsp;Log&nbsp;(Effective&nbsp;04-Mar-2020)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-010%20UPIRTSO%20Track%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-010:&nbsp;UPIRTSO&nbsp;Tracking&nbsp;Log&nbsp;(Effective&nbsp;25-May-2016)</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-011%20AE%20and%20SAE%20Track%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-011:&nbsp;Adverse&nbsp;Event&nbsp;/&nbsp;&nbsp;Serious&nbsp;Adverse&nbsp;Event&nbsp;Tracking&nbsp;Log&nbsp;(Effective&nbsp;05-Mar-2020)</u></a>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-011%20AE%20and%20SAE%20Track%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-011: Adverse&nbsp; Event / Serious Adverse Event Tracking Log (Effective 05-Mar-2020)</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-012%20IP%20Dispen%20and%20Accty%20Log%20Multi%20Sub.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-012:&nbsp;Investigational&nbsp;Product&nbsp;Dispensing&nbsp;&amp;&nbsp;Accountability&nbsp;Log&nbsp;&nbsp;(Multiple&nbsp;Subjects)&nbsp;(Effective&nbsp;27-Dec-2018)</u></a>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-012%20IP%20Dispen%20and%20Accty%20Log%20Multi%20Sub.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-012: Investigational Product Dispensing &amp; Accountability Log (Multiple&nbsp;Subjects) (Effective 27-Dec-2018)</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-013%20IP%20Dispen%20and%20Accty%20Log%20Per%20Sub.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-013:&nbsp;Investigational&nbsp;Product&nbsp;Dispensing&nbsp;&amp;&nbsp;Accountability&nbsp;Log&nbsp;(Per&nbsp;Subject)&nbsp;(Effective&nbsp;27-Dec-2018)</u></a>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-013%20IP%20Dispen%20and%20Accty%20Log%20Per%20Sub.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-013: Investigational Product Dispensing &amp; Accountability Log (Per Subject) (Effective 27-Dec-2018)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-014%20Sub%20Identi%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-014:&nbsp;Subject&nbsp;Identification&nbsp;Log&nbsp;(Effective&nbsp;04-Mar-2020)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-015%20Temperature%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-015:&nbsp;Temperature&nbsp;Log&nbsp;(Effective&nbsp;15-May-2013)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-016%20Stdy%20Initi%20Mtg%20Attend%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-016:&nbsp;Study&nbsp;Initiation&nbsp;Meeting&nbsp;Attendance&nbsp;Log&nbsp;(Effective&nbsp;15-May-2013)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-017%20ICF%20Tracking%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-017:&nbsp;ICF&nbsp;Tracking&nbsp;Log&nbsp;(Effective&nbsp;20-May-2020)&nbsp;</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-018%20Study%20Doc%20Translation%20Tracking%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-018&nbsp;Study&nbsp;Document&nbsp;Translation&nbsp;Tracking&nbsp;Log&nbsp;(Effective&nbsp;08-Oct-2020)</u></a>
 </p>
+</li>
+</ul>
 </div>
 </details>
 </div>
@@ -216,12 +254,20 @@ updated:&nbsp;21-Mar-24)</p>
 <summary><strong>Guidance</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/599-002_Categorisation%20of%20Deficiencies%20Identified.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>599-002: Categorisation of Deficiencies Identified (Effective 29-Dec-2021)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/599-005%20Guidance%20Document%20on%20Electronic%20IC%20Process.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>599-005:&nbsp;Guidance&nbsp;Document&nbsp;on&nbsp;Electronic&nbsp;Informed&nbsp;Consent&nbsp;Process&nbsp;(Effective&nbsp;28-Mar-2023)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/599-006%20Guidance%20Document%20on%20Electronic%20Filing%20of%20Essential%20Documents.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>599-006: Guidance Document on Electronic Filing of Essential Documents (Effective 01-Apr-2020)</u></a>
 </p>
+</li>
+</ul>
 </div>
 </details>
 </div>
