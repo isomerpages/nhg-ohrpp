@@ -20,10 +20,12 @@ requirements.</p>
 HBRA. Please familiarize yourselves with the new requirements.</p>
 <p></p>
 <h4><strong>Summary of Updates</strong></h4>
-<p>The summary of the recent updates to PCR SOPs can be downloaded here.</p>
-<p><strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/aae86876-aef9-4c7d-bcd3-7d183b01cc09/PCR+SOP+SoC_21Mar2024.pdf?MOD=AJPERES&amp;CVID=oVAMCH-&amp;CVID=oVAMCH-" rel="noopener noreferrer nofollow" target="_blank"><u>Summary of Changes to PCR SOP</u></a></strong> (Last
+<ul data-tight="true" class="tight">
+<li>
+<p>Download the <a href="https://www.research.nhg.com.sg/wps/wcm/connect/aae86876-aef9-4c7d-bcd3-7d183b01cc09/PCR+SOP+SoC_21Mar2024.pdf?MOD=AJPERES&amp;CVID=oVAMCH-&amp;CVID=oVAMCH-" rel="noopener noreferrer nofollow" target="_blank"><u>Summary of Changes to PCR SOP here</u></a> (Last
 updated:&nbsp;21-Mar-24)</p>
-<p></p>
+</li>
+</ul>
 <p></p>
 <h4><strong>PCR SOPs &amp; Templates</strong></h4>
 <p><strong>These documents are strictly for internal circulation among NHG Staff and Authorized personnel only.</strong>
@@ -118,18 +120,32 @@ updated:&nbsp;21-Mar-24)</p>
 <summary><strong>Checklist</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-002%20Feasibility%20Assessment%20Checklist.doc" rel="noopener noreferrer nofollow" target="_blank"><u>504-002:&nbsp;Feasibility&nbsp;Assessment&nbsp;Checklist&nbsp;(Effective&nbsp;17-Jan-2019)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-004%20Study%20Closure%20Checklist.docx" rel="noopener noreferrer nofollow" target="_blank"><u>504-004:&nbsp;Study&nbsp;Closure&nbsp;Checklist&nbsp;(Effective&nbsp;04-Aug-2021)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-005%20Pre%20Audit%20Checklist.docx" rel="noopener noreferrer nofollow" target="_blank"><u>504-005:&nbsp;Pre-Audit&nbsp;Checklist&nbsp;(Effective&nbsp;04-Mar-2020)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-006%20NHG%20RQM%20Study%20Review%20Checklist.docx" rel="noopener noreferrer nofollow" target="_blank"><u>504-006:&nbsp;RQM&nbsp;Study&nbsp;Review&nbsp;Checklist&nbsp;(Effective&nbsp;21-Oct-2014)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-007_RQM%20PI%20SAF.docx" rel="noopener noreferrer nofollow" target="_blank"><u>504-007:&nbsp;NHG&nbsp;RQM&nbsp;PISAF&nbsp;(Effective&nbsp;30-Oct-2019)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-008%20Eligibility%20Checklist.docx" rel="noopener noreferrer nofollow" target="_blank"><u>504-008:&nbsp;Eligibility&nbsp;Checklist&nbsp;(Effective&nbsp;17-Jan-2019)</u></a>
 </p>
+</li>
+</ul>
 </div>
 </details>
 </div>
@@ -139,8 +155,12 @@ updated:&nbsp;21-Mar-24)</p>
 <summary><strong>Forms</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/505-001%20Training%20Record%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>505-001:&nbsp;Training&nbsp;Record&nbsp;Form&nbsp;(Effective&nbsp;11-Nov-2016)</u></a>
 </p>
+</li>
+</ul>
 </div>
 </details>
 </div>
@@ -150,18 +170,32 @@ updated:&nbsp;21-Mar-24)</p>
 <summary><strong>Templates</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-002%20Investigator%20File%20Contents%20Template.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-002:&nbsp;Investigator&nbsp;File&nbsp;Contents&nbsp;Template&nbsp;(Effective&nbsp;08-Oct-2020)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-003%20Investigator%20File%20Dividers.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-003:&nbsp;Investigator&nbsp;File&nbsp;Dividers&nbsp;(Effective&nbsp;23-Oct-2018)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-005%20CAPA%20Template.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-005:&nbsp;Corrective&nbsp;Action&nbsp;and&nbsp;Preventive&nbsp;Action&nbsp;Plan&nbsp;(Effective&nbsp;05-Mar-2020)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-006%20Note%20to%20File%20Template.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-006:&nbsp;Note-To-File&nbsp;Template&nbsp;(Effective&nbsp;13-May-2013)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-007%20Template%20for%20Doc%20of%20AE%20in%20Med%20Rec.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-007:&nbsp;Template&nbsp;for&nbsp;Documentation&nbsp;of&nbsp;Adverse&nbsp;Event&nbsp;(Effective&nbsp;13-May-2013)</u></a>
 </p>
+</li>
+<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-008%20Monit%20Plan%20Template.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-008:&nbsp;Monitoring&nbsp;Plan&nbsp;template&nbsp;(Effective&nbsp;03-Dec-2013)</u></a>
 </p>
+</li>
+</ul>
 </div>
 </details>
 </div>
