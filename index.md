@@ -20,7 +20,7 @@ sections:
       description: Subscribe to receive regular updates on the latest ECOS
         Announcements, ECOS User Guide releases and other NHG GRI related
         education announcements.
-      alt: Image alt text
+      alt: GRI Mailing List QR Code
       image: /images/Homepage Pics/QR_GRI_Mailing_List_Sm.png
       button: Subscribe here now!
       url: https://form.gov.sg/66e0e6304cccbc8d09706c68
