@@ -109,30 +109,13 @@ would receive during the Research Study.</p>
 <details class="isomer-details">
 <summary>Who sponsors Research</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p>Research is sponsored or funded by various bodies such as hospitals, foundations,
 voluntary groups, and pharmaceutical companies, in addition to government
 agencies such as the A* STAR and National Medical Research Council.</p>
-<p></p>
 </div>
 </details>
 </div>
 <p>&nbsp;</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <h4><strong>Participating in Research</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -209,10 +192,9 @@ at any time.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If you are interested in participating in a research study, you must find
 out as much as possible about the study prior to making a decision whether
-or not to participate in the research. Most of this information can be
-found in the Informed Consent Form for the study. For example, you may
-ask about the following:
-<br>
+or not to participate in the research.</p>
+<p>Most of this information can be found in the Informed Consent Form for
+the study. For example, you may ask about the following:
 <br><em>Study Details:</em>&nbsp;&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -225,7 +207,6 @@ ask about the following:
 <p>What are your responsibilities in this study?</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><em>Medical care:</em>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -241,7 +222,6 @@ ask about the following:
 <p>Who to contact if you experience adverse events?</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><em>Possible Risks and Benefits:</em>&nbsp;&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -257,7 +237,6 @@ ask about the following:
 <p>What are the alternatives to participation?</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><em>Costs and Compensation:</em>&nbsp;&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -270,7 +249,6 @@ ask about the following:
 <p>Would there be compensation for research related injury?</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><em>Other issues:</em>&nbsp;&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
