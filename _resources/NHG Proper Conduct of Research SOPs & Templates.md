@@ -272,8 +272,7 @@ updated:&nbsp;21-Mar-24)</p>
 </details>
 </div>
 <p></p>
-<p><strong>* Access to these files is Restricted (NHG Intranet access required).</strong>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
