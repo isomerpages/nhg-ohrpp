@@ -22,6 +22,6 @@ sections:
         education announcements.
       alt: GRI Mailing List QR Code
       image: /images/Homepage Pics/QR_GRI_Mailing_List_Sm.png
-      button: Subscribe here now!
+      button: Subscribe here via FormSG
       url: https://form.gov.sg/66e0e6304cccbc8d09706c68
 ---
