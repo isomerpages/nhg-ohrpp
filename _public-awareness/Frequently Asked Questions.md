@@ -303,12 +303,37 @@ that you may experience.</p>
 <details class="isomer-details">
 <summary>What are your rights as a Volunteer Research Participant? &nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>As a volunteer research participant, you have the right to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Be informed regarding the nature, purpose, potential risks and benefits
+of the study.</p>
+</li>
+<li>
+<p>Be informed of alternative medical treatments.</p>
+</li>
+<li>
+<p>Ask questions regarding the research.</p>
+</li>
+<li>
+<p>Withdraw from the research without penalty or loss of benefits to which
+you are otherwise entitled to.</p>
+</li>
+<li>
+<p>Make an informed decision regarding your participation without undue influence,
+duress or coercion.</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>What are the possible benefits of participating in a Research Study?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>A research study that is well-designed and well-executed enables the participant
+to play an active role in their own health care, gain access to new research
+treatments or research drugs before they are approved for use, and help
+others by contributing to medical research.</p>
 <p></p>
 </div>
 </details>
