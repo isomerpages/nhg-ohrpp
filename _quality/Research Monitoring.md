@@ -42,7 +42,7 @@ in NHG institutions. The extent of monitoring depends on the nature and
 risks of the study and the experience of the PI.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/files/Content Files/FAQ_Monitoring_Framework.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Monitoring Programme FAQs here</a>.</p>
+<p>Download the <a href="/files/Quality/FAQ_Monitoring_Framework.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Monitoring Programme FAQs here</a>.</p>
 </li>
 </ul>
 <p></p>
