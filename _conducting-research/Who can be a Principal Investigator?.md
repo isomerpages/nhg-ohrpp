@@ -66,7 +66,7 @@ or the <a href="/investigator-manual/" rel="noopener nofollow" target="_blank">N
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>Click here to download the Special Considerations FAQ here.</p>
+<p>Click here to download the <a href="/files/Conducting Research Files/Special_Considerations_May2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Special Considerations guide here</a>.</p>
 <p></p>
 </div>
 </details>
