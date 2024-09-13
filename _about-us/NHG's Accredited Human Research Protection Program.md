@@ -9,7 +9,7 @@ description: ""
 March 2007.</p>
 <p></p>
 <blockquote>
-<p><em>"NHG was also commended for its strength - the DSRB (Ethics Board on their depth of knowledge, experience and expertise for each Board, and the Research Quality Management and Research Education groups for the extensive programs of Research Auditing and Education carried out."</em>
+<p><em>"NHG was also commended for its strength - the DSRB (Ethics Board) on their depth of knowledge, experience and expertise for each Board, and the Research Quality Management and Research Education groups for the extensive programs of Research Auditing and Education carried out."</em>
 </p>
 </blockquote>
 <p></p>
