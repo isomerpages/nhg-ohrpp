@@ -191,12 +191,112 @@ at any time.</p>
 <details class="isomer-details">
 <summary>What should you consider before participating in a Research Study? &nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>If you are interested in participating in a research study, you must find
+out as much as possible about the study prior to making a decision whether
+or not to participate in the research. Most of this information can be
+found in the Informed Consent Form for the study. For example, you may
+ask about the following:
+<br>
+<br><em>Study Details:</em>&nbsp;&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What is the purpose of the research study?</p>
+</li>
+<li>
+<p>What procedures will be followed in this study?&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>What are your responsibilities in this study?</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><em>Medical care:</em>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What is not standard care or experimental in this study?</p>
+</li>
+<li>
+<p>Who will be in charge of your care?</p>
+</li>
+<li>
+<p>Would you be able to continue to see your own doctor? &nbsp;</p>
+</li>
+<li>
+<p>Who to contact if you experience adverse events?</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><em>Possible Risks and Benefits:</em>&nbsp;&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What are the possible risks and side effects?</p>
+</li>
+<li>
+<p>What are the possible benefits from participating in the study?</p>
+</li>
+<li>
+<p>Would it be necessary to practice contraception during the study period?</p>
+</li>
+<li>
+<p>What are the alternatives to participation?</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><em>Costs and Compensation:</em>&nbsp;&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What are the costs &amp; extra payments if you participate in the study?</p>
+</li>
+<li>
+<p>Could you stop participating if you change your mind?</p>
+</li>
+<li>
+<p>Would there be compensation for research related injury?</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><em>Other issues:</em>&nbsp;&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What are the measures in place to protect confidentiality of your medical
+information?</p>
+</li>
+<li>
+<p>Would you have access to the study treatment after the completion of the
+study?</p>
+</li>
+<li>
+<p>Who is conducting the research study?
+<br>
+</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary>What are your responsibilities as a Volunteer Research Participant? &nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>As a volunteer research participant, your responsibilities are:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To understand the information given and clarify any doubts you may have
+before agreeing and giving consent to participate in a research study.</p>
+</li>
+<li>
+<p>To attend the scheduled medical appointments and take the medication (if
+any) as scheduled by the research study.</p>
+</li>
+<li>
+<p>To inform the research study investigator of any side effects or changes
+that you may experience.</p>
+</li>
+<li>
+<p>To answer any research questionnaire or survey truthfully.&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>To abide by the rules and regulations stated in the research study procedure.</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
