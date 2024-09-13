@@ -28,21 +28,23 @@ to improve processes and tackle issues related to clinical research. In
 addition, the teams discussed about the NHG’s AAHRPP-accredited human research
 protection programme, research training and quality management.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thai MOH Visit 2016/visit01.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Public Awareness Pics/v1_LTH.jpg">
 </div>
 <p><em><sup>A/Prof Lim Tock Han, on his presentation to the Thai Delegates</sup></em>
 </p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thai MOH Visit 2016/visit02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Awareness Pics/v2_HH.jpg">
 </div>
 <p><em><sup>Ms Ng Hwee Hian, Deputy Director, Office of Human Research Protection Programme, NHG RDO, on her presentation to the Thai Delegates</sup></em>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thai MOH Visit 2016/visit03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Awareness Pics/v3_presentation.jpg">
 </div>
 <p><em><sup>Presentation of token of appreciation by Dr Jitsuda Buaakhao, Senior Advisor, Dept. of Medical Services, Thailand</sup></em>
 </p>
@@ -50,7 +52,7 @@ protection programme, research training and quality management.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thai MOH Visit 2016/visit04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Public Awareness Pics/v4_token.jpg">
 </div>
 <p><em><sup>Presentation of token of appreciation by A/Prof Lim Tock Han, Deputy GCEO (Education &amp; Research), NHG</sup></em>
 </p>
@@ -97,9 +99,9 @@ National University Hospital who shared how the research scene has evolved,
 and how society has benefited from research that has been carried out.</p>
 </li>
 </ul>
-<p><a href="/files/Content Files/Public_Forum_Poster_20_July_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Event Brochure</a>
-<a href="/files/Public Awareness Files/Public_Forum_Poster_20_July_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
-</p>
+<p></p>
+<p>Download the <a href="/files/Public Awareness/Public_Forum_Brochure_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">Event Brochure here</a>.</p>
+<p></p>
 <p></p>
 </div>
 </details>
@@ -118,9 +120,7 @@ member of three Singapore medical/research ethics committees in Singapore
 spoke at the Forum, to create greater awareness and understanding of clinical
 research, to empower the public with the necessary knowledge to make informed
 decisions about participating in clinical trials.</p>
-<p><a href="/files/Content Files/Public_Forum_Poster_26_July_2008.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Event Brochure</a>
-<a href="/files/Public Awareness Files/Public_Forum_Poster_26_July_2008.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
-</p>
+<p>Download the <a href="/files/Public Awareness/Public_Forum_ASC_Brochure_2008.pdf" rel="noopener noreferrer nofollow" target="_blank">Event Brochure here</a>.</p>
 <p></p>
 </div>
 </details>
