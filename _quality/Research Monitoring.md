@@ -33,7 +33,7 @@ The objectives of the NHG Monitoring Programme are to:</p>
 <p>Ensure good quality and integrity of the research data; and to</p>
 </li>
 <li>
-<p>Ensure the conduct of the study is in accordance to applicable regulations,
+<p>Ensure the conduct of the study is in accordance with applicable regulations,
 policies and guidelines</p>
 </li>
 </ul>
