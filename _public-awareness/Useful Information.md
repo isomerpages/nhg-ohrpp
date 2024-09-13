@@ -9,6 +9,15 @@ description: ""
 Clinical Research Participation and useful contact information.</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Download the English Version here.</p>
+</li>
+<li>
+<p>Download the Chinese Version here.</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/Public Awareness Files/NHG_Research_Participant_Brochure__English__20_Jul_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the English Version here</a>
 </p>
 </li>
