@@ -14,14 +14,4 @@ sections:
       title: Latest Announcements & Events
       id: resources
       button: See more here
-  - infopic:
-      title: NHG GRI Educational Mailing List
-      id: infopic
-      description: Subscribe to receive regular updates on the latest ECOS
-        Announcements, ECOS User Guide releases and other NHG GRI related
-        education announcements.
-      alt: GRI Mailing List QR Code
-      image: /images/Homepage Pics/MailingListFormQR_250x250.jpg
-      button: Subscribe here via FormSG
-      url: https://form.gov.sg/66e0e6304cccbc8d09706c68
 ---
