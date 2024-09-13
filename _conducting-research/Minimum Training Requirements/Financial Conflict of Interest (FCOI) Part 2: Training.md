@@ -118,7 +118,7 @@ CITI'.</p>
 <p>Upon receipt and verification, the Minimum Training Secretariat will update
 your FCOI CITI Training Status in ECOS. Please allow some time for processing.</p>
 <p></p>
-<p>You can refer to the ECOS User Guide for Minimum Training Module here.</p>
+<p>You can refer to the <a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener nofollow" target="_blank">ECOS User Guide for Minimum Training Module here</a>.</p>
 <p></p>
 </div>
 </details>
