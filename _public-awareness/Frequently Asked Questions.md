@@ -353,6 +353,7 @@ in a Research Study? &nbsp;</summary>
 <p>Should you experience any adverse reaction or has an emergency during
 a study; you should inform the treating doctor and contact the researchers
 immediately.</p>
+<p></p>
 </div>
 </details>
 </div>
