@@ -21,4 +21,7 @@ sections:
         Announcements, ECOS User Guide releases and other NHG GRI related
         education announcements.
       alt: Image alt text
+      image: /images/Homepage Pics/QR_GRI_Mailing_List_Sm.png
+      button: Subscribe here
+      url: https://for.sg/grimail
 ---
