@@ -13,7 +13,7 @@ DSRB.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Learn more about using the <strong>Ethics and Compliance Online System (ECOS)</strong> for
-<a href="ecossupport.gri.nhg.com.sg/userguides/" rel="noopener nofollow" target="_blank">ethics submissions to the DSRB here</a>.</p>
+<a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener nofollow" target="_blank">ethics submissions to the DSRB here.</a>.</p>
 </li>
 </ul>
 <h4><strong>Why is DSRB Approval Required?</strong></h4>
