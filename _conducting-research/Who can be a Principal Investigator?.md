@@ -59,15 +59,14 @@ or the <a href="/investigator-manual/" rel="noopener nofollow" target="_blank">N
 <p>Conditionally / Temporarily Registered Dentist</p>
 </li>
 <li>
-<p>Multi-centre between different clusters (<strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/02+ethics+and+quality/dsrb+policy+updates/dsrb+announcements" rel="noopener noreferrer nofollow" target="_self"><u>CIRB-DSRB mutual recognition</u></a></strong>)&nbsp;</p>
+<p>Multi-Centre between different Clusters (CIRB-DSRB mutual recognition)</p>
 </li>
 <li>
-<p><strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/02+ethics+and+quality/dsrb+policy+updates/dsrb+announcements" rel="noopener noreferrer nofollow" target="_self"><u>Multi-centre within NHG and Partner institutions</u></a></strong>
-</p>
+<p>Multi-Centre within NHG and Partner institutions</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>Click here to download <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/1c50ca21-c521-40fb-9f8c-11860a390631/Special+Considerations_v+May2022.pdf?MOD=AJPERES&amp;CVID=o5cogXM&amp;CVID=o5cogXM&amp;CVID=o5cogXM&amp;CVID=o5cogXM&amp;CVID=o5cogXM" rel="noopener noreferrer nofollow" target="_blank"><u>"Special Considerations"</u></a></strong>&nbsp;</p>
+<p>Click here to download the Special Considerations FAQ here.</p>
 <p></p>
 </div>
 </details>
