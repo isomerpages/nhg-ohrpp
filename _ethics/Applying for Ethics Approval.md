@@ -38,13 +38,12 @@ benefit programmes.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Exempt Review</strong>
+<summary><strong>Expedited Review</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Research studies that involve anonymous surveys and questionnaires, collection
-or study of anonymous existing data or tissue specimens, where data/tissue
-are either publicly available or subjects cannot be identified, or public
-benefit programmes.</p>
+<p>Research studies that involve collection of data or biological samples
+via non-invasive procedures, medical case-notes review, surveys or interviews
+with identifiers.</p>
 <p></p>
 </div>
 </details>
