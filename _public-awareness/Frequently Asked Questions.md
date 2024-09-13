@@ -107,7 +107,15 @@ would receive during the Research Study.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Who sponsors Research?</summary>
+<summary>Who sponsors Research</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Research is sponsored or funded by various bodies such as hospitals, foundations,
 voluntary groups, and pharmaceutical companies, in addition to government
@@ -117,6 +125,14 @@ agencies such as the A* STAR and National Medical Research Council.</p>
 </details>
 </div>
 <p>&nbsp;</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h4><strong>Participating in Research</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
