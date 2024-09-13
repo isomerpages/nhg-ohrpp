@@ -12,8 +12,8 @@ to suit your individual research needs.</p>
 <p></p>
 <p><strong>For Clinical Trials Regulated Under the Health Products Act and Medicines Act&nbsp;&nbsp;&nbsp;</strong>
 <br>Please note that the revised regulatory requirements should be complied
-with from 1st Nov 2016. You may refer to <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/regulatory+submission+requirements" rel="noopener noreferrer nofollow" target="_blank"><u>this&nbsp;link</u></a></strong> for
-more details on the revised requirements.</p>
+with from 1st Nov 2016. You may refer to <a href="/ct-framework/" rel="noopener nofollow" target="_blank">this page here</a> for more details on the revised
+requirements.</p>
 <p></p>
 <p><strong>For Human Biomedical Research Regulated Under the Human Biomedical Research Act (HBRA)&nbsp;&nbsp;</strong>
 <br>Please note that the PCR SOPs have been updated in alignment with the
