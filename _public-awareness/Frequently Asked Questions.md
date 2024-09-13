@@ -19,8 +19,8 @@ deciding to join a research study.</p>
 <p>Clinical Research is research conducted in human volunteers to answer
 scientific health questions. Clinical Research helps to determine the safety
 and effectiveness of experimental drugs or devices. Clinical research is
-commonly described as a&nbsp; “Clinical Trial”, “Clinical Study” or an
-“Experiment”. Clinical Research is not the same as Clinical Treatment.</p>
+commonly described as a “Clinical Trial”, “Clinical Study” or an “Experiment”.
+Clinical Research is not the same as Clinical Treatment.</p>
 <p></p>
 </div>
 </details>
@@ -79,17 +79,17 @@ doctor visits than patients who are not participating in the research.</p>
 <p>The process of development of a new drug involves various phases. Before
 a drug is study in humans it undergoes extensive pre-clinical testing.
 Here is a simple description of the four phases of a clinical trial:</p>
-<p><strong>Phase I </strong>: This first phase is carried out to assess the
+<p><strong>Phase I:</strong> This first phase is carried out to assess the
 safety of the new drug. Only small groups of volunteers (20-80) are recruited
 for this phase.&nbsp;&nbsp;&nbsp;</p>
-<p><strong>Phase II </strong>: Once a drug is shown to be safe in Phase I
-testing, it goes on to phase II trials to test the efficacy. In Phase II,
-a larger group (100-300) of patients with the disease is involved.&nbsp;&nbsp;</p>
-<p><strong>Phase III </strong>: During this phase, the drug efficacy is determined
+<p><strong>Phase II:</strong> Once a drug is shown to be safe in Phase I testing,
+it goes on to phase II trials to test the efficacy. In Phase II, a larger
+group (100-300) of patients with the disease is involved.&nbsp;&nbsp;</p>
+<p><strong>Phase III:</strong> During this phase, the drug efficacy is determined,
 and larger group of population (1,000-3,000) is recruited. Results from
 phase III helps pharmaceutical drugs gain further knowledge on the drug's
 effectiveness, benefits and range of possible adverse reactions.&nbsp;&nbsp;</p>
-<p><strong>Phase IV</strong> :This phase is also known as the post marketing
+<p><strong>Phase IV: This</strong> phase is also known as the post marketing
 phase. Phase IV clinical aim to determine how a particular drug compares
 to other currently available drugs especially with regards to long term
 safety, efficacy and cost effectiveness.</p>
@@ -99,7 +99,7 @@ safety, efficacy and cost effectiveness.</p>
 <details class="isomer-details">
 <summary>What is Randomization?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>In some Research Studies, Participants are randomised (equivalent to "tossing
+<p>In some Research Studies, Participants are randomized (equivalent to "tossing
 of coin") into treatment groups. In some of these studies, neither the
 Participant nor the Researchers may know what treatment the Participants
 would receive during the Research Study.</p>
