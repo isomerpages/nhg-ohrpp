@@ -49,8 +49,8 @@ Graduate School of Theology) and a lay member of three Singapore medical/researc
 ethics committees in Singapore to find out more of clinical research.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Public Awareness Files/Lifewise_Feature_Article___Tried___Tested_May_Jun_2008.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
-</p>
+<p>Download the <a href="/files/Public Awareness/Lifewise_Feature_Article___Tried___Tested_May_Jun_2008_pdf_safe.pdf" rel="noopener noreferrer nofollow" target="_blank">Article "Tried &amp; Tested" here</a>.</p>
 </li>
 </ul>
+<p></p>
 <p></p>
