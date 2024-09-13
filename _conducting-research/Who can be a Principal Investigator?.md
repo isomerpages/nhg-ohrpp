@@ -105,12 +105,11 @@ requirements.
 <p>Refer to the Table in part 1 "Who can be a Principal Investigator?" above</p>
 <p></p>
 <p>For more information regarding HSA requirements on who can be a PI, click <strong><a href="https://www.hsa.gov.sg/clinical-trials/conducting" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>&nbsp;OR
-visit</p>
-<p><strong><a href="https://www.hsa.gov.sg/clinical-trials/conducting" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hsa.gov.sg/clinical-trials/conducting</u></a></strong>
-</p>
-<p>For more information regarding on Pharmacist being a PI -
-<br>1. Download a copy of the <a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener nofollow" target="_blank">Regulations here</a>.</p>
-<p>2. Download a copy of the <a href="https://www.moh.gov.sg/hpp/pharmacists/guidelines" rel="noopener nofollow" target="_blank">Guidance here</a>.</p>
+visit <strong><a href="https://www.hsa.gov.sg/clinical-trials/conducting" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hsa.gov.sg/clinical-trials/conducting</u></a></strong>.</p>
+<p>
+<br>For more information regarding on Pharmacist being a PI:-
+<br>1. Download a copy of the <a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener nofollow" target="_blank">Regulations here</a>.
+<br>2. Download a copy of the <a href="https://www.moh.gov.sg/hpp/pharmacists/guidelines" rel="noopener nofollow" target="_blank">Guidance here</a>.</p>
 <p></p>
 </div>
 </details>
