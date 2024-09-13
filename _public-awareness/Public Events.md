@@ -121,7 +121,7 @@ spoke at the Forum, to create greater awareness and understanding of clinical
 research, to empower the public with the necessary knowledge to make informed
 decisions about participating in clinical trials.</p>
 <p>Download the <a href="/files/Public Awareness/Public_Forum_ASC_Brochure_2008.pdf" rel="noopener noreferrer nofollow" target="_blank">Event Brochure here</a>.</p>
-<p></p>
+<p>Download the <a href="/files/Public Awareness/Public_Forum_Poster_26_July_2008.pdf" rel="noopener noreferrer nofollow" target="_blank">Event Programme here</a>.</p>
 </div>
 </details>
 </div>
