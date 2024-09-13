@@ -340,6 +340,9 @@ others by contributing to medical research.</p>
 <details class="isomer-details">
 <summary>What are the possible risks of participating in a Research Study? &nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>New drugs or procedures may have side effects that are unknown. New drugs
+or procedures may also be less effective than current available treatment.
+Even if a new drug has benefits, it might not work for you.</p>
 <p></p>
 </div>
 </details>
@@ -347,7 +350,9 @@ others by contributing to medical research.</p>
 <summary>What happens if I suffer an Adverse Event or an Emergency while participating
 in a Research Study? &nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Should you experience any adverse reaction or has an emergency during
+a study; you should inform the treating doctor and contact the researchers
+immediately.</p>
 </div>
 </details>
 </div>
