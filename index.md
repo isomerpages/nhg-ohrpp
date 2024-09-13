@@ -22,6 +22,6 @@ sections:
         education announcements.
       alt: Image alt text
       image: /images/Homepage Pics/QR_GRI_Mailing_List_Sm.png
-      button: Subscribe here
-      url: https://for.sg/grimail
+      button: Subscribe here now!
+      url: https://form.gov.sg/66e0e6304cccbc8d09706c68
 ---
