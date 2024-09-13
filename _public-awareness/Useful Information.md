@@ -43,7 +43,7 @@ overview of how incidental findings are managed.</p>
 </ul>
 <p></p>
 <h4><strong>Lifewise Magazine Feature Article "Tried &amp; Tested"</strong></h4>
-<p>Lifewise speaks to Dr Goh Boon Cher (Senior Consultant, Haematology-Oncology,
+<p>Lifewise speaks to Dr Goh Boon Cher (Senior Consultant, Hematology-Oncology,
 National University Hospital), and Dr Allan Harkness (Dean of the Asia
 Graduate School of Theology) and a lay member of three Singapore medical/research
 ethics committees in Singapore to find out more of clinical research.</p>
