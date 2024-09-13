@@ -16,11 +16,10 @@ by the NHG RQM Unit.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/files/Quality/FAQ_PI_SAF_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">PISAF FAQs here</a>.</p>
+<p>Download the <a href="/files/Quality/PISAF_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">PISAF FAQs here</a>.</p>
 </li>
 <li>
-<p>Download the <a href="https://www.research.nhg.com.sg/wps/wcm/connect/21a7527f-14e8-46a7-b4da-90a9f2aa80fb/504-007_RQM_PI_SAF.docx?MOD=AJPERES&amp;CVID=o3wo1XO&amp;CVID=o3wo1XO&amp;CVID=o3wo1XO" rel="noopener noreferrer nofollow" target="_blank"><u>PI Self-Assessment Form (PISAF) here</u></a>.<strong> (Restricted: NHG Intranet access required)</strong>
-</p>
+<p>Download the <a href="https://for.sg/rqm-pisaf-form" rel="noopener nofollow" target="_blank">PI Self-Assessment Form (PISAF) here</a>.</p>
 </li>
 </ul>
 <p></p>
