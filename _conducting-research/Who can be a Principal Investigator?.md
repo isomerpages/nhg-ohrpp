@@ -116,6 +116,7 @@ visit</p>
 </div>
 </details>
 </div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>4. What are the responsibilities of the PI?</strong>
