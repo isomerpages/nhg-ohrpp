@@ -9,23 +9,13 @@ description: ""
 Clinical Research Participation and useful contact information.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the English Version here.</p>
+<p>Download the <a href="/files/Public Awareness/NHG_Research_Participant_Brochure__English__20_Jul_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">English Version here</a>.</p>
 </li>
 <li>
-<p>Download the Chinese Version here.</p>
+<p>Download the <a href="/files/Public Awareness/NHG_Research_Participant_Brochure__Chinese__20_Jul_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Version here</a>.</p>
 </li>
 </ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Public Awareness Files/NHG_Research_Participant_Brochure__English__20_Jul_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the English Version here</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Public Awareness Files/NHG_Research_Participant_Brochure__Chinese__20_Jul_2013.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the Chinese Version here</a>
-</p>
-</li>
-</ul>
 <h4><strong>Tissue Donor’s Brochure</strong></h4>
 <p>Human tissue refers to human biological material such as blood, organs
 or parts of organs. They are sometimes used for research purposes. The
@@ -33,8 +23,7 @@ Tissue Donor’s Brochure answers the commonly asked questions on donating
 human tissue for research.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Public Awareness Files/NHG_Tissue_Donor_Brochure__English__1_July_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
-</p>
+<p>Download the <a href="/files/Public Awareness/NHG_Tissue_Donor_Brochure__English__1_July_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Tissue Donor's Brochure here</a>.</p>
 </li>
 </ul>
 <p></p>
@@ -46,12 +35,10 @@ or variables of the research studies. The Information Sheet provides an
 overview of how incidental findings are managed.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Public Awareness Files/NHG_InfoSheet___Incidental_Finding_for_Research_Participants_8_Jan_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the Information Sheet for Research Participants here</a>
-</p>
+<p>Download the <a href="/files/Public Awareness/NHG_InfoSheet___Incidental_Finding_for_Research_Participants_8_Jan_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Sheet for Research Participants here</a>.</p>
 </li>
 <li>
-<p><a href="/files/Public Awareness Files/NHG_InfoSheet___Incidental_Finding_for_Tissue_Donors_8_Jan_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the Information Sheet for Tissue Donors here</a>
-</p>
+<p>Download the <a href="/files/Public Awareness/NHG_InfoSheet___Incidental_Finding_for_Tissue_Donors_8_Jan_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Sheet for Tissue Donors here</a>.</p>
 </li>
 </ul>
 <p></p>
