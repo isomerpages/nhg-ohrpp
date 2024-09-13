@@ -27,7 +27,7 @@ monitor its human biomedical research (HBR) studies.&nbsp;</p>
 The objectives of the NHG Monitoring Programme are to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Safeguard the safety and well-being of the research participants;</p>
+<p>Safeguard the safety and well-being of the research participants</p>
 </li>
 <li>
 <p>Ensure good quality and integrity of the research data; and to</p>
