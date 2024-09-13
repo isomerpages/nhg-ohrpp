@@ -104,8 +104,9 @@ requirements.
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Refer to the Table in part 1 "Who can be a Principal Investigator?" above</p>
 <p></p>
-<p>For more information regarding HSA requirements on who can be a PI, click <strong><a href="https://www.hsa.gov.sg/clinical-trials/conducting" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>&nbsp;OR
-visit <strong><a href="https://www.hsa.gov.sg/clinical-trials/conducting" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hsa.gov.sg/clinical-trials/conducting</u></a></strong>.</p>
+<p>For more information regarding HSA requirements on who can be a PI, click
+<a href="https://www.hsa.gov.sg/clinical-trials/conducting" rel="noopener noreferrer nofollow" target="_blank"><u>here</u>
+</a>&nbsp;OR visit <a href="https://www.hsa.gov.sg/clinical-trials/conducting" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hsa.gov.sg/clinical-trials/conducting</u></a>.</p>
 <p>
 <br>For more information regarding on Pharmacist being a PI:-
 <br>1. Download a copy of the <a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener nofollow" target="_blank">Regulations here</a>.
@@ -126,9 +127,9 @@ the study, protecting the rights and welfare of participants, assuring
 the integrity of data generated at the site and directing the conduct of
 the research according to applicable regulations and guidance.</p>
 <p>&nbsp;</p>
-<p>For more details on the responsibilities of the PI, please <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/resources/pcr+sops+and+templates" rel="noopener noreferrer nofollow" target="_blank"><u>click&nbsp;here</u></a></strong> for
-the <strong>NHG PCR SOP 501-A02: Responsibilities of the Research Team</strong>
+<p>For more details on the responsibilities of the PI, please <a href="/pcr-sop-templates/" rel="noopener nofollow" target="_blank">see here</a> for the <strong>NHG PCR SOP 501-A02: Responsibilities of the Research Team.</strong>
 </p>
+<p></p>
 </div>
 </details>
 </div>
@@ -138,11 +139,10 @@ the <strong>NHG PCR SOP 501-A02: Responsibilities of the Research Team</strong>
 <summary><strong>5. Is the PI able to apply for research grant?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The NHG&nbsp;Group Research&nbsp;promotes research in NHG through the
-administration of competitive grant calls via the bottom-up approach and
-the thematic.</p>
-<p>&nbsp;</p>
-<p>Researchers who are interested to apply for research grants may <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/03+research+grants/grant+overview" rel="noopener noreferrer nofollow" target="_blank"><u>click&nbsp;here</u></a></strong>.</p>
+<p>The NHG&nbsp;Group Research &amp; Innovation&nbsp;promotes research in
+NHG through the administration of competitive grant calls via the bottom-up
+approach and the thematic.</p>
+<p></p>
 <p>Researchers are encouraged to refer to their Clinical Research Units/
 Offices of their institutions for their own grants available.</p>
 <p></p>
