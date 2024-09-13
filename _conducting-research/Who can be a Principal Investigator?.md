@@ -15,8 +15,7 @@ and apply the ethical principles underlying research to the day-to-day
 practice of research.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/intro+min+training+requirements" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a></strong> to
-find out more about the minimum ethical training requirements to be a PI.</p>
+<p>Learn more about the <a href="/overview-min-training/" rel="noopener nofollow" target="_blank">Minimum Ethical Training Requirements to be a PI here</a>.</p>
 </li>
 </ul>
 <p>This requirement is not solely for the purpose of the application to DSRB,
@@ -42,7 +41,8 @@ in NHG or partner institutions.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For more details on the minimum training requirements for being a PI of
-a research, please refer to the NHG Investigator’s Manual which is available&nbsp;<strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/07+resources/nhg+investigator+manual" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.</p>
+a research, please refer to the <a href="/overview-min-training/" rel="noopener nofollow" target="_blank">Minimum Training Requirements page</a>,
+or the <a href="/investigator-manual/" rel="noopener nofollow" target="_blank">NHG Investigator’s Manual</a>.</p>
 </li>
 </ul>
 <p>
