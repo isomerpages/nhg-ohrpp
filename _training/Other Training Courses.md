@@ -37,7 +37,13 @@ may be applied to the conduct of clinical trials.</p>
 and measure progress, and what indicates success.&nbsp;Learn how to design
 a research protocol and write a good research paper or grant proposal to
 increase your chances in research and grant application and much more.</p>
-<p><a href="https://talentdev.gri.nhg.com.sg/abt-rm-courses/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
+<p><strong>Course Details &amp; Registration</strong>
+<br>For the Course Schedule, Registration and more details, please see the
+<a href="https://talentdev.gri.nhg.com.sg/abt-rm-courses/" rel="noopener nofollow" target="_blank">Research Methodology Course overview page here</a>.</p>
+<p><strong>Contact information</strong>
+<br>For any enquiries, please contact <a href="mailto:researchtraining@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">researchtraining@nhg.com.sg</a>.</p>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
