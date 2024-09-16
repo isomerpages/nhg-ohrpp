@@ -129,7 +129,7 @@ by ‘SBE’ in the suffix.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can register for the program through the online system at <strong><a href="http://www.citiprogram.org/" rel="noopener noreferrer nofollow" target="_blank"><u>www.citiprogram.org</u></a></strong>.
 <br>
-<br><strong>It is important to affiliate with “<u>National Healthcare Group – Singapore</u>” so that you can access the correct curriculum.</strong>
+<br><strong>It is important to affiliate with “<u>National Healthcare Group Pte Ltd</u>” so that you can access the correct curriculum.</strong>
 <br>
 <br>Upon completing the registration form, you can immediately begin your
 learning with the CITI program.
@@ -206,7 +206,7 @@ User Profile.</p>
 <h4><strong>Registration</strong></h4>
 <p>Staff from NHG and partner institutions can register for the CITI Training
 Programme here: <a href="http://www.citiprogram.org/" rel="noopener noreferrer nofollow" target="_blank"><u>www.citiprogram.org</u></a>.</p>
-<p><strong>It is important to affiliate with “National Healthcare Group – Singapore” so that you can access the correct curriculum.</strong>
+<p><strong>It is important to affiliate with “<u>National Healthcare Group Pte Ltd</u>” so that you can access the correct curriculum.</strong>
 </p>
 <p>Upon completing the registration form, you can immediately begin your
 learning with the CITI program.</p>
