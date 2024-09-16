@@ -18,7 +18,12 @@ the latest course and events listing.</p>
 requirements, the Good Clinical Practice (GCP) Online Course seeks to equip
 participants with basic knowledge and understanding of how GCP principles
 may be applied to the conduct of clinical trials.</p>
-<p><a href="https://talentdev.gri.nhg.com.sg/gcp-course/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
+<p><strong>Registration</strong>
+<br>For the Course Schedule, Registration and more details, please see the
+<a href="https://talentdev.gri.nhg.com.sg/gcp-course/" rel="noopener nofollow" target="_blank">GCP Course page here</a>.</p>
+<p><strong>Contact information</strong>
+<br>For any enquiries, please contact the GCP Online Course organizers at
+<a href="mailto:researchtraining@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">researchtraining@nhg.com.sg</a>or (+65) 6038 3634.</p>
 </div>
 </details>
 </div>
