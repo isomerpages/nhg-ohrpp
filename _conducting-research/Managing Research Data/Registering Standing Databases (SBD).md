@@ -29,7 +29,7 @@ NHG Intranet access required).</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/Standing%20Database%20Online%20System/%5b1607-B002%5d%20NHG%20Guideline%20for%20Standing%20Databases%20%E2%80%93%20DR_IR_DSRB_IDA_ID.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Department Representative (DR) / Institution Representative (IR) User Guide</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Research Data/Standing Database Online System/%5B1607-B002%5D NHG Guideline for Standing Databases_DR_IR_DSRB_IDA_ID.pdf" rel="noopener nofollow" target="_blank">Department Representative (DR) / Institution Representative (IR) User Guide</a>
 </p>
 </li>
 <li>
