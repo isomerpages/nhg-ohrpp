@@ -145,8 +145,8 @@ required) for more details.</p>
 <p>NHG is registered under MOH as a single "Mothership" Tissue Bank. Under
 this <strong><u>governance structure</u></strong>, each NHG institution
 has established an<strong> Institutional Tissue Bank Committee (ITBC)</strong> to
-oversee institutional-level tissue banking activities. For more information
-on the framework, <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/6acf4ce9-47ac-4be3-bf8d-2a41ed245d1d/NHG+Tissue+Banks+Management+Framework.pdf?MOD=AJPERES&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH&amp;CVID=nfsgbwH" rel="noopener noreferrer nofollow" target="_blank"><u>click here</u></a></strong>.</p>
+oversee institutional-level tissue banking activities. Learn more about
+the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/Regulations and Guidance Documents/NHG Tissue Governance Framework.pdf" rel="noopener nofollow" target="_blank">NHG Tissue Governance Framework here</a>.</p>
 <p></p>
 <h4><strong>About NHG Tissue Compliance Committee (TCC)</strong></h4>
 <p>The <strong>NHG Tissue Compliance Committee (TCC)</strong>&nbsp;was formed
@@ -154,7 +154,7 @@ to advise on the set up, conduct and monitoring of institutional human
 tissue banks.</p>
 <p>The TCC is chaired by A/Prof Leong Khai Pang (Senior Consultant, TTSH)
 and comprises representatives from each NHG institution.</p>
-<p>For the list of TCC members, please <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Tissue%20Compliance%20Committee%20(TCC)%20%E2%80%93%20List%20of%20Members.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>click here</u></a></strong>.</p>
+<p></p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For any enquiries, please contact the NHG TCC Secretariat at <a href="mailto:NHGTCCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGTCCSecretariat@nhg.com.sg</a>
