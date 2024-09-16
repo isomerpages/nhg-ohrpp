@@ -4,7 +4,7 @@ permalink: /nhg-research-policies/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Policies that Researchers should know</strong></h3>
+<h3><strong>Policies &amp; Guidelines that Researchers should know</strong></h3>
 <p>Prior to starting your research, we urge all researchers to familiarize
 themselves with the following policies/guidelines:</p>
 <p></p>
