@@ -30,20 +30,20 @@ complete the HBRA - Human Tissue Framework Course.</p>
 knowledge on the local regulations and institutional policies to ensure
 proper management of the Human Tissue Bank.</p>
 <p></p>
-<h4><strong>Who must complete this course?</strong></h4>
+<h4><strong>Who Should Attend</strong></h4>
 <p>The completion of this course will be mandatory for all Custodians and
 Tissue Bank Team Members in NHG. This also includes all NHG-based MOHH
 Residents/Doctors who have been delegated as Tissue Bank Custodians or
 Tissue Bank Team Members.</p>
 <p>For MOHH staff who require access to the HBRA – HTF Course, please email
 your request using the Request for Access to HBRA HTF Course for NHG-based
-MOHH Residents / Doctors Template to <strong><a href="https://elearn.sg/nhg" rel="noopener noreferrer nofollow" target="_blank"><u>NHGTCCSecretariat@nhg.com.sg</u></a></strong> and
+MOHH Residents / Doctors Template to <a href="mailto:NHGTCCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGTCCSecretariat@nhg.com.sg</a> and
 copy your RO / HOD in the email.&nbsp;</p>
 <p>Information for NHG-based MOHH staff:
 <br>-&nbsp;<strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Request_For_Access_to_HBRA_HTF_Course_for_NHG-based_MOHH_Staff_Involved_in_Tissue_Banking_Activities%20Template.docx?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>Request For Access to HBRA HTF Course for NHG-based MOHH Staff Involved in Tissue Banking Activities Template</u></a></strong>
 </p>
 <p></p>
-<h4><strong>What does it comprise?</strong></h4>
+<h4><strong>Scope</strong></h4>
 <p>This is an online self-reading course covering the following topics:
 <br>1.&nbsp;&nbsp; &nbsp;HBRA Human Tissue Framework
 <br>2.&nbsp;&nbsp; &nbsp;NHG Policy for Tissue Bank and Management of Human
@@ -70,5 +70,7 @@ details.For more information on this course, please refer to the <strong><a href
 <h4><strong>Contact Information</strong></h4>
 <p>For more information or queries on the HBRA – Human Tissue Framework Course,
 please contact the&nbsp;NHG&nbsp;Group Research&nbsp;Course Administrator
-at <strong><a href="https://elearn.sg/nhg" rel="noopener noreferrer nofollow" target="_blank"><u>research_courseadmin@nhg.com.sg</u></a></strong>.</p>
-<p>&nbsp;</p>
+at <a href="mailto:research_courseadmin@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">research_courseadmin@nhg.com.sg</a>.</p>
+<p></p>
+<p></p>
+<p></p>
