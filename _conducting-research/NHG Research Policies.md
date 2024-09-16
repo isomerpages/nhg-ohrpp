@@ -49,6 +49,18 @@ with applicable guidelines and regulations.</p>
 </li>
 </ul>
 <p></p>
+<h4><strong>NHG Research Institution Policy</strong></h4>
+<p>The NHG Research Institution (RI) Policy outlines the functions and duties
+of NHG RI and duties of the NHG Principal Person-In-Charge (PIC) to fulfill
+the requirements of the HBRA and describes the NHG research governance
+framework that enables the RI to meet the requirements of the HBRA and
+other relevant Acts and regulations applicable to research.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn more about the <a href="/rcu/" rel="noopener nofollow" target="_blank">NHG Research Institution (RI) Policy here</a>.</p>
+</li>
+</ul>
+<p></p>
 <h4><strong>NHG Research Data Policy</strong></h4>
 <p>The NHG Research Data Policy provides the framework for governing research
 data to ensure compliance with the HBRA, Personal Data Protection Act (PDPA),
