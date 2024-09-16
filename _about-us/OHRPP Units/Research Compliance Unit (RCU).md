@@ -109,8 +109,7 @@ with the knowledge of best practices in research to guide them in making
 the right decisions. This would be especially applicable in instances that
 challenge individual values and integrity.&nbsp;</p>
 <p></p>
-<p>RCR looks at upholding the professionalism of research and the integrity
-of research, which is the operative principle.</p>
+<p>Learn more about <a href="/responsible-conduct-of-research/" rel="noopener nofollow" target="_blank">Responsible Conduct of Research (RCR) here</a>.</p>
 <p></p>
 <p></p>
 </div>
