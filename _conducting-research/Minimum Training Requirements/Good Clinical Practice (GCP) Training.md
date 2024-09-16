@@ -43,6 +43,10 @@ is available in both online and classroom formats.</p>
 <summary><strong>(2) Who should complete the GCP Course?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Conducting Research/Min Training Pics/Faq_2.png">
+</div>
 <p>For STM: * Significant trial related tasks include informed consent taking,
 eligibility assessment, IP management, key efficacy, and safety assessment
 etc. You may refer to <strong><a href="https://www.hsa.gov.sg/clinical-trials/conducting/principal-investigator" rel="noopener noreferrer nofollow" target="_blank"><u>HSA</u></a></strong> website
