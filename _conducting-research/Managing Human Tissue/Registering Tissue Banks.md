@@ -59,6 +59,16 @@ Adverse Events (SAEs), &amp; Untoward Occurrences</p>
 </li>
 </ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/NHG Proper Conduct of Tissue Bank (1500) SOPs %26 guidance documents" rel="noopener nofollow" target="_blank">NHG Tissue Bank Policy, PCT SOPs*</a> &amp;
+<a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/NHG Proper Conduct of Tissue Bank Forms and Templates" rel="noopener nofollow" target="_blank">Templates*</a>
+<br>Policy, guidelines and templates developed by NHG Tissue Compliance Committee
+to provide detailed procedures on conducting tissue banking activities
+in accordance with applicable guidelines and regulations (e.g. HBRA).</p>
+</li>
+</ul>
+<p></p>
 <h4><strong>Other Resources</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
