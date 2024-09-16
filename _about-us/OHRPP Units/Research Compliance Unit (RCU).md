@@ -83,18 +83,6 @@ TCC comprises representatives from each NHG institution.</p>
 <summary><strong>Execution of Proactive Monitoring Framework</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Clinical Trials involving Therapeutic Products, Cell and Gene Therapy and/or Complementary Health Products regulated by the Health Sciences Authority (HSA)</strong>
-</p>
-<p>Monitoring is a function that is mandated by ICH-GCP for the conduct of
-Clinical Trials that are regulated by the Health Sciences Authority (HSA)
-under the Health Products Act and Medicines Act.</p>
-<p>For Industry-Sponsored Clinical Trials, it is the responsibility of the
-Sponsor to establish a thorough monitoring system.</p>
-<p>For Principal Investigator (PI)-Initiated Clinical Trials, the monitoring
-function is usually performed by the Institution/Investigator.</p>
-<p></p>
-<p><strong>Human Biomedical Research Studies regulated by the Ministry Of Health (MOH)</strong>
-</p>
 <p>Under the Human Biomedical Research Act (HBRA), part 5, section 23(2),
 each Research Institution (RI) is required to supervise, review and proactively
 monitor its human biomedical research (HBR) studies.</p>
