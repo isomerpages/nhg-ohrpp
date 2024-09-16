@@ -97,22 +97,26 @@ purposes. Please access our course via this eLEARN link <strong><a href="https:/
 <p>Section III: Restricted &amp; Prohibitive Research</p>
 </li>
 <li>
-<p>Section IV: HBRA and its implications on studies</p>
+<p>Section IV: HBRA and its implications on studies
+<br>Learn more about the <a href="/hbra/" rel="noopener nofollow" target="_blank">Human Biomedical Research Act (HBRA) here</a>.</p>
 </li>
 </ul>
-<p>For more information on the above, click on <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp+/06+conducting+research/human+biomedical+research+act+-+hbra+" rel="noopener noreferrer nofollow" target="_blank"><u>Information Pack for Researchers on the HBR Framework</u></a></strong>.&nbsp;</p>
-<p>2. NHG Research Data Policy [Click <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Pages/default.aspx?RootFolder=%2Fdept%2Frcu%2FShared%20Library%2FResearch%20Data&amp;FolderCTID=0x012000199E8750E1657845AA5E3E6145F7BE8C&amp;View=%7B21F17C1C-3C66-47CF-9B68-5E004864E8AF%7D" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
-access the policy. NHG Intranet access required]
-<br>3. HBRA Case Studies [Click <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Pages/default.aspx?RootFolder=%2Fdept%2Frcu%2FShared%20Library%2FResearch%20Institution%2FCase%20Studies&amp;FolderCTID=0x012000199E8750E1657845AA5E3E6145F7BE8C&amp;View=%7B21F17C1C%2D3C66%2D47CF%2D9B68%2D5E004864E8AF%7D" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
-access the case studies. NHG Intranet access required]
-<br>4. HBRA – Human Tissue Framework [click <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/human+tissue+framework" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>]&nbsp;
-<br>5. NHG Policy for Tissue Banks [Click <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Pages/default.aspx?RootFolder=%2Fdept%2Frcu%2FShared%20Library%2FResearch%20Data&amp;FolderCTID=0x012000199E8750E1657845AA5E3E6145F7BE8C&amp;View=%7B21F17C1C-3C66-47CF-9B68-5E004864E8AF%7D" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
-access the policy. NHG Intranet access required]</p>
 <p></p>
+<p>2. <a href="https://mynhg.nhg.com.sg/dept/RCU/_layouts/15/guestaccess.aspx?guestaccesstoken=XC9ggDdEPOhpEigbLRsiwZizHnKf%2bY4upemhGy1f42s%3d&amp;docid=2_1eb0c7282f05d4fb3a1be2c45ded95369&amp;rev=1" rel="noopener nofollow" target="_blank">NHG Research Data Policy</a> (Restricted:
+NHG Intranet access required)</p>
+<p>3. <a href="https://mynhg.nhg.com.sg/dept/rcu/Pages/default.aspx?RootFolder=%2Fdept%2FRCU%2FShared%20Library%2FResearch%20Institution%2FCase%20Studies&amp;FolderCTID=0x0120006458C236C56B394AB53516C7CD66C829&amp;View=%7B8FB03BD4%2DCDE4%2D456E%2DA78B%2D67D4FDD0F84E%7D" rel="noopener nofollow" target="_blank">HBRA Case Studies</a> (Restricted:
+NHG Intranet access required)</p>
+<p>4. <a href="/tissue-governance/" rel="noopener nofollow" target="_blank">HBRA – Human Tissue Framework</a>
+</p>
+<p>5. <a href="https://mynhg.nhg.com.sg/dept/RCU/_layouts/15/guestaccess.aspx?guestaccesstoken=TOWwLxxqKgiYSOah%2bHdecyAt2c%2fOiTIwyrGz3yVTTek%3d&amp;docid=2_1bb1f0d446b0c4ac8b6c75d1426a58b3e&amp;rev=1" rel="noopener nofollow" target="_blank">NHG Policy for Tissue Banks</a> (Restricted:
+NHG Intranet access required)</p>
+<p></p>
+<p></p>
+<p>==================================</p>
 <h4><strong>Contact Information</strong></h4>
 <p>For more information or queries on the HBR ERC Course, please contact
 your respective Institution’s Clinical Research Office/ Units or the Research
-Education Course Administrator at&nbsp;<strong><a href="https://elearn.sg/nhg" rel="noopener noreferrer nofollow" target="_blank"><u>research_courseadmin@nhg.com.sg</u></a></strong>.</p>
+Education Course Administrator at&nbsp;<a href="mailto:research_courseadmin@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">research_courseadmin@nhg.com.sg</a>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>Updated: 4 Jun 2024&nbsp;</p>
