@@ -95,8 +95,8 @@ policies and guidelines</p>
 <p>The NHG Monitoring Programme focuses on PI-Initiated studies conducted
 in NHG institutions. The extent of monitoring depends on the nature and
 risks of the study and the experience of the PI.</p>
-<p>You may refer to the Frequently Asked Questions about the monitoring framework
-here.</p>
+<p>Learn more about the <a href="/research-monitoring/" rel="noopener nofollow" target="_blank">NHG Monitoring Programme here</a>.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
