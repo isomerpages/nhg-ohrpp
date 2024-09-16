@@ -64,6 +64,7 @@ and procedures on the use and management of research data. Research Data
 Working Committee (RDWC) will work with the RDS to make recommendations
 for the improvement of research data management practices to ensure compliance
 with legislations, in particular the HBRA, the PDPA and HIM.</p>
+<p>Learn more about <a href="/data-governance/" rel="noopener nofollow" target="_blank">Managing Research Data here</a>.</p>
 <p></p>
 </div>
 </details>
