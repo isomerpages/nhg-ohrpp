@@ -6,8 +6,6 @@ description: ""
 ---
 <p>These are some of the other Researcher Training Courses which are organized
 by NHG Group Research &amp; Innovation.</p>
-<p>Do remember to check our <a href="/newsroom/events/" rel="noopener nofollow" target="_blank">Events Calendar here</a> for
-the latest course and events listing.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
