@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Managing Human Tissue
 ---
-<p><strong>Tissue Bank Registration</strong>
-</p>
+<h4><strong>Tissue Bank Registration</strong></h4>
 <p>1)&nbsp;&nbsp;&nbsp; Download and complete the <a href="https://mynhg.nhg.com.sg/dept/rcu/_layouts/15/WopiFrame.aspx?sourcedoc=/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Tissue%20Review%20(1700)/Forms%20and%20Templates/1703-01%20NHG%20Tissue%20Bank%20Application%20Form.docx&amp;action=default" rel="noopener noreferrer nofollow" target="_blank"><u>Tissue Bank Application Form*</u></a> 
 <br>2)&nbsp;&nbsp;&nbsp; Seek endorsement from your Head of Department (HOD)
 or equivalent
@@ -92,4 +91,6 @@ Adverse Events (SAEs), &amp; Untoward Occurrences</p>
 <p></p>
 </li>
 </ul>
-<p></p>
+<p>
+<br><strong>* These documents are strictly for internal circulation among NHG Staff and Authorized personnel only. Access to these files is Restricted (NHG Intranet access required).</strong>
+</p>
