@@ -62,10 +62,20 @@ get to eLEARN.</p>
 details.For more information on this course, please refer to the <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/_layouts/15/WopiFrame.aspx?sourcedoc=/dept/rcu/Shared%20Library/Tissue%20Banking/HBRA%20HTF%20Course%20FAQ.pdf&amp;action=default" rel="noopener noreferrer nofollow" target="_blank"><u>Frequently&nbsp;Asked&nbsp;Questions&nbsp;(FAQ)</u></a></strong>  <em>(NHG Intranet access is required)</em>.</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
-<p>1. <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/a7360dc2-e58b-4f34-8f50-92de95494d60/Human%2BBiomedical%2BResearch%2BAct%2B2015.pdf?MOD=AJPERES&amp;CVID=mNAPDNx&amp;CVID=mNAPDNx&amp;CVID=mNAPDNx&amp;CVID=mNAPDNx&amp;CVID=mNAPDNx&amp;CVID=mNAPDNx&amp;CVID=mNAPDNx&amp;CVID=mNAPDNx&amp;CVID=mNAPDNx&amp;CVID=mNAPDNx&amp;CVID=mNAPDNx&amp;CVID=mNAPDNx" rel="noopener noreferrer nofollow" target="_blank"><u>Human&nbsp;Biomedical&nbsp;Research&nbsp;Act&nbsp;2015</u></a></strong>
-<br>2. <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/f0f1108c-a80d-46cc-ba78-7500ee472c29/HBRA+Tissue+Banking+Regulations.pdf?MOD=AJPERES&amp;CVID=nfI5Wr0&amp;CVID=nfI5Wr0&amp;CVID=nfI5Wr0&amp;CVID=nfI5Wr0&amp;CVID=nfI5Wr0&amp;CVID=nfI5Wr0&amp;CVID=nfI5Wr0" rel="noopener noreferrer nofollow" target="_blank"><u>Human Biomedical Research Act – Tissue Banking Regulations</u></a></strong>
-<br>3. <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/07+resources/human+tissue+bank+policy+and+sops" rel="noopener noreferrer nofollow" target="_blank"><u>NHG&nbsp;TCC&nbsp;Policy&nbsp;and&nbsp;Standard&nbsp;Operating&nbsp;Procedures</u></a></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://sso.agc.gov.sg/Act/HBRA2015" rel="noopener nofollow" target="_blank">Human&nbsp;Biomedical&nbsp;Research&nbsp;Act&nbsp;2015</a>
 </p>
+</li>
+<li>
+<p><a href="https://sso.agc.gov.sg/SL/HBRA2015-S702-2019?DocDate=20191021" rel="noopener nofollow" target="_blank">Human Biomedical Research Act – Tissue Banking Regulations</a>
+</p>
+</li>
+<li>
+<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Pages/default.aspx?RootFolder=%2Fdept%2FRCU%2FShared%20Library%2FTissue%20Banking%2FNHG%20Proper%20Conduct%20of%20Tissue%20Bank%20%281500%29%20SOPs%20%26%20guidance%20documents&amp;FolderCTID=0x0120006458C236C56B394AB53516C7CD66C829&amp;View=%7B8FB03BD4%2DCDE4%2D456E%2DA78B%2D67D4FDD0F84E%7D" rel="noopener nofollow" target="_blank">NHG&nbsp;TCC&nbsp;Policy&nbsp;and&nbsp;Standard&nbsp;Operating&nbsp;Procedures*</a>
+</p>
+</li>
+</ul>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For more information or queries on the HBRA – Human Tissue Framework Course,
