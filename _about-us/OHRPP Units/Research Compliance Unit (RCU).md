@@ -121,6 +121,10 @@ of research, which is the operative principle.</p>
 <h4><strong>Contact Information</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>Research Institution Secretariat: <a href="mailto:NHGRISecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGRISecretariat@nhg.com.sg</a>
+</p>
+</li>
+<li>
 <p>Research Data Secretariat: <a href="mailto:RDOCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">RDOCSecretariat@nhg.com.sg</a>
 </p>
 </li>
