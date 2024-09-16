@@ -51,8 +51,7 @@ NHG Intranet access required)</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For any enquiries, please contact the <strong>NHG Research Data Secretariat</strong> at
-<a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/NHG%20Research%20Data%20Policy.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>RDOCSecretariat@nhg.com.sg</u>
-</a>
+<a href="mailto:RDOCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">RDOCSecretariat@nhg.com.sg</a>
 </p>
 <p></p>
 <p></p>
