@@ -16,19 +16,9 @@ NHG Standing Database.</p>
 </div>
 <p></p>
 <h4><strong>Standing Database Online System (SDB Online System)</strong></h4>
-<p>Launched in September 2021, the <strong>NHG Standing Database Online System</strong> is
-an online portal for NHG Custodians to submit their SDB applications to
-ID <strong>(only for NHG Standing Databases)</strong>.</p>
-<p>For NHG Standing Databases that had previously acknowledge by DSRB via
-ROAM and foresee that these Standing Databases will continue beyond 2023
-may opt to apply thru the SDB Online System.</p>
-<p>Access the <a href="http://monitoring.nhg.com.sg/" rel="noopener nofollow" target="_blank">SDB Online System here</a> (Restricted:
-NHG Intranet access required).</p>
-<p></p>
-<h4><strong>Registering Non–NHG Standing Databases</strong></h4>
-<p>All Non-NHG Standing Databases and Tissue Banks can be registered in the
-ECOS system. <strong>Learn more here.</strong>
-</p>
+<p>From October 2024, researchers who intend to store data for future research
+must submit an SDB application via the Ethics &amp; Compliance Online System
+(ECOS). More information will be released soon.</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
 <p>You may refer to the following SDB Online System User Guides (Restricted:
