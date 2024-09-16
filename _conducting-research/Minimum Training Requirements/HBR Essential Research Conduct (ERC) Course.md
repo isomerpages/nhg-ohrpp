@@ -111,8 +111,6 @@ NHG Intranet access required)</p>
 <p>5. <a href="https://mynhg.nhg.com.sg/dept/RCU/_layouts/15/guestaccess.aspx?guestaccesstoken=TOWwLxxqKgiYSOah%2bHdecyAt2c%2fOiTIwyrGz3yVTTek%3d&amp;docid=2_1bb1f0d446b0c4ac8b6c75d1426a58b3e&amp;rev=1" rel="noopener nofollow" target="_blank">NHG Policy for Tissue Banks</a> (Restricted:
 NHG Intranet access required)</p>
 <p></p>
-<p></p>
-<p>==================================</p>
 <h4><strong>Contact Information</strong></h4>
 <p>For more information or queries on the HBR ERC Course, please contact
 your respective Institution’s Clinical Research Office/ Units or the Research
