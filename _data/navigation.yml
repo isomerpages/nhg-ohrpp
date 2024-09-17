@@ -1,15 +1,27 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Logo/NHG_Logo__1000x900.jpg
 links:
+  - title: About Us
+    collection: about-us
+  - title: Ethics
+    collection: ethics
+  - title: Quality
+    collection: quality
+  - title: Training
+    collection: training
+  - title: Conducting Research
+    collection: conducting-research
+  - title: Resources
+    collection: resources
+  - title: Public Awareness
+    collection: public-awareness
+  - title: Newsroom
+    url: /newsroom/
+    sublinks:
+      - title: Announcements
+        url: /newsroom/announcements/
+      - title: Events
+        url: /newsroom/events/
+      - title: Publications
+        url: /about-publications/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

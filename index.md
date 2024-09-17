@@ -1,32 +1,17 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: NHG Office of Human Research Protection Programme (OHRPP)
+description: A National Healthcare Group (NHG) site built with Isomer
+image: /images/Logo/NHG_Favicon.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: NHG Office of Human Research Protection Programme (OHRPP)
+      background: /images/Hero Banners/Fabric_of_Life_Design.png
+      variant: center
+  - resources:
+      title: Latest Announcements & Events
+      id: resources
+      button: See more here
 ---
-

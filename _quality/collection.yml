@@ -1,0 +1,8 @@
+collections:
+  quality:
+    output: true
+    order:
+      - NHG Research Quality Management Programme.md
+      - Study Reviews (Audits).md
+      - Principal Investigator Self Assessment Programme.md
+      - Research Monitoring.md

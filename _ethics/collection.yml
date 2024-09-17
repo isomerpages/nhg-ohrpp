@@ -1,0 +1,9 @@
+collections:
+  ethics:
+    output: true
+    order:
+      - About the NHG Research Ethics Framework.md
+      - When Is Ethics Approval Required?.md
+      - Applying for Ethics Approval.md
+      - Ethics Review Outcomes.md
+      - DSRB FAQs.md

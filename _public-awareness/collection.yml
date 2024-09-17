@@ -1,0 +1,10 @@
+collections:
+  public-awareness:
+    output: true
+    order:
+      - Participating in Research.md
+      - Your Rights as a Research Participant.md
+      - Frequently Asked Questions.md
+      - Participation Opportunities.md
+      - Useful Information.md
+      - Public Events.md

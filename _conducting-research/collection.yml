@@ -1,0 +1,33 @@
+collections:
+  conducting-research:
+    output: true
+    order:
+      - Responsible Conduct of Research.md
+      - Who can be a Principal Investigator?.md
+      - Minimum Training Requirements/.keep
+      - Minimum Training Requirements/Overview of Minimum Training
+        Requirements.md
+      - Minimum Training Requirements/Collaborative Institutional Training
+        Initiative (CITI) Training.md
+      - Minimum Training Requirements/Good Clinical Practice (GCP) Training.md
+      - "Minimum Training Requirements/Financial Conflict of Interest (FCOI)
+        Part 1: Declarations.md"
+      - "Minimum Training Requirements/Financial Conflict of Interest (FCOI)
+        Part 2: Training.md"
+      - Minimum Training Requirements/HBR Essential Research Conduct (ERC)
+        Course.md
+      - Minimum Training Requirements/HBRA – Human Tissue Framework Course.md
+      - DSRB Ethics Review Guide/.keep
+      - Research Regulations/.keep
+      - Research Regulations/Revised Regulatory Framework for Clinical Trials.md
+      - Research Regulations/Personal Data Protection Act (PDPA).md
+      - Research Regulations/Human Biomedical Research Act (HBRA).md
+      - NHG Research Policies and Guidelines.md
+      - Managing Research Data/.keep
+      - Managing Research Data/Data Governance.md
+      - Managing Research Data/About NHG Standing Databases (SDB).md
+      - Managing Research Data/Registering Standing Databases (SBD).md
+      - Managing Human Tissue/.keep
+      - Managing Human Tissue/Human Tissue Governance.md
+      - Managing Human Tissue/Registering Tissue Banks.md
+      - Clinical Trial Insurance.md

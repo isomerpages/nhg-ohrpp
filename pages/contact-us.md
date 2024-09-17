@@ -2,31 +2,39 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+agency_name: NHG Office of Human Research Protection Programme (OHRPP)
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6471 3266
+      - email: OHRPP@nhg.com.sg
+      - other: <a target="_blank"
+          href="https://staging.d2xg4pfdtrypjl.amplifyapp.com/files/Content%20Files/DSRB_Contact_List_12_June_2024.pdf">DSRB
+          Secretariat Contact List</a>
+    title: NHG Domain Specific Review Boards (DSRB)
+  - content:
+      - phone: ""
+      - email: research_education@nhg.com.sg
+      - other: ""
+    title: NHG Research Education (RE)
+  - content:
+      - phone: ""
+      - email: researchquality@nhg.com.sg
+      - other: ""
+    title: NHG Research Quality Management (RQM) Programme
+  - content:
+      - phone: ""
+      - email: RDOCSecretariat@nhg.com.sg
+      - other: ""
+    title: NHG Research Data Oversight Committee Secretariat
+  - content:
+      - phone: ""
+      - email: NHGTCCSecretariat@nhg.com.sg
+      - other: ""
+    title: NHG Tissue Compliance Committee Secretariat
+  - content:
+      - phone: ""
+      - email: NHGRCRSecretariat@nhg.com.sg
+      - other: ""
+    title: NHG Responsible Conduct of Research Secretariat
+feedback: ""
 ---
