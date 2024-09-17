@@ -4,7 +4,7 @@ title: NHG Office of Human Research Protection Programme (OHRPP)
 description: A National Healthcare Group (NHG) site built with Isomer
 image: /images/Logo/NHG_Favicon.png
 permalink: /
-notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
+notification: ""
 sections:
   - hero:
       title: NHG Office of Human Research Protection Programme (OHRPP)
