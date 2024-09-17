@@ -8,7 +8,7 @@ notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
   - hero:
       title: NHG Office of Human Research Protection Programme (OHRPP)
-      background: /images/Hero Banners/hero-banner.png
+      background: /images/Hero Banners/Fabric_of_Life_Design.png
       variant: center
   - resources:
       title: Latest Announcements & Events
