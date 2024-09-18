@@ -17,10 +17,9 @@ Professional (CRP) community in Singapore in organizing these educational
 initiatives.
 <br>&nbsp;<strong>&nbsp;</strong>
 </p>
-<h4><strong>Past CRCS Forums</strong></h4>
+<h4><strong>CRCS Forums</strong></h4>
 <p>Presentation materials (with speakers’ agreement) from past CRCS forums
 are available for download below:</p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>CRCS Forum (26 Jan 2024)</strong>
@@ -46,6 +45,9 @@ Innovation</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
+<h4><strong>Past CRCS Forums</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>CRCS Forum (6 Jan 2023)</strong>
