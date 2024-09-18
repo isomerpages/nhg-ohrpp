@@ -21,18 +21,20 @@ for you!</p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">August 2024 : Understanding ECOS CRMS Non-Investigator Roles</div><div class="isomer-card-description">Learn more about the various Non-Investigator Roles that can be found in the ECOS system, and what you can do with them.</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ResearchPolicySOPUpdates/Jul_24__RCR__Authorship_and_Publications.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">July 2024 : Responsible Conduct of Research (RCR) - Authorship and Publications</div>
 <div class="isomer-card-description">Learn about the criteria for authorship, good publication practices, and
 how to avoid authorship disputes for a successful publication.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InvestigatorFile/Mar_24__What_You_Should_Know_About_Documentation____Certified_True_Copies_.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">March 2024 : What You Should Know About Documentation &amp; 'Certified True Copies'</div><div class="isomer-card-description">Do you know what is a “Certified Copy”? Or when such certified copies used, and who certifies them? Learn more about what you should know about documentation and 'Certified True Copies'.</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
 <h4><strong>Past Issues</strong></h4>
-<p>Here are the past Chicken Soup issues organized by Topic.</p>
+<p>Here are the past Chicken Soup issues organized by Topic. You can also
+use the Search function found in the top-right corner of the page to locate
+topics that are of interest to you.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>

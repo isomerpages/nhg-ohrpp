@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/ResearchPolicySOPUpdates/Jul_24__RCR__Authorship_and_Publications.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jul 2024) Responsible Conduct of Research (RCR) - Authorship and Publications</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/ResearchPolicySOPUpdates/Apr_23__What_is_Collaborative_Research.pdf" rel="noopener noreferrer nofollow" target="_blank">(Apr 2023) What is Collaborative Research?</a>
 </p>
 </li>
