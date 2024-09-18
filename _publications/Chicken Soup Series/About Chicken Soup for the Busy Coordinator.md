@@ -28,11 +28,13 @@ for you!</p>
 how to avoid authorship disputes for a successful publication.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InvestigatorFile/Mar_24__What_You_Should_Know_About_Documentation____Certified_True_Copies_.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">March 2024 : What You Should Know About Documentation &amp; 'Certified True Copies'</div><div class="isomer-card-description">Do you know what is a “Certified Copy”?  Or when such certified copies used, and who certifies them? Learn more about what you should know about documentation and 'Certified True Copies'.</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InvestigatorFile/Mar_24__What_You_Should_Know_About_Documentation____Certified_True_Copies_.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">March 2024 : What You Should Know About Documentation &amp; 'Certified True Copies'</div><div class="isomer-card-description">Do you know what is a “Certified Copy”? Or when such certified copies used, and who certifies them? Learn more about what you should know about documentation and 'Certified True Copies'.</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
 <h4><strong>Past Issues</strong></h4>
-<p>Here are the past Chicken Soup issues organized by Topic.</p>
+<p>Here are the past Chicken Soup issues organized by Topic. You can also
+use the Search function found in the top-right corner of the page to locate
+topics that are of interest to you.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
