@@ -113,6 +113,36 @@ Act (HBRA).</p>
 Products Act and Medicines Act (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/regulatory+submission+requirements</u></a></strong>)&nbsp;</p>
 </li>
 </ul>
+<p>=======</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html" rel="noopener nofollow" target="_blank">The Belmont Report (US Dept of Health and Human Services)</a>
+<br>The Belmont Report identifies basic ethical principles and guidelines
+that address ethical issues arising from the conduct of research with human
+subjects.</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.ich.org/page/ich-guidelines" rel="noopener nofollow" target="_blank">International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) Guidelines</a>
+<br>The International Council for Harmonisation of Technical Requirements
+for Pharmaceuticals for Human Use (ICH) brings together regulatory authorities
+and the pharmaceutical industry, through scientific and technical discussions;
+to achieve greater harmonisation worldwide in ensuring that safe, effective,
+and high quality medicines are developed and registered efficiently.</p>
+</li>
+</ul>
+<p></p>
+<p>Declaration of Helsinki</p>
+<p>Guidance by the Bioethics Advisory Committee (BAC)</p>
+<p>Human Biomedical Research Act (HBRA)</p>
+<p>Health Sciences Authority (HSA) Guidance Documents for Health Products
+(Cell, Tissue and Gene Therapy Products) Regulations</p>
+<p>Health Sciences Authority (HSA) Guidance Documents for Clinical Trials</p>
+<p>Regulatory requirements for Clinical Trials regulated under the Health
+Products Act and Medicines Act</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
