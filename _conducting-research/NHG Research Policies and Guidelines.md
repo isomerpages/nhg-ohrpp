@@ -57,7 +57,8 @@ framework that enables the RI to meet the requirements of the HBRA and
 other relevant Acts and regulations applicable to research.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learn more about the <a href="/rcu/" rel="noopener nofollow" target="_blank">NHG Research Institution (RI) Policy here</a>.</p>
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Research Institution/NHG Research Institution (RI) Policy %5bAPPROVED%5d.pdf" rel="noopener nofollow" target="_blank">NHG Research Institution (RI) Policy here</a> (Restricted:
+NHG Intranet access required).</p>
 </li>
 </ul>
 <p></p>
@@ -68,7 +69,8 @@ Healthtech Instruction Manual (HIM), Synapxe policies and all other relevant
 regulations.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learn more about the <a href="/data-governance/" rel="noopener nofollow" target="_blank">NHG Research Data Policy here</a>.</p>
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared Library/Research Data/NHG Research Data Policy.pdf?Web=1" rel="noopener nofollow" target="_blank">NHG Research Data Policy here</a> (Restricted:
+NHG Intranet access required).</p>
 </li>
 </ul>
 <p></p>
@@ -80,37 +82,89 @@ are in accordance with the requirements of the Human Biomedical Research
 Act (HBRA).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learn more about the <a href="/tissue-governance/" rel="noopener nofollow" target="_blank">NHG Human Tissue Bank Policy here</a>.</p>
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/1601-A02 NHG Policy for Tissue Banks.pdf" rel="noopener nofollow" target="_blank">NHG Human Tissue Policy here</a> (Restricted:
+NHG Intranet access required).</p>
 </li>
 </ul>
 <p></p>
 <h4><strong>Suggested Readings &amp; References</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The Belmont Report (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.hhs.gov/ohrp</u></a></strong>)</p>
+<p><strong><a href="https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html" rel="noopener nofollow" target="_blank">The Belmont Report (US Dept of Health and Human Services)</a></strong>
+<br>The Belmont Report identifies basic ethical principles and guidelines
+that address ethical issues arising from the conduct of research with human
+subjects.</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
-<p>ICH Guidelines (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.ich.org/products/guidelines.html</u></a></strong>)</p>
+<p><strong><a href="https://www.ich.org/page/ich-guidelines" rel="noopener nofollow" target="_blank">International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) Guidelines</a><br></strong>The
+International Council for Harmonisation of Technical Requirements for Pharmaceuticals
+for Human Use (ICH) brings together regulatory authorities and the pharmaceutical
+industry, through scientific and technical discussions; to achieve greater
+harmonisation worldwide in ensuring that safe, effective, and high quality
+medicines are developed and registered efficiently.</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Declaration of Helsinki (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/</u></a></strong>)</p>
+<p><strong><a href="https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/" rel="noopener nofollow" target="_blank">Declaration of Helsinki</a></strong>
+<br>Developed by the World Medical Association (WMA), the Declaration of Helsinki
+is a statement of ethical principles for medical research involving human
+subjects, including research on identifiable human material and data.</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Guidance by the Bioethics Advisory Committee (BAC) (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.bioethics-singapore.org</u></a></strong>)</p>
+<p><strong><a href="https://www.bioethics-singapore.gov.sg/" rel="noopener nofollow" target="_blank">Guidance by the Bioethics Advisory Committee (BAC)</a></strong>
+<br>The Bioethics Advisory Committee (BAC) was established by the Singapore
+Cabinet in December 2000. It has been tasked to address the ethical, legal
+and social issues arising from biomedical sciences research in Singapore.
+The BAC actively gathers information and views from the international and
+local community, and after careful deliberation, makes recommendations
+to the Singapore Government on the regulation of human biomedical research.</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Human Biomedical Research Act (HBRA) (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moh.gov.sg/policies-and-legislation/human-biological-research-act</u></a></strong>)</p>
+<p><strong><a href="https://www.moh.gov.sg/policies-and-legislation/human-biomedical-research-act" rel="noopener nofollow" target="_blank">Human Biomedical Research Act (HBRA)</a></strong>
+<br>The Singapore Human Biomedical Research Act (HBRA) provides clarity regarding
+the roles and responsibilities of individuals and body corporates involved
+in human biomedical research and the handling of human tissue for use in
+research. Through the legislation, the Ministry of Health (MOH) strives
+to ensure that human biomedical research and tissue banking activities
+carried out in Singapore follow the law and principles of good clinical
+practice relating to ethics and science to protect the safety and welfare
+of research subjects and tissue donors.</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Health Products (Cell, Tissue and Gene Therapy Products) Regulations (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>https://sso.agc.gov.sg/SL-Supp/S104-2021/Published/20210217?DocDate=20210217</u></a></strong>)</p>
+<p><strong><a href="https://sso.agc.gov.sg/SL-Supp/S104-2021/Published/20210217?DocDate=20210217" rel="noopener nofollow" target="_blank">Singapore's Health Products Act (CHAPTER 122D) - Health Products (Cell, Tissue and Gene Therapy Products) Regulations</a></strong>
+</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Health Sciences Authority (HSA) Guidance Documents for Clinical Trials
-(<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.hsa.gov.sg/clinical-trials/regulatory-guidances</u></a></strong>)</p>
+<p><strong><a href="https://www.hsa.gov.sg/clinical-trials/overview" rel="noopener nofollow" target="_blank">Health Sciences Authority (HSA) - Regulatory overview of Clinical Trials</a></strong>
+<br>Understand the regulatory framework of clinical trials, clinical research
+materials and active ingredients used in its manufacturing, under the Health
+Products Act and the Medicines Act.</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Regulatory requirements for Clinical Trials regulated under the Health
-Products Act and Medicines Act (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/regulatory+submission+requirements</u></a></strong>)&nbsp;</p>
+<p><strong><a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">Health Sciences Authority (HSA) - Guidance Documents for Clinical Trials</a></strong>
+<br>This is a list of regulatory guidance's to help you understand the regulatory
+requirements for conducting clinical trials.</p>
 </li>
 </ul>
 <p></p>

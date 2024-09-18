@@ -17,9 +17,9 @@ to review their study. The DSRB may re-assign your application to another
 Domain upon preliminary review of your application.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/About Us/OHRPP Units/DSRB_Domains_2Nov2012.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ethics/DSRB_Domains_2Nov2012.jpg">
 </div>
-<h4><strong>Review Process</strong></h4>
+<h4><strong>Review Category</strong></h4>
 <p>Based on the level of risk in which research participants will be exposed
 to, all research studies submitted will be classified under one of the
 following review categories:
@@ -72,6 +72,24 @@ calendar days. However, the time frame from submission to approval will
 vary depending on factors such as the completeness of the application,
 complexity of the study, the response of the Investigator to DSRB's queries
 and availability of a meeting quorum.</p>
+<p></p>
+<h4><strong>DSRB Full Board Review Meeting Schedule</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Ethics/DSRB_Full_Board_Dates_2024.png">
+</div>
+<p>Please note that Full Board meeting dates may change without prior notice.</p>
+<p>Kindly note that the DSRB submission deadline for Full Board studies is
+on the 15th day of the month or the next earliest working day if that day
+falls on a weekend.</p>
+<p>This is with the exception of Domain B1 whereby the submission deadline
+for Full Board studies would be on the 1st working day of the month or
+the next earliest working day if it falls on a weekend.</p>
+<p>Do note that applications should be submitted with sufficient lead time
+for the Department Representative and Institutional Representative to endorse
+prior to the submission deadline for the month.</p>
+<p>Studies that fall into the Exempt and Expedited review categories will
+be reviewed by the Domain Chairperson at the weekly chair meeting.</p>
+<p></p>
 <h4><strong>Review Criteria</strong></h4>
 <p>All research studies that intend to involve human subjects, use their
 biological samples and/or data, must meet certain criteria before study
@@ -97,6 +115,7 @@ of privacy of research participants and confidentiality of data collected.</p>
 <p>Additional protection for vulnerable populations.</p>
 </li>
 </ul>
-<h4></h4>
+<p></p>
 <p><strong>Resources</strong>: See the <a href="/dsrb-reviewguide/" rel="noopener nofollow" target="_blank">DSRB Review Requirements &amp; Process Guide here</a>.</p>
+<p></p>
 <p></p>
