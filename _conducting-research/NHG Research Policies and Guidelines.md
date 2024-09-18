@@ -155,11 +155,26 @@ to the Singapore Government on the regulation of human biomedical research.</p>
 </li>
 </ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.moh.gov.sg/policies-and-legislation/human-biomedical-research-act" rel="noopener nofollow" target="_blank">Human Biomedical Research Act (HBRA)</a></strong>
+<br>The Singapore Human Biomedical Research Act (HBRA) provides clarity regarding
+the roles and responsibilities of individuals and body corporates involved
+in human biomedical research and the handling of human tissue for use in
+research. Through the legislation, the Ministry of Health (MOH) strives
+to ensure that human biomedical research and tissue banking activities
+carried out in Singapore follow the law and principles of good clinical
+practice relating to ethics and science to protect the safety and welfare
+of research subjects and tissue donors.</p>
+</li>
+</ul>
 <p></p>
-<p>Human Biomedical Research Act (HBRA)</p>
+<p></p>
 <p>Health Sciences Authority (HSA) Guidance Documents for Health Products
 (Cell, Tissue and Gene Therapy Products) Regulations</p>
+<p></p>
 <p>Health Sciences Authority (HSA) Guidance Documents for Clinical Trials</p>
+<p></p>
 <p>Regulatory requirements for Clinical Trials regulated under the Health
 Products Act and Medicines Act</p>
 <p></p>
