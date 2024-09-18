@@ -97,6 +97,21 @@ of privacy of research participants and confidentiality of data collected.</p>
 <p>Additional protection for vulnerable populations.</p>
 </li>
 </ul>
-<h4></h4>
+<p></p>
+<h4><strong>DSRB Full Board Review Meeting Schedule</strong></h4>
+<p></p>
+<p>Please note that Full Board meeting dates may change without prior notice.</p>
+<p>Kindly note that the DSRB submission deadline for Full Board studies is
+on the 15th day of the month or the next earliest working day if that day
+falls on a weekend.</p>
+<p>This is with the exception of Domain B1 whereby the submission deadline
+for Full Board studies would be on the 1st working day of the month or
+the next earliest working day if it falls on a weekend.</p>
+<p>Do note that applications should be submitted with sufficient lead time
+for the Department Representative and Institutional Representative to endorse
+prior to the submission deadline for the month.</p>
+<p>Studies that fall into the Exempt and Expedited review categories will
+be reviewed by the Domain Chairperson at the weekly chair meeting.</p>
+<p></p>
 <p><strong>Resources</strong>: See the <a href="/dsrb-reviewguide/" rel="noopener nofollow" target="_blank">DSRB Review Requirements &amp; Process Guide here</a>.</p>
 <p></p>
