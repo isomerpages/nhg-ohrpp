@@ -85,35 +85,7 @@ Act (HBRA).</p>
 </ul>
 <p></p>
 <h4><strong>Suggested Readings &amp; References</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>The Belmont Report (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.hhs.gov/ohrp</u></a></strong>)</p>
-</li>
-<li>
-<p>ICH Guidelines (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.ich.org/products/guidelines.html</u></a></strong>)</p>
-</li>
-<li>
-<p>Declaration of Helsinki (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/</u></a></strong>)</p>
-</li>
-<li>
-<p>Guidance by the Bioethics Advisory Committee (BAC) (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.bioethics-singapore.org</u></a></strong>)</p>
-</li>
-<li>
-<p>Human Biomedical Research Act (HBRA) (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moh.gov.sg/policies-and-legislation/human-biological-research-act</u></a></strong>)</p>
-</li>
-<li>
-<p>Health Products (Cell, Tissue and Gene Therapy Products) Regulations (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>https://sso.agc.gov.sg/SL-Supp/S104-2021/Published/20210217?DocDate=20210217</u></a></strong>)</p>
-</li>
-<li>
-<p>Health Sciences Authority (HSA) Guidance Documents for Clinical Trials
-(<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.hsa.gov.sg/clinical-trials/regulatory-guidances</u></a></strong>)</p>
-</li>
-<li>
-<p>Regulatory requirements for Clinical Trials regulated under the Health
-Products Act and Medicines Act (<strong><a href="http://www.hhs.gov/ohrp" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/regulatory+submission+requirements</u></a></strong>)&nbsp;</p>
-</li>
-</ul>
-<p>=======</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html" rel="noopener nofollow" target="_blank">The Belmont Report (US Dept of Health and Human Services)</a></strong>
@@ -169,15 +141,29 @@ of research subjects and tissue donors.</p>
 </li>
 </ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://sso.agc.gov.sg/SL-Supp/S104-2021/Published/20210217?DocDate=20210217" rel="noopener nofollow" target="_blank">Singapore's Health Products Act (CHAPTER 122D) - Health Products (Cell, Tissue and Gene Therapy Products) Regulations</a></strong>
+</p>
+</li>
+</ul>
 <p></p>
-<p>Health Sciences Authority (HSA) Guidance Documents for Health Products
-(Cell, Tissue and Gene Therapy Products) Regulations</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.hsa.gov.sg/clinical-trials/overview" rel="noopener nofollow" target="_blank">Health Sciences Authority (HSA) - Regulatory overview of Clinical Trials</a></strong>
+<br>Understand the regulatory framework of clinical trials, clinical research
+materials and active ingredients used in its manufacturing, under the Health
+Products Act and the Medicines Act.</p>
+</li>
+</ul>
 <p></p>
-<p>Health Sciences Authority (HSA) Guidance Documents for Clinical Trials</p>
-<p></p>
-<p>Regulatory requirements for Clinical Trials regulated under the Health
-Products Act and Medicines Act</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">Health Sciences Authority (HSA) - Guidance Documents for Clinical Trials</a></strong>
+<br>This is a list of regulatory guidance's to help you understand the regulatory
+requirements for conducting clinical trials.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
