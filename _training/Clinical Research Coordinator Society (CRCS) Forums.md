@@ -129,4 +129,71 @@ Innovation</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>CRCS-CRP Forum (07 Dec 2018)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://ethics.gri.nhg.com.sg/files/Training%20Files/CRCS%20Forum%202018/Looking_back_at_2018_7_Dec_2018.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Looking back at 2018</u></a></strong>
+<br>Ms Sumitra Sachidanandan
+<br>Regulatory Consultants - GCP Unit, Innovation Office &amp; Clinical Trials
+Branch, Medicinal Products Pre-market Cluster, Health Products Regulation
+Group, HSA</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://ethics.gri.nhg.com.sg/files/Training%20Files/CRCS%20Forum%202018/Post_Activation_of_Human_Biomedical_Research_Act_7_Dec_2018.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Post Activation of Human Biomedical Research Act: Compliance and Risks</u></a></strong>
+<br>Dr Yeo Jing Ping
+<br>Director, Office of Research Integrity, Compliance and Ethics, SingHealth</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://ethics.gri.nhg.com.sg/files/Training%20Files/CRCS%20Forum%202018/Monitoring_Programme_for_Human_Biomedical_Research_Studies_7_Dec_2018.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Monitoring Programme for Human Biomedical Research Studies</u></a></strong>
+<br>Ms Jaslin Tan Shen Fong
+<br>Senior Executive, Research Quality Management Unit, Research &amp; Development
+Office, National Healthcare Group (NHG)</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>CRCS-CRP Forum (14 Sep 2018)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://ethics.gri.nhg.com.sg/files/Training%20Files/CRCS%20Forum%202018/Developing_Sound_Communication_And_Interpersonal_Skills_14_Sep_2018.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CRCs/CRPs and CIS: Developing Sound Communication and Interpersonal Skills (CIS) Is Essential for Success</u></a></strong>
+<br>Dr Aamir Shaikh, MD, DPBM
+<br>Founder, Health Care Consultant, Assansa</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://ethics.gri.nhg.com.sg/files/Training%20Files/CRCS%20Forum%202018/Conflict_Management_14_Sep_2018.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Conflict Management / Problem Solving</u></a></strong>
+<br>Mr Nelson Wong
+<br>Founder &amp; Director, CSI Medical Research</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://ethics.gri.nhg.com.sg/files/Training%20Files/CRCS%20Forum%202018/Why_Service_Excellence_Matters_14_Sep_2018.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Why Service Excellence Matters and How to EXC3ITE (Execute) It?</u></a></strong>
+<br>Mr Chan Peng, Tech Observer Asia Pacific</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
