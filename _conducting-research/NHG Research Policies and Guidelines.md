@@ -57,7 +57,8 @@ framework that enables the RI to meet the requirements of the HBRA and
 other relevant Acts and regulations applicable to research.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learn more about the <a href="/rcu/" rel="noopener nofollow" target="_blank">NHG Research Institution (RI) Policy here</a>.</p>
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Research Institution/NHG Research Institution (RI) Policy %5bAPPROVED%5d.pdf" rel="noopener nofollow" target="_blank">NHG Research Institution (RI) Policy here</a> (Restricted:
+NHG Intranet access required).</p>
 </li>
 </ul>
 <p></p>
@@ -68,7 +69,8 @@ Healthtech Instruction Manual (HIM), Synapxe policies and all other relevant
 regulations.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learn more about the <a href="/data-governance/" rel="noopener nofollow" target="_blank">NHG Research Data Policy here</a>.</p>
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared Library/Research Data/NHG Research Data Policy.pdf?Web=1" rel="noopener nofollow" target="_blank">NHG Research Data Policy here</a> (Restricted:
+NHG Intranet access required).</p>
 </li>
 </ul>
 <p></p>
@@ -80,7 +82,8 @@ are in accordance with the requirements of the Human Biomedical Research
 Act (HBRA).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learn more about the <a href="/tissue-governance/" rel="noopener nofollow" target="_blank">NHG Human Tissue Bank Policy here</a>.</p>
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/1601-A02 NHG Policy for Tissue Banks.pdf" rel="noopener nofollow" target="_blank">NHG Human Tissue Policy here</a> (Restricted:
+NHG Intranet access required).</p>
 </li>
 </ul>
 <p></p>
