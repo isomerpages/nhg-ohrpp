@@ -22,7 +22,7 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 <h4><strong>Summary of Updates</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="https://www.research.nhg.com.sg/wps/wcm/connect/aae86876-aef9-4c7d-bcd3-7d183b01cc09/PCR+SOP+SoC_21Mar2024.pdf?MOD=AJPERES&amp;CVID=oVAMCH-&amp;CVID=oVAMCH-" rel="noopener noreferrer nofollow" target="_blank"><u>Summary of Changes to PCR SOP here</u></a> (Last
+<p>Download the <a href="/files/PCR/PCR_SOP_Summary_of_Changes_21Mar2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes to PCR SOP here</a> (Last
 updated:&nbsp;21-Mar-24)</p>
 </li>
 </ul>
