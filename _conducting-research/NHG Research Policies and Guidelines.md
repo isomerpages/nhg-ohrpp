@@ -116,7 +116,7 @@ Products Act and Medicines Act (<strong><a href="http://www.hhs.gov/ohrp" rel="n
 <p>=======</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html" rel="noopener nofollow" target="_blank">The Belmont Report (US Dept of Health and Human Services)</a>
+<p><strong><a href="https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html" rel="noopener nofollow" target="_blank">The Belmont Report (US Dept of Health and Human Services)</a></strong>
 <br>The Belmont Report identifies basic ethical principles and guidelines
 that address ethical issues arising from the conduct of research with human
 subjects.</p>
@@ -125,17 +125,37 @@ subjects.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.ich.org/page/ich-guidelines" rel="noopener nofollow" target="_blank">International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) Guidelines</a>
-<br>The International Council for Harmonisation of Technical Requirements
-for Pharmaceuticals for Human Use (ICH) brings together regulatory authorities
-and the pharmaceutical industry, through scientific and technical discussions;
-to achieve greater harmonisation worldwide in ensuring that safe, effective,
-and high quality medicines are developed and registered efficiently.</p>
+<p><strong><a href="https://www.ich.org/page/ich-guidelines" rel="noopener nofollow" target="_blank">International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) Guidelines</a><br></strong>The
+International Council for Harmonisation of Technical Requirements for Pharmaceuticals
+for Human Use (ICH) brings together regulatory authorities and the pharmaceutical
+industry, through scientific and technical discussions; to achieve greater
+harmonisation worldwide in ensuring that safe, effective, and high quality
+medicines are developed and registered efficiently.</p>
 </li>
 </ul>
 <p></p>
-<p>Declaration of Helsinki</p>
-<p>Guidance by the Bioethics Advisory Committee (BAC)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/" rel="noopener nofollow" target="_blank">Declaration of Helsinki</a></strong>
+<br>Developed by the World Medical Association (WMA), the Declaration of Helsinki
+is a statement of ethical principles for medical research involving human
+subjects, including research on identifiable human material and data.</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.bioethics-singapore.gov.sg/" rel="noopener nofollow" target="_blank">Guidance by the Bioethics Advisory Committee (BAC)</a></strong>
+<br>The Bioethics Advisory Committee (BAC) was established by the Singapore
+Cabinet in December 2000. It has been tasked to address the ethical, legal
+and social issues arising from biomedical sciences research in Singapore.
+The BAC actively gathers information and views from the international and
+local community, and after careful deliberation, makes recommendations
+to the Singapore Government on the regulation of human biomedical research.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <p>Human Biomedical Research Act (HBRA)</p>
 <p>Health Sciences Authority (HSA) Guidance Documents for Health Products
 (Cell, Tissue and Gene Therapy Products) Regulations</p>
