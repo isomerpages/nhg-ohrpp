@@ -70,6 +70,8 @@ proposal for a preliminary assessment. The Principal Investigator may submit
 an application for the DSRB to review. The DSRB will issue a notification
 to the Principal Investigator if the DSRB determines that the proposal
 does not require review/approval.</p>
+<p><strong>Resources: </strong>See the <a href="/investigator-manual/" rel="noopener nofollow" target="_blank">NHG Investigators' Manual (IM Edition 4, Chapter 1, Section 1.5, Page 10) here</a>.</p>
+<p></p>
 <h4><strong>What are the criteria for DSRB Approval?</strong></h4>
 <p>The DSRB will consider the following elements of review which are also
 the minimum criteria for DSRB approval for new applications, study amendments
