@@ -12,7 +12,7 @@ events, educational resources and research tools from OHRPP to facilitate
 research conduct operating on high ethical standards.</p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_JULY_24_Newsletter_NHG.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Current Issue for NHG Staff</div><div class="isomer-card-link">Issue 32 (Jul 2024)</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_JULY_24_Newsletter_NHG.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Current Issue for NHG Staff*</div><div class="isomer-card-link">Issue 32 (Jul 2024)</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/Issue_32__Jul_2024__OHRPP_Post_Its__Non_NHG_.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Current Issue for Non-NHG readers</div>
@@ -25,7 +25,7 @@ research conduct operating on high ethical standards.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Past Issues for NHG Staff</strong>
+<summary><strong>Past Issues for NHG Staff*</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -102,7 +102,7 @@ research conduct operating on high ethical standards.</p>
 </details>
 </div>
 <p></p>
-<h4></h4>
-<p></p>
+<p><strong>*</strong>  <sub>Restricted: NHG Intranet access required.</sub>
+</p>
 <p></p>
 <p></p>
