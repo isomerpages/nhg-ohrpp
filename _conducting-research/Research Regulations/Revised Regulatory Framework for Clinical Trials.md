@@ -8,7 +8,7 @@ third_nav_title: Research Regulations
 <p><strong>** Disclaimer: Readers are advised to refer to Singapore Statues Online Website, HSA website for the latest information related to Clinical Trials, regulations and HSA Clinical Trial Regulatory Guidance.​</strong>
 </p>
 <p></p>
-<h4><strong>IMPORTANT NOTICE: [HSA Clinical Trials] UPDATES ON THE AMENDMENTS TO THE HEALTH PRODUCTS (Clinical Trials) REGULATIONS AND THE HEALTH PRODUCTS (Clinical Research&nbsp;Materials) REGULATIONS (1 OCTOBER 2021)</strong></h4>
+<h4><strong>Updates on the amendments to the Health Products (Clinical Trials) Regulations and the Health Products (Clinical Research&nbsp;Materials) Regulations (1 October 2021)</strong></h4>
 <p><strong><u>1. Informed Consent Requirements for the Collection of Human Tissue from Trial Participants</u></strong>
 </p>
 <p>To safeguard the rights, safety and well-being of trial participants,
