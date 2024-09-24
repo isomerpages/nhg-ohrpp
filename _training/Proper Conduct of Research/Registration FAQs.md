@@ -99,7 +99,7 @@ registration link.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No. NUH is not an NHG institution.</p>
-<p>Please refer to the <a href="/course-fees-categories/" rel="noopener nofollow" target="_blank">Registration Fee Category Classifications (here)</a> for
+<p>Please refer to the <a href="https://ethics.gri.nhg.com.sg/course-fee-categories/" rel="noopener nofollow" target="_blank">Registration Fee Category Classifications (here)</a> for
 the list of organizations under the respective categories.</p>
 <p></p>
 </div>
