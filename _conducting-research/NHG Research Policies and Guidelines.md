@@ -146,7 +146,7 @@ of research subjects and tissue donors.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://sso.agc.gov.sg/SL-Supp/S104-2021/Published/20210217?DocDate=20210217" rel="noopener nofollow" target="_blank">Singapore's Health Products Act (CHAPTER 122D) - Health Products (Cell, Tissue and Gene Therapy Products) Regulations</a></strong>
+<p><strong><a href="https://sso.agc.gov.sg/SL-Supp/S104-2021/Published/20210217?DocDate=20210217" rel="noopener nofollow" target="_blank">Singapore Statutes Online: Health Products (Cell, Tissue and Gene Therapy Products) Regulations 2021, Health Products Act (Chapter 122D)</a></strong>
 </p>
 </li>
 </ul>
