@@ -133,10 +133,9 @@ should you require further clarifications to the above.</p>
 on electronic consent (i.e. e-consent).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click here to download the <a href="https://www.research.nhg.com.sg/wps/wcm/connect/31cda5cc-ef5d-4707-81af-26fdc5bd1f00/hsa_ctb_guidance_e-consent_6nov2020.pdf?MOD=AJPERES&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu&amp;CVID=nrQoCZu" rel="noopener noreferrer nofollow" target="_blank"><u>HSA Clinical Trials Guidance – Electronic Consent</u></a>.</p>
-</li>
-<li>
-<p>A copy of the guidance is also available on the HSA website (<a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hsa.gov.sg/clinical-trials/regulatory-guidance</u></a>).</p>
+<p>A copy of the Guidance on Electronic Consent is available on <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener noreferrer nofollow" target="_blank">HSA | Guidance documents for clinical trials</a>
+</p>
+<p></p>
 </li>
 </ul>
 <p><strong><u>2. CRM Notification Non-Compliance Form via FormSG</u></strong>
@@ -146,12 +145,12 @@ is for suppliers to notify HSA about non-compliances to applicable CRM
 regulations relating to CRM notifications. Kindly refer to HSA website
 (<a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hsa.gov.sg/clinical-trials/crm-notification</u></a>)
 for more information.</p>
-<p>Please contact HSA (<a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>HSA_CT@hsa.gov.sg</u></a>)
-should you require further clarifications to the above.</p>
+<p>Please contact HSA at <a rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> should
+you require further clarifications to the above.</p>
 <p></p>
 <hr>
 <p></p>
-<h4><strong>IMPORTANT NOTICE : HSA GUIDANCE ON THE CONDUCT OF CLINICAL TRIALS IN RELATION TO THE COVID-19 SITUATION (27 March 20)</strong></h4>
+<h4><strong>IMPORTANT NOTICE: HSA GUIDANCE ON THE CONDUCT OF CLINICAL TRIALS IN RELATION TO THE COVID-19 SITUATION (27 March 20)</strong></h4>
 <p>The Health Science Authority (HSA) has released a guidance to provide
 general considerations to sponsors and investigators to ensure the safety
 of trial participants, compliance with the clinical trials regulations
