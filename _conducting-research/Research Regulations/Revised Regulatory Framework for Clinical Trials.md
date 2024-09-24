@@ -5,8 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Research Regulations
 ---
-<p><strong>** Disclaimer: Readers are advised to refer to Singapore Statues Online Website, HSA website for the latest information related to Clinical Trials, regulations and HSA Clinical Trial Regulatory Guidance.​</strong>
-</p>
+<p><strong>** Disclaimer: </strong>Readers are advised to refer to Singapore
+Statues Online Website, HSA website for the latest information related
+to Clinical Trials, regulations and HSA Clinical Trial Regulatory Guidance.​
+Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> for any
+enquires.</p>
 <p></p>
 <h4><strong>Updates on the amendments to the Health Products (Clinical Trials) Regulations and the Health Products (Clinical Research&nbsp;Materials) Regulations (1 October 2021)</strong></h4>
 <p><strong><u>1. Informed Consent Requirements for the Collection of Human Tissue from Trial Participants</u></strong>
@@ -66,8 +69,8 @@ for export approval for consignments of codeine-containing clinical research
 materials, to align with the requirements under the TP Regs.</p>
 </li>
 </ul>
-<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> should
-you require further clarifications to the above.</p>
+<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> for any
+enquiries.</p>
 <p></p>
 <hr>
 <h4><strong>Updates on the implementation of the Cell, Tissue and Gene Therapy Products Framework (1 Mar 2021)</strong></h4>
@@ -113,8 +116,8 @@ guidance, which include more substantial updates are:</p>
 <p>Where relevant, HSA had also taken the opportunity to provide more information
 in the guidance to address common enquiries by Clinical Trial Stakeholders.&nbsp;All
 Clinical Trial Regulatory Guidance Documents are available at <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA Guidance Documents for Clinical Trials</a>.</p>
-<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> should
-you require further clarifications to the above.</p>
+<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> for any
+enquiries.</p>
 <p></p>
 <hr>
 <h4><strong>Guidance on Electronic Consent &amp; the CRM Notification Non-Compliance Form (16 Dec 2020)</strong></h4>
@@ -143,8 +146,8 @@ Materials (CRM) non-compliances to HSA.</p>
 more information.</p>
 </li>
 </ul>
-<p>Please contact HSA at <a rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> should
-you require further clarifications to the above.</p>
+<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> for any
+enquiries.</p>
 <p></p>
 <hr>
 <p></p>
@@ -160,8 +163,8 @@ the Covid-19 Outbreak.</p>
 <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA Guidance Documents for Clinical Trials</a>.</p>
 </li>
 </ul>
-<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> should
-you require further clarifications to the above.</p>
+<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> for any
+enquiries.</p>
 <p></p>
 <hr>
 <p></p>
