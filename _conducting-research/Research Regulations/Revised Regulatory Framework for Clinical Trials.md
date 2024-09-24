@@ -18,6 +18,17 @@ prior to obtaining consent for the collection of human tissue for the purposes
 of the clinical trial.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>See the Health Products Act (HPA) Regulations at <a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016#top" rel="noopener nofollow" target="_blank">Singapore Statutes Online</a>.</p>
+</li>
+<li>
+<p>Download the Guidance Document “Consent Requirements for Clinical Trials
+Involving Collection of Human Tissue, Version 1 Oct 2021" at <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA Guidance Documents for Clinical Trials</a>.</p>
+</li>
+</ul>
+<p></p>
+<p>+++++++++++++++++++++++++</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>For more information, download a copy of the HPA regulations from <a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>https://sso.agc.gov.sg/SL/HPA2007-S332-2016</u></a>
 </p>
 </li>
@@ -31,6 +42,8 @@ Clinical Trials Involving Collection of Human Tissue” had been updated
 </p>
 </li>
 </ul>
+<p>+++++++++++++++++++++++++</p>
+<p></p>
 <p><strong><u>2. Enabling Pharmacist to be Principal Investigators of Clinical Trials of Locally Registered Therapeutic Products</u></strong>
 </p>
 <p>The Health Products (Clinical Trials) Regulations has also been amended
