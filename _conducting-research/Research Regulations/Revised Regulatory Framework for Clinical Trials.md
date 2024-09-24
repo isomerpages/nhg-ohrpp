@@ -173,31 +173,38 @@ Clinical Trial Regulatory Guidance Documents are available at <a href="https://w
 you require further clarifications to the above.</p>
 <p></p>
 <hr>
-<h4><strong>IMPORTANT NOTICE: GUIDANCE ON ELECTRONIC CONSENT &amp; CRM NOTIFICATION NON-COMPLINANCE FORM (16 Dec 20)</strong></h4>
+<h4><strong>IMPORTANT NOTICE: GUIDANCE ON ELECTRONIC CONSENT &amp; CRM NOTIFICATION NON-COMPLINANCE FORM (16 Dec 2020)</strong></h4>
 <p><strong><u>1. Guidance on Electronic Consent</u></strong>
 </p>
 <p>The purpose of this document is to provide guidance to sponsors and investigators
 on electronic consent (i.e. e-consent).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A copy of the Guidance on Electronic Consent is available on <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener noreferrer nofollow" target="_blank">HSA | Guidance documents for clinical trials</a>
-</p>
+<p>Download the "Guidance on Electronic Consent" Document at <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA Guidance Documents for Clinical Trials</a>.</p>
 <p></p>
 </li>
 </ul>
-<p><strong><u>2. CRM Notification Non-Compliance Form via FormSG</u></strong>
+<p><strong><u>2. CRM Notification Non-Compliance Form</u></strong>
 </p>
-<p>The purpose of this form via FormSG (<a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>https://form.gov.sg/5f0fc43b9e6a4a0011f18fe0</u></a>)
-is for suppliers to notify HSA about non-compliances to applicable CRM
-regulations relating to CRM notifications. Kindly refer to HSA website
-(<a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hsa.gov.sg/clinical-trials/crm-notification</u></a>)
-for more information.</p>
+<p>The purpose of this FormSG (version dated 5 Feb 2021) is for the notification
+of Clinical Research Materials (CRM) non-compliances to HSA.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To report CRM notification related non-compliances, please submit the
+<a href="https://form.gov.sg/6018acf6574d5e0011284bd2" rel="noopener nofollow" target="_blank">CRM Non-Compliance Form (version dated 5 Feb 2021) via FormSG</a>
+</p>
+</li>
+<li>
+<p>See HSA Guidance: <a href="https://www.hsa.gov.sg/clinical-trials/crm-notification" rel="noopener nofollow" target="_blank">Submit a Clinical Research Materials notification</a> for
+more information.</p>
+</li>
+</ul>
 <p>Please contact HSA at <a rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> should
 you require further clarifications to the above.</p>
 <p></p>
 <hr>
 <p></p>
-<h4><strong>IMPORTANT NOTICE: HSA GUIDANCE ON THE CONDUCT OF CLINICAL TRIALS IN RELATION TO THE COVID-19 SITUATION (27 March 20)</strong></h4>
+<h4><strong>IMPORTANT NOTICE: HSA GUIDANCE ON THE CONDUCT OF CLINICAL TRIALS IN RELATION TO THE COVID-19 SITUATION (27 March 2020)</strong></h4>
 <p>The Health Science Authority (HSA) has released a guidance to provide
 general considerations to sponsors and investigators to ensure the safety
 of trial participants, compliance with the clinical trials regulations
