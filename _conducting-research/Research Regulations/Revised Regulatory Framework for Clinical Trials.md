@@ -212,15 +212,12 @@ and ICH GCP (R2) Guidelines, and minimise risks to trial integrity, during
 the Covid-19 Outbreak.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/f3a55aa9-da29-4606-91bb-62d4418715c1/HSA+COVID19+Guidance+Clinical+Trials+27Mar2020.pdf?MOD=AJPERES&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do&amp;CVID=nfHz9Do" rel="noopener noreferrer nofollow" target="_blank"><u>here to download the HSA CTB COVID-19 Guidance for Clinical Trials</u></a></strong>
-</p>
-</li>
-<li>
-<p>A copy of the guidance is also available on the HSA website (<strong><a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hsa.gov.sg/clinical-trials/regulatory-guidance</u></a></strong>)</p>
+<p>Download the "Conduct of clinical trials during COVID-19" document at
+<a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA Guidance Documents for Clinical Trials</a>.</p>
 </li>
 </ul>
-<p>Please contact HSA (<strong><a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>HSA_CT@hsa.gov.sg</u></a></strong>)
-should you require further clarifications.</p>
+<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> should
+you require further clarifications to the above.</p>
 <p></p>
 <hr>
 <p></p>
