@@ -114,7 +114,8 @@ products to be regulated under the Health Products Act, namely, cell tissue
 and gene therapy products (CTGTP). The new controls take effect on 1 March
 2021.</p>
 <p>The new and amended regulations i.e. the <strong>Health Products (Cell, Tissue and Gene Therapy) Regulations 2021, Health Products (Clinical Research Materials) Regulations</strong> and <strong>Health Products (Clinical Trials) Regulations </strong>can
-be found at the <a href="https://sso.agc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Statues Online</u></a> website.</p>
+be found at the <a href="https://sso.agc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Statues Online</u></a> website
+as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://sso.agc.gov.sg//SL/HPA2007-S104-2021?DocDate=20231211" rel="noopener nofollow" target="_blank">Health Products (Cell, Tissue and Gene Therapy) Regulations 2021</a>
@@ -165,12 +166,11 @@ guidance, which include more substantial updates are:-</p>
 </li>
 </ul>
 <p>Where relevant, HSA had also taken the opportunity to provide more information
-in the guidance to address common enquiries by Clinical Trial Stakeholders.&nbsp;</p>
-<p></p>
-<p>All clinical trial regulatory guidance may be found on <strong><a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener noreferrer nofollow" target="_blank"><u>HSA website</u></a></strong>.</p>
+in the guidance to address common enquiries by Clinical Trial Stakeholders.&nbsp;All
+Clinical Trial Regulatory Guidance Documents are available at <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA Guidance Documents for Clinical Trials</a>.</p>
 <p>
-<br>Please contact HSA (<strong><a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>HSA_CT@hsa.gov.sg</u></a></strong>)
-should you require further clarifications to the above.</p>
+<br>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> should
+you require further clarifications to the above.</p>
 <p></p>
 <hr>
 <h4><strong>IMPORTANT NOTICE: GUIDANCE ON ELECTRONIC CONSENT &amp; CRM NOTIFICATION NON-COMPLINANCE FORM (16 Dec 20)</strong></h4>
