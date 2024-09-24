@@ -21,7 +21,8 @@ research conduct operating on high ethical standards.</p>
 </a>
 </div>
 <p></p>
-<p></p>
+<p><a href="/files/OHRPP Post Its (Non NHG)/Issue_32__Jul_2024__OHRPP_Post_Its__Non_NHG_.pdf" rel="noopener noreferrer nofollow" target="_blank">issue 32</a>
+</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
