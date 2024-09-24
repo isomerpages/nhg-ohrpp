@@ -178,6 +178,20 @@ enquiries.</p>
 <li>
 <p><a href="https://sso.agc.gov.sg/" rel="noopener nofollow" target="_blank">Singapore Legislation – Statutory Acts and Applicable Regulations (Singapore Statutes Online)</a>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://sso.agc.gov.sg//SL/HPA2007-S104-2021?DocDate=20231211" rel="noopener nofollow" target="_blank"><u>Health Products (Cell, Tissue and Gene Therapy) Regulations 2021</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://sso.agc.gov.sg//SL/HPA2007-S332-2016?DocDate=20231211" rel="noopener nofollow" target="_blank"><u>Health Products (Clinical Research Materials) Regulations 2016</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://sso.agc.gov.sg//SL/HPA2007-S331-2016?DocDate=20231211" rel="noopener nofollow" target="_blank"><u>Health Products (Clinical Trials) Regulations 2016</u></a>
+</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
