@@ -90,7 +90,7 @@ their cluster’s/institution’s minimum training policy/requirements.</p>
 <p></p>
 <p>The SingHealth CIRB requirements will apply to staff from SingHealth and
 partner institutions who are involved in cross-cluster studies that are
-submitted to DSRB for review. Refer to the <strong><a href="http://research.singhealth.com.sg/Pages/CentralisedInstitutionalReviewBoard.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>CIRB website</u></a></strong> for
+submitted to DSRB for review. Refer to the <strong><a href="https://www.singhealthdukenus.com.sg/research/rice/training-requirements" rel="noopener noreferrer nofollow" target="_blank"><u>CIRB website</u></a></strong> for
 more details.</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
