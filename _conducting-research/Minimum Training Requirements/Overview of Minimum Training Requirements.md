@@ -42,7 +42,7 @@ training requirements.</p>
 <p><strong><sup>1 </sup></strong>All investigators, study team members and
 external institution staff involved in the design, conduct or reporting
 of research in institutions under the oversight of NHG DSRB are required
-to complete the <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/fcoi+intro" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Conflict of Interest (FCOI) course</u></a></strong>.</p>
+to complete the <strong><a href="https://ethics.gri.nhg.com.sg/fcoi-training/" rel="noopener nofollow" target="_blank">Financial Conflict of Interest (FCOI) Course</a></strong>.</p>
 <p></p>
 <p><strong><sup>2 </sup></strong>The DSRB will recognise generic GCP courses
 and training as acceptable minimum training requirement. PIs, Site-PIs
@@ -51,14 +51,14 @@ GCP training programmes, e.g., ICH GCP training organized by NHG and SingHealth,
 CITI GCP Course, general GCP training provided by sponsor companies. PIs,
 Site PIs and Co-Is who have completed the ICH GCP course may use it as
 an alternative minimum requirement for <strong>biomedical research studies only</strong>.
-Refer to the <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/sggcp+intro" rel="noopener noreferrer nofollow" target="_blank"><u>Good Clinical Practice (GCP) Training</u></a></strong> for
+Refer to the <strong><a href="https://ethics.gri.nhg.com.sg/good-clinical-practice-gcp-training/" rel="noopener noreferrer nofollow" target="_blank"><u>Good Clinical Practice (GCP) Training</u></a></strong> for
 more information.</p>
 <p></p>
 <p><strong><sup>3</sup></strong><sup> </sup>Mandatory for Study Team Members
 (STM) conducting significant trial related tasks (informed consent, eligibility
 assessment, investigational product management, key efficacy, and safety
 assessments, etc.) to complete <strong>GCP</strong> training before study
-involvement. Refer to the <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/06+conducting+research/sggcp+intro" rel="noopener noreferrer nofollow" target="_blank"><u>Good Clinical Practice (GCP) Training</u></a></strong> for
+involvement. Refer to the <strong><a href="https://ethics.gri.nhg.com.sg/good-clinical-practice-gcp-training/" rel="noopener noreferrer nofollow" target="_blank"><u>Good Clinical Practice (GCP) Training</u></a></strong> for
 more information.</p>
 <p></p>
 <p><strong><sup>4</sup></strong><sup> </sup>HBR Minimum Training to be completed
@@ -90,7 +90,7 @@ their cluster’s/institution’s minimum training policy/requirements.</p>
 <p></p>
 <p>The SingHealth CIRB requirements will apply to staff from SingHealth and
 partner institutions who are involved in cross-cluster studies that are
-submitted to DSRB for review. Refer to the <strong><a href="http://research.singhealth.com.sg/Pages/CentralisedInstitutionalReviewBoard.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>CIRB website</u></a></strong> for
+submitted to DSRB for review. Refer to the <strong><a href="https://www.singhealthdukenus.com.sg/research/rice/training-requirements" rel="noopener noreferrer nofollow" target="_blank"><u>CIRB website</u></a></strong> for
 more details.</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>

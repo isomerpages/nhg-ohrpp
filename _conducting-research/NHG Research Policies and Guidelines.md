@@ -132,7 +132,7 @@ to the Singapore Government on the regulation of human biomedical research.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.moh.gov.sg/policies-and-legislation/human-biomedical-research-act" rel="noopener nofollow" target="_blank">Human Biomedical Research Act (HBRA)</a></strong>
+<p><strong><a href="https://www.moh.gov.sg/policies-and-legislation/human-biomedical-research-act" rel="noopener nofollow" target="_blank">Ministry of Health (MOH) - Human Biomedical Research Act (HBRA)</a></strong>
 <br>The Singapore Human Biomedical Research Act (HBRA) provides clarity regarding
 the roles and responsibilities of individuals and body corporates involved
 in human biomedical research and the handling of human tissue for use in
@@ -146,7 +146,7 @@ of research subjects and tissue donors.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://sso.agc.gov.sg/SL-Supp/S104-2021/Published/20210217?DocDate=20210217" rel="noopener nofollow" target="_blank">Singapore's Health Products Act (CHAPTER 122D) - Health Products (Cell, Tissue and Gene Therapy Products) Regulations</a></strong>
+<p><strong><a href="https://sso.agc.gov.sg/SL-Supp/S104-2021/Published/20210217?DocDate=20210217" rel="noopener nofollow" target="_blank">Singapore Statutes Online: Health Products (Cell, Tissue and Gene Therapy Products) Regulations 2021, Health Products Act (Chapter 122D)</a></strong>
 </p>
 </li>
 </ul>
