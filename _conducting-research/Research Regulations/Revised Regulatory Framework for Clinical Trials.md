@@ -26,24 +26,6 @@ Involving Collection of Human Tissue, Version 1 Oct 2021" at <a href="https://ww
 </li>
 </ul>
 <p></p>
-<p>+S++++++++++++++++++++++++</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>For more information, download a copy of the HPA regulations from <a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>https://sso.agc.gov.sg/SL/HPA2007-S332-2016</u></a>
-</p>
-</li>
-<li>
-<p>Correspondingly, the Clinical Trial Guidance “Consent Requirements for
-Clinical Trials Involving Collection of Human Tissue” had been updated
-(version 1 Oct 2021) and can be downloaded from&nbsp;<a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener noreferrer nofollow" target="_blank"><u>HSA | Guidance documents for clinical trials</u></a>.</p>
-</li>
-<li>
-<p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/002f0002-b57a-48da-bfc2-380d478882c8/Additional+Reading_HSA_CT_Regulations_Consent_Req_for_HT_Collect_FINAL_22Oct21.pdf?MOD=AJPERES&amp;CVID=nRlME0i&amp;CVID=nRlME0i&amp;CVID=nRlME0i&amp;CVID=nRlME0i&amp;CVID=nRlME0i&amp;CVID=nRlME0i&amp;CVID=nRlME0i" rel="noopener noreferrer nofollow" target="_blank"><u>Additional Reading_HSA CT Regulations (Consent Req for HT Collection)</u></a>
-</p>
-</li>
-</ul>
-<p>+E++++++++++++++++++++++++</p>
-<p></p>
 <p><strong><u>2. Enabling Pharmacist to be Principal Investigators of Clinical Trials of Locally Registered Therapeutic Products</u></strong>
 </p>
 <p>The Health Products (Clinical Trials) Regulations has also been amended
@@ -64,26 +46,6 @@ Office, MOH. The guidance can be downloaded from the MOH website.&nbsp;</p>
 in Clinical Trials"</p>
 </li>
 </ul>
-<p></p>
-<p>+S++++++++++++++++++++++++</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>For more information, download a copy of the Regulations from <a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>https://sso.agc.gov.sg/SL/HPA2007-S332-2016</u></a>
-</p>
-</li>
-<li>
-<p>For more information, download a copy of the guidance from <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener noreferrer nofollow" target="_blank">HSA | Guidance documents for clinical trials</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/037369d0-466a-493c-81ff-cd68ca1e50aa/Health+Products+%28Clinical+Trials%29+Regulations+2016+%281%29.pdf?MOD=AJPERES&amp;CVID=nRqa0vX&amp;CVID=nRqa0vX&amp;CVID=nRqa0vX" rel="noopener noreferrer nofollow" target="_blank"><u>Health Products (Clinical Trials) Regulations 2016 (Version in force from 1 October 2021) – Allowing Qualified Pharmacist to Be Principal Investigators In Clinical Trials</u></a>.&nbsp;</p>
-</li>
-<li>
-<p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/c4565f5f-f052-4c3d-9884-e4673876581e/Additional_Info_Reg_Pharmacist_as_PI_HSA_CT_Guidance_FINAL_22Oct21.pdf?MOD=AJPERES&amp;CVID=nRlMK5a&amp;CVID=nRlMK5a&amp;CVID=nRlMK5a" rel="noopener noreferrer nofollow" target="_blank"><u>Additional Reading Info_Reg Pharmacist as PI HSA CT Guidance FINAL</u></a>
-</p>
-</li>
-</ul>
-<p>+E++++++++++++++++++++++++</p>
 <p></p>
 <p>&nbsp;<strong><u>3. Amendments to the Requirements for Clinical Research Material Containing Codeine Cough Preparations</u></strong>
 </p>
@@ -108,7 +70,7 @@ materials, to align with the requirements under the TP Regs.</p>
 you require further clarifications to the above.</p>
 <p></p>
 <hr>
-<h4><strong>IMPORTANT NOTICE: [HSA Clinical Trials] UPDATES ON THE IMPLEMENTATION OF THE CELL, TISSUE AND GENE THERAPY PRODUCTS FRAMEWORK (1 MAR 2021)</strong></h4>
+<h4><strong>Updates on the implementation of the Cell, Tissue and Gene Therapy Products Framework (1 Mar 2021)</strong></h4>
 <p>The Health Sciences Authority (HSA) has introduced a new category of health
 products to be regulated under the Health Products Act, namely, cell tissue
 and gene therapy products (CTGTP). The new controls take effect on 1 March
@@ -130,25 +92,8 @@ as follows:</p>
 </p>
 </li>
 </ul>
-<p></p>
-<p>+S++++++++++++++++++++++++++
-<br>Click here for the <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/5d5223f7-7b06-4ebe-8c2f-792a8e792251/REGULATIONS_1Mar21.zip?MOD=AJPERES&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K" rel="noopener noreferrer nofollow" target="_blank"><u>zip</u></a></strong> file
-of a consolidation of the Regulations.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Health Products (Cell, Tissue and Gene Therapy) Regulations 2021</p>
-</li>
-<li>
-<p>Health Products (Clinical Research Materials) Regulations 2021</p>
-</li>
-<li>
-<p>Health Products (Clinical Trials) Regulations 2021</p>
-</li>
-</ul>
-<p>+E++++++++++++++++++++++++++++</p>
-<p></p>
 <p>HSA had also updated their regulatory guidance. The following regulatory
-guidance, which include more substantial updates are:-</p>
+guidance, which include more substantial updates are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Determination of whether a Clinical Trial requires Clinical Trial Authorisation
@@ -168,12 +113,11 @@ guidance, which include more substantial updates are:-</p>
 <p>Where relevant, HSA had also taken the opportunity to provide more information
 in the guidance to address common enquiries by Clinical Trial Stakeholders.&nbsp;All
 Clinical Trial Regulatory Guidance Documents are available at <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA Guidance Documents for Clinical Trials</a>.</p>
-<p>
-<br>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> should
+<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> should
 you require further clarifications to the above.</p>
 <p></p>
 <hr>
-<h4><strong>IMPORTANT NOTICE: GUIDANCE ON ELECTRONIC CONSENT &amp; CRM NOTIFICATION NON-COMPLINANCE FORM (16 Dec 2020)</strong></h4>
+<h4><strong>Guidance on Electronic Consent &amp; the CRM Notification Non-Compliance Form (16 Dec 2020)</strong></h4>
 <p><strong><u>1. Guidance on Electronic Consent</u></strong>
 </p>
 <p>The purpose of this document is to provide guidance to sponsors and investigators
@@ -204,7 +148,7 @@ you require further clarifications to the above.</p>
 <p></p>
 <hr>
 <p></p>
-<h4><strong>IMPORTANT NOTICE: HSA GUIDANCE ON THE CONDUCT OF CLINICAL TRIALS IN RELATION TO THE COVID-19 SITUATION (27 March 2020)</strong></h4>
+<h4><strong>HSA Guidance on the conduct of Clinical Trials in relation to the Covid-19 Situation (27 March 2020)</strong></h4>
 <p>The Health Science Authority (HSA) has released a guidance to provide
 general considerations to sponsors and investigators to ensure the safety
 of trial participants, compliance with the clinical trials regulations
