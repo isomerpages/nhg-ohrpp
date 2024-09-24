@@ -186,8 +186,8 @@ on electronic consent (i.e. e-consent).</p>
 </ul>
 <p><strong><u>2. CRM Notification Non-Compliance Form</u></strong>
 </p>
-<p>The purpose of this FormSG (version dated 5 Feb 2021) is for the notification
-of Clinical Research Materials (CRM) non-compliances to HSA.</p>
+<p>The purpose of this Form is for the notification of Clinical Research
+Materials (CRM) non-compliances to HSA.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>To report CRM notification related non-compliances, please submit the
