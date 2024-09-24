@@ -25,7 +25,7 @@ research conduct operating on high ethical standards.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Past Issues for NHG Staff*</strong>
+<summary><strong>Past Issues for NHG Staff *</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
