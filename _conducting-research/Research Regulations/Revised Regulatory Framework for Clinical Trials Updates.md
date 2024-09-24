@@ -7,7 +7,7 @@ third_nav_title: Research Regulations
 ---
 <p><strong>** Disclaimer: </strong>Readers are advised to refer to Singapore
 Statues Online Website, HSA website for the latest information related
-to Clinical Trials, regulations and HSA Clinical Trial Regulatory Guidance.​
+to Clinical Trials, regulations and HSA Clinical Trial Regulatory Guidance.
 Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> for any
 enquires.</p>
 <p></p>
