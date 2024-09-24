@@ -113,9 +113,24 @@ you require further clarifications to the above.</p>
 products to be regulated under the Health Products Act, namely, cell tissue
 and gene therapy products (CTGTP). The new controls take effect on 1 March
 2021.</p>
-<p>The new and amended regulations i.e. the <strong>Health Products (Cell, Tissue and Gene Therapy) Regulations 2021, Health Products (Clinical Research Materials) Regulations 2021</strong> and <strong>Health Products (Clinical Trials) Regulations 2021</strong> can
-be found the <strong><a href="https://sso.agc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Statues Online Website</u></a></strong>.</p>
-<p>
+<p>The new and amended regulations i.e. the <strong>Health Products (Cell, Tissue and Gene Therapy) Regulations 2021, Health Products (Clinical Research Materials) Regulations</strong> and <strong>Health Products (Clinical Trials) Regulations </strong>can
+be found at the <a href="https://sso.agc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Statues Online</u></a> website.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://sso.agc.gov.sg//SL/HPA2007-S104-2021?DocDate=20231211" rel="noopener nofollow" target="_blank">Health Products (Cell, Tissue and Gene Therapy) Regulations 2021</a>
+</p>
+</li>
+<li>
+<p><a href="https://sso.agc.gov.sg//SL/HPA2007-S332-2016?DocDate=20231211" rel="noopener nofollow" target="_blank">Health Products (Clinical Research Materials) Regulations 2016</a>
+</p>
+</li>
+<li>
+<p><a href="https://sso.agc.gov.sg//SL/HPA2007-S331-2016?DocDate=20231211" rel="noopener nofollow" target="_blank">Health Products (Clinical Trials) Regulations 2016</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p>+S++++++++++++++++++++++++++
 <br>Click here for the <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/5d5223f7-7b06-4ebe-8c2f-792a8e792251/REGULATIONS_1Mar21.zip?MOD=AJPERES&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K&amp;CVID=nx3ga9K" rel="noopener noreferrer nofollow" target="_blank"><u>zip</u></a></strong> file
 of a consolidation of the Regulations.</p>
 <ul data-tight="true" class="tight">
@@ -129,6 +144,8 @@ of a consolidation of the Regulations.</p>
 <p>Health Products (Clinical Trials) Regulations 2021</p>
 </li>
 </ul>
+<p>+E++++++++++++++++++++++++++++</p>
+<p></p>
 <p>HSA had also updated their regulatory guidance. The following regulatory
 guidance, which include more substantial updates are:-</p>
 <ul data-tight="true" class="tight">
@@ -148,8 +165,9 @@ guidance, which include more substantial updates are:-</p>
 </li>
 </ul>
 <p>Where relevant, HSA had also taken the opportunity to provide more information
-in the guidance to address common enquiries by Clinical Trial Stakeholders.&nbsp;
-All clinical trial regulatory guidance may be found on <strong><a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener noreferrer nofollow" target="_blank"><u>HSA website</u></a></strong>.</p>
+in the guidance to address common enquiries by Clinical Trial Stakeholders.&nbsp;</p>
+<p></p>
+<p>All clinical trial regulatory guidance may be found on <strong><a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener noreferrer nofollow" target="_blank"><u>HSA website</u></a></strong>.</p>
 <p>
 <br>Please contact HSA (<strong><a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>HSA_CT@hsa.gov.sg</u></a></strong>)
 should you require further clarifications to the above.</p>
