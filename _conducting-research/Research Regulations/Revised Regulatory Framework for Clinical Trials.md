@@ -223,32 +223,13 @@ you require further clarifications to the above.</p>
 <p></p>
 <h4><strong>Information and Resources</strong></h4>
 <p>Researchers are advised to refer to the following resources for more information:</p>
-<p><strong>HSA Websites on the Revised Regulatory Framework</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Clinical_Trials/Overview/Regulatory_Framework.html</u></a>
+<p><a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA Guidance Documents for Clinical Trials</a>
 </p>
 </li>
 <li>
-<p><a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/therapeutic-productsportover.html</u></a>
-</p>
-<p></p>
-</li>
-</ul>
-<p><strong>HSA Regulatory Guidance</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Clinical_Trials/Overview/Regulatory_Guidelines.html</u></a>
-</p>
-</li>
-</ul>
-<p><strong>Legislation – Statutory Acts and Applicable Regulations</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>http://statutes.agc.gov.sg/aol/home.w3p</u></a>
+<p><a href="https://sso.agc.gov.sg/" rel="noopener nofollow" target="_blank">Singapore Legislation – Statutory Acts and Applicable Regulations (Singapore Statutes Online)</a>
 </p>
 </li>
 </ul>
