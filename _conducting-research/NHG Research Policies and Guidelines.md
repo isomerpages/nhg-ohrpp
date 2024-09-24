@@ -132,7 +132,7 @@ to the Singapore Government on the regulation of human biomedical research.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.moh.gov.sg/policies-and-legislation/human-biomedical-research-act" rel="noopener nofollow" target="_blank">Human Biomedical Research Act (HBRA)</a></strong>
+<p><strong><a href="https://www.moh.gov.sg/policies-and-legislation/human-biomedical-research-act" rel="noopener nofollow" target="_blank">Ministry of Health (MOH) - Human Biomedical Research Act (HBRA)</a></strong>
 <br>The Singapore Human Biomedical Research Act (HBRA) provides clarity regarding
 the roles and responsibilities of individuals and body corporates involved
 in human biomedical research and the handling of human tissue for use in
