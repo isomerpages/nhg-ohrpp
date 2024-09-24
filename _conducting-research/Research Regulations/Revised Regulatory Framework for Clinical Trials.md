@@ -45,8 +45,8 @@ Office, MOH. The guidance can be downloaded from the MOH website.&nbsp;</p>
 <p>Download the Guidance Document at <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA Guidance Documents for Clinical Trials</a>.</p>
 </li>
 <li>
-<p>Additional Reading - "Allowing Qualified Pharmacist to be Principal Investigator
-in Clinical Trials"</p>
+<p>Download the Additional Reading - <a href="/files/Conducting Research Files/Allowing_Qualified_Pharmacist_to_Be_Principal_Investigators_In_Clinical_Trials.pdf" rel="noopener noreferrer nofollow" target="_blank">"Allowing Qualified Pharmacist to be Principal Investigator in Clinical Trials"</a>
+</p>
 </li>
 </ul>
 <p></p>
