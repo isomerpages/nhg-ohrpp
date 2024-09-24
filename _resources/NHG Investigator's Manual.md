@@ -65,7 +65,7 @@ above NHG Investigator’s Manual which are of interest.</p>
 <p><a href="/files/Investigator Manual/IM_Chapter_8_Standing_Database.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 8 - Standing Database</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_Chapter_6_Vulnerable_Population.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 9 - Tissue Repository</a>&nbsp;</p>
+<p><a href="/files/Investigator Manual/IM_Chapter_9_Tissue_Repository.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 9 - Tissue Repository</a>&nbsp;</p>
 </li>
 </ul>
 <p></p>
