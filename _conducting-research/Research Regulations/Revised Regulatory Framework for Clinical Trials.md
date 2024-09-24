@@ -26,7 +26,7 @@ Involving Collection of Human Tissue, Version 1 Oct 2021" at <a href="https://ww
 </li>
 </ul>
 <p></p>
-<p>+++++++++++++++++++++++++</p>
+<p>+S++++++++++++++++++++++++</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For more information, download a copy of the HPA regulations from <a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>https://sso.agc.gov.sg/SL/HPA2007-S332-2016</u></a>
@@ -42,7 +42,7 @@ Clinical Trials Involving Collection of Human Tissue” had been updated
 </p>
 </li>
 </ul>
-<p>+++++++++++++++++++++++++</p>
+<p>+E++++++++++++++++++++++++</p>
 <p></p>
 <p><strong><u>2. Enabling Pharmacist to be Principal Investigators of Clinical Trials of Locally Registered Therapeutic Products</u></strong>
 </p>
@@ -52,6 +52,20 @@ of locally registered therapeutic products, subject to certain safeguards
 and requirements. These safeguards and requirements are detailed in the
 “Guidance for Pharmacist Principal Investigator” issued by the Chief Pharmacist’s
 Office, MOH. The guidance can be downloaded from the MOH website.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>See the Health Products Act (HPA) Regulations at <a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016#top" rel="noopener nofollow" target="_blank">Singapore Statutes Online</a>.</p>
+</li>
+<li>
+<p>Download the Guidance Document at <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA Guidance Documents for Clinical Trials</a>.</p>
+</li>
+<li>
+<p>Additional Reading - Allowing Qualified Pharmacist to be Principal Investigator
+in Clinical Trials</p>
+</li>
+</ul>
+<p></p>
+<p>+S++++++++++++++++++++++++</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For more information, download a copy of the Regulations from <a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>https://sso.agc.gov.sg/SL/HPA2007-S332-2016</u></a>
@@ -69,12 +83,14 @@ Office, MOH. The guidance can be downloaded from the MOH website.&nbsp;</p>
 </p>
 </li>
 </ul>
+<p>+E++++++++++++++++++++++++</p>
+<p></p>
 <p>&nbsp;<strong><u>3. Amendments to the Requirements for Clinical Research Material Containing Codeine Cough Preparations</u></strong>
 </p>
 <p>MOH has worked with HSA to make amendments to the Health Products (Therapeutic)
 Regulations (“TP Regs”) to change the supply limits for sale and supply
 of codeine cough preparations. Consequential to the amendments to the TP
-Regs, the <strong><a href="https://www.hsa.gov.sg/clinical-trials/overview" rel="noopener noreferrer nofollow" target="_blank"><u>HSA | Regulatory overview of clinical trials​</u></a></strong> has
+Regs, the <a href="https://www.hsa.gov.sg/clinical-trials/overview" rel="noopener noreferrer nofollow" target="_blank"><u>HSA Regulatory overview of clinical trials​</u></a> has
 been amended to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -88,8 +104,8 @@ for export approval for consignments of codeine-containing clinical research
 materials, to align with the requirements under the TP Regs.</p>
 </li>
 </ul>
-<p>Please contact HSA at <strong><a href="https://sso.agc.gov.sg/SL/HPA2007-S332-2016" rel="noopener noreferrer nofollow" target="_blank"><u>HSA_CT@hsa.gov.sg</u></a></strong> should
-you require any clarifications.</p>
+<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> should
+you require further clarifications to the above.</p>
 <p></p>
 <hr>
 <h4><strong>IMPORTANT NOTICE: [HSA Clinical Trials] UPDATES ON THE IMPLEMENTATION OF THE CELL, TISSUE AND GENE THERAPY PRODUCTS FRAMEWORK (1 MAR 2021)</strong></h4>
