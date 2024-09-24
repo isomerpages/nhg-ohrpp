@@ -203,5 +203,8 @@ should you require further clarifications.</p>
 </li>
 </ul>
 <p></p>
+<p>
+<br>
+</p>
 <p><strong>** Disclaimer: Readers are advised to refer to Singapore Statues Online Website, HSA website for the latest information related to Clinical Trials, regulations and HSA Clinical Trial Regulatory Guidance.​</strong>
 </p>
