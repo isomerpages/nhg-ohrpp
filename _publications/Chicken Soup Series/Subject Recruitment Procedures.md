@@ -9,7 +9,8 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Sep 2024) Pre-Screening Processes – Whose Responsibility?</p>
+<p><a href="/files/Chicken Soup/SubjectRecruitment/Sep_2024_Pre_Screening_Processes.pdf" rel="noopener noreferrer nofollow" target="_blank">(Sep 2024) Pre-Screening Processes – Whose Responsibility?</a>
+</p>
 </li>
 <li>
 <p><a href="/files/Chicken Soup/SubjectRecruitment/May_24__What_Should_Be_Done_If_Subject_Recruitment_Was_Not_Done_According_To_IRB_Approved_Protocol.pdf" rel="noopener noreferrer nofollow" target="_blank">(May 2024) What should be done if Subject Recruitment was not done according to IRB Approved Protocol</a>
