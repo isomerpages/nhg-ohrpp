@@ -29,13 +29,13 @@ in the ECOS system, and what you can do with them.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ResearchPolicySOPUpdates/Jul_24__RCR__Authorship_and_Publications.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">July 2024 : Responsible Conduct of Research (RCR) - Authorship and Publications</div><div class="isomer-card-description">Learn about the criteria for authorship, good publication practices, and how to avoid authorship disputes for a successful publication.</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ECOS/Jun_24__ECOS___How_to_Add_Team_Members_in_Clinical_Research_Management__CRMS_.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">June 2024: (ECOS) How to Add Team Members in Clinical Research Management
 (CRMS)</div>
 <div class="isomer-card-description">Do you know how to add new Team Members to a Study in ECOS? Download a
 quick and easy guide here!</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Read more</div>
 </div>
 </a>
 </div>
