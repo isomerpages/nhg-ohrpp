@@ -90,7 +90,6 @@ their research applications for submission to the DSRB via the ECOS system.</p>
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 </div>
