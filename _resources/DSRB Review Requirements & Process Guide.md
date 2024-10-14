@@ -82,7 +82,7 @@ their research applications for submission to the DSRB via the ECOS system.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/DSRB Guide/(D) DSRB Process n Deadlines/D02_Overview_DSRB_Application_n_Review_Process_Outcome_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">DSRB Submission Deadlines &amp; Full Board Meeting Dates</a>
+<p><a href="/files/DSRB Guide/(D) DSRB Process n Deadlines/D01_DSRB_Submission_Deadlines_n_Full_Board_Meeting_Dates_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">DSRB Submission Deadlines &amp; Full Board Meeting Dates</a>
 </p>
 </li>
 <li>
