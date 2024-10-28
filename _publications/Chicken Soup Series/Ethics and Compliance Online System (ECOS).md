@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/ECOS/oct_24__ecos_how to manage multi-site studies.pdf" rel="noopener noreferrer nofollow" target="_blank">(Oct 2024) ECOS - How to Manage Multi-Site Studies (via CRMS Module)</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/ECOS/Aug_24__Understanding_ECOS_CRMS_Non_Investigator_Roles.pdf" rel="noopener noreferrer nofollow" target="_blank">(Aug 2024) Understanding ECOS CRMS Non-Investigator Roles</a>
 </p>
 </li>
