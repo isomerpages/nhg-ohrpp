@@ -20,7 +20,7 @@ for you!</p>
 <p></p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ECOS/oct_24__ecos_how_to_manage_multi-site_studies.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Oct 2024: (ECOS) How to Manage Multi-Site Studies (via CRMS Module)</div><div class="isomer-card-description">Learn more about how researchers can set up and manage multiple Study Sites in ECOS by using the ECOS Clinical Research Management System (CRMS) module.</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ECOS/oct_24__ecos_how_to_manage_multi-site_studies.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Oct 2024: ECOS - How to Manage Multi-Site Studies (via CRMS Module)</div><div class="isomer-card-description">Learn more about how researchers can set up and manage multiple Study Sites in ECOS by using the ECOS Clinical Research Management System (CRMS) module.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/SubjectRecruitment/Sep_2024_Pre_Screening_Processes.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sep 2024 : Pre-Screening Processes – Whose Responsibility?</div>
