@@ -14,11 +14,11 @@ third_nav_title: Research Regulations
 HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Section I: <a href="/files/Conducting Research Files/Research Regulations/S1_HBRA_Framework_and_Requirements_v4_Apr23.pdf" rel="noopener noreferrer nofollow" target="_blank">HBR Background &amp; Framework</a></strong> 
+<p><strong>Section I: <a href="/files/Conducting Research Files/Research Regulations/S1_HBRA_Framework_and_Requirements_v4_Apr23.pdf" rel="noopener noreferrer nofollow" target="_blank">HBR Background &amp; Framework</a></strong>
 </p>
 </li>
 <li>
-<p><strong>Section II: <a href="/files/Conducting Research Files/Research Regulations/S2_HBRA_Studies_Excluded_from_HBRA_v4_Apr23.pdf" rel="noopener noreferrer nofollow" target="_blank">Studies excluded from HBRA</a> </strong>
+<p><strong>Section II: <a href="/files/Conducting Research Files/Research Regulations/S2_HBRA_Studies_Excluded_from_HBRA_v4_Apr23.pdf" rel="noopener noreferrer nofollow" target="_blank">Studies excluded from HBRA</a></strong>
 </p>
 </li>
 <li>
@@ -29,7 +29,7 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 <p><strong>Section IV: <a href="/files/Conducting Research Files/Research Regulations/S4_HBRA_and_its_implications_v4_Apr23.pdf" rel="noopener noreferrer nofollow" target="_blank">HBRA and its implications on Studies</a></strong>&nbsp;</p>
 </li>
 </ul>
-<h4><strong>HBR Resources </strong></h4>
+<h4><strong>HBR Resources</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://sso.agc.gov.sg/Act/HBRA2015" rel="noopener noreferrer nofollow" target="_blank"><u>Human&nbsp;Biomedical&nbsp;Research&nbsp;Act&nbsp;2015</u></a></strong>&nbsp;</p>
