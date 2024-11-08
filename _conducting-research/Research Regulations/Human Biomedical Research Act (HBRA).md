@@ -54,7 +54,7 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/f329c43f-8e16-49cd-827a-e8b80622dcc4/Guidance_on_consent_requirements19_Mar_2019_v6_3.pdf?MOD=AJPERES&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl" rel="noopener noreferrer nofollow" target="_blank"><u>Guidance on Consent Requirements</u></a></strong>
+<p><strong><a href="/files/Conducting Research Files/Research Regulations/Guidance_on_Consent_Requirements_v6_3_19Mar2019.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Guidance on Consent Requirements</u></a></strong>
 </p>
 </li>
 </ul>
