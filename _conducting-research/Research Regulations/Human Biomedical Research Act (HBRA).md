@@ -14,17 +14,19 @@ third_nav_title: Research Regulations
 HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Section I:</strong>  <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/18503a27-0f3c-4a18-b632-da57c3eacccc/S1+HBRA+Framework+and+Requirements_v4_Apr23pptx.pdf?MOD=AJPERES&amp;CVID=ouMTI25&amp;CVID=ouMTI25&amp;CVID=ouMTI25" rel="noopener noreferrer nofollow" target="_blank"><u>HBR Background &amp; Framework</u></a></strong>
+<p><strong>Section I: <a href="/files/Conducting Research Files/Research Regulations/S1_HBRA_Framework_and_Requirements_v4_Apr23.pdf" rel="noopener noreferrer nofollow" target="_blank">HBR Background &amp; Framework</a></strong>
 </p>
 </li>
 <li>
-<p><strong>Section II:</strong>  <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/eb32ea53-0417-49e0-a7c2-9ee5608cbd22/S2+HBRA-+Studies+Excluded+from+HBRA_v4_Apr23.pdf?MOD=AJPERES&amp;CVID=ouMTLRt&amp;CVID=ouMTLRt&amp;CVID=ouMTLRt" rel="noopener noreferrer nofollow" target="_blank"><u>Studies excluded from HBRA</u></a></strong>&nbsp;</p>
+<p><strong>Section II: <a href="/files/Conducting Research Files/Research Regulations/S2_HBRA_Studies_Excluded_from_HBRA_v4_Apr23.pdf" rel="noopener noreferrer nofollow" target="_blank">Studies excluded from HBRA</a></strong>
+</p>
 </li>
 <li>
-<p><strong>Section III</strong>: <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/7280c105-3702-4c9b-b04b-f713ab6f2445/S3+Prohibited+and+Restricted+Research_v4_Apr23.pdf?MOD=AJPERES&amp;CVID=ouMTPic&amp;CVID=ouMTPic&amp;CVID=ouMTPic" rel="noopener noreferrer nofollow" target="_blank"><u>Restricted &amp; Prohibited Research</u></a></strong>&nbsp;</p>
+<p><strong>Section III</strong>: <strong><a href="/files/Conducting Research Files/Research Regulations/S3_Prohibited_and_Restricted_Research_v4_Apr23.pdf" rel="noopener noreferrer nofollow" target="_blank">Restricted &amp; Prohibited Research</a></strong>
+</p>
 </li>
 <li>
-<p><strong>Section IV:</strong>  <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/4ffbc0ea-bfa4-4c7f-8d37-f760cc6374ca/S4+HBRA+and+its+implications_v4_Apr23.pdf?MOD=AJPERES&amp;CVID=ouMTSDb&amp;CVID=ouMTSDb&amp;CVID=ouMTSDb" rel="noopener noreferrer nofollow" target="_blank"><u>HBRA and its implications on studies</u></a></strong>&nbsp;</p>
+<p><strong>Section IV: <a href="/files/Conducting Research Files/Research Regulations/S4_HBRA_and_its_implications_v4_Apr23.pdf" rel="noopener noreferrer nofollow" target="_blank">HBRA and its implications on Studies</a></strong>&nbsp;</p>
 </li>
 </ul>
 <h4><strong>HBR Resources</strong></h4>
@@ -52,7 +54,7 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/f329c43f-8e16-49cd-827a-e8b80622dcc4/Guidance_on_consent_requirements19_Mar_2019_v6_3.pdf?MOD=AJPERES&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl&amp;CVID=obdsKZl" rel="noopener noreferrer nofollow" target="_blank"><u>Guidance on Consent Requirements</u></a></strong>
+<p><strong><a href="/files/Conducting Research Files/Research Regulations/Guidance_on_Consent_Requirements_v6_3_19Mar2019.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Guidance on Consent Requirements</u></a></strong>
 </p>
 </li>
 </ul>
