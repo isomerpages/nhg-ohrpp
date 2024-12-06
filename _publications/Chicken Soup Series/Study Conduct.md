@@ -9,7 +9,8 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(Nov 2024)</p>
+<p>(Nov 2024) Best Practices to Ensure Timely Submission to IRB for Study
+Continuing Review</p>
 </li>
 <li>
 <p><a href="/files/Chicken Soup/StudyConduct/Aug_22__Subject_Management_During_Covid_19___The_use_of_e_Informed_Consent.pdf" rel="noopener noreferrer nofollow" target="_blank">(Aug 2022) Subject Management During Covid-19 - The use of e-Informed Consent</a>
