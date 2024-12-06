@@ -20,7 +20,7 @@ for you!</p>
 <p></p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyConduct/Nov24_studyconduct.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Nov 2024: Best Practices to Ensure Timely Submission to IRB for Study Continuing Review</div><div class="isomer-card-description">Read more on Best Practices to Ensure Timely Submission to IRB for Study Continuing Review</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyConduct/nov24_studyconduct.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Nov 2024: Best Practices to Ensure Timely Submission to IRB for Study Continuing Review</div><div class="isomer-card-description">Read more on Best Practices to Ensure Timely Submission to IRB for Study Continuing Review</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ECOS/oct_24__ecos_how_to_manage_multi-site_studies.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Oct 2024: ECOS - How to Manage Multi-Site Studies (via CRMS Module)</div>
