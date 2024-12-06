@@ -26,7 +26,8 @@ in the poster below.</p>
 more information on the Clinical Research Coordinator Society (CRCS) Forums,
 including details about past forums.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announce n Events/SCRI_poster.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announce n Events/SCRI_NHG_CRC_Appreciation_Day_2025_Flyer_v5.png">
 </div>
 <p></p>
