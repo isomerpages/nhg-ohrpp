@@ -7,3 +7,21 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>SCRI-NHG CRC Appreciation Day 2025</strong>
+</p>
+<p>We would like to announce the upcoming SCRI-NHG CRC Appreciation Day 2025.</p>
+<p>Join us for this webinar and Clinical Research Coordinator (CRC) Appreciation
+Day as we celebrate the achievements of CRCs on <u>21 February 2025</u>!
+Gain insights into the latest inspection findings and regulatory updates
+shaping today’s clinical research landscape.</p>
+<p><strong>How to Register:</strong>
+</p>
+<p>To secure your spot, please click the link below or scan the QR code provided
+in the poster below.</p>
+<p><strong><a href="https://for.sg/crc-workshop" rel="noopener noreferrer nofollow" target="_blank">Click here to register&nbsp;</a></strong>
+</p>
+<p><strong>Learn More:</strong>
+</p>
+<p><strong><a href="https://ethics.gri.nhg.com.sg/crcs-forums/" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;</strong>for
+more information on the Clinical Research Coordinator Society (CRCS) Forums,
+including details about past forums.</p>
