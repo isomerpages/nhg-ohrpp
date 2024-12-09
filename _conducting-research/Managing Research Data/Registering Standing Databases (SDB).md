@@ -1,5 +1,5 @@
 ---
-title: Registering Standing Databases (SBD)
+title: Registering Standing Databases (SDB)
 permalink: /registering-sbd/
 variant: tiptap
 description: ""
