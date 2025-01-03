@@ -69,6 +69,8 @@ research conduct operating on high ethical standards.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><a href="/files/OHRPP Post Its (Non NHG)/issue_33_dec_2024_ohrpp_post_its_non_nhg.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 33 (Dec 2024)</a>
+</p>
 <p><a href="/files/OHRPP Post Its (Non NHG)/Issue_32__Jul_2024__OHRPP_Post_Its__Non_NHG_.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 32 (Jul 2024)</a>
 </p>
 <p><a href="/files/OHRPP Post Its (Non NHG)/Issue_31__Dec_2023__OHRPP_Post_Its__Non_NHG_.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 31 (Dec 2023)</a>
