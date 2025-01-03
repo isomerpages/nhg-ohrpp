@@ -31,7 +31,7 @@ research conduct operating on high ethical standards.</p>
 <p></p>
 <p>(Restricted: NHG Intranet access required)</p>
 <p></p>
-<p><a href="/files/OHRPP Post Its (Non NHG)/issue_33_dec_2024_ohrpp_post_its_non_nhg.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 33 (Dec 2024)</a>
+<p><a href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_DEC_24_Newsletter_NHG.pdf" rel="noopener nofollow" target="_blank">Issue 33 (Dec 2024)</a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_JULY_24_Newsletter_NHG.pdf" rel="noopener nofollow" target="_blank">Issue 32 (Jul 2024)</a>
 </p>
