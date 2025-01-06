@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/DataCollectionSourceDocs/dec_24_electronic_patient_reported_outcomes.pdf" rel="noopener noreferrer nofollow" target="_blank">(Dec 2024) Use of Electronic Patient Reported Outcomes (ePRO) in Clinical Trials</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/DataCollectionSourceDocs/Nov_23__ALCOA_Principles_for_Source_Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank">(Nov 2023) ALCOA Principles for Source Documentation</a>
 </p>
 </li>
