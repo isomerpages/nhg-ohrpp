@@ -81,7 +81,7 @@ are participating in HBR in the capacity of NHG PI / Co-I / Collaborator
 of the online course do not need to repeat V.3 online course to meet the
 minimum training requirements but may do so for refresher or enhanced learning
 purposes. Please access our course via this eLEARN link <strong><a href="https://elearn.sg/nhg" rel="noopener noreferrer nofollow" target="_blank"><u>https://elearn.sg/nhg</u></a></strong>.</p>
-<p><strong>Information for NHG-based MOHH Residents &amp; NHG-based SAF Staff/Doctors</strong>:&nbsp;<strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/02ebd2b1-2eea-4fc8-90e2-9efcd0189f6a/%28Template%29+NHG-based+MOHH+Res+Note_Access+Request+to+HBR+ERC+Online_FINAL_CLEAN_310524.pdf?MOD=AJPERES&amp;CVID=o.ylpCt&amp;CVID=o.ylpCt" rel="noopener noreferrer nofollow" target="_blank"><u>(Template) NHG-based MOHH Residents</u></a></strong>
+<p><strong>Information for NHG-based MOHH Residents &amp; NHG-based SAF Staff/Doctors</strong>:&nbsp;<strong><a href="/files/Minimum Training/nhg_based_mohh_template_access_request_to_hbr_erc_online_guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>(Template) NHG-based MOHH Residents</u></a></strong>
 </p>
 <h4><strong>Supplementary Readings</strong></h4>
 <p>1. Information on Human Biomedical Research Act (HBRA) – Regulatory Framework
