@@ -37,7 +37,7 @@ differ according to their study roles. The Table below summarizes the minimum
 training requirements.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Conducting Research/Min Training Pics/MinTrainingRequirements.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="updated 21Jan2025" src="/images/Conducting Research/Min Training Pics/MinTrainingRequirements__20012025_.png">
 </div>
 <p><strong><sup>1 </sup></strong>All investigators, study team members and
 external institution staff involved in the design, conduct or reporting
@@ -75,19 +75,8 @@ commencement of their study involvement.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Note:&nbsp;</strong>
+<p><strong>Note:&nbsp;For Investigators and study team members from NHG partner institutions, please refer to the respective Research Institution (RI) HBR minimum training requirements.</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Partners who have collaborations with NHG have their own HBR Minimum Training
-(e.g., SingHealth, NUHS)</p>
-</li>
-<li>
-<p>Partners should contact their Research Institution (RI) / CRU/ RO regarding
-their cluster’s/institution’s minimum training policy/requirements.</p>
-</li>
-</ul>
-<p></p>
 <p>The SingHealth CIRB requirements will apply to staff from SingHealth and
 partner institutions who are involved in cross-cluster studies that are
 submitted to DSRB for review. Refer to the <strong><a href="https://www.singhealthdukenus.com.sg/research/rice/training-requirements" rel="noopener noreferrer nofollow" target="_blank"><u>CIRB website</u></a></strong> for
@@ -100,7 +89,7 @@ more details.</p>
 <br>Office of Human Research Protection Programme (OHRPP)
 <br>NHG Group Research &amp; Innovation
 <br>
-<br>Updated: 23 Aug 2024</p>
+<br>Updated: 21 Jan 2025</p>
 <p></p>
 <p></p>
 <p></p>

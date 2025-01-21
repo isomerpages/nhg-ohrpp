@@ -168,4 +168,18 @@ subject (Ver 2.0, Dated 26 Nov 2021)</p>
 </details>
 </div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Notice of Intent</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://for.sg/z1yo3l" rel="noopener nofollow" target="_blank">Notice of Intent Application Form (Ver 1, Dated 30 Mar 2012)</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p></p>
