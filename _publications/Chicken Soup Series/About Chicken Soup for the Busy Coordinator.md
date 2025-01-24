@@ -20,7 +20,7 @@ for you!</p>
 <p></p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InvestigatorFile/jan_25_Study_Audit_or_Inspection.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jan 2025: Study Audit or Inspection – The Activities Involved Before, During and After</div><div class="isomer-card-description">Read more on the activities involved before, during and after study audit or inspection. </div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InvestigatorFile/jan_2025_the_activities_involved.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jan 2025: Study Audit or Inspection – The Activities Involved Before, During and After</div><div class="isomer-card-description">Read more on the activities involved before, during and after study audit or inspection.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/DataCollectionSourceDocs/dec_24_electronic_patient_reported_outcomes.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dec 2024: Use of Electronic Patient Reported Outcomes (ePRO) in Clinical
