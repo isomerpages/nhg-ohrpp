@@ -9,7 +9,7 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Chicken Soup/InvestigatorFile/jan_2025_the_activities_involved .pdf" rel="noopener noreferrer nofollow" target="_blank">(Jan 2025) Study Audit or Inspection – The Activities Involved Before, During and After</a>
+<p><a href="/files/Chicken Soup/InvestigatorFile/jan_2025_the_activities_involved.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jan 2025) Study Audit or Inspection – The Activities Involved Before, During and After</a>
 </p>
 </li>
 <li>
