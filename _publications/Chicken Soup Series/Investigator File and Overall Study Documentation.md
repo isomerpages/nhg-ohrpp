@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/InvestigatorFile/jan_2025_the_activities_involved .pdf" rel="noopener noreferrer nofollow" target="_blank">(Jan 2025) Study Audit or Inspection – The Activities Involved Before, During and After</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/InvestigatorFile/Mar_24__What_You_Should_Know_About_Documentation____Certified_True_Copies_.pdf" rel="noopener noreferrer nofollow" target="_blank">(Mar 2024) What You Should Know About Documentation &amp; 'Certified True Copies'</a>
 </p>
 </li>
