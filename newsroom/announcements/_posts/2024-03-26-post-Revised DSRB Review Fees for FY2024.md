@@ -7,7 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Revised DSRB Review Fees for FY2024 (DSRB-260324)</strong></h4>
+<h4><strong>Revised DSRB Review Fees for FY2024 (DSRB-260324) (SUPERSEDED *)</strong></h4>
+<hr>
+<p><strong>*</strong> This Announcement will be superseded with effect <strong><u>from 1 April 2025</u></strong>.
+Please <a href="https://ethics.gri.nhg.com.sg/dsrb-review-fees-01apr2025/" rel="noopener nofollow" target="_blank">see here for more information</a><em>.</em>
+</p>
+<hr>
+<p></p>
+<p></p>
 <p><strong>26 Mar 2024&nbsp;&nbsp;</strong>
 </p>
 <p>Effective 01 April 2024, prices for the reviews of research applications
