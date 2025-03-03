@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Sponsors,</p>
-<p><strong>REVISED DSRB REVIEW FEES FOR INDUSTRY SPONSORED STUDIES (W.E.F 1 APR 2025)</strong>
+<p><strong>REVISED DSRB REVIEW FEES FOR INDUSTRY SPONSORED STUDIES (W.E.F 1 APRIL 2025)</strong>
 </p>
 <p>We would like to notify you about the revised review fees for new research
 applications, which will take effect <strong><u>from 1st April 2025</u></strong>:</p>
@@ -47,10 +47,10 @@ details.</p>
 <p>For any other queries on this update, please write to <a rel="noopener noreferrer nofollow" target="_blank">OHRPP@nhg.com.sg</a>.</p>
 <p>Yours sincerely
 <br>NHG DSRB</p>
-<p></p>
 <hr>
 <p></p>
-<h4><strong>ANNEX A: List of institutions under the respective healthcare clusters</strong></h4>
+<p></p>
+<h4><strong>Annex A: List of institutions under the respective healthcare clusters</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>National Healthcare Group (NHG)</strong>
@@ -197,8 +197,9 @@ details.</p>
 </div>
 </details>
 </div>
-<hr>
-<h4><strong>Annex B Payment Information</strong></h4>
+<p></p>
+<p></p>
+<h4><strong>Annex B: Payment Information</strong></h4>
 <p>Effective 1st April 2025, DSRB review fees for industry sponsored studies
 are required to be paid at the time of submission. This measure is implemented
 to prevent delays in issuing decision letters due to pending payments.</p>
@@ -209,7 +210,6 @@ the transaction details, e.g. DSRB 2023-1000-APP1.</p>
 <p>An invoice would be issued to acknowledge receipt of the review fee and
 would be sent to the contact person listed in the CRMS&gt;IRB Review Fees
 Billing Details.</p>
-<p>&nbsp;</p>
 <p><strong>Method of Payment</strong>
 </p>
 <p><u>Payment via Bank Transfer</u>
