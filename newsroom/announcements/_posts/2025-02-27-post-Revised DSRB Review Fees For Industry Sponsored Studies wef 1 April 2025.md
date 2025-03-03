@@ -47,3 +47,10 @@ details.</p>
 <p>For any other queries on this update, please write to <a rel="noopener noreferrer nofollow" target="_blank">OHRPP@nhg.com.sg</a>.</p>
 <p>Yours sincerely
 <br>NHG DSRB</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
