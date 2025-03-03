@@ -7,7 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Revised DSRB Review Fees for FY2024 (DSRB-260324)</strong></h4>
+<h4><strong>Revised DSRB Review Fees for FY2024 (DSRB-260324) (SUPERSEDED *)</strong></h4>
+<p>* <em>This Announcement will be superseded with effect </em><strong><em><u>from 1 April 2025</u></em></strong><em>. Please see here for details.</em>
+</p>
+<p></p>
+<p></p>
 <p><strong>26 Mar 2024&nbsp;&nbsp;</strong>
 </p>
 <p>Effective 01 April 2024, prices for the reviews of research applications
