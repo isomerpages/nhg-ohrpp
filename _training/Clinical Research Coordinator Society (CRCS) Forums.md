@@ -22,7 +22,8 @@ initiatives.
 are available for download below:</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>SCRI-NHG CRC Appreciation Day 2025 (21 Feb 2025)</summary>
+<summary><strong>SCRI-NHG CRC Appreciation Day 2025 (21 Feb 2025)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
