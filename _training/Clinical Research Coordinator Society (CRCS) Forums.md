@@ -22,6 +22,25 @@ initiatives.
 are available for download below:</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>SCRI-NHG CRC Appreciation Day 2025 (21 Feb 2025)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2fwww.hsa.gov.sg%2fdocs%2fdefault%2dsource%2fhprg%2dio%2dctb%2fslides%2dgcp%2flooking%2dback%2dat%2d2024%5f21feb2025.pdf%3fsfvrsn%3dfddefcf4%5f1&amp;umid=408D9F41-2F09-EC06-9758-D9A5A5BF7011&amp;auth=ce6a3f6d14c1e3e3f878a8a607dd7ee2cb794b08-04cb224d23cab3f7827c8d623b34d9ed7bf6349d" rel="noopener nofollow" target="_blank">Looking Back at 2024 - GCP Inspection Metrics for 2024 and Regulatory Updates</a>
+<br>By Sumitra Sachidanandan, Regulatory Consultant - GCP Unit
+<br>Innovation Office &amp; Clinical Trials Branch
+<br>Health Products Regulation Group
+<br>Health Sciences Authority Singapore</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong>Past CRCS Forums</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>CRCS Forum (26 Jan 2024)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -45,9 +64,6 @@ Innovation</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<h4><strong>Past CRCS Forums</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>CRCS Forum (6 Jan 2023)</strong>
