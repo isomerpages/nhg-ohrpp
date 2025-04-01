@@ -33,8 +33,9 @@ for its high standards in human subject protection.</p>
 <p>The DSRB comprises of six biomedical domains: Domains A to F. These Domains
 based on broad but related disease groupings while Domain F focuses on
 Population Health.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/About Us/OHRPP Units/DSRB_Domains_2Nov2012.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="DSRB Domains" src="/images/Ethics/DSRB_Domains_2Nov2012.jpg">
 </div>
 <p><strong><sup>NOTE: </sup></strong><sup>For Allied Health, Nursing &amp; Para-clinical research protocols, please select the most appropriate Domain according to the main disease type/condition being studied.</sup>
 </p>

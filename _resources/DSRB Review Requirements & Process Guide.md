@@ -7,7 +7,7 @@ description: ""
 <p>The <strong>DSRB Requirements &amp; Review Process Guide</strong> serves
 to provide you with information to help you understand the requirements
 of DSRB Application Processes (i.e. Exempt Review, Expedited Review, Full
-Board Review) and Common Errors made when filling in the ROAM Application
+Board Review) and Common Errors made when filling in the ECOS Application
 Form for both Biomedical and Population Health research.</p>
 <p>Researchers are encouraged to first read the various DSRB Requirements
 &amp; Review topics to be familiarized with the requirements prior to drafting
