@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/InformedConsent/mar_25_how_should_consent_be_obtained_for_the_collection_of_tissue.pdf" rel="noopener noreferrer nofollow" target="_blank">(Mar 2025) How Should Consent Be Obtained for the Collection of Tissue</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/InformedConsent/Mar_23__How_to_obtain_informed_consent_from_subjects_with_cognitive_impairment.pdf" rel="noopener noreferrer nofollow" target="_blank">(Mar 2023) How to obtain informed consent from subjects with cognitive impairment</a>
 </p>
 </li>
