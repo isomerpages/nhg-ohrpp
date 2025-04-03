@@ -9,7 +9,7 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Chicken Soup/InformedConsent/mar_25_how_should_consent_be_obtained_for_the_collection_of_tissue.pdf" rel="noopener noreferrer nofollow" target="_blank">(Mar 2025) How Should Consent Be Obtained for the Collection of Tissue</a>
+<p><a href="/files/Chicken Soup/InformedConsent/mar_25_how_should_consent_be_obtained_for_the_collection_of_tissue  .pdf" rel="noopener noreferrer nofollow" target="_blank">(Mar 2025) How Should Consent Be Obtained for the Collection of Tissue</a>
 </p>
 </li>
 <li>
