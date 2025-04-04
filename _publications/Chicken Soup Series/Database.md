@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/Databases/feb_25_how_to_store_research_data_for_future_research.pdf" rel="noopener noreferrer nofollow" target="_blank">(Feb 2025) Databases – How to store research data for future research?</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/Databases/Oct_22__Using_REDCap_as_Data_Collection_Tool_for_Research.pdf" rel="noopener noreferrer nofollow" target="_blank">(Oct 2022) Using REDCap as Data Collection Tool for Research</a>
 </p>
 </li>
