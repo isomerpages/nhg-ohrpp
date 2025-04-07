@@ -21,7 +21,7 @@ for you!</p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InformedConsent/Mar_25_How_Should_Consent_Be_Obtained_for_the_Collection_of_Tissue.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mar 2025: How Should Consent Be Obtained for the Collection of Tissue</div><div class="isomer-card-description">Find out more about tissue collection consent in future research.</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/Databases/Feb_25_How_to_store_research_data_for_future_research.pdf" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/Databases/feb_25_how_to_store_research_data_for_future_research.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Feb 2025: Standing Databases – How to store research data for future research?</div>
 <div class="isomer-card-description">Learn more about Standing Databases – How to store research data for future
