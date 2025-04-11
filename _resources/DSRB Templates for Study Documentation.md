@@ -183,11 +183,11 @@ subject (Ver 2.0, Dated 26 Nov 2021)</p>
 </details>
 </div>
 <p></p>
-<h4><strong>DSRB Softcopy Templates for Offline Submission</strong></h4>
-<p>The following templates are provided for Principal Investigators to draft
-and submit IRB forms to the DSRB in the event ECOS is not available. The
-DSRB will not accept the offline forms for review in any circumstances
-unless there is a system shutdown.</p>
+<h4><strong>DSRB Forms for Offline Submission During ECOS Shutdown</strong></h4>
+<p>The following softcopy DSRB Forms are provided for Principal Investigators
+to use and submit to the DSRB in the event that ECOS is not available (e.g.
+during system shutdown). The DSRB will not accept the softcopy forms for
+review in any other circumstances unless otherwise stated.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -218,7 +218,7 @@ unless there is a system shutdown.</p>
 </li>
 </ul>
 <p></p>
-<p>Download the <a href="https://for.sg/dsrbforms" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
+<p>Download the <a href="https://for.sg/dsrb-forms-110425" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
 </div>
 </details>
 </div>
