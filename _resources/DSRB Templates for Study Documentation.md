@@ -218,7 +218,7 @@ review in any other circumstances unless otherwise stated.</p>
 </li>
 </ul>
 <p></p>
-<p>Download the <a href="https://for.sg/dsrb-forms-110425" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
+<p>Download the <a href="https://for.sg/dsrbforms-110425" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
 </div>
 </details>
 </div>
