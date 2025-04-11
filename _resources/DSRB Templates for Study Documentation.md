@@ -218,7 +218,7 @@ unless there is a system shutdown.</p>
 </li>
 </ul>
 <p></p>
-<p>Download the Zip file package for the above Templates here.</p>
+<p>Download the <a href="https://for.sg/dsrbforms" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
 </div>
 </details>
 </div>
