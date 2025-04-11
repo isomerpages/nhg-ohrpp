@@ -218,7 +218,7 @@ unless there is a system shutdown.</p>
 </li>
 </ul>
 <p></p>
-<p>Download the</p>
+<p>Download the Zip file package for the above Templates here.</p>
 </div>
 </details>
 </div>
