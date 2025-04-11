@@ -219,6 +219,8 @@ review in any other circumstances unless otherwise stated.</p>
 </ul>
 <p></p>
 <p>Download the <a href="https://for.sg/dsrbforms-110425" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
+<p>Please save the document to your local drive, to enable the macro features.</p>
+<p></p>
 </div>
 </details>
 </div>
