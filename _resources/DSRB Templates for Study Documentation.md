@@ -183,3 +183,44 @@ subject (Ver 2.0, Dated 26 Nov 2021)</p>
 </details>
 </div>
 <p></p>
+<h4><strong>DSRB Forms for Offline Submission During ECOS Shutdown</strong></h4>
+<p>The following softcopy DSRB Forms are provided for Principal Investigators
+to use and submit to the DSRB in the event that ECOS is not available (e.g.
+during system shutdown). The DSRB will not accept the softcopy forms for
+review in any other circumstances unless otherwise stated.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>DSRB Forms</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>IRB Application Form</p>
+</li>
+<li>
+<p>IRB Application Form (Exempt)</p>
+</li>
+<li>
+<p>Amendment Cover Note</p>
+</li>
+<li>
+<p>Study Status Report Form</p>
+</li>
+<li>
+<p>Study Deviation / Non-Compliance Form</p>
+</li>
+<li>
+<p>Serious Adverse Event Form</p>
+</li>
+<li>
+<p>UPIRTSO Form</p>
+</li>
+</ul>
+<p></p>
+<p>Download the <a href="https://for.sg/dsrbforms-110425" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
