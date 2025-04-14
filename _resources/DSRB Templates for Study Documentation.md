@@ -183,10 +183,10 @@ subject (Ver 2.0, Dated 26 Nov 2021)</p>
 </details>
 </div>
 <p></p>
-<h4><strong>DSRB Forms for Offline Submission During ECOS Shutdown</strong></h4>
+<h4><strong>DSRB Forms for Offline Submission During ECOS Downtime</strong></h4>
 <p>The following softcopy DSRB Forms are provided for Principal Investigators
 to use and submit to the DSRB in the event that ECOS is not available (e.g.
-during system shutdown). The DSRB will not accept the softcopy forms for
+during system downtime). The DSRB will not accept the softcopy forms for
 review in any other circumstances unless otherwise stated.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">

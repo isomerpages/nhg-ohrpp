@@ -180,7 +180,7 @@ updated:&nbsp;21-Mar-24)</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-005%20CAPA%20Template.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-005:&nbsp;Corrective&nbsp;Action&nbsp;and&nbsp;Preventive&nbsp;Action&nbsp;Plan&nbsp;(Effective&nbsp;05-Mar-2020)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-005%20CAPA%20Template.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-005:&nbsp;Corrective&nbsp;Action&nbsp;and&nbsp;Preventive&nbsp;Action&nbsp;Plan&nbsp;(Effective&nbsp;23-Dec-2024)</u></a>
 </p>
 </li>
 <li>
