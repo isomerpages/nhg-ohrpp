@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/InvestigatorFile/apr_25_discrepancies_between_irb _form_&amp;_study_documents.pdf" rel="noopener noreferrer nofollow" target="_blank">(Apr 2025) Preventing Information Discrepancies between IRB Application Form &amp; Study Documents</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/InvestigatorFile/jan_2025_the_activities_involved.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jan 2025) Study Audit or Inspection – The Activities Involved Before, During and After</a>
 </p>
 </li>
