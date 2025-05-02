@@ -9,7 +9,7 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Chicken Soup/InvestigatorFile/apr_25_discrepancies_between_irb _form_&amp;_study_documents.pdf" rel="noopener noreferrer nofollow" target="_blank">(Apr 2025) Preventing Information Discrepancies between IRB Application Form &amp; Study Documents</a>
+<p><a href="/files/Chicken Soup/InvestigatorFile/apr_25_discrepancies_between_IRB_application_form_and_study_documents_revised.pdf" rel="noopener nofollow" target="_blank">(Apr 2025) Preventing Information Discrepancies between IRB Application Form &amp; Study Documents</a>
 </p>
 </li>
 <li>
