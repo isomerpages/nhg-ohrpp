@@ -20,7 +20,7 @@ for you!</p>
 <p></p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InvestigatorFile/apr_25_discrepancies_between_irb%20_form_&amp;_study_documents.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Apr 2025: Preventing Information Discrepancies between IRB Application Form &amp; Study Documents</div><div class="isomer-card-description">Find out more about how to ensure study information is consistent between IRB Application Form and Study Documents.</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InvestigatorFile/apr_25_discrepancies_between_IRB_application_form_and_study_documents_revised.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Apr 2025: Preventing Information Discrepancies between IRB Application Form &amp; Study Documents</div><div class="isomer-card-description">Find out more about how to ensure study information is consistent between IRB Application Form and Study Documents.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InformedConsent/mar_25_how_should_consent_be_obtained_for_the_collection_of_tissue.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mar 2025: How Should Consent Be Obtained for the Collection of Tissue</div>
