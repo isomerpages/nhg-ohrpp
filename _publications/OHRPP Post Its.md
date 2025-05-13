@@ -12,11 +12,11 @@ events, educational resources and research tools from OHRPP to facilitate
 research conduct operating on high ethical standards.</p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_DEC_24_Newsletter_NHG.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Current Issue for NHG Staff *</div><div class="isomer-card-link">Issue 33 (Dec 2024)</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/issue_33_dec_2024_ohrpp_post_its_non_nhg.pdf" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/issue_34_may_2025_ohrpp_post_its.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Current Issue for NHG Staff *</div><div class="isomer-card-link">Issue 34 (May 2025)</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/issue_34_may_2025_ohrpp_post_its.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Current Issue for Non-NHG readers</div>
-<div class="isomer-card-link">Issue 33 (Dec 2024)</div>
+<div class="isomer-card-link">Issue 34 (May 2025)</div>
 </div>
 </a>
 </div>
@@ -31,6 +31,8 @@ research conduct operating on high ethical standards.</p>
 <p></p>
 <p>(Restricted: NHG Intranet access required)</p>
 <p></p>
+<p><a href="/files/OHRPP Post Its (Non NHG)/issue_34_may_2025_ohrpp_post_its.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 34 (May 2025)</a>
+</p>
 <p><a href="https://mynhg.nhg.com.sg/div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_DEC_24_Newsletter_NHG.pdf" rel="noopener nofollow" target="_blank">Issue 33 (Dec 2024)</a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_JULY_24_Newsletter_NHG.pdf" rel="noopener nofollow" target="_blank">Issue 32 (Jul 2024)</a>
@@ -71,6 +73,8 @@ research conduct operating on high ethical standards.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><a href="/files/OHRPP Post Its (Non NHG)/issue_34_may_2025_ohrpp_post_its.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 34 (May 2025)</a>
+</p>
 <p><a href="/files/OHRPP Post Its (Non NHG)/issue_33_dec_2024_ohrpp_post_its_non_nhg.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 33 (Dec 2024)</a>
 </p>
 <p><a href="/files/OHRPP Post Its (Non NHG)/Issue_32__Jul_2024__OHRPP_Post_Its__Non_NHG_.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 32 (Jul 2024)</a>
