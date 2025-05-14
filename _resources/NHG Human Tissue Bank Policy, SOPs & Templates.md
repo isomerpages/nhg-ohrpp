@@ -90,23 +90,23 @@ tissue banking activities.</p>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1503-02%20Tissue%20Bank%20SOP%20Communication%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-02&nbsp;Tissue&nbsp;Bank&nbsp;SOP&nbsp;Communication&nbsp;Log</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1503-03%20Donor%20Screening%20and%20Enrollment%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-03&nbsp;Donor&nbsp;Screening&nbsp;and&nbsp;Enrollment&nbsp;Log</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1503-03%20Donor%20Screening%20and%20Enrollment%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-03&nbsp;Donor&nbsp;Screening&nbsp;and&nbsp;Enrollment&nbsp;Log</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1503-04%20Donor%20Identification%20log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-04&nbsp;Donor&nbsp;Identification&nbsp;log</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1503-04%20Donor%20Identification%20log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-04&nbsp;Donor&nbsp;Identification&nbsp;log</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1503-05%20Speciment%20Inventory%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-05&nbsp;Specimen&nbsp;Inventory&nbsp;Log</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1503-05%20Speciment%20Inventory%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-05&nbsp;Specimen&nbsp;Inventory&nbsp;Log</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1503-06%20Temperature%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-06&nbsp;Temperature&nbsp;Log</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1503-06%20Temperature%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-06&nbsp;Temperature&nbsp;Log</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1503-07%20Specimen%20Destruction%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-07&nbsp;Specimen&nbsp;Destruction&nbsp;Log</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1503-07%20Specimen%20Destruction%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-07&nbsp;Specimen&nbsp;Destruction&nbsp;Log</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1503-08%20Tissue%20Team%20Meeting%20Attendance%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-08 Tissue Team Meeting Attendance Log</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1503-08%20Tissue%20Team%20Meeting%20Attendance%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-08 Tissue Team Meeting Attendance Log</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1503-09%20Human%20Tissue%20Informed%20Consent%20Form%20Information%20Tracking%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-09&nbsp;Human&nbsp;Tissue&nbsp;Informed&nbsp;Consent&nbsp;Form&nbsp;Information&nbsp;Tracking&nbsp;Log</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1503-09%20Human%20Tissue%20Informed%20Consent%20Form%20Information%20Tracking%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-09&nbsp;Human&nbsp;Tissue&nbsp;Informed&nbsp;Consent&nbsp;Form&nbsp;Information&nbsp;Tracking&nbsp;Log</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1503-10%20Untoward%20Occurrence%20and%20Serious%20Adverse%20Event%20Tracking%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-10 Untoward Occurrence/ Serious Adverse Event Tracking Log</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1503-10%20Untoward%20Occurrence%20and%20Serious%20Adverse%20Event%20Tracking%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-10 Untoward Occurrence/ Serious Adverse Event Tracking Log</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1503-11%20Non-compliance%20Tracking%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-11 Non-Compliance / Protocol Deviation Tracking Log</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1503-11%20Non-compliance%20Tracking%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-11 Non-Compliance / Protocol Deviation Tracking Log</u></a>
 </p>
 <p></p>
 </div>
@@ -118,7 +118,7 @@ tissue banking activities.</p>
 <summary><strong>Forms</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1504-02%20Training%20Record%20Form.doc" rel="noopener noreferrer nofollow" target="_blank"><u>1504-02&nbsp;Training&nbsp;Record&nbsp;Form</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-02%20Training%20Record%20Form.doc" rel="noopener noreferrer nofollow" target="_blank"><u>1504-02&nbsp;Training&nbsp;Record&nbsp;Form</u></a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1504-03%20Laboratory%20Request%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-03&nbsp;Laboratory&nbsp;Request&nbsp;Form</u></a>
 </p>
