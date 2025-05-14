@@ -120,17 +120,15 @@ tissue banking activities.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-02%20Training%20Record%20Form.doc" rel="noopener noreferrer nofollow" target="_blank"><u>1504-02&nbsp;Training&nbsp;Record&nbsp;Form</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1504-03%20Laboratory%20Request%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-03&nbsp;Laboratory&nbsp;Request&nbsp;Form</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-03%20Laboratory%20Request%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-03&nbsp;Laboratory&nbsp;Request&nbsp;Form</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1504-04%20Tissue%20Specimen%20Request%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-04&nbsp;Tissue&nbsp;Specimen&nbsp;Request&nbsp;Form</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-04%20Tissue%20Specimen%20Request%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-04&nbsp;Tissue&nbsp;Specimen&nbsp;Request&nbsp;Form</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1504-05%20Tissue%20Specimen%20Retrieval%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-05&nbsp;Tissue Specimen Retrieval&nbsp;Form</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-05%20Tissue%20Specimen%20Retrieval%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-05&nbsp;Tissue Specimen Retrieval&nbsp;Form</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1504-06%20Withdrawal%20of%20Participation%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-06&nbsp;Withdrawal&nbsp;of&nbsp;Participation&nbsp;Form</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-06%20Withdrawal%20of%20Participation%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-06&nbsp;Withdrawal&nbsp;of&nbsp;Participation&nbsp;Form</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1504-07%20Custodian%20Self%20Assessment%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-07&nbsp;Custodian&nbsp;Self-Assessment&nbsp;Form</u></a>
-</p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1504-08%20Tissue%20Collection%20Activity%20Self%20Assessment%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-08&nbsp;Tissue&nbsp;Collection&nbsp;Activity&nbsp;Self-Assessment&nbsp;Form</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-09%20Tissue%20Handover%20Form.docx" rel="noopener nofollow" target="_blank">1504-09 Tissue Handover Form</a>
 </p>
 <p></p>
 </div>
