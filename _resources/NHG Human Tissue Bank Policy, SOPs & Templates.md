@@ -86,9 +86,9 @@ tissue banking activities.</p>
 <summary><strong>Logs</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1503-01%20Tissue%20Responsibility%20and%20Delegation%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-01 Tissue Responsibility and Delegation Log</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1503-01%20Tissue%20Responsibility%20and%20Delegation%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-01 Tissue Responsibility and Delegation Log</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1503-02%20Tissue%20Bank%20SOP%20Communication%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-02&nbsp;Tissue&nbsp;Bank&nbsp;SOP&nbsp;Communication&nbsp;Log</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1503-02%20Tissue%20Bank%20SOP%20Communication%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-02&nbsp;Tissue&nbsp;Bank&nbsp;SOP&nbsp;Communication&nbsp;Log</u></a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)/Forms%20and%20Templates/1503-03%20Donor%20Screening%20and%20Enrollment%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1503-03&nbsp;Donor&nbsp;Screening&nbsp;and&nbsp;Enrollment&nbsp;Log</u></a>
 </p>
