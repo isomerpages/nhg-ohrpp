@@ -211,14 +211,23 @@ review in any other circumstances unless otherwise stated.</p>
 <p>Study Deviation / Non-Compliance Form</p>
 </li>
 <li>
+<p>UPIRTSO Form</p>
+</li>
+<li>
 <p>Serious Adverse Event Form</p>
 </li>
 <li>
-<p>UPIRTSO Form</p>
+<p>Other Study Notifications Form</p>
+</li>
+<li>
+<p>Department Representative (DR) Endorsement Form</p>
+</li>
+<li>
+<p>Institution Representative (IR) Endorsement Form</p>
 </li>
 </ul>
 <p></p>
-<p>Download the <a href="https://for.sg/dsrbforms-110425" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
+<p>Download the <a href="https://for.sg/dsrb-forms-290525" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
 <p>Please save the document to your local drive, to enable the macro features.</p>
 <p></p>
 </div>
