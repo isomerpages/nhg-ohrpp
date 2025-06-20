@@ -20,20 +20,19 @@ for you!</p>
 <p></p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InvestigatorFile/apr_25_discrepancies_between_IRB_application_form_and_study_documents_revised.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Apr 2025: Preventing Information Discrepancies between IRB Application Form &amp; Study Documents</div><div class="isomer-card-description">Find out more about how to ensure study information is consistent between IRB Application Form and Study Documents.</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/SubjectRecruitment/jun_25_special_edition.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Special Edition: Contacting Potential Subjects for Research</div><div class="isomer-card-description">Learn more about what you should do to properly contact potential subjects for research</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ResearchPolicySOPUpdates/may25_rcr_peer review.pdf" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">May 2025: Responsible Conduct of Research (RCR) – Peer Review</div>
+<div class="isomer-card-description">Find out more on handling conflicts of interest and maintaining ethics
+in peer review.</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InvestigatorFile/apr_25_discrepancies_between_IRB_application_form_and_study_documents_revised.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Apr 2025: Preventing Information Discrepancies between IRB Application Form &amp; Study Documents</div><div class="isomer-card-description">Find out more about how to ensure study information is consistent between IRB Application Form and Study Documents.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InformedConsent/mar_25_how_should_consent_be_obtained_for_the_collection_of_tissue.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mar 2025: How Should Consent Be Obtained for the Collection of Tissue</div>
 <div class="isomer-card-description">Find out more about tissue collection consent in future research.</div>
-<div class="isomer-card-link">Read more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/Databases/feb_25_how_to_store_research_data_for_future_research.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Feb 2025: Standing Databases – How to store research data for future research?</div><div class="isomer-card-description">Learn more about Standing Databases – How to store research data for future research?</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InvestigatorFile/jan_2025_the_activities_involved.pdf" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Jan 2025: Study Audit or Inspection – The Activities Involved Before,
-During and After</div>
-<div class="isomer-card-description">Read more on the activities involved before, during and after study audit
-or inspection.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a>
