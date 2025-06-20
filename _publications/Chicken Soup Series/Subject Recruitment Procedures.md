@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/SubjectRecruitment/jun_25_special_edition.pdf" rel="noopener noreferrer nofollow" target="_blank">Special Edition: Contacting Potential Subjects for Research</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/SubjectRecruitment/Sep_2024_Pre_Screening_Processes.pdf" rel="noopener noreferrer nofollow" target="_blank">(Sep 2024) Pre-Screening Processes – Whose Responsibility?</a>
 </p>
 </li>
