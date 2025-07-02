@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/SubjectRecruitment/jun_25_designingresearchrecruitmentposters_vs_awarenessposters.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jun 2025) Designing Research Recruitment Posters VS Awareness Posters</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/SubjectRecruitment/jun_25_special_edition.pdf" rel="noopener noreferrer nofollow" target="_blank">Special Edition: Contacting Potential Subjects for Research</a>
 </p>
 </li>
