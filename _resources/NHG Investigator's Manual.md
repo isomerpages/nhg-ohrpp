@@ -19,7 +19,7 @@ conduct for Investigators, Researchers &amp; Study Administrators.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Download the <a href="/files/Investigator Manual/im_summary_of_change_jun25.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes to the NHG Investigator Manual here</a> (Last
-updated: 21 Nov 2023).</p>
+updated: 1 July 2025).</p>
 </li>
 </ul>
 <p></p>
