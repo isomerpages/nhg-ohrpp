@@ -36,6 +36,7 @@ trial outcomes.</p>
 </ul>
 <p>Staff of <u>NHG and partner institutions</u> can register for CITI Training
 by following the instructions <em><a href="https://ethics.gri.nhg.com.sg/citi-trainingprogm/" rel="noopener noreferrer nofollow" target="_blank">here</a></em>.</p>
+<hr>
 <p></p>
 <p><strong>Study staff could <u>either</u>:</strong>
 </p>
@@ -60,5 +61,18 @@ E6 (R3) GCP updates reading completed.</p>
 <p><strong>* </strong>Training records should clearly identify the individual
 who completed the training, specify the training completed [i.e. ICH GCP
 E6 (R3)], training mode and training completion date. You may refer to
-a sample of a training record form. <em>&lt;&lt; Insert Link to document uploaded on OHRPP Website Announcement Page&gt;&gt;</em>
+a sample of a training record form.</p>
+<p></p>
+<p><strong><u>Records Keeping:</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Training completion records should be filed in the <u>Investigator Site File</u>.</p>
+</li>
+<li>
+<p>To ensure your ECOS training records remain contemporaneous, upload your
+ICH E6 (R3) GCP training records promptly. <em>Refer to the <a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener noreferrer nofollow" target="_blank">ECOS Minimum Training User Guide</a> for instructions on how to upload the information on ECOS.</em>
+</p>
+</li>
+</ul>
+<p></p>
