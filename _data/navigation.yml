@@ -1,4 +1,4 @@
-logo: /images/Logo/NHG_Logo__1000x900.jpg
+logo: /images/Logo/NHG_Logo_Flatcolour_RGB.png
 links:
   - title: About Us
     collection: about-us
@@ -25,3 +25,7 @@ links:
         url: /about-publications/
   - title: Contact Us
     url: /contact-us/
+  - title: ECOS Guides
+    url: https://ecossupport.gri.nhg.com.sg/userguides/
+  - title: ECOS Login
+    url: https://www.ecos-research.com.sg/login

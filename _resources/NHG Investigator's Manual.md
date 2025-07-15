@@ -13,17 +13,13 @@ the research maze.</p>
 requirements (especially the revised regulatory framework for clinical
 trials), ethical provisions and institutional policies governing research
 conduct for Investigators, Researchers &amp; Study Administrators.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Download the <a href="/files/Investigator Manual/NHG_Investigator_Manual_4th_Edition.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Investigator’s Manual -&nbsp;All that an Investigator Needs to Know (4th Edition) here</a>.</p>
-</li>
-</ul>
+<p></p>
 <p></p>
 <h4><strong>Summary of Updates</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/files/Investigator Manual/IM_Summary_of_Change_21Nov2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes to the NHG Investigator Manual here</a> (Last
-updated: 21 Nov 2023).</p>
+<p>Download the <a href="/files/Investigator Manual/im_summary_of_change_jun25.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes to the NHG Investigator Manual here</a> (Last
+updated: 1 July 2025).</p>
 </li>
 </ul>
 <p></p>
@@ -32,18 +28,19 @@ updated: 21 Nov 2023).</p>
 above NHG Investigator’s Manual which are of interest.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Investigator Manual/IM_Cover_And_Foreword.pdf" rel="noopener noreferrer nofollow" target="_blank">Cover &amp; Foreword</a>
+<p><a href="/files/Investigator Manual/im_cover_and_foreword.pdf" rel="noopener noreferrer nofollow" target="_blank">Cover &amp; Foreword</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_Content_Page.pdf" rel="noopener noreferrer nofollow" target="_blank">Content Page</a>
+<p><a href="/files/Investigator Manual/im_content_page.pdf" rel="noopener noreferrer nofollow" target="_blank">Content Page</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_Chapter_1_Research_Governance.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 1 -&nbsp;Research Governance</a>&nbsp;</p>
+<p><a href="/files/Investigator Manual/im_chapter_1_research_governance.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 1 -&nbsp;Research Governance</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_Chapter_2_Regulation_Requirements.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 2 -&nbsp;Regulation Requirements</a>&nbsp;</p>
+<p><a href="/files/Investigator Manual/im_chapter_2_regulation_requirements.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 2 -&nbsp;Regulation Requirements</a>&nbsp;</p>
 </li>
 <li>
 <p><a href="/files/Investigator Manual/IM_Chapter_3_The_Study_Team.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 3 -&nbsp;The Study Team</a>&nbsp;</p>
@@ -55,17 +52,21 @@ above NHG Investigator’s Manual which are of interest.</p>
 <p><a href="/files/Investigator Manual/IM_Chapter_5_Informed_Consent.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 5 -&nbsp;Informed Consent</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_Chapter_6_Vulnerable_Population.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 6 - Vulnerable Population</a>
+<p><a href="/files/Investigator Manual/im_chapter_6_vulnerable_population.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 6 - Vulnerable Population</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_Chapter_7_Study_Conduct.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 7 - Study Conduct</a>&nbsp;</p>
+<p><a href="/files/Investigator Manual/im_chapter_7_study_conduct.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 7 - Study Conduct</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_Chapter_8_Standing_Database.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 8 - Standing Database</a>&nbsp;</p>
+<p><a href="/files/Investigator Manual/im_chapter_8_standing_database.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 8 - Standing Database</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_Chapter_9_Tissue_Repository.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 9 - Tissue Repository</a>&nbsp;</p>
+<p><a href="/files/Investigator Manual/im_chapter_9_tissue_repository.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 9 - Tissue Repository</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="/files/Investigator Manual/references_suggest_readings_links_jun25.pdf" rel="noopener noreferrer nofollow" target="_blank">References and Suggested Readings and Links</a>
+</p>
 </li>
 </ul>
 <p></p>
