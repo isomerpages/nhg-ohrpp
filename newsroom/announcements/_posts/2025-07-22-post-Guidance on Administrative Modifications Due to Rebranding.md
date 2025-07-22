@@ -11,9 +11,8 @@ variant: tiptap
 how the changes will affect research activities and ECOS access.</p>
 <p>Purely administrative changes to research documents arising from the rebranding
 exercise <u>WILL NOT</u> require IRB amendment submissions.</p>
-<p>Please read on for details.</p>
-<p><strong><u>Guidance on Administrative Modifications Due to Rebranding</u></strong>
-</p>
+<p></p>
+<h4><strong><u>Guidance on Administrative Modifications Due to Rebranding</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Changes Not Requiring IRB Amendment</strong>
@@ -24,7 +23,7 @@ exercise <u>WILL NOT</u> require IRB amendment submissions.</p>
 if changes are strictly limited to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Cluster logo and name updates (ex. NHG -&gt; NHG Health)</p>
+<p>Cluster logo and name updates (e.g. NHG to NHG Health)</p>
 </li>
 <li>
 <p>Website hyperlink modifications</p>
@@ -98,7 +97,7 @@ during the transition</p>
 </li>
 </ul>
 <p>OHRPP is reviewing the impact on ECOS access to studies and will update
-again soon.</p>
-<p>If you have any questions on this matter, please write in to <a rel="noopener noreferrer nofollow" target="_blank">OHRPP@nhg.com.sg</a>
+again.</p>
+<p>If you have any questions on the above, please write in to <a rel="noopener noreferrer nofollow" target="_blank">OHRPP@nhg.com.sg</a>
 </p>
 <p>&nbsp;</p>
