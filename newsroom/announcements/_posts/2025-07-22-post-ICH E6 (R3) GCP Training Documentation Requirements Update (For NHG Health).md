@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>[For NHG Health Institution Staff Only]</strong>
-</p>
 <p>As the<strong> </strong>ICH E6 (R3) GCP guidelines will take effect from <u>1 Jan 2026</u> in
 Singapore,<strong> all NHG Investigators</strong> and <strong>study team members </strong>conducting
 significant trial-related tasks in clinical trials regulated by Health
