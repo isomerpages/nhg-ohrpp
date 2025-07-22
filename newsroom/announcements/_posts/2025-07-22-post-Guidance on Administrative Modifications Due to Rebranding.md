@@ -23,8 +23,7 @@ exercise <u>WILL NOT</u> require IRB amendment submissions.</p>
 if changes are strictly limited to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Cluster logo and name updates (e.g. all NHG Health Investigators and study
-team members)</p>
+<p>Cluster logo and name updates (e.g. NHG to NHG Health)</p>
 </li>
 <li>
 <p>Website hyperlink modifications</p>
