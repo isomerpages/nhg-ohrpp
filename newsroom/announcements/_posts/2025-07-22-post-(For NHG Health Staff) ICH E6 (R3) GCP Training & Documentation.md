@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>As the<strong> </strong>ICH E6 (R3) GCP guidelines will take effect from <u>1 Jan 2026</u> in
-Singapore,<strong> all NHG Investigators</strong> and <strong>study team members </strong>conducting
+Singapore,<strong> all NHG Health Investigators</strong> and <strong>study team members </strong>conducting
 significant trial-related tasks in clinical trials regulated by Health
 Sciences Authority (HSA) are requested to upkeep their knowledge and understanding
 of GCP so as to perform the gap analysis of existing clinical trial protocols,
@@ -25,7 +25,7 @@ procedures and practices, by completing relevant <strong>ICH E6 (R3) GCP trainin
 </li>
 </ul>
 <p></p>
-<p>Note: From 1 Oct 2025, <strong>NHG Principal Investigators (PI), Site PIs and Co-Investigators</strong> without
+<p>Note: From 1 Oct 2025, <strong>NHG Health Principal Investigators (PI), Site PIs and Co-Investigators</strong> without
 an updated ICG E6 (R3) training record will NOT be able to <u>submit new IRB applications or study amendments for Clinical trials on ECOS.</u> [Submissions
 of sub-forms (i.e., DNC, SAE, UPIRTSO, SSR, OTH) are not impacted].</p>
 <p></p>
