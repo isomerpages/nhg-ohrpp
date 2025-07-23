@@ -26,7 +26,7 @@ procedures and practices, by completing relevant <strong>ICH E6 (R3) GCP trainin
 </ul>
 <p></p>
 <p>Note: From 1 Oct 2025, <strong>NHG Health Principal Investigators (PI), Site PIs and Co-Investigators</strong> without
-an updated ICG E6 (R3) training record will NOT be able to <u>submit new IRB applications or study amendments for Clinical trials on ECOS.</u> [Submissions
+an updated ICH E6 (R3) training record will NOT be able to <u>submit new IRB applications or study amendments for Clinical trials on ECOS.</u> [Submissions
 of sub-forms (i.e., DNC, SAE, UPIRTSO, SSR, OTH) are not impacted].</p>
 <p></p>
 <p>Useful links:</p>
