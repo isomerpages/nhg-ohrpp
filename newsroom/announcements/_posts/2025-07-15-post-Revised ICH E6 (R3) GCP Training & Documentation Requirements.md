@@ -25,7 +25,7 @@ trial outcomes.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.hsa.gov.sg/clinical-trials/good-clinical-practice" rel="noopener noreferrer nofollow" target="_blank">Health Science Authority (HSA) website</a>
+<p><a href="https://www.hsa.gov.sg/clinical-trials/good-clinical-practice" rel="noopener noreferrer nofollow" target="_blank">Health Sciences Authority (HSA) website</a>
 </p>
 </li>
 <li>
