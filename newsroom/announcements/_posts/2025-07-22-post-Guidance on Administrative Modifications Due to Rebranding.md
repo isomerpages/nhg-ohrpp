@@ -78,6 +78,32 @@ have on subject participation and communication</p>
 <p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
+<p><strong>(New) Notifying IRB at point of Study Renewal</strong>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>When submitting your Study Status Report (SSR), if the study has updated
+study documents or ICFs that have new version numbers or dates due to NHG
+rebranding, please include this statement in Section 5(b)(i):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>“Changes to the ICF reflect NHG rebranding updates only. No content modifications
+were made."</p>
+</li>
+</ul>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>This clarification will help expedite IRB review by confirming that study
+document or ICF changes are administrative rather than substantive.</p>
+</li>
+</ul>
+<p></p>
+<ol start="5" data-tight="true" class="tight">
+<li>
 <p><strong>Important Notes</strong>
 </p>
 </li>
@@ -100,4 +126,5 @@ during the transition</p>
 again.</p>
 <p>If you have any questions on the above, please write in to <a rel="noopener noreferrer nofollow" target="_blank">OHRPP@nhg.com.sg</a>
 </p>
-<p>&nbsp;</p>
+<p>&nbsp;Click here for more information in ECOS: <a href="https://ecossupport.gri.nhg.com.sg/newsroom/announcements/" rel="noopener noreferrer nofollow" target="_blank">Announcements</a>
+</p>
