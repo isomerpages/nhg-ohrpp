@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/Biological Samples/jul_2025_management_of_biological_samples.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jul 2025) Management of Biological Samples</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/Biological Samples/Jun_23__Precautions_for_Handling_and_Collecting_Biological_Specimens_during_a_Pandemic.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jun 2023) Precautions for Handling and Collecting Biological Specimens during a Pandemic</a>
 </p>
 </li>
