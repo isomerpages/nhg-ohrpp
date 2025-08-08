@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Responsible Conduct of Research Manual.md
-      - NHG Investigator's Manual.md
-      - NHG Proper Conduct of Research SOPs & Templates.md
-      - NHG Human Tissue Bank Policy, SOPs & Templates.md
+      - NHG Health Investigator's Manual.md
+      - NHG Health Proper Conduct of Research SOPs & Templates.md
+      - NHG Health Human Tissue Bank Policy, SOPs & Templates.md
       - DSRB Review Requirements & Process Guide.md
       - DSRB Templates for Study Documentation.md
