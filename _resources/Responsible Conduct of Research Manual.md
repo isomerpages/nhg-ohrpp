@@ -4,23 +4,24 @@ permalink: /rcr-manual/
 variant: tiptap
 description: ""
 ---
-<h4><strong>NHG Responsible Conduct of Research (RCR) Manual</strong></h4>
+<h4><strong>NHG Health Responsible Conduct of Research (RCR) Manual</strong></h4>
 <p><strong>Responsible Conduct of Research (RCR)</strong> is and can be learned
 in multifarious ways and standards for RCR may vary from department to
 department and possibly institution to institution. In numerous instances,
 more than one response to a RCR situation may be considered acceptable
 research practice.</p>
-<p>The <strong>NHG-RCR Manual</strong> will describe the core components of
-RCR (along with recommended guides to carry out research responsibly).</p>
+<p>The <strong>NHG Health</strong>  <strong>RCR Manual</strong> will describe
+the core components of RCR (along with recommended guides to carry out
+research responsibly).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/files/Resp Conduct Research Manual/RCR_Complete_Manual_Jan2021.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Responsible Conduct of Research (RCR) Manual (Version 1.1) here</a>.</p>
+<p>Download the <a href="/files/Resp Conduct Research Manual/RCR_Complete_Manual_Jan2021.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Health Responsible Conduct of Research (RCR) Manual (Version 1.1) here</a>.</p>
 </li>
 </ul>
 <p></p>
 <h4><strong>Individual RCR Chapters</strong></h4>
-<p>You may choose to download the component chapters of the NHG RCR Manual
-which are of interest.&nbsp;</p>
+<p>You may choose to download the component chapters of the NHG Health RCR
+Manual which are of interest.&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Resp Conduct Research Manual/RCR01_Foreword.pdf" rel="noopener noreferrer nofollow" target="_blank">Foreword</a>
@@ -85,7 +86,7 @@ region’s research community.
 </ul>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
-<p>For any queries, please contact the <strong>NHG Responsible Conduct of Research Secretariat</strong> at
+<p>For any queries, please contact the <strong>NHG Health Responsible Conduct of Research Secretariat</strong> at
 <a href="mailto:NHGRCRSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGRCRSecretariat@nhg.com.sg</a>.</p>
 <p></p>
 <p></p>
