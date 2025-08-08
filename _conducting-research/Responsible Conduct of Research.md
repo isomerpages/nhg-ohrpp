@@ -4,7 +4,7 @@ permalink: /responsible-conduct-of-research/
 variant: tiptap
 description: ""
 ---
-<p>The <strong>Responsible Conduct of Research (RCR) Unit</strong> under the <strong>NHG</strong>  <strong>Office of Human Subject Research Protection Program (OHRPP)</strong> aims
+<p>The <strong>Responsible Conduct of Research (RCR) Unit</strong> under the <strong>NHG</strong>  <strong>Health Office of Human Subject Research Protection Program (OHRPP)</strong> aims
 to equip our researchers with the knowledge of best practices in research
 to guide them in making the right decisions. This would be especially applicable
 in instances that challenge inpidual values and integrity.</p>
@@ -64,7 +64,7 @@ listed above.</p>
 <p></p>
 <p><strong>What to do if there is suspected Research Misconduct?</strong>
 </p>
-<p>NHG OHRPP recommends that the Whistle-Blower (the individual reporting
+<p>NHG Health OHRPP recommends that the Whistle-Blower (the individual reporting
 the suspected research misconduct) adheres to his/her institution’s policies
 and or guidelines for whistle-blowing if there is suspected research misconduct.</p>
 <p></p>
