@@ -4,12 +4,12 @@ permalink: /investigator-manual/
 variant: tiptap
 description: ""
 ---
-<h4><strong>About the NHG Investigator's Manual</strong></h4>
-<p>The NHG Investigator's Manual is an amalgamation of the regulatory requirements,
-NHG DSRB research policies and institutional policies governing research
-conduct, allowing PIs to adeptly navigate the formidable convolutions of
-the research maze.</p>
-<p>The latest Fourth Edition of the Investigator’s Manual includes the regulatory
+<h4><strong>About the NHG Health Investigator's Manual</strong></h4>
+<p>The NHG Health Investigator's Manual is an amalgamation of the regulatory
+requirements, NHG Health DSRB research policies and institutional policies
+governing research conduct, allowing PIs to adeptly navigate the formidable
+convolutions of the research maze.</p>
+<p>The latest Fifth Edition of the Investigator’s Manual includes the regulatory
 requirements (especially the revised regulatory framework for clinical
 trials), ethical provisions and institutional policies governing research
 conduct for Investigators, Researchers &amp; Study Administrators.</p>
@@ -18,14 +18,13 @@ conduct for Investigators, Researchers &amp; Study Administrators.</p>
 <h4><strong>Summary of Updates</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/files/Investigator Manual/im_summary_of_change_21nov2023_o.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes to the NHG Investigator Manual here</a> (Last
-updated: 21 Nov 2023).</p>
+<p>Coming soon</p>
 </li>
 </ul>
 <p></p>
 <h4><strong>Individual Chapters</strong></h4>
 <p>Alternatively, you may choose to download the individual Chapters of the
-above NHG Investigator’s Manual which are of interest.</p>
+above NHG Health Investigator’s Manual which are of interest.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Investigator Manual/im_cover_and_foreword_o.pdf" rel="noopener noreferrer nofollow" target="_blank">Cover &amp; Foreword</a>
@@ -64,7 +63,11 @@ above NHG Investigator’s Manual which are of interest.</p>
 <li>
 <p><a href="/files/Investigator Manual/im_chapter_9_tissue_repository_o.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 9 - Tissue Repository</a>
 </p>
-<p></p>
+</li>
+<li>
+<p>References and Suggested Readings</p>
 </li>
 </ul>
-<p></p>
+<p>The IM chapters are reviewed regularly and updated in accordance with
+changes. Version control is maintained for all chapters, with each update
+clearly marked with its revision date.</p>
