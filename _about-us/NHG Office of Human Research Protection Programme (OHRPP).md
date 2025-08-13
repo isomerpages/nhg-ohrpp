@@ -6,10 +6,10 @@ description: ""
 ---
 <h4><strong>Establishment</strong></h4>
 <p>The <strong>Office of Human Research Protection Programme (OHRPP)</strong>,<strong> </strong>under
-the <strong>Group Research &amp; Innovation (GRI)</strong> in the <strong>National Healthcare Group (NHG)</strong>,
+the <strong>Group Research &amp; Innovation (GRI)</strong> in the <strong>NHG  Health</strong>,
 is dedicated to safeguarding the rights, safety, and well-being of research
 participants, and maintaining high standards in research ethics and governance
-in NHG.</p>
+in NHG Health.</p>
 <p></p>
 <h4><strong>Scope</strong></h4>
 <p>The OHRPP ensures the ethical conduct of human research activities through
@@ -18,8 +18,9 @@ continuous researcher education and maintaining high standards through
 international accreditation.</p>
 <p>In addition, OHRPP also engages in public outreach activities to promote
 awareness and understanding of participant rights in research.</p>
-<p>This reflects NHG's commitment to maintaining high standards in research
-ethics and governance to support the ethical and effective conduct of research.</p>
+<p>This reflects NHG Health's commitment to maintaining high standards in
+research ethics and governance to support the ethical and effective conduct
+of research.</p>
 <p></p>
 <h4><strong>Key Functions</strong></h4>
 <ul data-tight="true" class="tight">
