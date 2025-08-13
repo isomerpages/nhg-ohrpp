@@ -21,7 +21,8 @@ procedures and practices, by completing relevant <strong>ICH E6 (R3) GCP trainin
 </p>
 </li>
 <li>
-<p>Upon completion, upload the CITI Cert on ECOS before 1 Oct 2025.</p>
+<p>Upon completion, upload the CITI Completion Report (Transcripts) on ECOS
+before 1 Oct 2025.</p>
 </li>
 </ul>
 <p></p>
