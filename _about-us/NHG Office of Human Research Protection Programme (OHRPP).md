@@ -6,7 +6,7 @@ description: ""
 ---
 <h4><strong>Establishment</strong></h4>
 <p>The <strong>Office of Human Research Protection Programme (OHRPP)</strong>,<strong> </strong>under
-the <strong>Group Research &amp; Innovation (GRI)</strong> in the <strong>NHG  Health</strong>,
+the <strong>Group Research &amp; Innovation (GRI)</strong> in the <strong>NHG Health</strong>,
 is dedicated to safeguarding the rights, safety, and well-being of research
 participants, and maintaining high standards in research ethics and governance
 in NHG Health.</p>
