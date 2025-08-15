@@ -79,7 +79,7 @@ can be <a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener no
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For any enquiries, please contact the <strong>FCOI Declaration Secretariat</strong>:
-<br>Email: <a href="https://www.research.nhg.com.sg/wps/wcm/connect/a582e9bf-ec94-49ab-ad63-36720c7aa8dc/FCOI_FAQs_v010724_Cleaned.pdf?MOD=AJPERES&amp;amp;CVID=p2g6Qeh&amp;amp;CVID=p2g6Qeh" rel="noopener noreferrer nofollow" target="_blank"><u>DSRB_FCOI@nhg.com.sg</u></a>
+<br>Email: <a href="mailto:nhggroup.DSRB.FCOI@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.DSRB.FCOI@nhghealth.com.sg</a>
 <br>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
 <br>NHG Group Research &amp; Innovation</p>
