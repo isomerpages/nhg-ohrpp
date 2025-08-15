@@ -47,11 +47,11 @@ to complete the <strong><a href="https://ethics.gri.nhg.com.sg/fcoi-training/" r
 <p><strong><sup>2 </sup></strong>The DSRB will recognise generic GCP courses
 and training as acceptable minimum training requirement. PIs, Site-PIs
 Co-Is and other study team members may complete either local or overseas
-GCP training programmes, e.g., ICH GCP training organized by NHG and SingHealth,
-CITI GCP Course, general GCP training provided by sponsor companies. PIs,
-Site PIs and Co-Is who have completed the ICH GCP course may use it as
-an alternative minimum requirement for <strong>biomedical research studies only</strong>.
-Refer to the <strong><a href="https://ethics.gri.nhg.com.sg/good-clinical-practice-gcp-training/" rel="noopener noreferrer nofollow" target="_blank"><u>Good Clinical Practice (GCP) Training</u></a></strong> for
+GCP training programmes, e.g., CITI ICH E6 (R3) GCP Training Course, general
+GCP training provided by sponsor companies. PIs, Site PIs and Co-Is who
+have completed the ICH GCP course may use it as an alternative minimum
+requirement for <strong>biomedical research studies only</strong>. Refer
+to the <strong><a href="https://ethics.gri.nhg.com.sg/good-clinical-practice-gcp-training/" rel="noopener noreferrer nofollow" target="_blank"><u>Good Clinical Practice (GCP) Training</u></a></strong> for
 more information.</p>
 <p></p>
 <p><strong><sup>3</sup></strong><sup> </sup>Mandatory for Study Team Members
@@ -84,12 +84,12 @@ more details.</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For any enquiries, please contact the Minimum Ethics Training Secretariat:
-<br>Email: <strong><a href="mailto:min_ethics_training@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>min_ethics_training@nhg.com.sg</u></a></strong>
+<br>Email: <strong><a rel="noopener noreferrer nofollow" target="_blank">nhggroup.min.ethics.training@nhghealth.com.sg</a></strong>
 <br>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
 <br>NHG Group Research &amp; Innovation
 <br>
-<br>Updated: 21 Jan 2025</p>
+<br>Updated: 15 Aug 2025</p>
 <p></p>
 <p></p>
 <p></p>
