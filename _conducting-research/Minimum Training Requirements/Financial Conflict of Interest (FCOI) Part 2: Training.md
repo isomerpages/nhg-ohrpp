@@ -136,7 +136,7 @@ your FCOI CITI Training Status in ECOS. Please allow some time for processing.</
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For any enquiries, please contact the <strong>Minimum Ethics Training Secretariat</strong>:
-<br>Email: <a href="mailto:min_ethics_training@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">min_ethics_training@nhg.com.sg</a>
+<br>Email: <a href="mailto:nhggroup.min.ethics.training@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.min.ethics.training@nhghealth.com.sg</a>
 <br>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
 <br>NHG Group Research &amp; Innovation</p>
