@@ -122,8 +122,7 @@ on CITI.</p>
 self-training,<u> via documentation in a training log</u>, to be filed
 in the <u>Investigator File.</u>
 </p>
-<p><a href="https://ecossupport.gri.nhg.com.sg/files/User%20Guides/General%20ECOS%20Functionality/ECOS_Submitting_Min_Training_Certs_7_May_2024.pdf" rel="noopener nofollow" target="_blank"><u>Download here</u></a>
-</p>
+<p></p>
 <p></p>
 </div>
 </details>
