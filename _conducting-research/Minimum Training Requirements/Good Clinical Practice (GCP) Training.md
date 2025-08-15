@@ -104,31 +104,33 @@ required to complete the <strong><a href="https://ethics.gri.nhg.com.sg/fcoi-dec
 </details>
 </div>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>(6) I have completed CITI GCP course before 23 Jul 2025. How do I complete the R3 updates?w do I update my GCP Training Status in ECOS?</strong>
+<summary><strong>(6) I have completed CITI GCP course before 23 Jul 2025. How do I complete the R3 updates?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please refer to the guidebook to updating your Minimum Training Status
-on the ECOS system. The guidebook will show ECOS Users how to access the
-Minimum Training Module to upload their training certificates into their
-User Profile.</p>
+<p>Users are recommended to complete the updated CITI GCP R3 course, <strong>GCP for Clinical Trials with Investigational Drugs and Biologics (ICH Focus)</strong>,
+on CITI.</p>
+<p>Alternatives:</p>
+<p>For those who had completed a GCP course which does not include ICH E6
+(R3) Guideline:</p>
+<p>(1)&nbsp;&nbsp;&nbsp; Self-read the ICH E6 (R3) GCP updates or view the
+<a href="https://www.hsa.gov.sg/clinical-trials/good-clinical-practice/hsa-scri-webinar-on-ich-e6-r3" rel="noopener noreferrer nofollow" target="_blank"><u>HSA Webinar recording</u>
+</a>s, <u>and</u>
+</p>
+<p>(2)&nbsp;&nbsp;&nbsp; Maintain a record of the ICH E6 (R3) GCP updates
+self-training,<u> via documentation in a training log</u>, to be filed
+in the <u>Investigator File.</u>
+</p>
 <p><a href="https://ecossupport.gri.nhg.com.sg/files/User%20Guides/General%20ECOS%20Functionality/ECOS_Submitting_Min_Training_Certs_7_May_2024.pdf" rel="noopener nofollow" target="_blank"><u>Download here</u></a>
 </p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Users are recommended to complete the updated CITI GCP R3 course, <strong>GCP for Clinical Trials with Investigational Drugs and Biologics (ICH Focus)</strong>,
-on CITI. (link).</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>(6) How do I update my GCP Training Status in ECOS?</strong>
+<summary><strong>(7) How do I update my GCP Training Status in ECOS?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Please refer to the guidebook to updating your Minimum Training Status
