@@ -18,22 +18,17 @@ adhering to the relevant local regulations and guidelines.</p>
 <summary><strong>(1) What is the GCP Course?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Based on the International Council for Harmonisation Guideline for Good
-Clinical Practice (ICH GCP) E6(R2) and incorporating local regulatory requirements,
-the GCP course seeks to equip participants with basic knowledge and understanding
-of how GCP principles may be applied to the conduct of clinical trials.</p>
-<p></p>
-<p>Experienced speakers from various clinical research-related sectors will
-deliver a series of lectures covering the following broad elements:
-<br>• Core principles of Good Clinical Practice and ethical research;
-<br>• Local regulatory requirements and legal framework for clinical trials;
-<br>• Responsibilities of the sponsor and investigator;
-<br>• Procedures related to the operationalisation and conduct of clinical
-trials.</p>
-<p></p>
-<p>The GCP course is administered by the NHG Research &amp; Innovation, and
-is available in both online and classroom formats.</p>
-<p></p>
+<p>The<strong>&nbsp;</strong>ICH E6 (R3) GCP Principles will be effective&nbsp;<strong><u>1 January 2026</u></strong>&nbsp;in
+Singapore.</p>
+<p>The E6 (R3) guideline outlines GCP principles within the changing environment
+of clinical trials, fostering innovations in trial design, operational
+methods, and technological progress. It advocates for a quality-by-design
+and risk-proportionate strategy in conducting clinical trials.</p>
+<p>It is crucial for&nbsp;<strong>all investigators</strong>&nbsp;and&nbsp;<strong>other study team members involved in significant trial-related tasks</strong>&nbsp;to
+be knowledgeable about the ICH E6 (R3) GCP requirements to ensure ethical
+standards and subject safety in clinical trials, ultimately enhancing the&nbsp;<u>credibility and reliability&nbsp;</u>of
+trial outcomes.</p>
+<p>Users are recommended to complete the CITI Course: <strong>GCP for Clinical Trials with Investigational Drugs and Biologics (ICH Focus)</strong>.</p>
 </div>
 </details>
 </div>
@@ -82,22 +77,14 @@ products or devices, which are not relevant to the population health research.</
 <summary><strong>(4) What are the other accepted GCP Courses?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Other GCP courses which are recognised by DSRB include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Good Clinical Practice course, jointly conducted by SingHealth Investigational
-Medicine Unit and SingHealth Academy</p>
-</li>
-</ul>
 <p>If you have attended a GCP course conducted by an organisation that is
-not listed above, you may email a copy of the completion certificate and
-course agenda with the speakers’ designations to <strong><a href="mailto:min_ethics_training@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>min_ethics_training@nhg.com.sg</u></a></strong> for
+not CITI GCP you may email a copy of the completion certificate and course
+agenda with the speakers’ designations to&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">nhggroup.min.ethics.training@nhghealth.com.sg</a></strong>&nbsp;for
 consideration. Requests for recognition of other GCP courses will be reviewed
 on a case-by-case basis.</p>
 <p>Note: Only courses that cover Singapore’s regulatory requirements and
 legal framework for clinical trials are likely to meet the criteria for
 recognition and should be submitted for review.</p>
-<p></p>
 </div>
 </details>
 </div>
@@ -117,6 +104,28 @@ required to complete the <strong><a href="https://ethics.gri.nhg.com.sg/fcoi-dec
 </details>
 </div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>(6) I have completed CITI GCP course before 23 Jul 2025. How do I complete the R3 updates?w do I update my GCP Training Status in ECOS?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please refer to the guidebook to updating your Minimum Training Status
+on the ECOS system. The guidebook will show ECOS Users how to access the
+Minimum Training Module to upload their training certificates into their
+User Profile.</p>
+<p><a href="https://ecossupport.gri.nhg.com.sg/files/User%20Guides/General%20ECOS%20Functionality/ECOS_Submitting_Min_Training_Certs_7_May_2024.pdf" rel="noopener nofollow" target="_blank"><u>Download here</u></a>
+</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Users are recommended to complete the updated CITI GCP R3 course, <strong>GCP for Clinical Trials with Investigational Drugs and Biologics (ICH Focus)</strong>,
+on CITI. (link).</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>(6) How do I update my GCP Training Status in ECOS?</strong>
