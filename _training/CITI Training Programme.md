@@ -146,7 +146,7 @@ for download at the end of this page.</p>
 <summary><strong>(5) I’ve completed other research ethics training programmes, can I use it to waive the completion of the CITI Program?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The DSRB also accepts the SGGCP/GCP certificate as completion of the minimum
+<p>The DSRB also accepts the GCP certificate as completion of the minimum
 training requirements.</p>
 <p>However, if you have completed other research ethics training programmes
 that are organised and conducted by a reputable body such as NHG institutions,
@@ -160,36 +160,12 @@ address most of the following topics:
 <br>(3) Informed Consent
 <br>(4) Privacy and Confidentiality Issues</p>
 <p></p>
-<p>Please note that the <strong>National University Health System GCP Training Course</strong>  <strong><u>cannot</u></strong> be
-used to waive the completion of the CITI Program.</p>
-<p></p>
 </div>
 </details>
 </div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>(6) How do I apply&nbsp;for the waiver of CITI Program?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>You can complete the CITI Minimum Training Requirement Waiver Form and
-email a copy of the waiver form to <strong><a href="mailto:min_ethics_training@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>min_ethics_training@nhg.com.sg</u></a></strong>.
-The DSRB will review the submitted form and determine whether waiver can
-be granted.
-<br>
-<br>Please note that approval for the waiver of CITI certification <strong><u>does not</u></strong> exempt
-investigators and study team members from completing the FCOI course.
-<br>
-<br>Please refer to the List of Available Guides, Forms and Useful Links available
-for download at the end of this page.</p>
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>(7) How do I update my Minimum Training Status on the ECOS system?</strong>
+<summary><strong>(6) How do I update my Minimum Training Status on the ECOS system?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Please refer to the guidebook to updating your Minimum Training Status
@@ -218,7 +194,7 @@ learning with the CITI program.</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For any enquiries, please contact the Minimum Ethics Training Secretariat:
-<br>Email: <strong><a href="mailto:min_ethics_training@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>min_ethics_training@nhg.com.sg</u></a></strong>
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">nhggroup.min.ethics.training@nhghealth.com.sg</a> 
 <br>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
 <br>NHG Group Research &amp; Innovation</p>
