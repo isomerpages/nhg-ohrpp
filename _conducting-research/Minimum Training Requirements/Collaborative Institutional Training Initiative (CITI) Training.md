@@ -18,21 +18,6 @@ part of their researcher Minimum Training Requirements and to be able to
 appreciate and apply the ethical principles underlying research to their
 day-to-day practice of research.</p>
 <p></p>
-<h4><strong>Waiver of CITI Training Requirement</strong></h4>
-<p>PIs, Site PIs and Co-Is who have completed the <strong>Singapore Guideline for Good Clinical Practice (SGGCP)/Good Clinical Practice (GCP) Course</strong> do
-not need to complete the CITI Program. The SGGCP/GCP Course may be used
-as an alternate minimum training requirement.</p>
-<p>The DSRB will continue to accept and review applications from Investigators
-who have yet to complete the CITI Program or GCP Course. However, the DSRB
-will&nbsp;<strong>NOT </strong>grant ethics approval for the applications
-until receipt of the Investigator's CITI or SGGCP/GCP certificates.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Download the <a href="https://for.sg/citiwaiverform" rel="noopener nofollow" target="_blank"><u>CITI Minimum Training Requirement Waiver Form here</u></a>
-</p>
-</li>
-</ul>
-<p></p>
 <h4><strong>CITI Training Registration</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
