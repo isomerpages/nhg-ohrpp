@@ -63,7 +63,7 @@ may be used to determine if a QA / QI study requires DSRB review. Where
 the response to&nbsp;all&nbsp;questions&nbsp;in&nbsp;the checklist is “No”,
 and where there is no intention to share the information with others (i.e.
 contributing to generalizable knowledge) at the onset of the study, the
-QA / QI study will not be subject to DSRB review. Download the <a href="/files/Ethics/QA_QI_Checklist_30_June_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">QA/QI Activity Checklist here</a>.</p>
+QA / QI study will not be subject to DSRB review. Download the <a href="/files/Ethics/QA_QI_Checklist_v13_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">QA/QI Activity Checklist here</a>.</p>
 <p>When in doubt whether an activity requires DSRB review and approval, the
 Principal Investigator may contact the DSRB and provide a summary of the
 proposal for a preliminary assessment. The Principal Investigator may submit
