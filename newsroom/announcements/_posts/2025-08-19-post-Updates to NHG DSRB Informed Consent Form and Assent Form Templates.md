@@ -94,3 +94,6 @@ the study team next submit changes.</p>
 <p>While you're not required to submit any changes before 1 January 2026,
 you should consider updating the consent form through an amendment if your
 risk assessment suggests it would be beneficial to do so.</p>
+<p>If you have any questions, please contact us at <a href="mailto:nhggroup.OHRPP@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.OHRPP@nhghealth.com.sg</a>
+</p>
+<p></p>
