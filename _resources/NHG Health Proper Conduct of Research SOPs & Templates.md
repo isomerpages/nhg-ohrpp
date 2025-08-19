@@ -22,8 +22,8 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 <h4><strong>Summary of Updates</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/files/PCR/PCR_SOP_Summary_of_Changes_21Mar2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes to PCR SOP here</a> (Last
-updated:&nbsp;21-Mar-24)</p>
+<p>Download the <a href="/files/PCR/PCR_SOP_SoC_Final31Jul2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes to PCR SOP here</a> (Last
+updated:&nbsp;31-Jul-2025)</p>
 </li>
 </ul>
 <p></p>
@@ -43,11 +43,11 @@ updated:&nbsp;21-Mar-24)</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-A02%20Responsibilities%20of%20the%20Research%20Team.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-A02:&nbsp;Responsibilities&nbsp;of&nbsp;the&nbsp;Research&nbsp;Team&nbsp;(Effective&nbsp;12-Nov-2021)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-A02%20Responsibilities%20of%20the%20Research%20Team.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-A02:&nbsp;Responsibilities&nbsp;of&nbsp;the&nbsp;Research&nbsp;Team&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-A03%20Training%20and%20Education.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-A03:&nbsp;Training&nbsp;and&nbsp;Education&nbsp;(Effective&nbsp;01-Apr-2024)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-A03%20Training%20and%20Education.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-A03:&nbsp;Training&nbsp;and&nbsp;Education&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
@@ -59,11 +59,11 @@ updated:&nbsp;21-Mar-24)</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B03%20Study%20Initiation.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B03:&nbsp;Study&nbsp;Initiation&nbsp;(Effective&nbsp;31-Jan-2019)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B03%20Study%20Initiation.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B03:&nbsp;Study&nbsp;Initiation&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B04%20Interactions%20with%20DSRB.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B04:&nbsp;Interactions&nbsp;with&nbsp;DSRB&nbsp;(Effective&nbsp;30-Apr-2020)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B04%20Interactions%20with%20DSRB.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B04:&nbsp;Interactions&nbsp;with&nbsp;DSRB&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
@@ -91,15 +91,15 @@ updated:&nbsp;21-Mar-24)</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C01%20Informed%20Consent%20Form%20and%20Process.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-C01:&nbsp;Informed&nbsp;Consent&nbsp;Form&nbsp;and&nbsp;Process&nbsp;(Effective&nbsp;31-Jul-2023)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C01%20Informed%20Consent%20Form%20and%20Process.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-C01:&nbsp;Informed&nbsp;Consent&nbsp;Form&nbsp;and&nbsp;Process&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C02%20Subject%20Recruitment%20and%20Screening.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-C02:&nbsp;Subject&nbsp;Screening&nbsp;and&nbsp;Recruitment&nbsp;(Effective&nbsp;07-Apr-2021)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C02%20Subject%20Recruitment%20and%20Screening.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-C02:&nbsp;Subject&nbsp;Screening&nbsp;and&nbsp;Recruitment&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C03%20Subject%20Management%20During%20Study.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-C03:&nbsp;Subject&nbsp;Management&nbsp;During&nbsp;Study&nbsp;(Effective&nbsp;31-Aug-2019)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C03%20Subject%20Management%20During%20Study.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-C03:&nbsp;Subject&nbsp;Management&nbsp;During&nbsp;Study&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
@@ -107,7 +107,7 @@ updated:&nbsp;21-Mar-24)</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C05%20UPIRTSO.pdf" rel="noopener nofollow" target="_blank">501-C05: Unanticipated Problems Involving Risks to Subjects or Others and Expected Serious Adverse Event (Effective 01-Nov-2017)</a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C05%20UPIRTSO.pdf" rel="noopener nofollow" target="_blank">501-C05: Unanticipated Problems Involving Risks to Subjects or Others and Expected Serious Adverse Event (Effective 01-Sept-2025)</a>
 </p>
 </li>
 </ul>
