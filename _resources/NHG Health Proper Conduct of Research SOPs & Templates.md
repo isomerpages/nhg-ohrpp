@@ -22,8 +22,8 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 <h4><strong>Summary of Updates</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/files/PCR/PCR_SOP_Summary_of_Changes_21Mar2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes to PCR SOP here</a> (Last
-updated:&nbsp;21-Mar-24)</p>
+<p>Download the <a href="/files/PCR/PCR_SOP_SoC_Final31Jul2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes to PCR SOP here</a> (Last
+updated:&nbsp;31-Jul-2025)</p>
 </li>
 </ul>
 <p></p>
