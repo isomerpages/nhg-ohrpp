@@ -53,7 +53,7 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://for.sg/assent-form-010825" rel="noopener nofollow" target="_blank">207-008: Assent Form&nbsp;Template (Ver 3, Dated 01 August 2025)</a>
+<p><a href="https://for.sg/assent-form-010825" rel="noopener nofollow" target="_blank">207-008: Assent Form&nbsp;Template (Ver 03, Dated  01 August 2025)</a>
 </p>
 </li>
 <li>
