@@ -37,7 +37,7 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/DSRB Templates/Summary_Updates_to_DSRB_Informed_Consent_Form_Template_14_Feb_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes for Informed Consent Form Template</a>
+<p><a href="/files/DSRB Templates/SUMMARY_OF_UPDATES_TO_THE_NHG_DSRB_ICF_TEMPLATE_1_Aug_2025_Final.pdf" rel="noopener nofollow" target="_blank">Summary of Changes for Informed Consent Form Template</a>
 </p>
 </li>
 </ul>
@@ -57,7 +57,7 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/DSRB Templates/Summary_Updates_to_DSRB_Assent_Form_Template_14_Feb_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Updates to Child / Participant Assent Form Template</a>&nbsp;</p>
+<p><a href="/files/DSRB Templates/SUMMARY_OF_UPDATES_TO_THE_NHG_ASSENT_FORM_TEMPLATE_1_Aug_2025_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Updates to Child / Participant Assent Form Template</a>&nbsp;</p>
 </li>
 </ul>
 <p></p>
