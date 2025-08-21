@@ -25,8 +25,8 @@ to the study</p>
 </li>
 <li>
 <p>Update the website URL for clinical research participation information
-and DSRB details to directly link to the NHG Office of Human Research Programme
-(OHRPP) website</p>
+and DSRB details to directly link to the NHG Office of Human Research Protection
+Programme (OHRPP) website</p>
 </li>
 <li>
 <p>Implement various administrative and formatting improvements</p>
