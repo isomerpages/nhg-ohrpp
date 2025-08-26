@@ -4,7 +4,7 @@ permalink: /pcr-sop-templates/
 variant: tiptap
 description: ""
 ---
-<h4><strong>NHG Proper Conduct of Research </strong><br><strong>Standard Operating Procedures and Templates</strong></h4>
+<h4><strong>NHG Health Proper Conduct of Research </strong><br><strong>Standard Operating Procedures and Templates</strong></h4>
 <p>These are a set of guidelines and templates developed by NHG Group Research
 to provide detailed procedures on conducting research in accordance with
 applicable guidelines and regulations. You may adapt and modify these templates
