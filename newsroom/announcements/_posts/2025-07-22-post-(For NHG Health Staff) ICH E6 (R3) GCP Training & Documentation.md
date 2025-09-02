@@ -29,10 +29,14 @@ before 1 Oct 2025.</p>
 <p>Note: From 1 Oct 2025, <strong>NHG Health Principal Investigators (PI), Site PIs and Co-Investigators</strong> without
 an updated ICH E6 (R3) training record will NOT be able to <u>submit new IRB applications or study amendments for Clinical trials on ECOS.</u> [Submissions
 of sub-forms (i.e., DNC, SAE, UPIRTSO, SSR, OTH) are not impacted].</p>
-<p></p>
 <p>Useful links:</p>
 <p><em><a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener noreferrer nofollow" target="_blank">ECOS Minimum Training User Guide</a> for guidance on uploading training record on ECOS.</em>
 </p>
 <p><em><a href="https://ethics.gri.nhg.com.sg/revised-ich-e6-r3-gcp-training-documentation-requirements/" rel="noopener noreferrer nofollow" target="_blank">Revised ICH E6 (R3) GCP Training &amp; Documentation Requirements</a></em>
+</p>
+<p>Publicity EDMs:</p>
+<p><a href="/files/Announcement/ich_e6_r3_gcp_training_poster_29aug25.pdf" rel="noopener noreferrer nofollow" target="_blank">ICH E6 (R3) GCP Training Poster (29 Aug 2025)</a>
+</p>
+<p><a href="/files/Announcement/ich_e6_r3_gcp_training_poster_25jul25.pdf" rel="noopener noreferrer nofollow" target="_blank">ICH E6 (R3) GCP Training Poster (25 July 2025)</a>
 </p>
 <p></p>
