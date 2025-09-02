@@ -134,10 +134,6 @@ updated:&nbsp;31-Jul-2025)</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-006%20NHG%20RQM%20Study%20Review%20Checklist.docx" rel="noopener noreferrer nofollow" target="_blank"><u>504-006:&nbsp;RQM&nbsp;Study&nbsp;Review&nbsp;Checklist&nbsp;(Effective&nbsp;21-Oct-2014)</u></a>
-</p>
-</li>
-<li>
 <p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-007_RQM%20PI%20SAF.docx" rel="noopener noreferrer nofollow" target="_blank"><u>504-007:&nbsp;NHG&nbsp;RQM&nbsp;PISAF&nbsp;(Effective&nbsp;30-Oct-2019)</u></a>
 </p>
 </li>
