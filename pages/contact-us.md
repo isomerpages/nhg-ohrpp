@@ -8,7 +8,7 @@ contacts:
       - phone: +65 6471 3266
       - email: nhggroup.OHRPP@nhghealth.com.sg
       - other: <p><a target="_blank"
-          href="https://ethics.gri.nhg.com.sg/files/About%20Us/DSRB/nhg_dsrb_contact_list.pdf"><u>DSRB
+          href="https://ethics.gri.nhg.com.sg/files/About%20Us/DSRB/DSRB_Contact_List__Updated_020925_.pdf"><u>DSRB
           Secretariat Contact List</u></a></p>
     title: NHG Health Domain Specific Review Boards (DSRB)
   - content:

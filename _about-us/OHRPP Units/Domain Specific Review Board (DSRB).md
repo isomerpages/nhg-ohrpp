@@ -48,5 +48,5 @@ and ethical merits of the protocols submitted for ethics review.</p>
 <p><strong>NHG Domain Specific Review Board (DSRB)</strong>
 <br>Hotline: (65) 6471 3266
 <br>Email: <a href="mailto:nhggroup.OHRPP@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.OHRPP@nhghealth.com.sg</a>
-<br>Download <a href="/files/About Us/DSRB/nhg_dsrb_contact_list.pdf" rel="noopener nofollow" target="_blank">DSRB Secretariat Contact List </a>here.</p>
+<br>Download <a href="/files/About Us/DSRB/DSRB_Contact_List__Updated_020925_.pdf" rel="noopener nofollow" target="_blank">DSRB Secretariat Contact List </a>here.</p>
 <p></p>
