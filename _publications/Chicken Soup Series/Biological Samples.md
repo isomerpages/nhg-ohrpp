@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/Biological Samples/aug_25_biological_samples_non-compliances.pdf" rel="noopener noreferrer nofollow" target="_blank">(Aug 25) Biological Samples Non-Compliances</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/Biological Samples/jul_2025_management_of_biological_samples.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jul 2025) Management of Biological Samples</a>
 </p>
 </li>
