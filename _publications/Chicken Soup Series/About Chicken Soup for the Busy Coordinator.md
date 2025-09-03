@@ -20,20 +20,19 @@ for you!</p>
 <p></p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/Biological%20Samples/jul_2025_management_of_biological_samples.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jul 2025: Management of Biological Samples</div><div class="isomer-card-description">Read this quick guide on basic management of biological samples.</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/SubjectRecruitment/jun_25_designingresearchrecruitmentposters_vs_awarenessposters.pdf" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/Biological%20Samples/aug_25_biological_samples_non-compliances.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Aug 2025: Biological Samples Non-Compliances</div><div class="isomer-card-description">Learn prevention tactics that eliminate potential biological sample-related compliance issues</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/Biological%20Samples/jul_2025_management_of_biological_samples.pdf" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Jun 2025: Designing Research Recruitment Posters VS Awareness Posters</div>
-<div class="isomer-card-description">Learn more on the differences between research recruitment posters and
-awareness posters.</div>
+<div class="isomer-card-title">Jul 2025: Management of Biological Samples</div>
+<div class="isomer-card-description">Read this quick guide on basic management of biological samples.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/SubjectRecruitment/jun_25_special_edition.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Special Edition: Contacting Potential Subjects for Research</div><div class="isomer-card-description">Learn more about what you should do to properly contact potential subjects for research</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ResearchPolicySOPUpdates/may25_rcr_peer review.pdf" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/SubjectRecruitment/jun_25_designingresearchrecruitmentposters_vs_awarenessposters.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jun 2025: Designing Research Recruitment Posters VS Awareness Posters</div><div class="isomer-card-description">Learn more on the differences between research recruitment posters and awareness posters.</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/SubjectRecruitment/jun_25_special_edition.pdf" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">May 2025: Responsible Conduct of Research (RCR) – Peer Review</div>
-<div class="isomer-card-description">Find out more on handling conflicts of interest and maintaining ethics
-in peer review.</div>
+<div class="isomer-card-title">Special Edition: Contacting Potential Subjects for Research</div>
+<div class="isomer-card-description">Learn more about what you should do to properly contact potential subjects
+for research</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a>
