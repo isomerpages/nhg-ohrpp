@@ -8,9 +8,8 @@ third_nav_title: Research Regulations
 <p><strong>** Disclaimer: </strong>Readers are advised to refer to Singapore
 Statues Online Website, HSA website for the latest information related
 to Clinical Trials, regulations and HSA Clinical Trial Regulatory Guidance.
-Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> for any
-enquires.</p>
-<p></p>
+For queries relating to clinical trials regulatory requirements, please
+contact HSA directly at <a href="mailto:HSA_CT@hsa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">HSA_CT@hsa.gov.sg</a>.</p>
 <h4><strong>Updates on the amendments to the Health Products (Clinical Trials) Regulations and the Health Products (Clinical Research&nbsp;Materials) Regulations (1 October 2021)</strong></h4>
 <p><strong><u>1. Informed Consent Requirements for the Collection of Human Tissue from Trial Participants</u></strong>
 </p>
@@ -28,7 +27,6 @@ of the clinical trial.&nbsp;</p>
 Involving Collection of Human Tissue, Version 1 Oct 2021" at <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA Guidance Documents for Clinical Trials</a>.</p>
 </li>
 </ul>
-<p></p>
 <p><strong><u>2. Enabling Pharmacist to be Principal Investigators of Clinical Trials of Locally Registered Therapeutic Products</u></strong>
 </p>
 <p>The Health Products (Clinical Trials) Regulations has also been amended
@@ -49,7 +47,6 @@ Office, MOH. The guidance can be downloaded from the MOH website.&nbsp;</p>
 </p>
 </li>
 </ul>
-<p></p>
 <p>&nbsp;<strong><u>3. Amendments to the Requirements for Clinical Research Material Containing Codeine Cough Preparations</u></strong>
 </p>
 <p>MOH has worked with HSA to make amendments to the Health Products (Therapeutic)
@@ -69,9 +66,6 @@ for export approval for consignments of codeine-containing clinical research
 materials, to align with the requirements under the TP Regs.</p>
 </li>
 </ul>
-<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> for any
-enquiries.</p>
-<p></p>
 <hr>
 <h4><strong>Updates on the implementation of the Cell, Tissue and Gene Therapy Products Framework (1 Mar 2021)</strong></h4>
 <p>The Health Sciences Authority (HSA) has introduced a new category of health
@@ -116,9 +110,6 @@ guidance, which include more substantial updates are:</p>
 <p>Where relevant, HSA had also taken the opportunity to provide more information
 in the guidance to address common enquiries by Clinical Trial Stakeholders.&nbsp;All
 Clinical Trial Regulatory Guidance Documents are available at <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA Guidance Documents for Clinical Trials</a>.</p>
-<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> for any
-enquiries.</p>
-<p></p>
 <hr>
 <h4><strong>Guidance on Electronic Consent &amp; the CRM Notification Non-Compliance Form (16 Dec 2020)</strong></h4>
 <p><strong><u>1. Guidance on Electronic Consent</u></strong>
@@ -146,11 +137,7 @@ Materials (CRM) non-compliances to HSA.</p>
 more information.</p>
 </li>
 </ul>
-<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> for any
-enquiries.</p>
-<p></p>
 <hr>
-<p></p>
 <h4><strong>HSA Guidance on the conduct of Clinical Trials in relation to the Covid-19 Situation (27 March 2020)</strong></h4>
 <p>The Health Science Authority (HSA) has released a guidance to provide
 general considerations to sponsors and investigators to ensure the safety
@@ -163,11 +150,7 @@ the Covid-19 Outbreak.</p>
 <a href="https://www.hsa.gov.sg/clinical-trials/regulatory-guidances" rel="noopener nofollow" target="_blank">HSA Guidance Documents for Clinical Trials</a>.</p>
 </li>
 </ul>
-<p>Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> for any
-enquiries.</p>
-<p></p>
 <hr>
-<p></p>
 <h4><strong>Information and Resources</strong></h4>
 <p>Researchers are advised to refer to the following resources for more information:</p>
 <ul data-tight="true" class="tight">
@@ -195,11 +178,3 @@ enquiries.</p>
 </li>
 </ul>
 <p></p>
-<p>
-<br>
-</p>
-<p><strong>** Disclaimer: </strong>Readers are advised to refer to Singapore
-Statues Online Website, HSA website for the latest information related
-to Clinical Trials, regulations and HSA Clinical Trial Regulatory Guidance.
-Please contact HSA at <a href="mailto:helpdesk@hsahelp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@hsahelp.gov.sg</a> for any
-enquires.</p>
