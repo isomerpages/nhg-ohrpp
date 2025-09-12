@@ -82,9 +82,7 @@ not CITI GCP you may email a copy of the completion certificate and course
 agenda with the speakers’ designations to&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">nhggroup.min.ethics.training@nhghealth.com.sg</a></strong>&nbsp;for
 consideration. Requests for recognition of other GCP courses will be reviewed
 on a case-by-case basis.</p>
-<p>Note: Only courses that cover Singapore’s regulatory requirements and
-legal framework for clinical trials are likely to meet the criteria for
-recognition and should be submitted for review.</p>
+<p></p>
 </div>
 </details>
 </div>
