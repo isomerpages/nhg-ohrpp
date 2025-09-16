@@ -122,7 +122,7 @@ in the <u>Investigator File.</u>
 </p>
 <p></p>
 <p>Please refer to the guidebook on how to complete R3 updates on CITI. Download
-<a href="/files/Minimum Training/FAQ___Updating_GCP_training_to_ICH_GCP_E6_R3_15082025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<a href="/files/Minimum Training/FAQ___Updating_GCP_training_to_ICH_GCP_E6_R3_16092025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p></p>
 <p>Download the GCP training log <a href="/files/Minimum Training/GCP_training_record___declaration.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
