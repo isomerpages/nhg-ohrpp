@@ -44,18 +44,18 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_3_The_Study_Team_Clean_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 3 -&nbsp;The Study Team&nbsp;</a>
+<p><a href="/files/Investigator Manual/im_5th_edition_chapt_3_the_study_team_01sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 3 -&nbsp;The Study Team</a>
 </p>
 </li>
 <li>
 <p><a href="/files/Investigator Manual/IM_Chapter_4_Submission_to_DSRB.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 4 -&nbsp;Submission to DSRB</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_5_Informed_Consent_Clean_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 5 -&nbsp;Informed Consent</a>
+<p><a href="/files/Investigator Manual/im_5th_edition_chapt_5_informed_consent_01sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 5 -&nbsp;Informed Consent</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_6_Vulnerable_Pop_Clean_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 6 - Vulnerable Population</a>
+<p><a href="/files/Investigator Manual/im_5th_edition_chapt_6_vulnerable_pop_01sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 6 - Vulnerable Population</a>
 </p>
 </li>
 <li>
