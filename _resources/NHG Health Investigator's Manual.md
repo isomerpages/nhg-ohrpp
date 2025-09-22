@@ -18,7 +18,8 @@ conduct for Investigators, Researchers &amp; Study Administrators.</p>
 <h4><strong>Summary of Updates</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Coming soon</p>
+<p><a href="/files/Investigator Manual/Summary_of_Change_September25.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Change (September 2025)</a>
+</p>
 </li>
 </ul>
 <p></p>
@@ -35,7 +36,7 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_1_Research_Governance.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 1 -&nbsp;Research Governance</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_1_Research_Governance_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 1 -&nbsp;Research Governance</a>
 </p>
 </li>
 <li>
@@ -43,21 +44,22 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_3_The_Study_Team.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 3 -&nbsp;The Study Team</a>&nbsp;</p>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_3_The_Study_Team_Clean_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 3 -&nbsp;The Study Team&nbsp;</a>
+</p>
 </li>
 <li>
 <p><a href="/files/Investigator Manual/IM_Chapter_4_Submission_to_DSRB.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 4 -&nbsp;Submission to DSRB</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_5_Informed_Consent.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 5 -&nbsp;Informed Consent</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_5_Informed_Consent_Clean_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 5 -&nbsp;Informed Consent</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_6_Vulnerable_Pop.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 6 - Vulnerable Population</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_6_Vulnerable_Pop_Clean_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 6 - Vulnerable Population</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_7_Study_Conduct.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 7 - Study Conduct</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_7_Study_Conduct_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 7 - Study Conduct</a>
 </p>
 </li>
 <li>
