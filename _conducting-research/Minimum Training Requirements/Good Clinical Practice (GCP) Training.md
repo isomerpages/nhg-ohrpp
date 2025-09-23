@@ -125,7 +125,7 @@ in the <u>Investigator File.</u>
 <a href="/files/Minimum Training/FAQ___Updating_GCP_training_to_ICH_GCP_E6_R3_16092025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p></p>
-<p>Download the GCP training log <a href="/files/Minimum Training/GCP_training_record___declaration.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Download the GCP training log <a href="https://for.sg/gcp-training-record-declaration-form" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
 </div>
@@ -147,6 +147,6 @@ User Profile.</p>
 </details>
 </div>
 <p></p>
-<p>Updated: 16 Sep 2025</p>
+<p>Updated: 23 Sep 2025</p>
 <p></p>
 <p></p>
