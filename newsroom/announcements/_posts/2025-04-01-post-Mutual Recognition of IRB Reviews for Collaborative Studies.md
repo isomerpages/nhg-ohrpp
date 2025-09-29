@@ -20,7 +20,7 @@ review.</p>
 applications involving A*STAR, NHG, NTU, NUHS, NUS and SingHealth sites,
 or their Partner Institutions, are eligible to benefit from the IRBs mutual
 recognition arrangement and have their studies reviewed by a single IRB.</p>
-<p>For more information, please refer to the latest&nbsp;<a href="https://ethics.gri.nhg.com.sg/files/Ethics/Mutual_Recognition_FAQ___270325.pdf" rel="noopener noreferrer nofollow" target="_blank">Mutual Recognition FAQ</a>.</p>
+<p>For more information, please refer to the latest&nbsp;<a href="/files/Ethics/Mutual_Recognition_FAQ___260925.pdf" rel="noopener nofollow" target="_blank">Mutual Recognition FAQ</a>.</p>
 <p></p>
 <p>If you have any questions, please contact us at <strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/romp/nhgromp/resources/ethics+forms+and+templates++++" rel="noopener noreferrer nofollow" target="_blank"><u>nhggroup.OHRPP@nhghealth.com.sg</u></a></strong>
 </p>
