@@ -52,5 +52,6 @@ ICH E6 (R3) GCP training records promptly. <em>Refer to the <a href="https://eco
 </p>
 <p><a href="/files/Announcement/ich_e6_r3_gcp_publicity_poster_16sep25.pdf" rel="noopener noreferrer nofollow" target="_blank">ICH E6 (R3) GCP Training Publicity Poster (16 September 2025)</a>
 </p>
-<p>ICH E6 (R3) GCP Training Publicity Poster (30 September 2025)</p>
+<p><a href="/files/Announcement/ich_gcp_e6r3_poster_dated_30sep25.pdf" rel="noopener noreferrer nofollow" target="_blank">ICH E6 (R3) GCP Training Publicity Poster (30 September 2025)</a>
+</p>
 <p></p>
