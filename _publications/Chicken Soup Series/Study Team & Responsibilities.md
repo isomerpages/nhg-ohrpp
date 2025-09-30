@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/StudyTeamResponsibilities/sep25_managingstudyteamchanges.pdf" rel="noopener noreferrer nofollow" target="_blank">(Sep 2025) Managing Study Team Changes (Co-Investigators)</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/StudyTeamResponsibilities/Jun_22__The_Responsibilities_of_PI__Co_I_and_Clinical_Research_Coordinators.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jun 2022) The Responsibilities of PI, Co-I and Clinical Research Coordinators?</a>
 </p>
 </li>
