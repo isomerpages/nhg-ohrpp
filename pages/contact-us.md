@@ -13,27 +13,27 @@ contacts:
     title: NHG Health Domain Specific Review Boards (DSRB)
   - content:
       - phone: ""
-      - email: research_education@nhg.com.sg
+      - email: nhggroup.research.education@nhghealth.com.sg
       - other: ""
     title: NHG Research Education (RE)
   - content:
       - phone: ""
-      - email: researchquality@nhg.com.sg
+      - email: nhggroup.researchquality@nhghealth.com.sg
       - other: ""
     title: NHG Research Quality Management (RQM) Programme
   - content:
       - phone: ""
-      - email: RDOCSecretariat@nhg.com.sg
+      - email: nhggroup.RDOCSecretariat@nhghealth.com.sg
       - other: ""
     title: NHG Research Data Oversight Committee Secretariat
   - content:
       - phone: ""
-      - email: NHGTCCSecretariat@nhg.com.sg
+      - email: nhggroup.TCCSecretariat@nhghealth.com.sg
       - other: ""
     title: NHG Tissue Compliance Committee Secretariat
   - content:
       - phone: ""
-      - email: NHGRCRSecretariat@nhg.com.sg
+      - email: nhggroup.RCRSecretariat@nhghealth.com.sg
       - other: ""
     title: NHG Responsible Conduct of Research Secretariat
 feedback: ""
