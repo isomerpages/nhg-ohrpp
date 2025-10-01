@@ -11,7 +11,8 @@ third_nav_title: Minimum Training Requirements
 (PIs, Site-PIs and Co-Is) and study team members conducting HBR studies
 with knowledge on the regulations and institutional policies to ensure
 the proper conduct of research. These include the Human Biomedical Research
-Act (HBRA), NHG Research Data Policy and NHG Health Policy for Tissue Banks.</p>
+Act (HBRA), NHG Health Research Data Policy and NHG Health Policy for Tissue
+Banks.</p>
 <p>Learn about the key principles of research data management, subject recruitment,
 subject follow-up, informed consent process, as well as the necessary safeguards
 for taking consent in vulnerable and special populations.</p>
