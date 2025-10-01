@@ -28,8 +28,8 @@ Clinical Practice (GCP) and all other applicable guidelines and regulations.</p>
 <summary><strong>1. Who can be a Principal Investigator?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The PI should be a staff of NHG or partner institution for research conducted
-in NHG or partner institutions.</p>
+<p>The PI should be a staff of NHG Health or partner institution for research
+conducted in NHG Health or partner institutions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Conducting Research/PI Pics/PI_MinRequirement.png">
 </div>
@@ -42,7 +42,7 @@ in NHG or partner institutions.</p>
 <li>
 <p>For more details on the minimum training requirements for being a PI of
 a research, please refer to the <a href="/overview-min-training/" rel="noopener nofollow" target="_blank">Minimum Training Requirements page</a>,
-or the <a href="/investigator-manual/" rel="noopener nofollow" target="_blank">NHG Investigator’s Manual</a>.</p>
+or the <a href="/investigator-manual/" rel="noopener nofollow" target="_blank">NHG Health Investigator’s Manual</a>.</p>
 </li>
 </ul>
 <p>
@@ -62,7 +62,7 @@ or the <a href="/investigator-manual/" rel="noopener nofollow" target="_blank">N
 <p>Multi-Centre between different Clusters (CIRB-DSRB mutual recognition)</p>
 </li>
 <li>
-<p>Multi-Centre within NHG and Partner institutions</p>
+<p>Multi-Centre within NHG Health and Partner institutions</p>
 </li>
 </ul>
 <p>&nbsp;</p>
@@ -127,7 +127,7 @@ the study, protecting the rights and welfare of participants, assuring
 the integrity of data generated at the site and directing the conduct of
 the research according to applicable regulations and guidance.</p>
 <p>&nbsp;</p>
-<p>For more details on the responsibilities of the PI, please <a href="/pcr-sop-templates/" rel="noopener nofollow" target="_blank">see here</a> for the <strong>NHG PCR SOP 501-A02: Responsibilities of the Research Team.</strong>
+<p>For more details on the responsibilities of the PI, please <a href="/pcr-sop-templates/" rel="noopener nofollow" target="_blank">see here</a> for the <strong>NHG Health PCR SOP 501-A02: Responsibilities of the Research Team.</strong>
 </p>
 <p></p>
 </div>
@@ -140,8 +140,8 @@ the research according to applicable regulations and guidance.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The NHG&nbsp;Group Research &amp; Innovation&nbsp;promotes research in
-NHG through the administration of competitive grant calls via the bottom-up
-approach and the thematic.</p>
+NHG Health through the administration of competitive grant calls via the
+bottom-up approach and the thematic.</p>
 <p></p>
 <p>Researchers are encouraged to refer to their Clinical Research Units/
 Offices of their institutions for their own grants available.</p>
