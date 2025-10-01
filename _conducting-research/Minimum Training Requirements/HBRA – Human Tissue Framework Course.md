@@ -37,7 +37,7 @@ Residents/Doctors who have been delegated as Tissue Bank Custodians or
 Tissue Bank Team Members.</p>
 <p>For MOHH staff who require access to the HBRA – HTF Course, please email
 your request using the Request for Access to HBRA HTF Course for NHG-based
-MOHH Residents / Doctors Template to <a href="mailto:NHGTCCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGTCCSecretariat@nhg.com.sg</a> and
+MOHH Residents / Doctors Template to <a rel="noopener noreferrer nofollow" target="_blank">nhggroup.TCCSecretariat@nhghealth.com.sg</a> and
 copy your RO / HOD in the email.&nbsp;</p>
 <p>Information for NHG-based MOHH staff: -&nbsp;<a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Request_For_Access_to_HBRA_HTF_Course_for_NHG-based_MOHH_Staff_Involved_in_Tissue_Banking_Activities%20Template.docx?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>Request for Access to HBRA HTF Course for NHG-based MOHH Staff Involved in Tissue Banking Activities Template*</u></a>
 </p>
@@ -79,7 +79,7 @@ details. For more information on this course, please refer to the <a href="https
 <h4><strong>Contact Information</strong></h4>
 <p>For more information or queries on the HBRA – Human Tissue Framework Course,
 please contact the&nbsp;NHG&nbsp;Group Research&nbsp;Course Administrator
-at <a href="mailto:research_courseadmin@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">research_courseadmin@nhg.com.sg</a>.</p>
+at <a href="mailto:nhggroup.research.courseadmin@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.courseadmin@nhghealth.com.sg</a>.</p>
 <p></p>
 <p>
 <br>
