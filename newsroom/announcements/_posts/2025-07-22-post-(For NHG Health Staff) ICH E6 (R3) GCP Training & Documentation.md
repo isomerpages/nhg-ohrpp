@@ -39,4 +39,5 @@ of sub-forms (i.e., DNC, SAE, UPIRTSO, SSR, OTH) are not impacted].</p>
 </p>
 <p><a href="/files/Announcement/ich_e6_r3_gcp_training_poster_25jul25.pdf" rel="noopener noreferrer nofollow" target="_blank">ICH E6 (R3) GCP Training Poster (25 July 2025)</a>
 </p>
-<p></p>
+<p><a href="/files/Announcement/ich_gcp_e6r3_poster_dated_30sep25.pdf" rel="noopener noreferrer nofollow" target="_blank">ICH E6 (R3) GCP Training Poster (30 Sep 2025)</a>
+</p>
