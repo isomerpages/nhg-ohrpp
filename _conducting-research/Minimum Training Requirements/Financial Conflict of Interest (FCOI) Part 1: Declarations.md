@@ -12,8 +12,8 @@ third_nav_title: Minimum Training Requirements
 </div>
 <p></p>
 <p>Investigators and study team members who are involved in research that
-is conducted under the oversight of NHG or partner institutions should
-not have conflicting interests that may adversely affect the protection
+is conducted under the oversight of NHG Health or partner institutions
+should not have conflicting interests that may adversely affect the protection
 of participants or the credibility of the human subject protection programme.
 <br>
 <br>The <strong>definitions</strong> of Conflict of interest are as follows:&nbsp;</p>
@@ -31,8 +31,8 @@ ownership interests); intellectual property rights (e.g., patents, copyrights
 and royalties from such rights), and board or executive relationships.</p>
 <p>Since <strong>1st January 2015</strong>, all <strong><u>investigators</u> </strong>and <strong><u>study team members</u> </strong>who
 are involved in the <strong>design, conduct or reporting of research</strong> that
-is conducted under the oversight of NHG or its partner institutions are
-required to:</p>
+is conducted under the oversight of NHG Health or its partner institutions
+are required to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><u>Read</u></strong> through the requirements and updates (if any)
