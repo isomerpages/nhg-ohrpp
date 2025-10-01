@@ -7,7 +7,7 @@ description: ""
 <p>If you are interested to participate in a research study, you may contact
 the clinical research units/centres for more information:
 <br>
-<br><strong>NHG Institutions:</strong>
+<br><strong>NHG Health Institutions:</strong>
 <br>
 <br><strong>1. Institute of Mental Health</strong>
 <br>&nbsp;&nbsp;&nbsp; Research Division
