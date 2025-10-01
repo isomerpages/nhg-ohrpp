@@ -24,7 +24,7 @@ Protection Programme (OHRPP). While it reports to the NHG Research Ethics
 Committee, it remains independent of the NHG DSRB.</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
-<p><strong>NHG Research Quality Management (RQM) Programme</strong>
-<br>Email: <a href="mailto:researchquality@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>researchquality@nhg.com.sg</u></a>
+<p><strong>NHG Research Quality Management (RQM) Programme </strong>
+<br>Email: <a href="mailto:nhggroup.researchquality@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.researchquality@nhghealth.com.sg</a>
 </p>
 <p></p>

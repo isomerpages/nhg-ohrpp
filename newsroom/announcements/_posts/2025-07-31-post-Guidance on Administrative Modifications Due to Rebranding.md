@@ -124,7 +124,7 @@ during the transition</p>
 </ul>
 <p>OHRPP is reviewing the impact on ECOS access to studies and will update
 again.</p>
-<p>If you have any questions on the above, please write in to <a rel="noopener noreferrer nofollow" target="_blank">OHRPP@nhg.com.sg</a>
+<p>If you have any questions on the above, please write in to <a href="mailto:nhggroup.OHRPP@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.OHRPP@nhghealth.com.sg</a>
 </p>
 <p>&nbsp;Click here for more information in ECOS: <a href="https://ecossupport.gri.nhg.com.sg/newsroom/announcements/" rel="noopener noreferrer nofollow" target="_blank">Announcements</a>
 </p>

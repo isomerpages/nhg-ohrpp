@@ -160,14 +160,14 @@ be used or who will gain access to the results.
 research. In addition, there are numerous regulations and guidelines that
 have in place safeguards to protect the participants.
 <br>
-<br>NHG has a robust Human Subjects Protection Program to protect the safety
-and well being of research participants. All research studies conducted
-in NHG are reviewed by an independent ethics committee called the Domain
-Specific Review Board (DSRB). Only research that is approved by the DSRB
-can be conducted in NHG. The DSRB is composed of medical doctors, paramedical
-staff, statisticians, and lay people who collectively review all research
-proposals to ensure that the research is ethical and the rights, safety
-and welfare of research participants are protected.</p>
+<br>NHG Health has a robust Human Subjects Protection Program to protect the
+safety and well being of research participants. All research studies conducted
+in NHG Health are reviewed by an independent ethics committee called the
+Domain Specific Review Board (DSRB). Only research that is approved by
+the DSRB can be conducted in NHG Health. The DSRB is composed of medical
+doctors, paramedical staff, statisticians, and lay people who collectively
+review all research proposals to ensure that the research is ethical and
+the rights, safety and welfare of research participants are protected.</p>
 <p></p>
 </div>
 </details>

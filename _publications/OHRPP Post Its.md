@@ -12,11 +12,11 @@ events, educational resources and research tools from OHRPP to facilitate
 research conduct operating on high ethical standards.</p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/issue_35_sep_25_ohrpp_post_its.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Current Issue for NHG Staff *</div><div class="isomer-card-link">Issue 34 (May 2025)</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/issue_35_sep_25_ohrpp_post_its.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Current Issue for NHG Staff *</div><div class="isomer-card-link">Issue 35 (Sep 2025)</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/issue_35_sep_25_ohrpp_post_its.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Current Issue for Non-NHG readers</div>
-<div class="isomer-card-link">Issue 34 (May 2025)</div>
+<div class="isomer-card-link">Issue 35 (Sep 2025)</div>
 </div>
 </a>
 </div>

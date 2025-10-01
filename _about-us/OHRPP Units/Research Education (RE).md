@@ -38,6 +38,6 @@ departmental talks and cross institutions or cluster forums/webinars</p>
 </ul>
 <h4><strong>Contact information</strong></h4>
 <p><strong>NHG Research Education (RE)</strong>
-<br>Email: <a href="mailto:research_education@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">research_education@nhg.com.sg</a>
+<br>Email: <a href="mailto:nhggroup.research.education@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.education@nhghealth.com.sg</a>
 </p>
 <p></p>

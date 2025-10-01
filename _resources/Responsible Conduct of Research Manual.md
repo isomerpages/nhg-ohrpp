@@ -91,6 +91,7 @@ region’s research community.
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For any queries, please contact the <strong>NHG Health Responsible Conduct of Research Secretariat</strong> at
-<a href="mailto:NHGRCRSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGRCRSecretariat@nhg.com.sg</a>.</p>
+<a rel="noopener noreferrer nofollow" target="_blank">nhggroup.RCRSecretariat@nhghealth.com.sg</a>
+</p>
 <p></p>
 <p></p>

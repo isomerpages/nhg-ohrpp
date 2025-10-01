@@ -7,8 +7,8 @@ description: ""
 <h4><strong>NHG Human Tissue Bank Policy</strong><br><strong>Proper Conduct of Tissue Bank SOPs &amp; Templates</strong></h4>
 <p>These are a set of guidelines and templates developed by NHG Tissue Compliance
 Committee to provide detailed procedures on conducting tissue banking activities
-in accordance with applicable guidelines and regulations (e.g. HBRA).&nbsp;
-You may adapt and modify these guidelines and templates to suit your individual
+in accordance with applicable guidelines and regulations (e.g. HBRA). You
+may adapt and modify these guidelines and templates to suit your individual
 tissue banking activities.</p>
 <p><strong>These documents are strictly for internal circulation among NHG Staff and Authorized personnel only.</strong>
 <br><strong>* Access to these files is Restricted (NHG Intranet access required).</strong>
