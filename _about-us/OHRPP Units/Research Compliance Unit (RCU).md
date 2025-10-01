@@ -120,7 +120,7 @@ challenge individual values and integrity.&nbsp;</p>
 <h4><strong>Contact Information</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Research Institution Secretariat: <a href="mailto:NHGRISecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGRISecretariat@nhg.com.sg</a>
+<p>Research Institution Secretariat: <a href="mailto:NHGGroup.RISecretariat@NHGHealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGGroup.RISecretariat@NHGHealth.com.sg</a>
 </p>
 </li>
 <li>
