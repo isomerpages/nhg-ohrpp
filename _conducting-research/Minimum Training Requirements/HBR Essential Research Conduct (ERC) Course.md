@@ -114,7 +114,7 @@ NHG Intranet access required)</p>
 <h4><strong>Contact Information</strong></h4>
 <p>For more information or queries on the HBR ERC Course, please contact
 your respective Institution’s Clinical Research Office/ Units or the Research
-Education Course Administrator at&nbsp;<a href="mailto:research_courseadmin@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">research_courseadmin@nhg.com.sg</a>.</p>
+Education Course Administrator at&nbsp;<a href="mailto:nhggroup.research.courseadmin@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.courseadmin@nhghealth.com.sg</a>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>Updated: 4 Jun 2024&nbsp;</p>
