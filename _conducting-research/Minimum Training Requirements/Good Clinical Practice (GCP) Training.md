@@ -94,8 +94,8 @@ on a case-by-case basis.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes. With effect from <strong>1st January 2015</strong>, all investigators
 and study team members who are involved in the design, conduct or reporting
-of the research in institutions under the oversight of the NHG DSRB are
-required to complete the <strong><a href="https://ethics.gri.nhg.com.sg/fcoi-declarations/" rel="noopener noreferrer nofollow" target="_blank"><u>FCOI&nbsp;Course</u></a></strong>.
+of the research in institutions under the oversight of the NHG Health DSRB
+are required to complete the <strong><a href="https://ethics.gri.nhg.com.sg/fcoi-declarations/" rel="noopener noreferrer nofollow" target="_blank"><u>FCOI&nbsp;Course</u></a></strong>.
 <br>
 </p>
 </div>
