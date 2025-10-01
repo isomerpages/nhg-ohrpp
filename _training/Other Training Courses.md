@@ -21,7 +21,7 @@ may be applied to the conduct of clinical trials.</p>
 <a href="https://talentdev.gri.nhg.com.sg/gcp-course/" rel="noopener nofollow" target="_blank">GCP Course page here</a>.</p>
 <p><strong>Contact information</strong>
 <br>For any enquiries, please contact the GCP Online Course organizers at
-<a href="mailto:researchtraining@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">researchtraining@nhg.com.sg</a>or (+65) 6038 3634.</p>
+<a href="mailto:nhggroup.researchtraining@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.researchtraining@nhghealth.com.sg</a>or (+65) 6038 3634.</p>
 </div>
 </details>
 </div>
@@ -39,7 +39,7 @@ increase your chances in research and grant application and much more.</p>
 <br>For the Course Schedule, Registration and more details, please see the
 <a href="https://talentdev.gri.nhg.com.sg/abt-rm-courses/" rel="noopener nofollow" target="_blank">Research Methodology Course overview page here</a>.</p>
 <p><strong>Contact information</strong>
-<br>For any enquiries, please contact <a href="mailto:researchtraining@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">researchtraining@nhg.com.sg</a>.</p>
+<br>For any enquiries, please contact <a href="mailto:nhggroup.researchtraining@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.researchtraining@nhghealth.com.sg</a>.</p>
 <p></p>
 <p></p>
 </div>
