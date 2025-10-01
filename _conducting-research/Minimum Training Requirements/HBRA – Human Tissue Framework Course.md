@@ -81,5 +81,5 @@ details. For more information on this course, please refer to the <a href="https
 please contact the&nbsp;NHG Health TCC Secretariat at <a href="mailto:nhggroup.tccsecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.tccsecretariat@nhghealth.com.sg</a>.
 <br>
 </p>
-<p><strong>* These documents are strictly for internal circulation among NHG Health Staff and Authorized personnel only. Access to these files is Restricted (NHG Intranet access required).</strong>
+<p><strong>* These documents are strictly for internal circulation among NHG Health Staff and Authorized personnel only. Access to these files is Restricted (NHG Health Intranet access required).</strong>
 </p>
