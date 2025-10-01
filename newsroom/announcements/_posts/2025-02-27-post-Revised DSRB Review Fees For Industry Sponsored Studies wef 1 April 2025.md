@@ -44,7 +44,7 @@ healthcare clusters.</p>
 <p>Please also note that the review fees should be paid and proof of payment
 should be included at the time of submission. Refer to Annex B for the
 details.</p>
-<p>For any other queries on this update, please write to <a rel="noopener noreferrer nofollow" target="_blank">OHRPP@nhg.com.sg</a>.</p>
+<p>For any other queries on this update, please write to <a href="mailto:nhggroup.OHRPP@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.OHRPP@nhghealth.com.sg</a>.</p>
 <p>Yours sincerely
 <br>NHG DSRB</p>
 <hr>
