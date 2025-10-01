@@ -14,7 +14,7 @@ involved in research activities have basic research ethics training. The
 intent of having minimum training requirements is for Principal Investigators
 and the research community to appreciate and apply the underlying ethical
 principles to their day-to-day research practice.</p>
-<h4><strong>Minimum Training Requirements for Staff from NHG and Partner Institutions</strong></h4>
+<h4><strong>Minimum Training Requirements for Staff from NHG Health and Partner Institutions</strong></h4>
 <p></p>
 <p>There are 3 main types of training courses available:</p>
 <ul data-tight="true" class="tight">
@@ -32,17 +32,17 @@ and local IRB requirements)</p>
 </li>
 </ul>
 <p></p>
-<p>The minimum training requirements for Staff from NHG and partner institution
-differ according to their study roles. The Table below summarizes the minimum
-training requirements.</p>
+<p>The minimum training requirements for Staff from NHG Health and partner
+institution differ according to their study roles. The Table below summarizes
+the minimum training requirements.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="updated 21Jan2025" src="/images/Conducting Research/Min Training Pics/MinTrainingRequirements__20012025_.png">
 </div>
 <p><strong><sup>1 </sup></strong>All investigators, study team members and
 external institution staff involved in the design, conduct or reporting
-of research in institutions under the oversight of NHG DSRB are required
-to complete the <strong><a href="https://ethics.gri.nhg.com.sg/fcoi-training/" rel="noopener nofollow" target="_blank">Financial Conflict of Interest (FCOI) Course</a></strong>.</p>
+of research in institutions under the oversight of NHG Health DSRB are
+required to complete the <strong><a href="https://ethics.gri.nhg.com.sg/fcoi-training/" rel="noopener nofollow" target="_blank">Financial Conflict of Interest (FCOI) Course</a></strong>.</p>
 <p></p>
 <p><strong><sup>2 </sup></strong>The DSRB will recognise generic GCP courses
 and training as acceptable minimum training requirement. PIs, Site-PIs
@@ -62,8 +62,8 @@ involvement. Refer to the <strong><a href="https://ethics.gri.nhg.com.sg/good-cl
 more information.</p>
 <p></p>
 <p><strong><sup>4</sup></strong><sup> </sup>HBR Minimum Training to be completed
-by all NHG Investigators and study team members involved in the design,
-conduct or reporting of HBR studies:&nbsp;</p>
+by all NHG Health Investigators and study team members involved in the
+design, conduct or reporting of HBR studies:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>PI, Site PI, Co-I </strong>: <u>Before</u> new HBR IRB submissions
@@ -75,7 +75,7 @@ commencement of their study involvement.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Note:&nbsp;For Investigators and study team members from NHG partner institutions, please refer to the respective Research Institution (RI) HBR minimum training requirements.</strong>
+<p><strong>Note:&nbsp;For Investigators and study team members from NHG Health partner institutions, please refer to the respective Research Institution (RI) HBR minimum training requirements.</strong>
 </p>
 <p>The SingHealth CIRB requirements will apply to staff from SingHealth and
 partner institutions who are involved in cross-cluster studies that are
