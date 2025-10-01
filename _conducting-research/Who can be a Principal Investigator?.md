@@ -20,8 +20,8 @@ practice of research.</p>
 </ul>
 <p>This requirement is not solely for the purpose of the application to DSRB,
 as the PI has the responsibility for ensuring that the conduct of the research
-within NHG or its partner institutions is in compliance with Good Clinical
-Practice (GCP) and all other applicable guidelines and regulations.</p>
+within NHG Health or its partner institutions is in compliance with Good
+Clinical Practice (GCP) and all other applicable guidelines and regulations.</p>
 <h4></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
