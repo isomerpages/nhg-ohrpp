@@ -12,8 +12,8 @@ the training of investigators and staff who are conducting research.</p>
 <p></p>
 <h4><strong>Researcher Minimum Training Requirements</strong></h4>
 <p>All <strong>Principal Investigators (PI)</strong>, <strong>Site Principal Investigators (Site PI)</strong> and <strong>Co-Investigators (Co-I)</strong> of
-research conducted within NHG and partner institutions are required to
-complete the <strong>CITI Program “Biomedical Research Investigators and Key Personnel” course</strong> as
+research conducted within NHG Health and partner institutions are required
+to complete the <strong>CITI Program “Biomedical Research Investigators and Key Personnel” course</strong> as
 part of their researcher Minimum Training Requirements and to be able to
 appreciate and apply the ethical principles underlying research to their
 day-to-day practice of research.</p>
