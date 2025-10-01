@@ -124,7 +124,7 @@ Download the <a href="/files/Training Files/PCR Course/NHG_Staff_Registration_Gu
 </ul>
 <p></p>
 <h4><strong>Contact information</strong></h4>
-<p>For any enquiries, please contact the Research Course Admin at <strong><a href="mailto:research_courseadmin@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>research_courseadmin@nhg.com.sg</u></a></strong>
+<p>For any enquiries, please contact the Research Course Admin at <strong><a href="mailto:nhggroup.research.courseadmin@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.courseadmin@nhghealth.com.sg</a></strong>
 </p>
 <p>
 <br><em>Note/Disclaimer: Participants are encouraged to select the courses based on their learning needs. All courses are available to the public. Please note that course details are subjected to changes without prior notice. Please check the respective course registration page for more information.</em>
