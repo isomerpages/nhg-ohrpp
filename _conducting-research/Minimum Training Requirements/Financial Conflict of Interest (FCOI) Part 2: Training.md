@@ -142,7 +142,7 @@ your FCOI CITI Training Status in ECOS. Please allow some time for processing.</
 <br>NHG Group Research &amp; Innovation</p>
 <p></p>
 <p>To contact your Institutions’ Minimum Training Secretariat (MTS) or NHG
-Health Research Course Admin (for HBR ERC only), please refer to the following:</p>
+Health Research Course Admin (for HBR ERC), please refer to the following:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
