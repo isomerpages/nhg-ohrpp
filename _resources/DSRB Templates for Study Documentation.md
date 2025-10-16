@@ -89,7 +89,7 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>207-004: ICF with <strong>ORIGINAL ENGLISH</strong> Short Consent Form Template
-(Ver 11, Dated 01 Aug 2025)</p>
+(Ver 10, Dated 01 Aug 2025)</p>
 </li>
 <li>
 <p>207-005: ICF with <strong>SIMPLIFIED CHINESE</strong> language Short Consent
