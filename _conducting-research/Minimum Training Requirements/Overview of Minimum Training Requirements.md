@@ -118,8 +118,9 @@ more details.</p>
 <p>Institute of Mental Health (IMH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jenny Tay: <a rel="noopener noreferrer nofollow" target="_blank">Jenny.am.tay@nhghealth.com.sg</a> /
-Ms Jaclyn Ong: <a rel="noopener noreferrer nofollow" target="_blank">Jaclyn.yy.ong@nhghealth.com.sg</a>
+<p>Ms Jenny Tay: <a rel="noopener noreferrer nofollow" target="_blank">Jenny.am.tay@nhghealth.com.sg</a> 
+</p>
+<p>Ms Jaclyn Ong: <a rel="noopener noreferrer nofollow" target="_blank">Jaclyn.yy.ong@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
@@ -128,8 +129,9 @@ Ms Jaclyn Ong: <a rel="noopener noreferrer nofollow" target="_blank">Jaclyn.yy.o
 <p>Khoo Teck Puat Hospital (KTPH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vimala: <a rel="noopener noreferrer nofollow" target="_blank">vimala.sadaiyappan@nhghealth.com.sg</a> /
-<a rel="noopener noreferrer nofollow" target="_blank">ktph.cru.admin@nhghealth.com.sg</a>
+<p>Ms Vimala: <a rel="noopener noreferrer nofollow" target="_blank">vimala.sadaiyappan@nhghealth.com.sg</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ktph.cru.admin@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
