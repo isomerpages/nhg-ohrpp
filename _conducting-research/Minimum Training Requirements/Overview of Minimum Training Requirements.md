@@ -83,11 +83,14 @@ submitted to DSRB for review. Refer to the <strong><a href="https://www.singheal
 more details.</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
-<p>For any enquiries, please contact the Minimum Ethics Training Secretariat:
+<p>For any enquiries, please contact the <strong>NHG Health Minimum Ethics Training Secretariat</strong>:
 <br>Email: <strong><a rel="noopener noreferrer nofollow" target="_blank">nhggroup.min.ethics.training@nhghealth.com.sg</a></strong>
 <br>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
 <br>NHG Group Research &amp; Innovation</p>
+<p></p>
+<p>To contact your Institutions’ Minimum Training Secretariat (MTS) or NHG
+Health Research Course Admin (for HBR ERC), please refer to the following:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
