@@ -108,7 +108,7 @@ Form Template (Ver 10, Dated 30 Nov 2018)</p>
 </li>
 </ul>
 <p></p>
-<p>Download the <a href="https://for.sg/consent-form-translated" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
+<p>Download the <a href="https://for.sg/short-form-consent" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
 <p></p>
 </div>
 </details>
