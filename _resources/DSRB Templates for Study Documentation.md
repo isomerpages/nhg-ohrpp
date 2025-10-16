@@ -89,26 +89,26 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>207-004: ICF with <strong>ORIGINAL ENGLISH</strong> Short Consent Form Template
-(Ver 10, Dated 30 Nov 2018)</p>
+(Ver 11, Dated 01 Aug 2025)</p>
 </li>
 <li>
 <p>207-005: ICF with <strong>SIMPLIFIED CHINESE</strong> language Short Consent
-Form Template (Ver 10, Dated 30 Nov 2018)</p>
+Form Template (Ver 11, Dated 01 Aug 2025)</p>
 </li>
 <li>
 <p>207-006: ICF with <strong>MALAY </strong>language Short Consent Form Template
-(Ver 10, Dated 30 Nov 2018)</p>
+(Ver 11, Dated 01 Aug 2025)</p>
 </li>
 <li>
 <p>207-007: ICF with <strong>TAMIL </strong>language Short Consent Form Template
-(Ver 10, Dated 30 Nov 2018)</p>
+(Ver 11, Dated 01 Aug 2025)</p>
 </li>
 <li>
 <p>207-009: Certification of Translation (Ver 1, Dated 13 Aug 2012)</p>
 </li>
 </ul>
 <p></p>
-<p>Download the <a href="https://for.sg/consent-form-translated" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
+<p>Download the <a href="https://for.sg/short-form-consent" rel="noopener nofollow" target="_blank">Zip file package for the above Templates here</a>.</p>
 <p></p>
 </div>
 </details>
