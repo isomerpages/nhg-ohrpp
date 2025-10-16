@@ -88,8 +88,6 @@ more details.</p>
 <br>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
 <br>NHG Group Research &amp; Innovation</p>
-<p>To contact your Institutions’ Minimum Training Secretariat (MTS) or NHG
-Health Research Course Admin (for HBR ERC only), please refer to the following</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -97,14 +95,14 @@ Health Research Course Admin (for HBR ERC only), please refer to the following</
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Institution</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Institutional MTS Contact Information</strong>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
