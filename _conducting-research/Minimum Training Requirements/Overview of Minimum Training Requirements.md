@@ -118,7 +118,7 @@ more details.</p>
 <p>Institute of Mental Health (IMH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jenny Tay: <a rel="noopener noreferrer nofollow" target="_blank">Jenny.am.tay@nhghealth.com.sg</a> 
+<p>Ms Jenny Tay: <a rel="noopener noreferrer nofollow" target="_blank">Jenny.am.tay@nhghealth.com.sg</a>
 </p>
 <p>Ms Jaclyn Ong: <a rel="noopener noreferrer nofollow" target="_blank">Jaclyn.yy.ong@nhghealth.com.sg</a>
 </p>
