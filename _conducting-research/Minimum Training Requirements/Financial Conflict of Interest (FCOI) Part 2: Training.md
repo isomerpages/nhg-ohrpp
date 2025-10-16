@@ -135,12 +135,109 @@ your FCOI CITI Training Status in ECOS. Please allow some time for processing.</
 </ul>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
-<p>For any enquiries, please contact the <strong>Minimum Ethics Training Secretariat</strong>:
+<p>For any enquiries, please contact the <strong>NHG Health Minimum Ethics Training Secretariat</strong>:
 <br>Email: <a href="mailto:nhggroup.min.ethics.training@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.min.ethics.training@nhghealth.com.sg</a>
 <br>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
 <br>NHG Group Research &amp; Innovation</p>
 <p></p>
+<p>To contact your Institutions’ Minimum Training Secretariat (MTS) or NHG
+Health Research Course Admin (for HBR ERC), please refer to the following:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Institution</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Institutional MTS Contact Information</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Geriatric Education &amp; Research Institute (GERI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Qiu Shijia: <a rel="noopener noreferrer nofollow" target="_blank">qiu.shijia@geri.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Institute of Mental Health (IMH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jenny Tay: <a rel="noopener noreferrer nofollow" target="_blank">Jenny.am.tay@nhghealth.com.sg</a>
+</p>
+<p>Ms Jaclyn Ong: <a rel="noopener noreferrer nofollow" target="_blank">Jaclyn.yy.ong@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Khoo Teck Puat Hospital (KTPH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vimala: <a rel="noopener noreferrer nofollow" target="_blank">vimala.sadaiyappan@nhghealth.com.sg</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ktph.cru.admin@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NHG Polyclinics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nhgp.cru@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NHG Health</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NHG Health Research Course Admin (HBR only): <a rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.courseadmin@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Skin Centre (NSC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nsc.research@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Tock Seng Hospital (TTSH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ttsh.CRIO@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Woodlands Health (WH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Liang Shanying: <a rel="noopener noreferrer nofollow" target="_blank">shanying.liang@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Updated: 16 Oct 2025</p>
 <p></p>
 <p></p>
 <p></p>
