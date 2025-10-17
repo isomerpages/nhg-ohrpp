@@ -88,7 +88,9 @@ more details.</p>
 </p>
 <p>For any HBR enquiries, please contact the <strong>NHG Health Research Course Admin (HBR only)</strong>:
 <br>Email: <strong><a rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.courseadmin@nhghealth.com.sg</a></strong>
-<br>DID: 6471 3266
+<br>
+</p>
+<p>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
 <br>NHG Group Research &amp; Innovation</p>
 <p></p>
