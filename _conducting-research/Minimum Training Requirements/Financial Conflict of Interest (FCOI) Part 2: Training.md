@@ -201,15 +201,6 @@ Health Research Course Admin (for HBR ERC), please refer to the following:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NHG Health</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NHG Health Research Course Admin (HBR only): <a rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.courseadmin@nhghealth.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>National Skin Centre (NSC)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -237,7 +228,7 @@ Health Research Course Admin (for HBR ERC), please refer to the following:</p>
 </tr>
 </tbody>
 </table>
-<p>Updated: 16 Oct 2025</p>
+<p>Updated: 17 Oct 2025</p>
 <p></p>
 <p></p>
 <p></p>
