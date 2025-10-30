@@ -7,7 +7,7 @@ description: ""
 <p>The <strong>Responsible Conduct of Research (RCR) Unit</strong> under the <strong>NHG</strong>  <strong>Health Office of Human Subject Research Protection Program (OHRPP)</strong> aims
 to equip our researchers with the knowledge of best practices in research
 to guide them in making the right decisions. This would be especially applicable
-in instances that challenge inpidual values and integrity.</p>
+in instances that challenge individual values and integrity.</p>
 <p>RCR looks at upholding the professionalism of research and the integrity
 of research, which is the operative principle. Although research regulations
 and guidelines abound, there still exists instances whereby there are no
