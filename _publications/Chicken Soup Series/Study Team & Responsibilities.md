@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/StudyTeamResponsibilities/oct25_crc_transitions_effectively_for_study_continuity.pdf" rel="noopener noreferrer nofollow" target="_blank">(Oct 2025) Managing Clinical Research Coordinator (CRC) Transitions Effectively for Study Continuity</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/StudyTeamResponsibilities/sep25_managingstudyteamchanges.pdf" rel="noopener noreferrer nofollow" target="_blank">(Sep 2025) Managing Study Team Changes (Co-Investigators)</a>
 </p>
 </li>
