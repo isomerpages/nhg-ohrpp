@@ -22,8 +22,12 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 <h4><strong>Summary of Updates</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/files/PCR/PCR_SOP_SoC_Final31Jul2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes to PCR SOP here</a> (Last
-updated:&nbsp;31-Jul-2025)</p>
+<p><a href="/files/PCR/PCR_SOP_SoC_Final31Jul2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes 31-Jul-2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/PCR/PCR_SOP_Key_updates_Final06Nov2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes 06-Nov-2025</a>
+</p>
 </li>
 </ul>
 <p></p>
@@ -39,7 +43,7 @@ updated:&nbsp;31-Jul-2025)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-A01%20Prep%2C%20Maint%20and%20Comm%20PCR%20SOPs.pdf" rel="noopener nofollow" target="_blank">501-A01: Preparing, Minimum and Communicating PCR SOPs (Effective 01 Nov 2016)</a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-A01%20Prep%2C%20Maint%20and%20Comm%20PCR%20SOPs.pdf" rel="noopener nofollow" target="_blank">501-A01: Preparing, Minimum and Communicating PCR SOPs (Effective 01-Dec-2025)</a>
 </p>
 </li>
 <li>
@@ -51,11 +55,11 @@ updated:&nbsp;31-Jul-2025)</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B01%20Assessing%20Protocol%20Feasibility.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B01:&nbsp;Assessing&nbsp;Protocol&nbsp;Feasibility&nbsp;(Effective&nbsp;31-Jan-2019)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B01%20Assessing%20Protocol%20Feasibility.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B01:&nbsp;Assessing&nbsp;Protocol&nbsp;Feasibility&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B02%20Pre%20Study%20Activities.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B02:&nbsp;Pre-study&nbsp;Activities&nbsp;(Effective&nbsp;12-Nov-2021)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B02%20Pre%20Study%20Activities.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B02:&nbsp;Pre-study&nbsp;Activities&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
@@ -67,15 +71,15 @@ updated:&nbsp;31-Jul-2025)</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B05%20Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B05:&nbsp;Documentation&nbsp;(Effective&nbsp;12-Nov-2021)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B05%20Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B05:&nbsp;Documentation&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B06%20IP%20Accountability.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B06:&nbsp;Investigational&nbsp;Product&nbsp;Accountability&nbsp;(Effective&nbsp;12-Nov-2021)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B06%20IP%20Accountability.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B06:&nbsp;Investigational&nbsp;Product&nbsp;Accountability&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B07%20Study%20Conduct%20-%20Monitoring.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B07:&nbsp;Study&nbsp;Conduct&nbsp;-&nbsp;Monitoring&nbsp;(Effective&nbsp;12-Nov-2021)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B07%20Study%20Conduct%20-%20Monitoring.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B07:&nbsp;Study&nbsp;Conduct&nbsp;-&nbsp;Monitoring&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
@@ -83,11 +87,11 @@ updated:&nbsp;31-Jul-2025)</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B09%20Study%20Completion%20Activities.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B09:&nbsp;Study&nbsp;Completion&nbsp;Activities&nbsp;(Effective&nbsp;31-Jan-2019)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B09%20Study%20Completion%20Activities.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B09:&nbsp;Study&nbsp;Completion&nbsp;Activities&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B10%20Handling%20Audits.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B10:&nbsp;Handling&nbsp;Audits/&nbsp;Inspections&nbsp;(Effective&nbsp;12-Nov-2021)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B10%20Handling%20Audits.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B10:&nbsp;Handling&nbsp;Audits/&nbsp;Inspections&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
@@ -103,7 +107,7 @@ updated:&nbsp;31-Jul-2025)</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C04%20Biological%20Specimen%20Collection%20and%20Handling.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-C04: Biological Specimen Collection and Handling (Effective 30 Apr 2020)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C04%20Biological%20Specimen%20Collection%20and%20Handling.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-C04: Biological Specimen Collection and Handling (Effective 01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
