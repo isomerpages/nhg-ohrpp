@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announce n Events/pic.png">
+</div>
 <p>NHG Health eLearn system is transitioning to a new learning management
 system. The following OHRPP courses will be impacted:</p>
 <ol data-tight="true" class="tight">
