@@ -7,10 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announce n Events/pic.png">
-</div>
 <p>NHG Health eLearn system is transitioning to a new learning management
 system. The following OHRPP courses will be impacted:</p>
 <ol data-tight="true" class="tight">
@@ -45,3 +41,7 @@ cannot be downloaded. Incomplete courses must be restarted in the new system.</p
 required trainings and download training records by 23 February 2026. Additionally,
 please watch for further information regarding the new learning management
 system from the NHG Group eLearn administrator.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announce n Events/pic.png">
+</div>
+<p></p>
