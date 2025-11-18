@@ -44,5 +44,5 @@ system from the NHG Group eLearn administrator.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announce n Events/pic.png">
 </div>
-<p>Content adapted from NHG Group eLearn administrator email (sent on 27
-Oct 2025).</p>
+<p>Image adapted from NHG Group eLearn administrator email (sent on 27 Oct
+2025).</p>
