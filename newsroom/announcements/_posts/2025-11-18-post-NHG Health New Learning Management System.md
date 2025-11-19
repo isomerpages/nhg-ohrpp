@@ -44,7 +44,7 @@ system from the NHG Group eLearn administrator.</p>
 <p>For assistance or enquiries, please contact the NHG Group eLEARN (Group)
 Administrator at <a href="mailto:nhggroup.elearn@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.elearn@nhghealth.com.sg</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announce n Events/pic.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announce n Events/pic2.png">
 </div>
-<p>Image adapted from NHG Group eLearn administrator email (sent on 27 Oct
-2025).</p>
+<p>Image adapted from NHG Group eLearn administrator email (sent on 19 Nov
+25).</p>
