@@ -4,7 +4,7 @@ permalink: /research-monitoring/
 variant: tiptap
 description: ""
 ---
-<h4><strong>About the NHG Monitoring Programme</strong></h4>
+<h4><strong>About the NHG Health Monitoring Programme</strong></h4>
 <p>&nbsp;&nbsp;</p>
 <p><strong>CLINICAL TRIALS INVOLVING THERAPEUTIC PRODUCTS, CELL AND GENE THERAPY AND/ OR COMPLEMENTARY HEALTH PRODUCTS REGULATED BY THE HEALTH SCIENCES AUTHORITY (HSA)</strong>
 <br>
@@ -23,8 +23,9 @@ the monitoring function is usually performed by the Institution/Investigator.</p
 <p>Under the Human Biomedical Research Act (HBRA), part 5, section 23(2),
 each Research Institution (RI) is required to supervise, review and proactively
 monitor its human biomedical research (HBR) studies.&nbsp;</p>
-<p>In NHG, a monitoring framework was developed to meet this statutory requirement.
-The objectives of the NHG Monitoring Programme are to:</p>
+<p>In NHG Health, a monitoring framework was developed to meet this statutory
+requirement. The objectives of the NHG Health Monitoring Programme are
+to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Safeguard the safety and well-being of the research participants</p>
@@ -37,12 +38,12 @@ The objectives of the NHG Monitoring Programme are to:</p>
 policies and guidelines</p>
 </li>
 </ul>
-<p>The NHG Monitoring Programme focuses on PI-Initiated studies conducted
-in NHG institutions. The extent of monitoring depends on the nature and
-risks of the study and the experience of the PI.</p>
+<p>The NHG Health Monitoring Programme focuses on PI-Initiated studies conducted
+in NHG Health institutions. The extent of monitoring depends on the nature
+and risks of the study and the experience of the PI.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/files/Quality/NHG_Monitoring_Programme_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Monitoring Programme FAQs here</a>.</p>
+<p>Download the <a href="/files/Quality/NHG_Monitoring_Programme_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Health Monitoring Programme FAQs here</a>.</p>
 </li>
 </ul>
 <p></p>
