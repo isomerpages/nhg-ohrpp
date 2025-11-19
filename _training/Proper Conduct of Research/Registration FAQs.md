@@ -11,7 +11,7 @@ third_nav_title: Proper Conduct of Research
 <summary><strong>I have registered for a course but I’m not able to attend it anymore. What should I do?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For Proper Conduct of Research (PCR) Courses, please email <a href="mailto:research_courseadmin@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">research_courseadmin@nhg.com.sg</a> with
+<p>For Proper Conduct of Research (PCR) Courses, please email <a href="mailto:nhggroup.research.courseadmin@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.courseadmin@nhghealth.com.sg</a> with
 your name, contact number, institution and the full title and date of the
 event that you had registered for.</p>
 <p>Kindly also state whether you would like to withdraw from the course or
@@ -28,7 +28,7 @@ the full registration fees.</p>
 <br>If the participant is unable to attend a course that he/she has registered
 for, he/she may arrange for alternate personnel to take up the seat as
 a one-for-one substitution. Such requests are to be submitted via email
-to <strong><a rel="noopener noreferrer nofollow" target="_blank">research_courseadmin@nhg.com.sg</a></strong> and
+to <a href="mailto:nhggroup.research.courseadmin@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.courseadmin@nhghealth.com.sg</a> and
 will be approved on a case-to-case basis.</p>
 <p>An administrative fee of $15 (before GST) will be charged if the request
 for this substitution is received &lt; 5 working days before the commencement
@@ -65,8 +65,8 @@ fee of $15 (before GST).</p>
 <summary><strong>My colleagues and I are interested in an event. Can we register as a group? Will we be eligible for a group discount?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>No. The FormSG system only accepts individual registrations. NHG does
-not offer group discounts.</p>
+<p>No. The FormSG system only accepts individual registrations. NHG Health
+does not offer group discounts.</p>
 <p></p>
 </div>
 </details>
@@ -98,7 +98,7 @@ registration link.</p>
 <summary><strong>I am from NUH, am I considered an NHG Health participant?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>No. NUH is not an NHG institution.</p>
+<p>No. NUH is not an NHG Health institution.</p>
 <p>Please refer to the <a href="https://ethics.gri.nhg.com.sg/course-fee-categories/" rel="noopener nofollow" target="_blank">Registration Fee Category Classifications (here)</a> for
 the list of organizations under the respective categories.</p>
 <p></p>
@@ -110,8 +110,8 @@ the list of organizations under the respective categories.</p>
 <summary><strong>I am a resident in an NHG Health institution (e.g. TTSH). Do I pay NHG Health institution rates?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>NHG institution rates apply to all clinicians enrolled in the NHG Residency
-Programme.</p>
+<p>NHG Health institution rates apply to all clinicians enrolled in the NHG
+Health Residency Programme.</p>
 <p></p>
 </div>
 </details>
@@ -122,7 +122,7 @@ Programme.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Please email <a href="mailto:research_courseadmin@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">research_courseadmin@nhg.com.sg</a> with
+<p>Please email <a href="mailto:nhggroup.research.courseadmin@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.courseadmin@nhghealth.com.sg</a> with
 your name, contact number, institution and the full title of the event
 that you had registered for.</p>
 <p></p>
