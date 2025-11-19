@@ -41,6 +41,8 @@ cannot be downloaded. Incomplete courses must be restarted in the new system.</p
 required trainings and download training records by 23 February 2026. Additionally,
 please watch for further information regarding the new learning management
 system from the NHG Group eLearn administrator.</p>
+<p>For assistance or enquiries, please contact the NHG Group eLEARN (Group)
+Administrator at <a href="mailto:nhggroup.elearn@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.elearn@nhghealth.com.sg</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announce n Events/pic.png">
 </div>
