@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>NHG Health Proper Conduct of Research </strong><br><strong>Standard Operating Procedures and Templates</strong></h4>
-<p>These are a set of guidelines and templates developed by NHG Group Research
-to provide detailed procedures on conducting research in accordance with
-applicable guidelines and regulations. You may adapt and modify these templates
-to suit your individual research needs.</p>
+<p>These are a set of guidelines and templates developed by NHG Health Group
+Research to provide detailed procedures on conducting research in accordance
+with applicable guidelines and regulations. You may adapt and modify these
+templates to suit your individual research needs.</p>
 <p></p>
 <p><strong>For Clinical Trials Regulated Under the Health Products Act and Medicines Act&nbsp;&nbsp;&nbsp;</strong>
 <br>Please note that the revised regulatory requirements should be complied
@@ -32,8 +32,8 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </ul>
 <p></p>
 <h4><strong>PCR SOPs &amp; Templates</strong></h4>
-<p><strong>These documents are strictly for internal circulation among NHG Staff and Authorized personnel only.</strong>
-<br><strong>* Access to these files is Restricted (NHG Intranet access required).</strong>
+<p><strong>These documents are strictly for internal circulation among NHG Health Staff and Authorized personnel only.</strong>
+<br><strong>* Access to these files is Restricted (NHG Health Intranet access required).</strong>
 </p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">

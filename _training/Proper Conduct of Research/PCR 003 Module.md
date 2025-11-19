@@ -8,8 +8,8 @@ third_nav_title: Proper Conduct of Research
 <h4><strong>PCR-003: Research Data Collection &amp; Budgeting Module</strong></h4>
 <p>Participants will learn about the general principles involved in budgeting,
 design and use of a case report form, database design and have an overview
-understanding of how REDCap is used in NHG to aid in data analysis and
-capture in research.</p>
+understanding of how REDCap is used in NHG Health to aid in data analysis
+and capture in research.</p>
 <h4><strong>Agenda</strong></h4>
 <p>This online module encompasses the following topics relating to the conduct
 of research studies:</p>
@@ -26,9 +26,9 @@ of good database design.</p>
 </li>
 <li>
 <p><strong>REDCap</strong> – All you need to know about using REDCap in NHG
-- This topic introduces REDCap as a web-based electronic data capture solution
-that is designed for collecting clinical research data in a secure and
-systematic manner.</p>
+Health - This topic introduces REDCap as a web-based electronic data capture
+solution that is designed for collecting clinical research data in a secure
+and systematic manner.</p>
 </li>
 <li>
 <p><strong>Budgeting for Clinical Trials and Competitive Grants</strong> -
@@ -50,7 +50,7 @@ trials.</p>
 <p>To design databases to organize information collected in research studies.</p>
 </li>
 <li>
-<p>To have an overview of how REDCap is used in NHG.</p>
+<p>To have an overview of how REDCap is used in NHG Health.</p>
 </li>
 <li>
 <p>To ensure that all the budgets are accounted for in clinical trials.</p>
@@ -72,8 +72,8 @@ to closure.</p>
 <p>Registration for this Course is currently open. Go to the <a href="https://form.gov.sg/66177cd0a14ba8cd75876ca4" rel="noopener nofollow" target="_blank"><u>Course Registration (via FormSG) here</u></a>.</p>
 </li>
 <li>
-<p><strong>For NHG Staff: </strong>Register <a href="https://elearn.sg/nhg/Login/Login.aspx" rel="noopener nofollow" target="_blank"><u>here for the PCR course</u></a>.
-Download the <a href="https://staging.d2xg4pfdtrypjl.amplifyapp.com/files/Training%20Files/PCR%20Course/NHG_Staff_Registration_Guide_for_PCR_Modules_v11_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Staff Self-Registration Guide for PCR Course here</u></a>.</p>
+<p><strong>For NHG Health Staff: </strong>Register <a href="https://elearn.sg/nhg/Login/Login.aspx" rel="noopener nofollow" target="_blank"><u>here for the PCR course</u></a>.
+Download the <a href="https://staging.d2xg4pfdtrypjl.amplifyapp.com/files/Training%20Files/PCR%20Course/NHG_Staff_Registration_Guide_for_PCR_Modules_v11_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health Staff Self-Registration Guide for PCR Course here</u></a>.</p>
 </li>
 </ul>
 <p></p>

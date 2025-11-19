@@ -83,7 +83,7 @@ products in accordance with Good Clinical Practice principles.</p>
 involved in budgeting, design and use of a case report form, database design
 and have an overview understanding of how REDCap is used in NHG to aid
 in data analysis and capture in research.</p>
-<p>conduct of research studies.</p>
+<p></p>
 <p><a href="/pcr-003/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
 <p></p>
 </div>
@@ -112,8 +112,8 @@ inspections, conducted either by external parties and/or regulatory authorities.
 <p>Registration for this Course is currently open. Go to the <a href="https://form.gov.sg/66177cd0a14ba8cd75876ca4" rel="noopener nofollow" target="_blank">PCR Course Registration (via FormSG) here</a>.</p>
 </li>
 <li>
-<p><strong>For NHG Staff: </strong>Register <a href="https://elearn.sg/nhg/Login/Login.aspx" rel="noopener nofollow" target="_blank">here for the PCR course</a>.
-Download the <a href="/files/Training Files/PCR Course/NHG_Staff_Registration_Guide_for_PCR_Modules_v11_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Staff Self-Registration Guide for PCR Course here</a>.</p>
+<p><strong>For NHG Health Staff: </strong>Register <a href="https://elearn.sg/nhg/Login/Login.aspx" rel="noopener nofollow" target="_blank">here for the PCR course</a>.
+Download the <a href="/files/Training Files/PCR Course/NHG_Staff_Registration_Guide_for_PCR_Modules_v11_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Health Staff Self-Registration Guide for PCR Course here</a>.</p>
 </li>
 <li>
 <p>See the Course <a href="/registration-faqs/" rel="noopener nofollow" target="_blank">Registration FAQs here</a>.</p>

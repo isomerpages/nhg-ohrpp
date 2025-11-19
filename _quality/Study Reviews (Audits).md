@@ -6,13 +6,13 @@ description: ""
 ---
 <h4><strong>Study Reviews (Audits)</strong></h4>
 <p>Regular study reviews (audits) are essential to ensure compliance of research
-being conducted in NHG and its partner institutions. The focus of study
-reviews is to help investigators with proper conduct of research.&nbsp;</p>
-<p>Random study reviews are conducted by the NHG Research Quality Management
-(RQM) Unit. Study reviews may also be initiated for cause i.e. when a review
-is initiated to investigate issues or complaints. For cause study reviews
-may be conducted by the NHG RQM Unit or by external auditors appointed
-by NHG Group Research &amp; Innovation.</p>
+being conducted in NHG Health and its partner institutions. The focus of
+study reviews is to help investigators with proper conduct of research.&nbsp;</p>
+<p>Random study reviews are conducted by the NHG Health Research Quality
+Management (RQM) Unit. Study reviews may also be initiated for cause i.e.
+when a review is initiated to investigate issues or complaints. For cause
+study reviews may be conducted by the NHG Health RQM Unit or by external
+auditors appointed by NHG Health Group Research &amp; Innovation.</p>
 <p>Some of the reasons for initiating for cause reviews include:</p>
 <ul data-tight="true" class="tight">
 <li>

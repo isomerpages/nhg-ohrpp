@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p>In order to create greater awareness and understanding of clinical research
-among the public, NHG organizes various public engagement activities each
-year. Click on the links below for details of past events.</p>
+among the public, NHG Health organizes various public engagement activities
+each year. Click on the links below for details of past events.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
