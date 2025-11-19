@@ -9,10 +9,10 @@ description: ""
 (PI) Self-assessment Programme aims to familiarize PIs with the IRB and
 regulatory requirements of proper research conduct and identification of
 areas in their conduct of research that may require improvements.</p>
-<p>The PI Self-Assessment Form (PISAF) is a tool developed by NHG Research
-Quality Management (RQM) Unit for PI(s) to conduct self-assessments.</p>
+<p>The PI Self-Assessment Form (PISAF) is a tool developed by NHG Health
+Research Quality Management (RQM) Unit for PI(s) to conduct self-assessments.</p>
 <p>With effect from July 2016, PIs are to submit the PISAF when requested
-by the NHG RQM Unit.</p>
+by the NHG Health RQM Unit.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
