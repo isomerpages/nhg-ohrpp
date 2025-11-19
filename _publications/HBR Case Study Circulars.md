@@ -4,19 +4,19 @@ permalink: /hbr-circular/
 variant: tiptap
 description: ""
 ---
-<p>The NHG RI shares good practices and negative examples using short case
-studies on a regular basis to help researchers understand the what-to’s
+<p>The NHG Health RI shares good practices and negative examples using short
+case studies on a regular basis to help researchers understand the what-to’s
 and how-to’s of HBRA.&nbsp;</p>
 <p></p>
 <p><strong>NOTE</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>These Circulars are access-restricted to NHG Staff only.</strong>
+<p><strong>These Circulars are access-restricted to NHG Health Staff only.</strong>
 </p>
 </li>
 <li>
-<p><strong>NHG-Intranet access is required before they can be downloaded.</strong>
+<p><strong>NHG Health-Intranet access is required before they can be downloaded.</strong>
 </p>
 </li>
 </ul>
@@ -436,11 +436,11 @@ and how-to’s of HBRA.&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>These Circulars are access-restricted to NHG Staff only.</strong>
+<p><strong>These Circulars are access-restricted to NHG Health Staff only.</strong>
 </p>
 </li>
 <li>
-<p><strong>NHG-Intranet access is required before they can be downloaded.</strong>
+<p><strong>NHG Health-Intranet access is required before they can be downloaded.</strong>
 </p>
 </li>
 </ul>
