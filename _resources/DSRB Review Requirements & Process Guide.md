@@ -22,7 +22,7 @@ their research applications for submission to the DSRB via the ECOS system.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/DSRB Guide/(A) Research Governance/A01_Intro_NHG_OHRPP_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Introduction to NHG OHRPP</a>
+<p><a href="/files/DSRB Guide/(A) Research Governance/A01_Intro_NHG_OHRPP_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Introduction to NHG Health OHRPP</a>
 </p>
 </li>
 <li>
