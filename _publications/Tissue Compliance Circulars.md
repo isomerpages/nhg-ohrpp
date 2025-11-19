@@ -4,20 +4,20 @@ permalink: /tissue-compliance-circular/
 variant: tiptap
 description: ""
 ---
-<p>In an effort to educate the NHG research community on the Human Tissue
-Framework, the Tissue Secretariat have initiated a publication series called
-“Tissue Compliance Circular” for tissue custodians and individuals involved
-in tissue banking activities.</p>
+<p>In an effort to educate the NHG Health research community on the Human
+Tissue Framework, the Tissue Secretariat have initiated a publication series
+called “Tissue Compliance Circular” for tissue custodians and individuals
+involved in tissue banking activities.</p>
 <p>The Circulars are organized by their release dates.</p>
 <p><strong>NOTE</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>These Circulars are access-restricted to NHG Staff only.</strong>
+<p><strong>These Circulars are access-restricted to NHG Health Staff only.</strong>
 </p>
 </li>
 <li>
-<p><strong>NHG-Intranet access is required before they can be downloaded.</strong>
+<p><strong>NHG Health-Intranet access is required before they can be downloaded.</strong>
 </p>
 </li>
 </ul>
@@ -60,8 +60,8 @@ human tissue for research
 <br>1. Tissue samples stored for a few hours in the institution's freezer;
 should a tissue bank be set up for this temporary storage?
 <br>2. How should temporarily stored samples be managed - records to be maintained
-and scope of monitoring. Introduction to PCT 1505-04 NHG Tissue Banking
-Activities Monitoring Plan Template
+and scope of monitoring. Introduction to PCT 1505-04 NHG Health Tissue
+Banking Activities Monitoring Plan Template
 <br>3. Who can perform tissue bank / tissue collection monitoring
 <br>
 <br>(Released 16 Jan 2024)</p>
@@ -103,15 +103,15 @@ by 16 August 2023.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NHG Tissue Bank Monitoring Framework
-<br>1. Types of monitoring activities within the NHG Tissue Bank Monitoring
+<p>NHG Health Tissue Bank Monitoring Framework
+<br>1. Types of monitoring activities within the NHG Health Tissue Bank Monitoring
 Framework (i.e. SIV, SMV, Annual Tissue Banking Activity Self-Assessment
 (TASA))
-<br>2. Scope of the NHG Tissue Bank Monitoring Framework
-<br>3. How should monitoring activities be documented - PCT 1502-01 NHG Tissue
-Bank Review Checklist
+<br>2. Scope of the NHG Health Tissue Bank Monitoring Framework
+<br>3. How should monitoring activities be documented - PCT 1502-01 NHG Health
+Tissue Bank Review Checklist
 <br>4. New/Updated resources
-<br>a) PCT 1505-04 NHG Tissue Banking Activities Monitoring Plan Template
+<br>a) PCT 1505-04 NHG Health Tissue Banking Activities Monitoring Plan Template
 <br>b) PCT 1501-B04 Quality Management of Tissue Banks and Tissue Collections
 <br>c) PCT 1504-08 Tissue Banking Activity Self-Assessment Form (TASAF)
 <br>(Released 29 May 2023)</p>
@@ -123,8 +123,8 @@ Bank Review Checklist
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>New to Tissue Banking Activities? In NHG, you must complete the Human
-Tissue Framework (HTF) Course before commencing tissue banking activities
+<p>New to Tissue Banking Activities? In NHG Health, you must complete the
+Human Tissue Framework (HTF) Course before commencing tissue banking activities
 <br>1. Who should complete the HTF Course
 <br>2. What to expect from the HTF Course
 <br>3. When should the HTF Course be completed
@@ -155,20 +155,7 @@ Tissue Framework (HTF) Course before commencing tissue banking activities
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Which application form should you use? – Tissue Bank Application Form
-or Tissue Collection Application Form?
-<br>1. Information on which Tissue Application Form to use under different
-scenarios
-<br>2. Announcement on new resource: NHG Investigator's Manual Chapter 9 -
-Tissue Repository
-<br>3. Announcement on updated resources
-<br>a) 1703-01 TB application form
-<br>b) 1703-03 TB amendment form
-<br>c) 1703-04 TC amendment form
-<br>d) 1703-07 Declaration of LHBM
-<br>e) 1703-09 TC status report form
-<br>f) 1704-05 ICF for donation of biological material
-<br>(Released 6 Dec 2022)</p>
+<p>Health</p>
 </td>
 </tr>
 <tr>
@@ -230,13 +217,12 @@ supplying leftover diagnostic tissue
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Attention: Updates to the NHG Policy for Tissue Banks
+<p>Attention: Updates to the NHG Health Policy for Tissue Banks
 <br>1. 4 key updates to the policy dated 11Feb2022
-<br>2. Reminder to register with NHG TCC if researcher is involved in tissue
-banking activities
+<br>2. Reminder to register with NHG Health TCC if researcher is involved
+in tissue banking activities
 <br>3. Annoucement that HTF Minimum Training Requirements will be extended
-to SAF staff/doctors appointed in NHG
-<br>(Released 29 Mar 2022)</p>
+to SAF staff/doctors appointed in NHG Health (Released 29 Mar 2022)</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +231,7 @@ to SAF staff/doctors appointed in NHG
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Non-Compliance Case Study: Storage of Leftover Tissue Without Appropraite
+<p>Non-Compliance Case Study: Storage of Leftover Tissue Without Appropriate
 Consent
 <br>Case study of non-compliance that was observed at a TQM remote audit on
 30 Sep 2021.
@@ -334,9 +320,10 @@ by IRB
 approved by the IRB.
 <br>
 <br>2. Introduction to 2 new resources
-<br>a) NHG TR 1704-15 Optional Consent Form For The Donation of Leftover Biological
-Samples
-<br>b) NHG Guidance to Store and Use Leftover Human Tissue for Future Research
+<br>a) NHG Health TR 1704-15 Optional Consent Form For The Donation of Leftover
+Biological Samples
+<br>b) NHG Health Guidance to Store and Use Leftover Human Tissue for Future
+Research
 <br>(Released 7 Jun 2021)</p>
 </td>
 </tr>
@@ -347,16 +334,17 @@ Samples
 </td>
 <td rowspan="1" colspan="1">
 <p>Attention: MOH Update On The Governance Of Leftover Tissue. Storing Leftover
-Tissue For Future Research? You May Need NHG TCC's Approval For This
+Tissue For Future Research? You May Need NHG Health TCC's Approval For
+This
 <br>1. Leftover tissue stored for existing IRB-approved Human Biomedical Research
 (HBR) and own future HBR that has obtained IRB approval would be subject
 to the requirements of the HBR framework; do not need to be regulated under
 the HTF.
 <br>2. Leftover tissue stored for a future research yet to obtain IRB approval
 is regulated under the the HTF.
-<br>3. Notice for researchers to register with NHG TCC if they have leftover
-tissue from a completed study and intend to store them for future research
-yet to obtain IRB approval
+<br>3. Notice for researchers to register with NHG Health TCC if they have
+leftover tissue from a completed study and intend to store them for future
+research yet to obtain IRB approval
 <br>4. Registration of Legacy Human Biological Material (LHBM) if the leftover
 tissue had been collected and made non-identifiable before 01 Nov 2019.
 <br>(Released 3 Mar 2021)</p>
@@ -399,7 +387,8 @@ Activity Self-Assesmsent Form.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOH Is Auditing NHG Tissue Banks In January 2021 - What You Need To Know
+<p>MOH Is Auditing NHG Health Tissue Banks In January 2021 - What You Need
+To Know
 <br>1. MOH Audit Preparation Timeline
 <br>2. MOH Audit Scope
 <br>3. How should custodians get ready for the audit
@@ -422,7 +411,7 @@ tissue. What should clinical lab XYZ do before releasing the de-identified
 biopsy samples to the researcher?
 <br>Responsibilities of the clinical lab before releasing leftover diagnostic
 tissue for research
-<br>1. Register as a TB with NHG TCC
+<br>1. Register as a TB with NHG Health TCC
 <br>2. Confirm that leftover diagnostic tissue no longer required for therapeutic/diagnostic
 procedures
 <br>3. Obtain documentary evidence on the intended use of tissue
@@ -443,7 +432,7 @@ researcher.
 Project? Do You Intend To Store And Use These Leftovers For Future Research.
 <br>1. 2-checkpoint guide to determine if leftover human biological material
 are regulated under the HTF
-<br>2. How to register leftover tissue with NHG TCC
+<br>2. How to register leftover tissue with NHG Health TCC
 <br>(Released 25 Aug 2020)</p>
 </td>
 </tr>
@@ -581,10 +570,10 @@ Specimen Retrieval Form
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NHG Is One Tissue Bank
-<br>1. NHG TCC governance structure.
-<br>2. Roles and responsibilities of NHG Tissue Person-In-Charge (TPIC), NHG
-TCC, Institutional Tissue Bank Committee (ITBC), TB Custodian
+<p>NHG Health Is One Tissue Bank
+<br>1. NHG Health TCC governance structure.
+<br>2. Roles and responsibilities of NHG Health Tissue Person-In-Charge (TPIC),
+NHG Health TCC, Institutional Tissue Bank Committee (ITBC), TB Custodian
 <br>(Released 2 Dec 2019)</p>
 </td>
 </tr>
@@ -597,8 +586,8 @@ TCC, Institutional Tissue Bank Committee (ITBC), TB Custodian
 <p>HBRA Human Tissue Banking Regulations. Am I Affected? What Do I Need to
 Do? A 3-step Guide.
 <br>1. Definition of human tissue, tissue banking activities and tissue bank.
-<br>2. How to register tissue bank (TB) with NHG Tissue Compliance Committee
-(TCC)
+<br>2. How to register tissue bank (TB) with NHG Health Tissue Compliance
+Committee (TCC)
 <br>(Released 13 Nov 2019)</p>
 </td>
 </tr>
@@ -625,11 +614,11 @@ Do? A 3-step Guide.
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>These Circulars are access-restricted to NHG Staff only.</strong>
+<p><strong>These Circulars are access-restricted to NHG Health Staff only.</strong>
 </p>
 </li>
 <li>
-<p><strong>NHG-Intranet access is required before they can be downloaded.</strong>
+<p><strong>NHG Health-Intranet access is required before they can be downloaded.</strong>
 </p>
 </li>
 </ul>
