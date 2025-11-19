@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>OHRPP Post-Its</strong></h4>
-<p>OHRPP Post-Its is a quarterly newsletter published by the NHG Office of
-Human Research Protection Programme (OHRPP). It serves to provide the research
-community with the latest news and update on research policies, SOPs, training
-events, educational resources and research tools from OHRPP to facilitate
-research conduct operating on high ethical standards.</p>
+<p>OHRPP Post-Its is a quarterly newsletter published by the NHG Health Office
+of Human Research Protection Programme (OHRPP). It serves to provide the
+research community with the latest news and update on research policies,
+SOPs, training events, educational resources and research tools from OHRPP
+to facilitate research conduct operating on high ethical standards.</p>
 <p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/issue_35_sep_25_ohrpp_post_its.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Current Issue for NHG Staff *</div><div class="isomer-card-link">Issue 35 (Sep 2025)</div></div></a>
@@ -25,7 +25,7 @@ research conduct operating on high ethical standards.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Issues for NHG Staff *</strong>
+<summary><strong>Issues for NHG Health Staff *</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -71,7 +71,7 @@ research conduct operating on high ethical standards.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Issues for Non-NHG readers</strong>
+<summary><strong>Issues for Non-NHG Health readers</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -114,7 +114,7 @@ research conduct operating on high ethical standards.</p>
 </details>
 </div>
 <p></p>
-<p><strong>*</strong>  <sub>Restricted: NHG Intranet access required.</sub>
+<p><strong>*</strong>  <sub>Restricted: NHG Health Intranet access required.</sub>
 </p>
 <p></p>
 <p></p>
