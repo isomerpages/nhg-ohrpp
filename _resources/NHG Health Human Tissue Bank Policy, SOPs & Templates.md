@@ -4,22 +4,22 @@ permalink: /human-tissue-bank-policy-sop-templates/
 variant: tiptap
 description: ""
 ---
-<h4><strong>NHG Human Tissue Bank Policy</strong><br><strong>Proper Conduct of Tissue Bank SOPs &amp; Templates</strong></h4>
-<p>These are a set of guidelines and templates developed by NHG Tissue Compliance
-Committee to provide detailed procedures on conducting tissue banking activities
-in accordance with applicable guidelines and regulations (e.g. HBRA). You
-may adapt and modify these guidelines and templates to suit your individual
-tissue banking activities.</p>
-<p><strong>These documents are strictly for internal circulation among NHG Staff and Authorized personnel only.</strong>
-<br><strong>* Access to these files is Restricted (NHG Intranet access required).</strong>
+<h4><strong>NHG Health Human Tissue Bank Policy</strong><br><strong>Proper Conduct of Tissue Bank SOPs &amp; Templates</strong></h4>
+<p>These are a set of guidelines and templates developed by NHG Health Tissue
+Compliance Committee to provide detailed procedures on conducting tissue
+banking activities in accordance with applicable guidelines and regulations
+(e.g. HBRA). You may adapt and modify these guidelines and templates to
+suit your individual tissue banking activities.</p>
+<p><strong>These documents are strictly for internal circulation among NHG Health Staff and Authorized personnel only.</strong>
+<br><strong>* Access to these files is Restricted (NHG Health Intranet access required).</strong>
 </p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG Human Tissue Bank Policy</strong>
+<summary><strong>NHG Health Human Tissue Bank Policy</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/_layouts/15/guestaccess.aspx?guestaccesstoken=TOWwLxxqKgiYSOah%2bHdecyAt2c%2fOiTIwyrGz3yVTTek%3d&amp;docid=2_1bb1f0d446b0c4ac8b6c75d1426a58b3e&amp;rev=1" rel="noopener noreferrer nofollow" target="_blank"><u>1601-A02&nbsp;NHG&nbsp;Policy&nbsp;for&nbsp;Tissue&nbsp;Banks</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/_layouts/15/guestaccess.aspx?guestaccesstoken=TOWwLxxqKgiYSOah%2bHdecyAt2c%2fOiTIwyrGz3yVTTek%3d&amp;docid=2_1bb1f0d446b0c4ac8b6c75d1426a58b3e&amp;rev=1" rel="noopener noreferrer nofollow" target="_blank"><u>1601-A02&nbsp;NHG&nbsp;Health Policy&nbsp;for&nbsp;Tissue&nbsp;Banks</u></a>
 </p>
 <p></p>
 </div>
@@ -39,7 +39,7 @@ tissue banking activities.</p>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1501-B01%20Pre%20Initiation%20of%20Tissue%20Banking%20Activities.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1501-B01&nbsp;Pre-Initiation&nbsp;of&nbsp;Tissue&nbsp;Banking&nbsp;Activities</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1501-B02%20Interaction%20with%20the%20NHG%20TCC.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1501-B02&nbsp;Interaction&nbsp;with&nbsp;NHG&nbsp;Tissue&nbsp;Compliance&nbsp;Committee</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1501-B02%20Interaction%20with%20the%20NHG%20TCC.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1501-B02&nbsp;Interaction&nbsp;with&nbsp;NHG&nbsp;Health Tissue&nbsp;Compliance&nbsp;Committee</u></a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1501-B03%20Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1501-B03&nbsp;Documentation</u></a>
 </p>
@@ -71,7 +71,7 @@ tissue banking activities.</p>
 <summary><strong>Checklist</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1502-01%20NHG%20Tissue%20Bank%20and%20Tissue%20Collection%20Review%20Checklist.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1502-01&nbsp;NHG&nbsp;Tissue&nbsp;Bank&nbsp;Review&nbsp;Checklist</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1502-01%20NHG%20Tissue%20Bank%20and%20Tissue%20Collection%20Review%20Checklist.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1502-01&nbsp;NHG&nbsp;Health Tissue&nbsp;Bank&nbsp;Review&nbsp;Checklist</u></a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1502-02%20Eligibility%20Checklist.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1502-02&nbsp;Eligibility&nbsp;Checklist</u></a>
 </p>
@@ -159,15 +159,15 @@ tissue banking activities.</p>
 <summary><strong>Other Resources</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-01%20NHG%20Information%20Sheet%20for%20Tissue%20Donors%20(Incidental%20Finding).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1506-01&nbsp;NHG&nbsp;Information&nbsp;Sheet&nbsp;for&nbsp;Tissue&nbsp;Donors&nbsp;(Incidental&nbsp;Finding)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-01%20NHG%20Information%20Sheet%20for%20Tissue%20Donors%20(Incidental%20Finding).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1506-01&nbsp;NHG&nbsp;Health Information&nbsp;Sheet&nbsp;for&nbsp;Tissue&nbsp;Donors&nbsp;(Incidental&nbsp;Finding)</u></a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-02%20A%20quick%20guide%20%20for%20setting%20up%20and%20managing%20a%20tissue%20bank.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1506-02&nbsp;A Quick&nbsp;Guide&nbsp;for&nbsp;Setting&nbsp;Up and Managing a&nbsp;Tissue&nbsp;Bank</u></a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-03%20Witness%20requirement%20flow%20chart.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1506-03&nbsp;Witness&nbsp;requirement&nbsp;flow&nbsp;chart</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-04%20HBRA%20Human%20Tissue%20Banking%20regulations%20and%20NHG%20Tissue%20Bank%20Policies%20Index.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1506-04 HBRA Human Tissue Banking regulations and NHG Tissue Bank Policies Index</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-04%20HBRA%20Human%20Tissue%20Banking%20regulations%20and%20NHG%20Tissue%20Bank%20Policies%20Index.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1506-04 HBRA Human Tissue Banking regulations and NHG Health Tissue Bank Policies Index</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-05%20Guidance%20To%20Store%20And%20Use%20Leftover%20Human%20Tissue%20for%20Future%20Research.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1506-05 NHG Guidance To Store And Use Leftover Human Tissue for Future Research</u></a>
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-05%20Guidance%20To%20Store%20And%20Use%20Leftover%20Human%20Tissue%20for%20Future%20Research.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1506-05 NHG Health Guidance To Store And Use Leftover Human Tissue for Future Research</u></a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-06%20Introduction%20to%20Tissue%20Bank%20Quality%20Management%20Audit.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1506-06 Introduction to Tissue Bank Quality Management Audit</u></a>&nbsp;</p>
 <p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-07%20Introduction%20to%20Tissue%20Bank%20Quality%20Management%20Site%20Initiation%20Visit.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1506-07 Introduction to Tissue Quality Management Site Initiation Visit</u></a>
@@ -177,7 +177,7 @@ tissue banking activities.</p>
 </details>
 </div>
 <p></p>
-<p><strong>* Access to these files is Restricted (NHG Intranet access required).</strong>
+<p><strong>* Access to these files is Restricted (NHG Health Intranet access required).</strong>
 </p>
 <p></p>
 <p></p>
