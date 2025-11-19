@@ -95,7 +95,7 @@ registration link.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>I am from NUH, am I considered an NHG participant?</strong>
+<summary><strong>I am from NUH, am I considered an NHG Health participant?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No. NUH is not an NHG institution.</p>
@@ -107,7 +107,7 @@ the list of organizations under the respective categories.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>I am a resident in an NHG institution (e.g. TTSH). Do I pay NHG institution rates?</strong>
+<summary><strong>I am a resident in an NHG Health institution (e.g. TTSH). Do I pay NHG Health institution rates?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>NHG institution rates apply to all clinicians enrolled in the NHG Residency
