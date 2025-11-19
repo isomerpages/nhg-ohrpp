@@ -53,8 +53,8 @@ audits and inspections.</p>
 <p>Registration for this Course is currently open. Go to the <a href="https://form.gov.sg/66177cd0a14ba8cd75876ca4" rel="noopener nofollow" target="_blank"><u>Course Registration (via FormSG) here</u></a>.</p>
 </li>
 <li>
-<p><strong>For NHG Staff: </strong>Register <a href="https://elearn.sg/nhg/Login/Login.aspx" rel="noopener nofollow" target="_blank"><u>here for the PCR course</u></a>.
-Download the <a href="https://staging.d2xg4pfdtrypjl.amplifyapp.com/files/Training%20Files/PCR%20Course/NHG_Staff_Registration_Guide_for_PCR_Modules_v11_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Staff Self-Registration Guide for PCR Course here</u></a>.</p>
+<p><strong>For NHG Health Staff: </strong>Register <a href="https://elearn.sg/nhg/Login/Login.aspx" rel="noopener nofollow" target="_blank"><u>here for the PCR course</u></a>.
+Download the <a href="https://staging.d2xg4pfdtrypjl.amplifyapp.com/files/Training%20Files/PCR%20Course/NHG_Staff_Registration_Guide_for_PCR_Modules_v11_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health Staff Self-Registration Guide for PCR Course here</u></a>.</p>
 </li>
 </ul>
 <p></p>
