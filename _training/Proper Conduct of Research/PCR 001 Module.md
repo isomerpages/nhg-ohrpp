@@ -92,8 +92,8 @@ determining subject’s eligibility, subject follow-up and retention strategies.
 <p>Registration for this Course is currently open. Go to the <a href="https://form.gov.sg/66177cd0a14ba8cd75876ca4" rel="noopener nofollow" target="_blank">Course Registration (via FormSG) here</a>.</p>
 </li>
 <li>
-<p><strong>For NHG Staff: </strong>Register <a href="https://elearn.sg/nhg/Login/Login.aspx" rel="noopener nofollow" target="_blank"><u>here for the PCR course</u></a>.
-Download the <a href="/files/Training Files/PCR Course/NHG_Staff_Registration_Guide_for_PCR_Modules_v11_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Staff Self-Registration Guide for PCR Course here</a>.</p>
+<p><strong>For NHG Health Staff: </strong>Register <a href="https://elearn.sg/nhg/Login/Login.aspx" rel="noopener nofollow" target="_blank"><u>here for the PCR course</u></a>.
+Download the <a href="/files/Training Files/PCR Course/NHG_Staff_Registration_Guide_for_PCR_Modules_v11_Jun_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Health Staff Self-Registration Guide for PCR Course here</a>.</p>
 </li>
 </ul>
 <p></p>
