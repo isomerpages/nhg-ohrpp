@@ -5,13 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>We are an AAHRPP Accredited Organization</strong></h4>
-<p>The&nbsp;National Healthcare Group (NHG) has been accredited by the <strong>Association for the Accreditation of Human Research Protection Program (AAHRPP)</strong> since
+<p>NHG Health has been accredited by the <strong>Association for the Accreditation of Human Research Protection Program (AAHRPP)</strong> since
 March 2007.</p>
-<p></p>
-<blockquote>
-<p><em>"NHG was also commended for its strength - the DSRB (Ethics Board) on their depth of knowledge, experience and expertise for each Board, and the Research Quality Management and Research Education groups for the extensive programs of Research Auditing and Education carried out."</em>
-</p>
-</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/About Us/AAHRPP/Full_AAHRPP_Accreditation_Seal.png">
@@ -34,39 +29,44 @@ Research Protection.</p>
 the well-being of research participants. To keep its accreditation, the
 institutions are required to submit annual reports to AAHRPP and must undergo
 site visits at scheduled intervals.</p>
-<p>NHG's record of full AAHRPP accreditation since 2007 is a testament to
-the quality and efficiency of our research conduct and commitment in Human
-Subject Protection, in conjunction to strive for research excellence. Research
-participants can trust that our researchers will put their safety and well-being
-as a top priority.</p>
-<h4><strong>4th Full AAHRPP Accreditation in March 2020</strong></h4>
-<p>NHG was successfully awarded Full Accreditation by the Council on Accreditation
-of the Association for the Accreditation of Human Research Protection Programs,
-Inc. (AAHRPP) in March 2020.</p>
-<p>This is NHG’s fourth successful accreditation of its Human Research Protection
-Programme (HRPP). The first three accreditations were awarded in 2007,
-2010 and 2015 respectively. This prestigious award is an assurance of NHG’s
-international standing in delivering a quality HRPP, and validates NHG’s
-commitment to the protection of human subjects.</p>
-<p>The re-accreditation of NHG HRPP also covers research activities in National
-University Health System (NUHS) and National University of Singapore (NUS)
-Yong Loo Lin School of Medicine, Saw Swee Hock School of Public Health
-and Faculty of Dentistry.</p>
+<p>NHG Health's record of full AAHRPP accreditation since 2007 is a testament
+to the quality and efficiency of our research conduct and commitment in
+Human Subject Protection, in conjunction to strive for research excellence.
+Research participants can trust that our researchers will put their safety
+and well-being as a top priority.</p>
+<h4><strong>5th Full AAHRPP Accreditation in June 2025 </strong></h4>
+<p>NHG Health was successfully awarded Full Accreditation by the Council
+on Accreditation of the Association for the Accreditation of Human Research
+Protection Programs, Inc. (AAHRPP) in June 2025.</p>
+<p>This is NHG Health’s fifth successful accreditation of its Human Research
+Protection Programme (HRPP). The first four accreditations were awarded
+in 2007, 2010, 2015 and 2020 respectively. This prestigious award is an
+assurance of NHG Health’s international standing in delivering a quality
+HRPP and validates NHG Health’s commitment to the protection of human subjects.</p>
+<p>The re-accreditation of NHG Health HRPP also covers research activities
+in National University Health System (NUHS) and National University of
+Singapore (NUS) Yong Loo Lin School of Medicine, Saw Swee Hock School of
+Public Health and Faculty of Dentistry.</p>
 <p>This significant achievement was the result of persistent dedicated efforts
 towards protecting human subjects, by senior management, research leaders
-and staff from NHG and affiliated institutions, members of the Domain Specific
-Review Board (DSRB), with the Office of Human Research Protection Programme
-(OHRPP).</p>
-<p>The AAHRPP Council on Accreditation commended NHG HRPP on its robust process
-to ensure that appropriate policies and procedures were in place for the
-adequate protection of human research participants for new institutions
-coming under its oversight as an area of distinction.</p>
-<p>NHG was also commended for its strength - the DSRB on their depth of knowledge,
-experience and expertise for each board, and the Research Quality Management
-and Research Education groups for the extensive programs of research auditing
-and education carried out.</p>
-<h4><strong>NHG's AAHRPP Accreditation History</strong></h4>
+and staff from NHG Health and affiliated institutions, members of the Domain
+Specific Review Board (DSRB), with the Office of Human Research Protection
+Programme (OHRPP).</p>
+<p>The AAHRPP Council on Accreditation has recognised NHG Health's HRPP for
+its continual institutional leadership support that enables a well-integrated,
+systematic and comprehensive HRPP.</p>
+<p>The integration and infrastructure throughout the institutions allows
+for streamlined collaboration and continuity of operations and communication,
+while our committed staff promote a culture of partnership and accessibility.</p>
+<p>AAHRPP particularly commended our HRPP's strong commitment to continuous
+improvement, reflecting our ongoing dedication to enhancing research protection
+standards throughout the organisation.</p>
+<p></p>
+<h4><strong>NHG Health's AAHRPP Accreditation History</strong></h4>
 <ul data-tight="true" class="tight">
+<li>
+<p>5th AAHRPP Accreditation: June 2025</p>
+</li>
 <li>
 <p>4th AAHRPP Accreditation: March 2020</p>
 </li>
