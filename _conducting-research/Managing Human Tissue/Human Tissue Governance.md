@@ -10,7 +10,7 @@ on 01 November 2017. The <strong>Human Tissue Framework (HTF)</strong> was
 activated on 01 November 2019.</p>
 <p>Under the HTF Framework, tissue banks must ensure that all tissue banking
 activities are in compliance with the <strong>HBRA-HTF</strong> and its subsidiary
-legislations and conducted in accordance with the <strong>NHG Tissue Bank Policy</strong>, <strong>Proper Conduct of Tissue Bank (PCT)</strong> SOPs
+legislations and conducted in accordance with the <strong>NHG Health Tissue Bank Policy</strong>, <strong>Proper Conduct of Tissue Bank (PCT)</strong> SOPs
 and institutional standards, and procedures.</p>
 <p></p>
 <h4><strong>Who will be impacted?</strong></h4>
@@ -112,7 +112,7 @@ unspecified research.</p>
 acknowledgment of study closure, such tissues could be retained and used
 within 12 months of IRB acknowledgment for study closure. After which,
 the tissues should be discarded, transferred to a <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Tissue%20Review%20(1700)/Forms%20and%20Templates/1703-01%20NHG%20Tissue%20Bank%20Application%20Form.docx?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>tissue bank</u></a></strong> or
-an IRB approved study or registered with the NHG TCC.</p>
+an IRB approved study or registered with the NHG Health TCC.</p>
 <p></p>
 </td>
 </tr>
@@ -124,8 +124,8 @@ research that <strong><u>has received IRB approval</u></strong>. This is
 because such future research demonstrates clear research intent that can
 be governed under the Human Biomedical Research (HBR) Framework. Hence,
 HTF requirements need not apply.</p>
-<p>You may refer to the following resources (Restricted: NHG Intranet access
-required) for more details.</p>
+<p>You may refer to the following resources (Restricted: NHG Health Intranet
+access required) for more details.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/16.%20TCC%20March%20Issue_01-2021_Final_03Mar2021.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>March Issue 01-2021 (MOH Update on the Governance of Leftover Tissue)</u></a>
@@ -136,28 +136,29 @@ required) for more details.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/cb5a007d-b536-499a-8a07-16863bcff795/1506-05+Guidance+To+Store+And+Use+Leftover+Human+Tissue+for+Future+Research.pdf?MOD=AJPERES&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Guidance Document to Store and Use Leftover Human Tissue for Future Research</u></a>
+<p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/cb5a007d-b536-499a-8a07-16863bcff795/1506-05+Guidance+To+Store+And+Use+Leftover+Human+Tissue+for+Future+Research.pdf?MOD=AJPERES&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health Guidance Document to Store and Use Leftover Human Tissue for Future Research</u></a>
 </p>
 </li>
 </ul>
 <p></p>
-<h4><strong>NHG Governance Structure for Human Tissues</strong></h4>
-<p>NHG is registered under MOH as a single "Mothership" Tissue Bank. Under
-this <strong><u>governance structure</u></strong>, each NHG institution
-has established an<strong> Institutional Tissue Bank Committee (ITBC)</strong> to
+<h4><strong>NHG Health Governance Structure for Human Tissues</strong></h4>
+<p>NHG Health is registered under MOH as a single "Mothership" Tissue Bank.
+Under this <strong><u>governance structure</u></strong>, each NHG Health
+institution has established an<strong> Institutional Tissue Bank Committee (ITBC)</strong> to
 oversee institutional-level tissue banking activities. Learn more about
-the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/Regulations and Guidance Documents/NHG Tissue Governance Framework.pdf" rel="noopener nofollow" target="_blank">NHG Tissue Governance Framework here</a>.</p>
+the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/Regulations and Guidance Documents/NHG Tissue Governance Framework.pdf" rel="noopener nofollow" target="_blank">NHG Health Tissue Governance Framework here</a>.</p>
 <p></p>
-<h4><strong>About NHG Tissue Compliance Committee (TCC)</strong></h4>
-<p>The <strong>NHG Tissue Compliance Committee (TCC)</strong>&nbsp;was formed
-to advise on the set up, conduct and monitoring of institutional human
-tissue banks.</p>
+<h4><strong>About NHG Health Tissue Compliance Committee (TCC)</strong></h4>
+<p>The <strong>NHG Health Tissue Compliance Committee (TCC)</strong>&nbsp;was
+formed to advise on the set up, conduct and monitoring of institutional
+human tissue banks.</p>
 <p>The TCC is chaired by A/Prof Leong Khai Pang (Senior Consultant, TTSH)
-and comprises representatives from each NHG institution.</p>
+and comprises representatives from each NHG Health institution.</p>
 <p></p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
-<p>For any enquiries, please contact the NHG TCC Secretariat at <a href="mailto:NHGTCCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGTCCSecretariat@nhg.com.sg</a>
+<p>For any enquiries, please contact the NHG Health TCC Secretariat at
+<a rel="noopener noreferrer nofollow" target="_blank">nhggroup.TCCSecretariat@nhghealth.com.sg</a>
 </p>
 <p></p>
 <p></p>
