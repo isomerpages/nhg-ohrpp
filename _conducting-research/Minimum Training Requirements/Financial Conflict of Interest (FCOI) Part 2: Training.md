@@ -12,8 +12,8 @@ third_nav_title: Minimum Training Requirements
 </div>
 <p>Since 1st January 2015, all investigators and study team members who are
 involved in the design, conduct or reporting of the research that is conducted
-under the oversight of NHG or its partner institutions are required to
-complete the Financial Conflicts of Interest (FCOI) course.</p>
+under the oversight of NHG Health or its partner institutions are required
+to complete the Financial Conflicts of Interest (FCOI) course.</p>
 <p>The FCOI course aims to educate investigators and study team members on
 how conflicting interests may adversely affect the protection of participants
 or the credibility of the human research protection programme.</p>
@@ -21,7 +21,7 @@ or the credibility of the human research protection programme.</p>
 <h4><strong>FAQs</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>(1) What is the NHG CITI FCOI course?</strong>
+<summary><strong>(1) What is the NHG Health CITI FCOI course?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Financial Conflicts of Interest (FCOI) course is a sub-component of
@@ -139,7 +139,7 @@ your FCOI CITI Training Status in ECOS. Please allow some time for processing.</
 <br>Email: <a href="mailto:nhggroup.min.ethics.training@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.min.ethics.training@nhghealth.com.sg</a>
 <br>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
-<br>NHG Group Research &amp; Innovation</p>
+<br>NHG Health Group Research &amp; Innovation</p>
 <p></p>
 <p>To contact your Institutions’ Minimum Training Secretariat (MTS) or NHG
 Health Research Course Admin (for HBR ERC), please refer to the following:</p>
@@ -192,7 +192,7 @@ Health Research Course Admin (for HBR ERC), please refer to the following:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NHG Polyclinics</p>
+<p>NHG Health Polyclinics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nhgp.cru@nhghealth.com.sg</a>
