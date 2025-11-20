@@ -64,8 +64,8 @@ to the following websites:</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>NHG Data Protection Offices</strong></h4>
-<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared Library/Research Data/List of NHG DPO and DP Offices.pdf" rel="noopener nofollow" target="_blank">List of NHG DPOs and DP Offices here</a>.
-(Restricted: NHG Intranet access required)</p>
+<h4><strong>NHG Health Data Protection Offices</strong></h4>
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared Library/Research Data/List of NHG DPO and DP Offices.pdf" rel="noopener nofollow" target="_blank">List of NHG Health DPOs and DP Offices here</a>.
+(Restricted: NHG Health Intranet access required)</p>
 <p></p>
 <p></p>
