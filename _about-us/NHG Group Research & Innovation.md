@@ -4,7 +4,7 @@ permalink: /gri/
 variant: tiptap
 description: ""
 ---
-<h4><strong> NHG Health</strong></h4>
+<h4><strong>NHG Health</strong></h4>
 <p>The <strong>NHG Health</strong> is a leader in public healthcare in Singapore
 recognized for delivering high value patient care. Our clinical services
 are provided through an integrated system of primary care polyclinics,
