@@ -26,11 +26,11 @@ through the NHG Group Research.</p>
 <h4><strong>Contact Information</strong></h4>
 <p>For claims notification or any further clarifications on the National
 CT Insurance, please contact the following:</p>
-<p>NHG Group Research Office&nbsp;&nbsp;
+<p>NHG Health Group Research Office&nbsp;&nbsp;
 <br>Name: Ms Zhang JingYang
-<br>Email: <strong><a href="mailto:Jingyang_zhang@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Jingyang_zhang@nhg.com.sg</u></a></strong>
+<br>Email: <strong><a href="mailto:jingyang.zhang@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">jingyang.zhang@nhghealth.com.sg</a></strong>
 </p>
 <p>Name: Ms Maryani Yann Wong
-<br>Email: <strong><a href="mailto:Jingyang_zhang@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Maryani_Yann_Wong@nhg.com.sg</u></a></strong>
+<br>Email: <strong><a href="mailto:maryani.yann.wong@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">maryani.yann.wong@nhghealth.com.sg</a></strong>
 </p>
 <p>&nbsp;</p>
