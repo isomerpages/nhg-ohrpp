@@ -13,9 +13,9 @@ for future research.</p>
 information stored electronically will be considered a database.</p>
 <p></p>
 <h4><strong>What is the Purpose of Registering a Standing Database?</strong></h4>
-<p>To allow NHG Domain Specific Review Board (DSRB) to review key specific
-issues pertaining to tissue and data banking, such as collection, storage,
-privacy and confidentiality, and informed consent. With the registration,
+<p>To allow NHG Health Domain Specific Review Board (DSRB) to review key
+specific issues pertaining to tissue and data banking, such as collection,
+storage, privacy and confidentiality, and informed consent. With the registration,
 custodians provide assurance to comply with NHG and BAC’s guidelines for
 data and tissue banking activities for potential research.</p>
 <p></p>
@@ -41,15 +41,15 @@ the "Owner" when the Standing Database ceases to be useful and therefore
 <p>For large IT systems, the “Custodian” shall be synonymous with the appointed
 “System Owner”.</p>
 <p>Where there is shared ownership of a Standing Database amongst various
-NHG or partner institutions, the "Owners" should agree upon the most suitable
-"Custodian".</p>
+NHG Health or partner institutions, the "Owners" should agree upon the
+most suitable "Custodian".</p>
 <p>For Standing Databases that are set up with an external institution, institutions
-within NHG should appoint an NHG "Custodian" to protect NHG’s interest
-in the joint database.</p>
+within NHG Health should appoint an NHG Health "Custodian" to protect NHG
+Health’s interest in the joint database.</p>
 <p></p>
 <h4><strong>How to Register a Standing Database?</strong></h4>
-<p><strong>With effect from 01 August 2020</strong>, all NHG Standing Database
-applications will be routed to the <strong>NHG Research Data Institutional Deputies (IDs)</strong> for
+<p><strong>With effect from 01 August 2020</strong>, all NHG Health Standing
+Database applications will be routed to the <strong>NHG Health Research Data Institutional Deputies (IDs)</strong> for
 approval.</p>
 <p>Learn more about <a href="/registering-sbd/" rel="noopener nofollow" target="_blank">Registering a Standing Database here</a>.</p>
 <p></p>
