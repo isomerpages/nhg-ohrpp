@@ -4,22 +4,22 @@ permalink: /gri/
 variant: tiptap
 description: ""
 ---
-<h4><strong>National Healthcare Group</strong></h4>
-<p>The <strong>National Healthcare Group (NHG)</strong> is a leader in public
-healthcare in Singapore recognized for delivering high value patient care.
-Our clinical services are provided through an integrated system of primary
-care polyclinics, acute care tertiary hospitals, community hospitals, national
-specialty centres, and community-based ambulatory care centres.</p>
-<p>With more than 20,000 healthcare professionals in NHG, we are committed
+<h4><strong> NHG Health</strong></h4>
+<p>The <strong>NHG Health</strong> is a leader in public healthcare in Singapore
+recognized for delivering high value patient care. Our clinical services
+are provided through an integrated system of primary care polyclinics,
+acute care tertiary hospitals, community hospitals, national specialty
+centres, and community-based ambulatory care centres.</p>
+<p>With more than 20,000 healthcare professionals in NHG Health, we are committed
 towards building healthier and resilient communities, and Adding Years
 of Healthy Life to the people we serve.​</p>
-<p>Learn more about the <strong><a href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx" rel="noopener nofollow" target="_blank"><u>National Healthcare Group (NHG)</u></a></strong> here.</p>
+<p>Learn more about the <strong><a href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx" rel="noopener nofollow" target="_blank"><u>NHG Health</u></a></strong> here.</p>
 <p></p><a class="isomer-image-wrapper" href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/GRI/NHG_Insts_Logo.png"></a>
 <p></p>
-<h4><strong>NHG Group Research &amp; Innovation</strong></h4>
-<p>At NHG, we believe that <strong>Research </strong>and <strong>Innovation </strong>are
+<h4><strong>NHG Health Group Research &amp; Innovation</strong></h4>
+<p>At NHG Health, we believe that <strong>Research </strong>and <strong>Innovation </strong>are
 at the heart of <strong>advancing healthcare</strong>.</p>
-<p>Established in 2004 in NHG, the <strong>NHG Group Research &amp; Innovation (GRI)</strong> is
+<p>Established in 2004 in NHG Health, the <strong>NHG Health Group Research &amp; Innovation (GRI)</strong> is
 dedicated to cultivating medical research and developing innovative medical
 technologies through collaborative partnerships with our academic partners
 and the MedTech industry.</p>
@@ -45,18 +45,18 @@ research and collaboration.</p>
 </ul>
 <p></p>
 <p><strong>Our Offices</strong>
-<br>The NHG Group Research &amp; Innovation (GRI) comprises of the following
-Offices.</p>
+<br>The NHG Health Group Research &amp; Innovation (GRI) comprises of the
+following Offices.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Centre for Medical Technologies &amp; Innovations (CMTi)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The NHG Centre for Medical Technologies &amp; Innovations (CMTi) plays
-an integral role in the innovation ecosystem to help facilitate the development
-of innovative MedTech solutions that can address unmet healthcare needs
-and contribute to improved patient and healthcare outcomes. This is achieved
-through a structured framework that includes funding, talent development,
-and partnerships with academic and industry leaders.</p>
+<p>The NHG Health Centre for Medical Technologies &amp; Innovations (CMTi)
+plays an integral role in the innovation ecosystem to help facilitate the
+development of innovative MedTech solutions that can address unmet healthcare
+needs and contribute to improved patient and healthcare outcomes. This
+is achieved through a structured framework that includes funding, talent
+development, and partnerships with academic and industry leaders.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Learn more <a href="https://corp.nhg.com.sg/CMTI/Pages/default.aspx" rel="noopener nofollow" target="_blank">about CMTi here</a>.</p>
@@ -68,11 +68,12 @@ and partnerships with academic and industry leaders.</p>
 <details class="isomer-details">
 <summary>Clinician-Scientist Development Office (CSDO)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The NHG Clinician Scientist Development Office (CSDO) facilitates and
-supports research in NHG by providing holistic support to nurture and develop
-clinician scientists and innovators, clinical researchers and research
-administrators in NHG; cultivate research culture through a critical mass
-of talents; and groom the next generation of research leaders and mentors.</p>
+<p>The NHG Health Clinician Scientist Development Office (CSDO) facilitates
+and supports research in NHG Health by providing holistic support to nurture
+and develop clinician scientists and innovators, clinical researchers and
+research administrators in NHG Health; cultivate research culture through
+a critical mass of talents; and groom the next generation of research leaders
+and mentors.</p>
 <p>Collaborating with academic and research institutions, our efforts strengthen
 the national pool of clinician scientists and innovators who in turn bring
 scientific research from the bench to beside.</p>
@@ -87,14 +88,14 @@ scientific research from the bench to beside.</p>
 <details class="isomer-details">
 <summary>Office of Human Research Protection Programme (OHRPP)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The NHG Office of Human Research Protection Programme (OHRPP) ensures
+<p>The NHG Health Office of Human Research Protection Programme (OHRPP) ensures
 the ethical conduct of human research by overseeing ethics reviews, providing
 researcher education, and monitoring compliance with regulations. The OHRPP
 is dedicated to protecting the rights and safety of research participants,
 maintaining high standards through international accreditation. OHRPP also
 engages in public outreach to promote awareness and understanding of participant
 rights in research. This commitment supports the ethical and effective
-conduct of research within NHG.</p>
+conduct of research within NHG Health.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Learn more <a href="https://ethics.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">about OHRPP here</a>.</p>
@@ -120,17 +121,17 @@ support to develop digital solutions to enhance productive and efficiency.&nbsp;
 <summary>Translational Research Office (TRO)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Translational Research Office (TRO), a part of the Group Research
-&amp; Innovation (GRI) in the National Healthcare Group (NHG), facilitates
-and supports translational research initiatives and activities at NHG.
-TRO works closely with partners within and across the ecosystem, including
-the Lee Kong Chian School of Medicine, to establish joint institutes, programmes,
-and projects that leverage the clinical strengths of NHG and complementary
-capabilities of our partners. TRO also works with internal and external
-stakeholders to support the management of research agreements, internal/joint
-grants and funding, as well as intellectual property (IP) developed by
-NHG staff. These in turn enable and facilitate the generation of new knowledge
+&amp; Innovation (GRI) in NHG Health, facilitates and supports translational
+research initiatives and activities at NHG Health. TRO works closely with
+partners within and across the ecosystem, including the Lee Kong Chian
+School of Medicine, to establish joint institutes, programmes, and projects
+that leverage the clinical strengths of NHG Health and complementary capabilities
+of our partners. TRO also works with internal and external stakeholders
+to support the management of research agreements, internal/joint grants
+and funding, as well as intellectual property (IP) developed by NHG Health
+staff. These in turn enable and facilitate the generation of new knowledge
 and insights towards better prevention, diagnosis, treatment and management
-of diseases, as well as maintenance of health, in alignment with NHG’s
+of diseases, as well as maintenance of health, in alignment with NHG Health’s
 vision and mission.</p>
 <p></p>
 <p></p>
