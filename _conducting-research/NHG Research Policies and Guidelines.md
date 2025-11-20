@@ -8,82 +8,81 @@ description: ""
 <p>Prior to starting your research, we urge all researchers to familiarize
 themselves with the following policies/guidelines:</p>
 <p></p>
-<h4><strong>NHG Responsible Conduct of Research (RCR) Manual</strong></h4>
-<p>As part of the NHG Office of Human Research Protection Programme (OHRPP)’s
-effort to promote the Responsible Conduct of Research (RCR) awareness within
-our research community, we have put together this manual so that researchers
-will be better equipped with knowledge about RCR and be better prepared
-to deal with any integrity dilemma that they will invariably encounter
+<h4><strong>NHG Health Responsible Conduct of Research (RCR) Manual</strong></h4>
+<p>As part of the NHG Health Office of Human Research Protection Programme
+(OHRPP)’s effort to promote the Responsible Conduct of Research (RCR) awareness
+within our research community, we have put together this manual so that
+researchers will be better equipped with knowledge about RCR and be better
+prepared to deal with any integrity dilemma that they will invariably encounter
 in their daily research activities and research career. The RCR Manual
 will provide researchers with insights to the outlines of the overall governance
 of research, provides procedural guidelines for meeting ethical requirements
 in research, and offer guidance on key ethical issues.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/rcr-manual/" rel="noopener nofollow" target="_blank">NHG Responsible Conduct of Research (RCR) Manual here</a>.</p>
+<p>Download the <a href="/rcr-manual/" rel="noopener nofollow" target="_blank">NHG Health Responsible Conduct of Research (RCR) Manual here</a>.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>NHG Investigator’s Manual</strong></h4>
+<h4><strong>NHG Health Investigator’s Manual</strong></h4>
 <p>To ensure that our growing pool of PIs understand research ethics meaningfully,
-the NHG Investigator’s Manual is a handy reference tool catering to both
-new and experienced investigators alike.</p>
-<p>This publication amalgamated the regulatory requirements, NHG DSRB research
-policies and institutional policies governing research conduct, allowing
-PIs to adeptly navigate the formidable convolutions of the research maze.
-The Investigator’s Manual is both practical and useful and you will actively
-use it to improve the ethical standards of your research.</p>
+the NHG Health Investigator’s Manual is a handy reference tool catering
+to both new and experienced investigators alike.</p>
+<p>This publication amalgamated the regulatory requirements, NHG Health DSRB
+research policies and institutional policies governing research conduct,
+allowing PIs to adeptly navigate the formidable convolutions of the research
+maze. The Investigator’s Manual is both practical and useful and you will
+actively use it to improve the ethical standards of your research.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/investigator-manual/" rel="noopener nofollow" target="_blank">NHG Investigator's Manual here</a>.</p>
+<p>Download the <a href="/investigator-manual/" rel="noopener nofollow" target="_blank">NHG Health Investigator's Manual here</a>.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>NHG Proper Conduct of Research (PCR) SOPs and Templates</strong></h4>
-<p>The NHG PCR SOPs and Templates are developed by NHG Group Research &amp;
-Innovation to provide detailed procedures on conducting research in accordance
-with applicable guidelines and regulations.</p>
+<h4><strong>NHG Health Proper Conduct of Research (PCR) SOPs and Templates</strong></h4>
+<p>The NHG Health PCR SOPs and Templates are developed by NHG Health Group
+Research &amp; Innovation to provide detailed procedures on conducting
+research in accordance with applicable guidelines and regulations.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/pcr-sop-templates/" rel="noopener nofollow" target="_blank">NHG Proper Conduct of Research SOPs &amp; Templates here</a>.</p>
+<p>Download the <a href="/pcr-sop-templates/" rel="noopener nofollow" target="_blank">NHG Health Proper Conduct of Research SOPs &amp; Templates here</a>.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>NHG Research Institution Policy</strong></h4>
-<p>The NHG Research Institution (RI) Policy outlines the functions and duties
-of NHG RI and duties of the NHG Principal Person-In-Charge (PIC) to fulfill
-the requirements of the HBRA and describes the NHG research governance
-framework that enables the RI to meet the requirements of the HBRA and
-other relevant Acts and regulations applicable to research.</p>
+<h4><strong>NHG Health Research Institution Policy</strong></h4>
+<p>The NHG Health Research Institution (RI) Policy outlines the functions
+and duties of NHG Health RI and duties of the NHG Health Principal Person-In-Charge
+(PIC) to fulfill the requirements of the HBRA and describes the NHG Health
+research governance framework that enables the RI to meet the requirements
+of the HBRA and other relevant Acts and regulations applicable to research.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Research Institution/NHG Research Institution (RI) Policy %5bAPPROVED%5d.pdf" rel="noopener nofollow" target="_blank">NHG Research Institution (RI) Policy here</a> (Restricted:
-NHG Intranet access required).</p>
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Research Institution/NHG Research Institution (RI) Policy %5bAPPROVED%5d.pdf" rel="noopener nofollow" target="_blank">NHG Health Research Institution (RI) Policy here</a> (Restricted:
+NHG Health Intranet access required).</p>
+</li>
+</ul>
+<h4><strong>NHG Health Research Data Policy</strong></h4>
+<p>The NHG Health Research Data Policy provides the framework for governing
+research data to ensure compliance with the HBRA, Personal Data Protection
+Act (PDPA), Healthtech Instruction Manual (HIM), Synapxe policies and all
+other relevant regulations.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared Library/Research Data/NHG Research Data Policy.pdf?Web=1" rel="noopener nofollow" target="_blank">NHG Health Research Data Policy here</a> (Restricted:
+NHG Health Intranet access required).</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>NHG Research Data Policy</strong></h4>
-<p>The NHG Research Data Policy provides the framework for governing research
-data to ensure compliance with the HBRA, Personal Data Protection Act (PDPA),
-Healthtech Instruction Manual (HIM), Synapxe policies and all other relevant
-regulations.</p>
+<h4><strong>NHG Health Human Tissue Bank Policy</strong></h4>
+<p>The purpose of the NHG Health Human Tissue Bank Policy is to outline the
+definitions, the establishment, ethical consideration, ownership, governance
+and management of the NHG Health tissue banks for research to ensure that
+tissue banking activities are in accordance with the requirements of the
+Human Biomedical Research Act (HBRA).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared Library/Research Data/NHG Research Data Policy.pdf?Web=1" rel="noopener nofollow" target="_blank">NHG Research Data Policy here</a> (Restricted:
-NHG Intranet access required).</p>
-</li>
-</ul>
-<p></p>
-<h4><strong>NHG Human Tissue Bank Policy</strong></h4>
-<p>The purpose of the NHG Human Tissue Bank Policy is to outline the definitions,
-the establishment, ethical consideration, ownership, governance and management
-of the NHG tissue banks for research to ensure that tissue banking activities
-are in accordance with the requirements of the Human Biomedical Research
-Act (HBRA).</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Download the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/1601-A02 NHG Policy for Tissue Banks.pdf" rel="noopener nofollow" target="_blank">NHG Human Tissue Policy here</a> (Restricted:
-NHG Intranet access required).</p>
+<p>Download the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/1601-A02 NHG Policy for Tissue Banks.pdf" rel="noopener nofollow" target="_blank">NHG Health Human Tissue Policy here</a> (Restricted:
+NHG Health Intranet access required).</p>
 </li>
 </ul>
 <p></p>
