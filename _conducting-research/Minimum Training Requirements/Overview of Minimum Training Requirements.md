@@ -92,7 +92,7 @@ more details.</p>
 </p>
 <p>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
-<br>NHG Group Research &amp; Innovation</p>
+<br>NHG Health Group Research &amp; Innovation</p>
 <p></p>
 <p>To contact your Institutions’ Minimum Training Secretariat (MTS) or NHG
 Health Research Course Admin (for HBR ERC), please refer to the following:</p>
@@ -145,7 +145,7 @@ Health Research Course Admin (for HBR ERC), please refer to the following:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NHG Polyclinics</p>
+<p>NHG Health Polyclinics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nhgp.cru@nhghealth.com.sg</a>
