@@ -178,8 +178,8 @@ responsibility for compliance through all stages of the research.</p>
 ways and standards for RCR may vary from department to department and possibly
 institution to institution. In numerous instances, more than one response
 to a RCR situation may be considered acceptable research practice.</p>
-<p>The NHG-RCR Manual will describe the core components of RCR (along with
-recommended guides to carry out research responsibly).</p>
+<p>The NHG Health-RCR Manual will describe the core components of RCR (along
+with recommended guides to carry out research responsibly).</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Download the<strong> </strong><a href="/rcr-manual/" rel="noopener nofollow" target="_blank">Responsible Conduct of Research Manual here</a>.</p>
