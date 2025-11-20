@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Managing Research Data
 ---
-<p><strong>With effect from 01 August 2020</strong>, all NHG Standing Database
-applications will be routed to the <strong>NHG Research Data Institutional Deputies (IDs)</strong> for
+<p><strong>With effect from 01 August 2020</strong>, all NHG Health Standing
+Database applications will be routed to the <strong>NHG Health Research Data Institutional Deputies (IDs)</strong> for
 approval. Please note that you should only proceed with your standing database
 activities after receiving approval by your ID.</p>
 <p>The following diagram outlines the approval process for registering a
-NHG Standing Database.</p>
+NHG Health Standing Database.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Conducting Research/Standing Database Pics/SBD_ApprovalProcess.png">
 </div>
@@ -22,7 +22,7 @@ must submit an SDB application via the Ethics &amp; Compliance Online System
 <p></p>
 <h4><strong>Resources</strong></h4>
 <p>You may refer to the following SDB Online System User Guides (Restricted:
-NHG Intranet access required).</p>
+NHG Health Intranet access required).</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/Standing%20Database%20Online%20System/%5b1607-B001%5d%20NHG%20Guideline%20for%20Standing%20Databases_Custodian%20and%20Data%20Administrator.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>SDB Custodian User Guide</u></a>
@@ -39,6 +39,6 @@ NHG Intranet access required).</p>
 </ul>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
-<p>For enquiries on NHG Standing Database applications and registration,
-please contact the NHG Research Data Secretariat at <a href="mailto:RDOCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">RDOCSecretariat@nhg.com.sg</a>
+<p>For enquiries on NHG Health Standing Database applications and registration,
+please contact the NHG Health Research Data Secretariat at <a href="mailto:RDOCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">RDOCSecretariat@nhg.com.sg</a>
 </p>
