@@ -11,20 +11,20 @@ third_nav_title: Managing Human Tissue
 or equivalent
 <br>3)&nbsp;&nbsp;&nbsp; Seek endorsement from your <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/ITBC%20-%20Contact%20Points.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Institutional Tissue Bank Committee (ITBC)*</u></a> or
 equivalent
-<br>4)&nbsp;&nbsp;&nbsp; Submit the completed form to the NHG TCC Secretariat
-(<a href="https://mynhg.nhg.com.sg/dept/rcu/_layouts/15/WopiFrame.aspx?sourcedoc=/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Tissue%20Review%20(1700)/Forms%20and%20Templates/1703-01%20NHG%20Tissue%20Bank%20Application%20Form.docx&amp;amp;action=default" rel="noopener noreferrer nofollow" target="_blank"><u>NHGTCCSecretariat@nhg.com.sg</u></a>)</p>
+<br>4)&nbsp;&nbsp;&nbsp; Submit the completed form to the NHG Health TCC Secretariat
+(<a rel="noopener noreferrer nofollow" target="_blank">nhggroup.TCCSecretariat@nhghealth.com.sg</a>)</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Conducting Research/Tissue Bank Pics/Tissue_Bank_Application_Process.png">
 </div>
-<p>Fig. 1 – Tissue Bank Application Process in NHG</p>
+<p>Fig. 1 – Tissue Bank Application Process in NHG Health</p>
 <p>
 <br>
 </p>
 <p>For collection of human tissue that is <u>for the sole purpose of bio-banking</u> and
 is not linked to any IRB-approved research, custodians must also complete
-the <a href="https://mynhg.nhg.com.sg/dept/rcu/_layouts/15/WopiFrame.aspx?sourcedoc=/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Tissue%20Review%20(1700)/Forms%20and%20Templates/1703-02%20NHG%20Tissue%20Collection%20Form.docx&amp;action=default" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Tissue Collection Form*</u></a>.</p>
+the <a href="https://mynhg.nhg.com.sg/dept/rcu/_layouts/15/WopiFrame.aspx?sourcedoc=/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Tissue%20Review%20(1700)/Forms%20and%20Templates/1703-02%20NHG%20Tissue%20Collection%20Form.docx&amp;action=default" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health Tissue Collection Form*</u></a>.</p>
 <p></p>
 <h4><strong>Tissue Review Forms and Templates</strong></h4>
 <ul data-tight="true" class="tight">
@@ -37,17 +37,18 @@ the <a href="https://mynhg.nhg.com.sg/dept/rcu/_layouts/15/WopiFrame.aspx?source
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://mynhg.nhg.com.sg/dept/rcu/_layouts/15/WopiFrame.aspx?sourcedoc=/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Tissue%20Review%20(1700)/Forms%20and%20Templates/1703-02%20NHG%20Tissue%20Collection%20Form.docx&amp;action=default" rel="noopener noreferrer nofollow" target="_blank"><u>Tissue Collection Application Form*</u></a> 
-<br>This form must be submitted to the TCC if a NHG staff intends to actively
-recruit donors independent of an IRB approved research for the sole purpose
-of collecting tissue to facilitate future research.</p>
+<br>This form must be submitted to the TCC if a NHG Health staff intends to
+actively recruit donors independent of an IRB approved research for the
+sole purpose of collecting tissue to facilitate future research.</p>
 </li>
 </ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Tissue%20Review%20(1700)/Forms%20and%20Templates/1703-07%20Declaration%20of%20LHBM.docx" rel="noopener noreferrer nofollow" target="_blank"><u>Declaration&nbsp;of&nbsp;Compliance&nbsp;to&nbsp;HBRA&nbsp;on&nbsp;Handling&nbsp;of&nbsp;Legacy&nbsp;Human&nbsp;Biological&nbsp;Material&nbsp;(HBM)*</u></a> 
-<br>This form is required for NHG staff who are in possession of Legacy HBM
-and intends to store or use them for future research from 01 November 2019</p>
+<br>This form is required for NHG Health staff who are in possession of Legacy
+HBM and intends to store or use them for future research from 01 November
+2019</p>
 </li>
 </ul>
 <p></p>
@@ -61,10 +62,10 @@ Adverse Events (SAEs), &amp; Untoward Occurrences</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/NHG Proper Conduct of Tissue Bank (1500) SOPs %26 guidance documents" rel="noopener nofollow" target="_blank">NHG Tissue Bank Policy, PCT SOPs*</a> &amp;
+<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/NHG Proper Conduct of Tissue Bank (1500) SOPs %26 guidance documents" rel="noopener nofollow" target="_blank">NHG Health Tissue Bank Policy, PCT SOPs*</a> &amp;
 <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/NHG Proper Conduct of Tissue Bank Forms and Templates" rel="noopener nofollow" target="_blank">Templates*</a>
-<br>Policy, guidelines and templates developed by NHG Tissue Compliance Committee
-to provide detailed procedures on conducting tissue banking activities
+<br>Policy, guidelines and templates developed by NHG Health Tissue Compliance
+Committee to provide detailed procedures on conducting tissue banking activities
 in accordance with applicable guidelines and regulations (e.g. HBRA).</p>
 </li>
 </ul>
@@ -102,5 +103,5 @@ in accordance with applicable guidelines and regulations (e.g. HBRA).</p>
 </li>
 </ul>
 <p>
-<br><strong>* These documents are strictly for internal circulation among NHG Staff and Authorized personnel only. Access to these files is Restricted (NHG Intranet access required).</strong>
+<br><strong>* These documents are strictly for internal circulation among NHG Health Staff and Authorized personnel only. Access to these files is Restricted (NHG Intranet access required).</strong>
 </p>
