@@ -103,5 +103,5 @@ in accordance with applicable guidelines and regulations (e.g. HBRA).</p>
 </li>
 </ul>
 <p>
-<br><strong>* These documents are strictly for internal circulation among NHG Health Staff and Authorized personnel only. Access to these files is Restricted (NHG Intranet access required).</strong>
+<br><strong>* These documents are strictly for internal circulation among NHG Health Staff and Authorized personnel only. Access to these files is Restricted (NHG Health Intranet access required).</strong>
 </p>
