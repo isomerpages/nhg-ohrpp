@@ -74,7 +74,7 @@ DSRB review and approval. The workflow for submission of such studies is
 shown in Figure 1 below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Figure 1" src="/images/Figure_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="For Submission of ‘Not Human Subject Research’" src="/images/Figure_1_v1.png">
 </div>
 <p><em>Figure 1 Submission of "Not Human Subject Research"</em>
 </p>
