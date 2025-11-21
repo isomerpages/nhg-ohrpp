@@ -54,7 +54,7 @@ proposal for a preliminary assessment. The Principal Investigator may submit
 an application for the DSRB to review. The DSRB will issue a notification
 to the Principal Investigator if the DSRB determines that the proposal
 does not require review/approval.</p>
-<p><strong>Resources: </strong>See the <a href="https://ethics.gri.nhg.com.sg/investigator-manual/" rel="noopener nofollow" target="_blank">NHG Health Investigators' Manual (IM Edition 5, Chapter 1, Section 1.5, Page 12-13) heree</a>.</p>
+<p><strong>Resources: </strong>See the <a href="https://ethics.gri.nhg.com.sg/investigator-manual/" rel="noopener nofollow" target="_blank">NHG Health Investigators' Manual (IM Edition 5, Chapter 1, Section 1.5, Page 12-13) here</a>.</p>
 <p><strong>#Declaration of Use of Anonymised Data and/or Samples for Research’ Form:</strong>
 </p>
 <p>Studies involving anonymised data and/or HBM will not require review by
