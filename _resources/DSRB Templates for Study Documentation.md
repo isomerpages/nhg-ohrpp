@@ -33,7 +33,7 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://for.sg/icf-template-260825" rel="noopener nofollow" target="_blank">207-001: Informed Consent Form Template (Ver 14.1, Dated 01 August&nbsp;2025)</a>
+<p><a href="https://for.sg/icf-template-211125" rel="noopener nofollow" target="_blank">207-001: Informed Consent Form Template (Ver 15 Dated 21 November 2025)</a>
 </p>
 </li>
 <li>
