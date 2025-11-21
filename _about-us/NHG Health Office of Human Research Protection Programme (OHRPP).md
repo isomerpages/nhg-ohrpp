@@ -1,5 +1,5 @@
 ---
-title: NHG Office of Human Research Protection Programme (OHRPP)
+title: NHG Health Office of Human Research Protection Programme (OHRPP)
 permalink: /about-ohrpp/
 variant: tiptap
 description: ""

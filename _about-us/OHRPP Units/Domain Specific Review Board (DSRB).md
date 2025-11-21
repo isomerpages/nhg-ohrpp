@@ -6,11 +6,11 @@ description: ""
 third_nav_title: OHRPP Units
 ---
 <h4><strong>Establishment</strong></h4>
-<p>The NHG <strong>Domain Specific Review Board (DSRB)</strong> is an independent
-committee constituted of medical, scientific and non-scientific members.
-Since its inception in 2004, the DSRB has been providing comprehensive
+<p>The NHG Health <strong>Domain Specific Review Board (DSRB)</strong> is an
+independent committee constituted of medical, scientific and non-scientific
+members. Since its inception in 2004, the DSRB has been providing comprehensive
 ethics review of research protocols to protect the rights, safety and well-being
-of human subjects in NHG institutions and our partner NUHS.</p>
+of human subjects in NHG Health institutions and our partner NUHS.</p>
 <p></p>
 <h4><strong>Scope</strong></h4>
 <p>The DSRB’s responsibility is to ensure the protection of the rights, safety,
@@ -20,11 +20,11 @@ and amendments, and of the methods and materials to be used in obtaining
 and documenting informed consent of the research participants.</p>
 <p></p>
 <h4><strong>Governance</strong></h4>
-<p>The DSRB is empowered by the NHG Group CEO, to review research involving
-patients, staff, premises, or facilities of NHG institutions and all other
-institutions under its oversight. Other officials of institutions which
-conduct research under the oversight of NHG DSRB may not override the decision
-of DSRB (or REC, where applicable).</p>
+<p>The DSRB is empowered by the NHG Health Group CEO, to review research
+involving patients, staff, premises, or facilities of NHG Health institutions
+and all other institutions under its oversight. Other officials of institutions
+which conduct research under the oversight of NHG Health DSRB may not override
+the decision of DSRB (or REC, where applicable).</p>
 <p>The DSRB has also been accredited by the US-based Association for Accreditation
 of Human Research Protection Program (AAHRPP) since 2007, a recognition
 for its high standards in human subject protection.</p>
@@ -45,7 +45,7 @@ expertise can be concentrated within each Domain to assess the scientific
 and ethical merits of the protocols submitted for ethics review.</p>
 <p></p>
 <h4><strong>Contact information</strong></h4>
-<p><strong>NHG Domain Specific Review Board (DSRB)</strong>
+<p><strong>NHG Health Domain Specific Review Board (DSRB)</strong>
 <br>Hotline: (65) 6471 3266
 <br>Email: <a href="mailto:nhggroup.OHRPP@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.OHRPP@nhghealth.com.sg</a>
 <br>Download <a href="/files/About Us/DSRB/DSRB_Contact_List__Updated_020925_.pdf" rel="noopener nofollow" target="_blank">DSRB Secretariat Contact List </a>here.</p>

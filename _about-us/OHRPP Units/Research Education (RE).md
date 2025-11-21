@@ -6,8 +6,8 @@ description: ""
 third_nav_title: OHRPP Units
 ---
 <h4><strong>Establishment</strong></h4>
-<p>The <strong>NHG Research Education (RE)</strong> unit is responsible for
-developing training programs and implementing educational support initiatives
+<p>The <strong>NHG Health Research Education (RE)</strong> unit is responsible
+for developing training programs and implementing educational support initiatives
 for investigators, clinical research coordinators and other clinical research
 professionals.</p>
 <h4><strong>Scope</strong></h4>
@@ -32,12 +32,12 @@ departmental talks and cross institutions or cluster forums/webinars</p>
 <h4><strong>Learn more</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>See the <a href="/pcr-overview/" rel="noopener nofollow" target="_blank">NHG Researcher Training Programmes here.</a>
+<p>See the <a href="/pcr-overview/" rel="noopener nofollow" target="_blank">NHG Health Researcher Training Programmes here.</a>
 </p>
 </li>
 </ul>
 <h4><strong>Contact information</strong></h4>
-<p><strong>NHG Research Education (RE)</strong>
+<p><strong>NHG Health Research Education (RE)</strong>
 <br>Email: <a href="mailto:nhggroup.research.education@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.education@nhghealth.com.sg</a>
 </p>
 <p></p>

@@ -139,9 +139,9 @@ the research according to applicable regulations and guidance.</p>
 <summary><strong>5. Is the PI able to apply for research grant?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The NHG&nbsp;Group Research &amp; Innovation&nbsp;promotes research in
-NHG Health through the administration of competitive grant calls via the
-bottom-up approach and the thematic.</p>
+<p>The NHG Health&nbsp;Group Research &amp; Innovation&nbsp;promotes research
+in NHG Health through the administration of competitive grant calls via
+the bottom-up approach and the thematic.</p>
 <p></p>
 <p>Researchers are encouraged to refer to their Clinical Research Units/
 Offices of their institutions for their own grants available.</p>

@@ -82,7 +82,7 @@ can be <a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener no
 <br>Email: <a href="mailto:nhggroup.DSRB.FCOI@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.DSRB.FCOI@nhghealth.com.sg</a>
 <br>DID: 6471 3266
 <br>Office of Human Research Protection Programme (OHRPP)
-<br>NHG Group Research &amp; Innovation</p>
+<br>NHG Health Group Research &amp; Innovation</p>
 <p></p>
 <p></p>
 <p></p>

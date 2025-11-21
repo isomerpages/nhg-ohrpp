@@ -113,8 +113,8 @@ on CITI.</p>
 <p>For those who had completed a GCP course which does not include ICH E6
 (R3) Guideline:</p>
 <p>(1)&nbsp;&nbsp;&nbsp; Self-read the ICH E6 (R3) GCP updates or view the
-<a href="https://www.hsa.gov.sg/clinical-trials/good-clinical-practice/hsa-scri-webinar-on-ich-e6-r3" rel="noopener noreferrer nofollow" target="_blank"><u>HSA Webinar recording</u>
-</a>s, <u>and</u>
+<a href="https://www.hsa.gov.sg/clinical-trials/good-clinical-practice/hsa-scri-webinar-on-ich-e6-r3" rel="noopener noreferrer nofollow" target="_blank"><u>HSA Webinar recordings</u>
+</a>, <u>and</u>
 </p>
 <p>(2)&nbsp;&nbsp;&nbsp; Maintain a record of the ICH E6 (R3) GCP updates
 self-training,<u> via documentation in a training log</u>, to be filed

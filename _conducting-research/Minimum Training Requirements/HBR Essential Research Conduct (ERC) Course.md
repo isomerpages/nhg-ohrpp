@@ -83,7 +83,7 @@ to complete the HBR ERC Online Course (HBR Minimum Training).
 of the online course do not need to repeat V.3 online course to meet the
 minimum training requirements but may do so for refresher or enhanced learning
 purposes. Please access our course via this eLEARN link <strong><a href="https://elearn.sg/nhg" rel="noopener noreferrer nofollow" target="_blank"><u>https://elearn.sg/nhg</u></a></strong>.</p>
-<p><strong>Information for NHG-based MOHH Residents &amp; NHG Health-based SAF Staff/Doctors</strong>:&nbsp;<strong><a href="/files/Minimum Training/nhg_based_mohh_template_access_request_to_hbr_erc_online_guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>(Template) NHG Health-based MOHH Residents</u></a></strong>
+<p><strong>Information for NHG Health-based MOHH Residents &amp; NHG Health-based SAF Staff/Doctors</strong>:&nbsp;<strong><a href="/files/Minimum Training/nhg_based_mohh_template_access_request_to_hbr_erc_online_guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>(Template) NHG Health-based MOHH Residents</u></a></strong>
 </p>
 <h4><strong>Supplementary Readings</strong></h4>
 <p>1. Information on Human Biomedical Research Act (HBRA) – Regulatory Framework
