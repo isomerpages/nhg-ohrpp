@@ -54,8 +54,8 @@ proposal for a preliminary assessment. The Principal Investigator may submit
 an application for the DSRB to review. The DSRB will issue a notification
 to the Principal Investigator if the DSRB determines that the proposal
 does not require review/approval.</p>
-<p><strong>Resources: </strong>See the <a href="/investigator-manual/" rel="noopener nofollow" target="_blank">NHG Investigators' Manual (IM Edition 4, Chapter 1, Section 1.5, Page 10) here</a>.</p>
-<p><strong>#Declaration of Use of Anonymised Data and/or Samples for Research’ Form:</strong> 
+<p><strong>Resources: </strong>See the <a href="https://ethics.gri.nhg.com.sg/investigator-manual/" rel="noopener nofollow" target="_blank">NHG Investigators' Manual (IM Edition 5, Chapter 1, Section 1.5, Page 12-13) here</a>.</p>
+<p><strong>#Declaration of Use of Anonymised Data and/or Samples for Research’ Form:</strong>
 </p>
 <p>Studies involving anonymised data and/or HBM will not require review by
 DSRB as these studies do not meet the definition of human subject research,
@@ -78,7 +78,7 @@ shown in Figure 1 below.</p>
 </div>
 <p><em>Figure 1 Submission of "Not Human Subject Research"</em>
 </p>
-<p><strong>Resources:</strong> See the <u>NHG Investigators' Manual (IM Edition 4, Chapter 1, Section 1.5, Page 14-15) here</u>.</p>
+<p><strong>Resources:</strong> See the <a href="https://ethics.gri.nhg.com.sg/investigator-manual/" rel="noopener nofollow" target="_blank">NHG Investigators' Manual (IM Edition 5, Chapter 1, Section 1.5, Page 12-13) here</a>.</p>
 <h4><strong>What are the criteria for DSRB Approval?</strong></h4>
 <p>The DSRB will consider the following elements of review which are also
 the minimum criteria for DSRB approval for new applications, study amendments
