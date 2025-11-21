@@ -37,7 +37,7 @@ use these templates, Principal Investigators are encouraged to do so.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/DSRB Templates/SUMMARY_OF_UPDATES_TO_THE_NHG_DSRB_ICF_TEMPLATE_1_Aug_2025_Final.pdf" rel="noopener nofollow" target="_blank">Summary of Changes for Informed Consent Form Template</a>
+<p><a href="/files/DSRB Templates/SUMMARY_OF_CHANGES_TO_THE_NHG_DSRB_ICF_TEMPLATE_21_Nov_2025_Final.pdf" rel="noopener nofollow" target="_blank">Summary of Changes for Informed Consent Form Template</a>
 </p>
 </li>
 </ul>
