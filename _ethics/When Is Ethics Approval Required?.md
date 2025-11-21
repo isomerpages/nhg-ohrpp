@@ -67,7 +67,7 @@ form may be used to evaluate whether the research involving anonymised
 data and/or HBM qualifies as ‘Not Human Subject Research’. Researchers
 can use the form to seek endorsement from their DR and IR to proceed with
 their research. Researchers should retain the endorsed form as proof of
-institutional review. Download the declaration checklist here.</p>
+institutional review. Download the <a href="https://for.sg/declaration-annoymised-data-180823" rel="noopener nofollow" target="_blank">declaration checklist here</a>.</p>
 <p>However, institutions may request researchers to submit their research
 applications on ECOS when there is ambiguity whether the study requires
 DSRB review and approval. The workflow for submission of such studies is
