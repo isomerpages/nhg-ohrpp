@@ -27,11 +27,11 @@ conduct for Investigators, Researchers &amp; Study Administrators.</p>
 above NHG Health Investigator’s Manual which are of interest.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Investigator Manual/im_5th_ed_cover_and_foreword.pdf" rel="noopener noreferrer nofollow" target="_blank">Cover &amp; Foreword</a>
+<p><a href="/files/Investigator Manual/a_IM_5th_Ed_Cover_and_Foreword_Clean_Aug_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Cover &amp; Foreword</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_CONTENTS_Clean.pdf" rel="noopener noreferrer nofollow" target="_blank">Content Page</a>
+<p><a href="/files/Investigator Manual/b_IM_5th_edition_CONTENTS_Clean_August_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Content Page</a>
 </p>
 </li>
 <li>
@@ -39,34 +39,34 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_2_Regulatory_Requirements.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 2 -&nbsp;Regulation Requirements</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_2_Regulatory_Requirements_Clean_01_Aug_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 2 -&nbsp;Regulation Requirements</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/im_5th_edition_chapt_3_the_study_team_01sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 3 -&nbsp;The Study Team</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_3_The_Study_Team_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 3 -&nbsp;The Study Team</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_Chapter_4_Submission_to_DSRB.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 4 -&nbsp;Submission to DSRB</a>&nbsp;</p>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_4_Submissions_to_DSRB_Clean_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 4 -&nbsp;Submission to DSRB</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/im_5th_edition_chapt_5_informed_consent_01sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 5 -&nbsp;Informed Consent</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_5_Informed_Consent_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 5 -&nbsp;Informed Consent</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/im_5th_edition_chapt_6_vulnerable_pop_01sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 6 - Vulnerable Population</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_6_Vulnerable_Pop_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 6 - Vulnerable Population</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_7_Study_Conduct_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 7 - Study Conduct</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_7_Study_Conduct_Clean_28_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 7 - Study Conduct</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_Edition_Chapt_8_Standing_Database.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 8 - Standing Database</a>
+<p><a href="/files/Investigator Manual/IM_5th_Edition_Chapt_8_Standing_Database_Clean_01_Aug_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 8 - Standing Database</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/im_5th_edition_chapt_9_tissue_banks.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 9 - Tissue Repository</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_9_Tissue_Banks_Clean_01_Aug_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 9 - Tissue Repository</a>
 </p>
 </li>
 <li>
