@@ -13,7 +13,7 @@ convolutions of the research maze.</p>
 requirements (especially the revised regulatory framework for clinical
 trials), ethical provisions and institutional policies governing research
 conduct for Investigators, Researchers &amp; Study Administrators.</p>
-<p>Download the <a href="/files/Investigator Manual/NHG_Health_Investigation_Manual_5th_Edition.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Investigator Manual – All That an Investigator Needs to Know (5<sup>th</sup> Edition) here</a>.</p>
+<p><strong>Download the</strong>  <a href="/files/Investigator Manual/NHG_Health_Investigation_Manual_5th_Edition.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Investigator Manual – All That an Investigator Needs to Know (5<sup>th</sup> Edition)</a>  <strong>here</strong>.</p>
 <h4><strong>Summary of Updates</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -74,13 +74,6 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 </ul>
-<blockquote>
-<p>This Investigator Manual serves as guidance only and should be used in
-conjunction with, not as a substitute for, the official regulations and
-guidelines. Users must always consult and comply with current applicable
-regulations including ICH E6 (R3) Good Clinical Practice guidelines, local
-regulatory requirements (e.g., HPA/MA, HBRA), and institutional policies.
-In case of any discrepancy, official regulations and guidelines take precedence
-over this manual.</p>
-</blockquote>
+<p><em>This Investigator Manual serves as guidance only and should be used in conjunction with, not as a substitute for, the official regulations and guidelines. Users must always consult and comply with current applicable regulations including ICH E6 (R3) Good Clinical Practice guidelines, local regulatory requirements (e.g., HPA/MA, HBRA), and institutional policies. In case of any discrepancy, official regulations and guidelines take precedence over this manual.</em>
+</p>
 <p></p>
