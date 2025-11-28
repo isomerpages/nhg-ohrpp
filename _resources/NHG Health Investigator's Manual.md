@@ -13,11 +13,11 @@ convolutions of the research maze.</p>
 requirements (especially the revised regulatory framework for clinical
 trials), ethical provisions and institutional policies governing research
 conduct for Investigators, Researchers &amp; Study Administrators.</p>
-<p></p>
+<p>Download the <a href="/files/Investigator Manual/NHG_Health_Investigation_Manual_5th_Edition.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Investigator Manual – All That an Investigator Needs to Know (5<sup>th</sup> Edition) here</a>.</p>
 <h4><strong>Summary of Updates</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Investigator Manual/Summary_of_Change_September25.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Change (September 2025)</a>
+<p><a href="/files/Investigator Manual/Summary_of_Change_November25.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Change (November 2025)</a>
 </p>
 </li>
 </ul>
@@ -35,7 +35,7 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_1_Research_Governance_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 1 -&nbsp;Research Governance</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_1_Research_Governance_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 1 -&nbsp;Research Governance</a>
 </p>
 </li>
 <li>
@@ -43,18 +43,18 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/im_5th_edition_chapt_3_the_study_team_01sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 3 -&nbsp;The Study Team</a>
+<p><a href="/files/Investigator Manual/im_5th_edition_chapt_3_the_study_team_01sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 3 -&nbsp;The Study Team</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_Chapter_4_Submission_to_DSRB.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 4 -&nbsp;Submission to DSRB</a>&nbsp;</p>
+<p><a href="/files/Investigator Manual/IM_Chapter_4_Submission_to_DSRB.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 4 -&nbsp;Submission to DSRB</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/im_5th_edition_chapt_5_informed_consent_01sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 5 -&nbsp;Informed Consent</a>
+<p><a href="/files/Investigator Manual/im_5th_edition_chapt_5_informed_consent_01sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 5 -&nbsp;Informed Consent</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/im_5th_edition_chapt_6_vulnerable_pop_01sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 6 - Vulnerable Population</a>
+<p><a href="/files/Investigator Manual/im_5th_edition_chapt_6_vulnerable_pop_01sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 6 - Vulnerable Population</a>
 </p>
 </li>
 <li>
@@ -74,6 +74,13 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 </ul>
-<p>The IM chapters are reviewed regularly and updated in accordance with
-changes. Version control is maintained for all chapters, with each update
-clearly marked with its revision date.</p>
+<blockquote>
+<p>This Investigator Manual serves as guidance only and should be used in
+conjunction with, not as a substitute for, the official regulations and
+guidelines. Users must always consult and comply with current applicable
+regulations including ICH E6 (R3) Good Clinical Practice guidelines, local
+regulatory requirements (e.g., HPA/MA, HBRA), and institutional policies.
+In case of any discrepancy, official regulations and guidelines take precedence
+over this manual.</p>
+</blockquote>
+<p></p>
