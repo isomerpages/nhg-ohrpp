@@ -40,7 +40,8 @@ on the documentation submitted by the Principal Investigator for review.</p>
 <p>• Disease Management</p>
 <p>• Infection Control</p>
 <p>• Quality Assessment &amp; Improvement (QA/QI)*</p>
-<p>• Studies involving Anonymised Data and/or Human Biological Material (HBM)#</p>
+<p>• Studies involving Anonymised Data and/or Human Biological Material (HBM)<sup>#</sup>
+</p>
 <p></p>
 <p><strong>*QA/AI Activity Checklist: </strong>The QA/QI Activity Checklist
 may be used to determine if a QA / QI study requires DSRB review. Where
@@ -55,7 +56,7 @@ an application for the DSRB to review. The DSRB will issue a notification
 to the Principal Investigator if the DSRB determines that the proposal
 does not require review/approval.</p>
 <p><strong>Resources: </strong>See the <a href="https://ethics.gri.nhg.com.sg/investigator-manual/" rel="noopener nofollow" target="_blank">NHG Health Investigators' Manual (IM Edition 5, Chapter 1, Section 1.5, Page 12-13) here</a>.</p>
-<p><strong>#Declaration of Use of Anonymised Data and/or Samples for Research’ Form:</strong>
+<p><strong><sup>#</sup>Declaration of Use of Anonymised Data and/or Samples for Research’ Form:</strong>
 </p>
 <p>Studies involving anonymised data and/or HBM will not require review by
 DSRB as these studies do not meet the definition of human subject research,
