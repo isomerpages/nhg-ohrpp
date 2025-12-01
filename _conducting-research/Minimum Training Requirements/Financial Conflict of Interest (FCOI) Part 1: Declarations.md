@@ -52,7 +52,7 @@ studies at the annual submission of their FCOI Declaration Form.</p>
 <p></p>
 </li>
 </ul>
-<p>Download the <a href="/files/FCOI Files/FCOI_Guide_v020724_Cleaned.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to the FCOI Declaration Requirements here</a>.</p>
+<p>Download the <a href="/files/FCOI_Guide_v011225__Clean_.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to the FCOI Declaration Requirements here</a>.</p>
 <p></p>
 <h4><strong>Submission of Annual FCOI Declarations</strong></h4>
 <p>Please note that there are some changes made to the validity period of
@@ -66,7 +66,7 @@ can be <a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener no
 <h4><strong>Useful Links</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/files/FCOI Files/FCOI_FAQs_v010724.pdf" rel="noopener noreferrer nofollow" target="_blank">FCOI Frequently Asked Questions here</a>.</p>
+<p>Download the <a href="/files/FCOI_FAQs__Clean__v__011225.pdf" rel="noopener nofollow" target="_blank">FCOI Frequently Asked Questions here</a>.</p>
 </li>
 <li>
 <p>Learn more about the <a href="http://www.ecfr.gov/cgi-bin/text-idx?rgn=div5&amp;node=45:1.0.1.1.51" rel="noopener noreferrer nofollow" target="_blank"><u>Electronic Code of Federal Regulations, PART 94 -&nbsp;RESPONSIBLE PROSPECTIVE CONTRACTORS here</u></a>
