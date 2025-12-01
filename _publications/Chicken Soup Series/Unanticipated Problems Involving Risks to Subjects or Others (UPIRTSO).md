@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/UPIRTSO/nov25_how _to_identify_upirtso.pdf" rel="noopener noreferrer nofollow" target="_blank">(Nov 2025) Identifying and Reporting UPIRTSO</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/UPIRTSO/HBR_Expected_SAE_Roam_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">(Mar 2018) HBR Expected SAE ROAM Guide</a>
 </p>
 </li>
