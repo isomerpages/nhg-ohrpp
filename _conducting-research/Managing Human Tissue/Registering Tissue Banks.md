@@ -81,10 +81,6 @@ in accordance with applicable guidelines and regulations (e.g. HBRA).</p>
 </p>
 </li>
 <li>
-<p><a href="https://sso.agc.gov.sg//SL/HBRA2015-RG5" rel="noopener noreferrer nofollow" target="_blank"><u>Requirements for Appropriate Consent - Exemption Regulations</u></a>
-</p>
-</li>
-<li>
 <p><a href="https://healthsg.sharepoint.com/sites/NHGHealth-RCU/Shared%20Library/Forms/AllItems.aspx?id=%2Fsites%2FNHGHealth%2DRCU%2FShared%20Library%2FTissue%20Banking%2FNHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20%281500%29%20SOPs%20%26%20guidance%20documents%2F1506%2D02%20A%20quick%20guide%20%20for%20setting%20up%20and%20managing%20a%20tissue%20bank%2Epdf&amp;parent=%2Fsites%2FNHGHealth%2DRCU%2FShared%20Library%2FTissue%20Banking%2FNHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20%281500%29%20SOPs%20%26%20guidance%20documents" rel="noopener noreferrer nofollow" target="_blank"><u>Quick Guide on Setting Up and Managing a Tissue Bank*</u></a>
 </p>
 </li>
@@ -97,7 +93,7 @@ in accordance with applicable guidelines and regulations (e.g. HBRA).</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/_layouts/15/WopiFrame.aspx?sourcedoc=/dept/rcu/Shared%20Library/Tissue%20Banking/HTF%20FAQ.pdf&amp;action=default" rel="noopener noreferrer nofollow" target="_blank"><u>Human Tissue Framework FAQ*</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Regulations%20and%20Guidance%20Documents/HTF%20FAQ.pdf?csf=1&amp;web=1&amp;e=YGT0II" rel="noopener noreferrer nofollow" target="_blank"><u>Human Tissue Framework FAQ*</u></a>
 </p>
 <p></p>
 </li>
