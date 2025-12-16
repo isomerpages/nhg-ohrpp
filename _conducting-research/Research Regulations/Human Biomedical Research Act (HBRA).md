@@ -50,7 +50,7 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://sso.agc.gov.sg/SL/HBRA2015-S704-2019?DocDate=20191021" rel="noopener noreferrer nofollow" target="_blank"><u>Human Biomedical Research (Tissue Banking – Exemption) Regulations 2019</u></a></strong>
+<p><strong><a href="https://sso.agc.gov.sg//SL/HBRA2015-RG5" rel="noopener noreferrer nofollow" target="_blank"><u>Human Biomedical Research (Tissue Banking – Exemption) Regulations 2019</u></a></strong>
 </p>
 </li>
 <li>
@@ -58,7 +58,7 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 </p>
 </li>
 </ul>
-<p>For more information, please refer to the <strong><a href="https://www.moh.gov.sg/policies-and-legislation/human-biomedical-research-act" rel="noopener noreferrer nofollow" target="_blank"><u>MOH website.</u></a></strong>
+<p>For more information, please refer to the <strong><a href="https://www.moh.gov.sg/others/health-regulation/regulation-of-human-biomedical-research/" rel="noopener noreferrer nofollow" target="_blank"><u>MOH website.</u></a></strong>
 </p>
 <p></p>
 <h4><strong>HBR Case Studies</strong></h4>
