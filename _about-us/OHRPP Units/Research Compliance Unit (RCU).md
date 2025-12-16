@@ -48,7 +48,7 @@ of human biomedical research (HBR) activities in NHG Health:</p>
 <p>Research Data Oversight Committee (RDOC)</p>
 </li>
 </ul>
-<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Institution/NHG%20Research%20Institution%20(RI)%20Policy%20%5BAPPROVED%5D.pdf?Web=1" rel="noopener nofollow" target="_blank">NHG Health Research Institution (RI) Policy here</a> (Restricted:
+<p>Download the <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/NHG%20Health%20Research%20Institution%20(RI)%20Policy%20%5BAPPROVED%5D.pdf?csf=1&amp;web=1&amp;e=5cCp8L" rel="noopener nofollow" target="_blank">NHG Health Research Institution (RI) Policy here</a> (Restricted:
 NHG Health Intranet access required).</p>
 <p></p>
 <p></p>
