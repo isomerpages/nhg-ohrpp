@@ -43,7 +43,7 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-A01%20Prep%2C%20Maint%20and%20Comm%20PCR%20SOPs.pdf" rel="noopener nofollow" target="_blank">501-A01: Preparing, Minimum and Communicating PCR SOPs (Effective 01-Dec-2025)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-A01%20Prep,%20Maint%20and%20Comm%20PCR%20SOPs.pdf?csf=1&amp;web=1&amp;e=AlQ241" rel="noopener nofollow" target="_blank">501-A01: Preparing, Minimum and Communicating PCR SOPs (Effective 01-Dec-2025)</a>
 </p>
 </li>
 <li>
