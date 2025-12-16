@@ -125,15 +125,15 @@ challenge individual values and integrity.&nbsp;</p>
 </p>
 </li>
 <li>
-<p>Research Data Secretariat: <a rel="noopener noreferrer nofollow" target="_blank">nhggroup.RDOCSecretariat@nhghealth.com.sg</a>
+<p>Research Data Secretariat: <a rel="noopener noreferrer nofollow" target="_blank">NHGGroup.RDOCSecretariat@NHGHealth.com.sg</a>
 </p>
 </li>
 <li>
-<p>Tissue Compliance Committee Secretariat: <a rel="noopener noreferrer nofollow" target="_blank">nhggroup.TCCSecretariat@nhghealth.com.sg</a>
+<p>Tissue Compliance Committee Secretariat: <a rel="noopener noreferrer nofollow" target="_blank">NHGGroup.TCCSecretariat@NHGHealth.com.sg</a>
 </p>
 </li>
 <li>
-<p>Responsible Conduct of Research Secretariat: <a rel="noopener noreferrer nofollow" target="_blank">nhggroup.RCRSecretariat@nhghealth.com.sg</a>
+<p>Responsible Conduct of Research Secretariat: <a rel="noopener noreferrer nofollow" target="_blank">NHGGroup.RCRSecretariat@NHGHealth.com.sg</a>
 </p>
 </li>
 </ul>
