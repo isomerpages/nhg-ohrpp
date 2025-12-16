@@ -44,14 +44,14 @@ NHG Health Intranet access required)</p>
 NHG Health Intranet access required)</p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/Pages/NHG-Policies.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>Healthtech Instruction Manual (HIM)</u></a> (Restricted:
+<p><a href="https://healthsg.sharepoint.com/sites/HealthTechIM" rel="noopener noreferrer nofollow" target="_blank"><u>Healthtech Instruction Manual (HIM)</u></a> (Restricted:
 NHG Health Intranet access required)</p>
 </li>
 </ul>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For any enquiries, please contact the <strong>NHG Health Research Data Secretariat</strong> at
-<a href="mailto:nhggroup.RDOCSecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.RDOCSecretariat@nhghealth.com.sg</a>
+<a href="mailto:nhggroup.RDOCSecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGGroup.RDOCSecretariat@NHGealth.com.sg</a>
 </p>
 <p></p>
 <p></p>
