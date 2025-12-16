@@ -110,7 +110,7 @@ NHG Health Intranet access required)</p>
 NHG Health Intranet access required)</p>
 <p>4. <a href="/tissue-governance/" rel="noopener nofollow" target="_blank">HBRA – Human Tissue Framework</a>
 </p>
-<p>5. <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/1601-A02%20NHG%20Policy%20for%20Tissue%20Banks.pdf?csf=1&amp;web=1&amp;e=YYwlxK" rel="noopener nofollow" target="_blank">NHG Health Policy for Tissue Banks</a> (Restricted:
+<p>5. <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/1601-A02%20NHG%20Health%20Policy%20for%20Tissue%20Banks.pdf?csf=1&amp;web=1&amp;e=QolJtU" rel="noopener nofollow" target="_blank">NHG Health Policy for Tissue Banks</a> (Restricted:
 NHG Health Intranet access required)</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
