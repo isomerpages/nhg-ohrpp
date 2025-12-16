@@ -57,7 +57,7 @@ research governance framework that enables the RI to meet the requirements
 of the HBRA and other relevant Acts and regulations applicable to research.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Research Institution/NHG Research Institution (RI) Policy %5bAPPROVED%5d.pdf" rel="noopener nofollow" target="_blank">NHG Health Research Institution (RI) Policy here</a> (Restricted:
+<p>Download the <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/NHG%20Health%20Research%20Institution%20(RI)%20Policy%20%5BAPPROVED%5D.pdf?csf=1&amp;web=1&amp;e=5cCp8L" rel="noopener nofollow" target="_blank">NHG Health Research Institution (RI) Policy here</a> (Restricted:
 NHG Health Intranet access required).</p>
 </li>
 </ul>
@@ -68,7 +68,7 @@ Act (PDPA), Healthtech Instruction Manual (HIM), Synapxe policies and all
 other relevant regulations.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared Library/Research Data/NHG Research Data Policy.pdf?Web=1" rel="noopener nofollow" target="_blank">NHG Health Research Data Policy here</a> (Restricted:
+<p>Download the <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Data/NHG%20Health%20Research%20Data%20Policy.pdf?csf=1&amp;web=1&amp;e=Fg5XxS" rel="noopener nofollow" target="_blank">NHG Health Research Data Policy here</a> (Restricted:
 NHG Health Intranet access required).</p>
 </li>
 </ul>
@@ -81,7 +81,7 @@ tissue banking activities are in accordance with the requirements of the
 Human Biomedical Research Act (HBRA).</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/1601-A02 NHG Policy for Tissue Banks.pdf" rel="noopener nofollow" target="_blank">NHG Health Human Tissue Policy here</a> (Restricted:
+<p>Download the <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/1601-A02%20NHG%20Health%20Policy%20for%20Tissue%20Banks.pdf?csf=1&amp;web=1&amp;e=Cwwcbv" rel="noopener nofollow" target="_blank">NHG Health Human Tissue Policy here</a> (Restricted:
 NHG Health Intranet access required).</p>
 </li>
 </ul>
