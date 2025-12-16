@@ -106,11 +106,11 @@ purposes. Please access our course via this eLEARN link <strong><a href="https:/
 <p></p>
 <p>2. <a href="https://mynhg.nhg.com.sg/dept/RCU/_layouts/15/guestaccess.aspx?guestaccesstoken=XC9ggDdEPOhpEigbLRsiwZizHnKf%2bY4upemhGy1f42s%3d&amp;docid=2_1eb0c7282f05d4fb3a1be2c45ded95369&amp;rev=1" rel="noopener nofollow" target="_blank">NHG Health Research Data Policy</a> (Restricted:
 NHG Health Intranet access required)</p>
-<p>3. <a href="https://mynhg.nhg.com.sg/dept/rcu/Pages/default.aspx?RootFolder=%2Fdept%2FRCU%2FShared%20Library%2FResearch%20Institution%2FCase%20Studies&amp;FolderCTID=0x0120006458C236C56B394AB53516C7CD66C829&amp;View=%7B8FB03BD4%2DCDE4%2D456E%2DA78B%2D67D4FDD0F84E%7D" rel="noopener nofollow" target="_blank">HBRA Case Studies</a> (Restricted:
+<p>3. <a href="https://healthsg.sharepoint.com/:f:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies?csf=1&amp;web=1&amp;e=eWU5RN" rel="noopener nofollow" target="_blank">HBRA Case Studies</a> (Restricted:
 NHG Health Intranet access required)</p>
 <p>4. <a href="/tissue-governance/" rel="noopener nofollow" target="_blank">HBRA – Human Tissue Framework</a>
 </p>
-<p>5. <a href="https://mynhg.nhg.com.sg/dept/RCU/_layouts/15/guestaccess.aspx?guestaccesstoken=TOWwLxxqKgiYSOah%2bHdecyAt2c%2fOiTIwyrGz3yVTTek%3d&amp;docid=2_1bb1f0d446b0c4ac8b6c75d1426a58b3e&amp;rev=1" rel="noopener nofollow" target="_blank">NHG Health Policy for Tissue Banks</a> (Restricted:
+<p>5. <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/1601-A02%20NHG%20Policy%20for%20Tissue%20Banks.pdf?csf=1&amp;web=1&amp;e=YYwlxK" rel="noopener nofollow" target="_blank">NHG Health Policy for Tissue Banks</a> (Restricted:
 NHG Health Intranet access required)</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
