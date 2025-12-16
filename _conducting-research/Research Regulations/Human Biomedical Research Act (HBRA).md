@@ -35,18 +35,18 @@ HBR activities a quick overview of the HBRA and its subsidiary legislations.</p>
 <p><strong><a href="https://sso.agc.gov.sg/Act/HBRA2015" rel="noopener noreferrer nofollow" target="_blank"><u>Human&nbsp;Biomedical&nbsp;Research&nbsp;Act&nbsp;2015</u></a></strong>&nbsp;</p>
 </li>
 <li>
-<p><strong><a href="https://sso.agc.gov.sg/SL/HBRA2015-S621-2017?DocDate=20191021" rel="noopener noreferrer nofollow" target="_blank"><u>Human Biomedical Research Regulations 2017</u></a></strong>
+<p><strong><a href="https://sso.agc.gov.sg//SL/HBRA2015-RG1" rel="noopener noreferrer nofollow" target="_blank"><u>Human Biomedical Research Regulations 2017</u></a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://sso.agc.gov.sg/SL/HBRA2015-S622-2017?DocDate=20171030" rel="noopener noreferrer nofollow" target="_blank"><u>Human Biomedical Research (Restricted Research) Regulations</u></a></strong>&nbsp;</p>
+<p><strong><a href="https://sso.agc.gov.sg//SL/HBRA2015-RG2" rel="noopener noreferrer nofollow" target="_blank"><u>Human Biomedical Research (Restricted Research) Regulations</u></a></strong>&nbsp;</p>
 </li>
 <li>
-<p><strong><a href="https://sso.agc.gov.sg/SL/HBRA2015-S703-2019?DocDate=20191021" rel="noopener noreferrer nofollow" target="_blank"><u>Human Biomedical Research (Requirements for Appropriate Consent – Exemption) Regulations 2019</u></a></strong>
+<p><strong><a href="https://sso.agc.gov.sg//SL/HBRA2015-RG4" rel="noopener noreferrer nofollow" target="_blank"><u>Human Biomedical Research (Requirements for Appropriate Consent – Exemption) Regulations 2019</u></a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://sso.agc.gov.sg/SL/HBRA2015-S702-2019?DocDate=20191021" rel="noopener noreferrer nofollow" target="_blank"><u>Human Biomedical Research (Tissue Banking) Regulations 2019</u></a></strong>
+<p><strong><a href="https://sso.agc.gov.sg//SL/HBRA2015-RG3" rel="noopener noreferrer nofollow" target="_blank"><u>Human Biomedical Research (Tissue Banking) Regulations 2019</u></a></strong>
 </p>
 </li>
 <li>
