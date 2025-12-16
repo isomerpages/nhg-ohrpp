@@ -73,15 +73,15 @@ in accordance with applicable guidelines and regulations (e.g. HBRA).</p>
 <h4><strong>Other Resources</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://sso.agc.gov.sg/SL/HBRA2015-S702-2019?DocDate=20191021" rel="noopener noreferrer nofollow" target="_blank"><u>Tissue Banking Regulations 2019</u></a>
+<p><a href="https://sso.agc.gov.sg//SL/HBRA2015-RG3" rel="noopener noreferrer nofollow" target="_blank"><u>Tissue Banking Regulations 2019</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://sso.agc.gov.sg/SL/HBRA2015-S704-2019?DocDate=20191021" rel="noopener noreferrer nofollow" target="_blank"><u>Tissue Banking - Exemption Regulations</u></a>
+<p><a href="https://sso.agc.gov.sg//SL/HBRA2015-RG5" rel="noopener noreferrer nofollow" target="_blank"><u>Tissue Banking - Exemption Regulations</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://sso.agc.gov.sg/SL/HBRA2015-S703-2019?DocDate=20191021" rel="noopener noreferrer nofollow" target="_blank"><u>Requirements for Appropriate Consent - Exemption Regulations</u></a>
+<p><a href="https://sso.agc.gov.sg//SL/HBRA2015-RG5" rel="noopener noreferrer nofollow" target="_blank"><u>Requirements for Appropriate Consent - Exemption Regulations</u></a>
 </p>
 </li>
 <li>
