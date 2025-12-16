@@ -37,7 +37,7 @@ MOHH Residents/Doctors who have been delegated as Tissue Bank Custodians
 or Tissue Bank Team Members.</p>
 <p>For MOHH staff who require access to the HBRA – HTF Course, please email
 your request using the Request for Access to HBRA HTF Course for NHG Health-based
-MOHH Residents / Doctors Template to <a rel="noopener noreferrer nofollow" target="_blank">nhggroup.TCCSecretariat@nhghealth.com.sg</a> and
+MOHH Residents / Doctors Template to <a rel="noopener noreferrer nofollow" target="_blank">NHGGroup.TCCSecretariat@NHGHealth.com.sg</a> and
 copy your RO / HOD in the email.&nbsp;</p>
 <p>Information for NHG Health-based MOHH staff: -&nbsp;<a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Request_For_Access_to_HBRA_HTF_Course_for_NHG-based_MOHH_Staff_Involved_in_Tissue_Banking_Activities%20Template.docx?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>Request for Access to HBRA HTF Course for NHG Health-based MOHH Staff Involved in Tissue Banking Activities Template*</u></a>
 </p>
@@ -71,14 +71,14 @@ details. For more information on this course, please refer to the <a href="https
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Pages/default.aspx?RootFolder=%2Fdept%2FRCU%2FShared%20Library%2FTissue%20Banking%2FNHG%20Proper%20Conduct%20of%20Tissue%20Bank%20%281500%29%20SOPs%20%26%20guidance%20documents&amp;FolderCTID=0x0120006458C236C56B394AB53516C7CD66C829&amp;View=%7B8FB03BD4%2DCDE4%2D456E%2DA78B%2D67D4FDD0F84E%7D" rel="noopener nofollow" target="_blank">NHG&nbsp;Health TCC&nbsp;Policy&nbsp;and&nbsp;Standard&nbsp;Operating&nbsp;Procedures*</a>
+<p><a href="https://healthsg.sharepoint.com/:f:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents?csf=1&amp;web=1&amp;e=kpt4HF" rel="noopener nofollow" target="_blank">NHG&nbsp;Health TCC&nbsp;Policy&nbsp;and&nbsp;Standard&nbsp;Operating&nbsp;Procedures*</a>
 </p>
 </li>
 </ul>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For more information or queries on the HBRA – Human Tissue Framework Course,
-please contact the&nbsp;NHG Health TCC Secretariat at <a href="mailto:nhggroup.tccsecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.tccsecretariat@nhghealth.com.sg</a>.
+please contact the&nbsp;NHG Health TCC Secretariat at <a href="mailto:nhggroup.tccsecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGGroup.TCCSecretariat@NHGHealth.com.sg</a>.
 <br>
 </p>
 <p><strong>* These documents are strictly for internal circulation among NHG Health Staff and Authorized personnel only. Access to these files is Restricted (NHG Health Intranet access required).</strong>
