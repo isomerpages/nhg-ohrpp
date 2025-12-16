@@ -136,7 +136,7 @@ access required) for more details.</p>
 </p>
 </li>
 <li>
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-05%20Guidance%20To%20Store%20And%20Use%20Leftover%20Human%20Tissue%20for%20Future%20Research.pdf?csf=1&amp;web=1&amp;e=wSrNa8" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health Guidance Document to Store and Use Leftover Human Tissue for Future Research</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-05%20Guidance%20To%20Store%20And%20Use%20Leftover%20Human%20Tissue%20for%20Future%20Research.pdf?csf=1&amp;web=1&amp;e=bfgrTf" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health Guidance Document to Store and Use Leftover Human Tissue for Future Research</u></a>
 </p>
 </li>
 </ul>
