@@ -144,7 +144,7 @@ Banking Activities Monitoring Plan Template
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/28.%20TCC%20Issue%203-2023_Final_10Jul2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 03/2023</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/28.%20TCC%20Issue%203-2023_Final_10Jul2023.pdf?csf=1&amp;web=1&amp;e=cmJVqz" rel="noopener noreferrer nofollow" target="_blank">Issue 03/2023</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,7 +157,7 @@ by 16 August 2023.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/27.%20TCC%20Issue%202-2023_Final_29May2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2023</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/27.%20TCC%20Issue%202-2023_Final_29May2023.pdf?csf=1&amp;web=1&amp;e=wG5vj3" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2023</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,7 +177,7 @@ Tissue Bank Review Checklist
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/26.%20TCC%20Issue%201-2023_Final_06Feb2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 01/2023</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/26.%20TCC%20Issue%201-2023_Final_06Feb2023.pdf?csf=1&amp;web=1&amp;e=HxSLlW" rel="noopener noreferrer nofollow" target="_blank">Issue 01/2023</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
