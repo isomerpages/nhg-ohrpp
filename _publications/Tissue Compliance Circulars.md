@@ -39,7 +39,7 @@ involved in tissue banking activities.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Guidance on Administrative Modifications Due to Rebranding</p>
-<p>(Released 19 Mar 2025)</p>
+<p>(Released 16 Oct 2025)</p>
 </td>
 </tr>
 <tr>
