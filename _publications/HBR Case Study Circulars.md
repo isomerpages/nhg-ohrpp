@@ -34,25 +34,43 @@ and how-to’s of HBRA.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS57-59%20(21%20May%202024).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS57-59 Various Case Studies</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2062.pdf?csf=1&amp;web=1&amp;e=oHvnSW" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 62</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS56%20Blood%20From%20Subject%20Collected%20Despite%20Saying%20%E2%80%9CNO%E2%80%9D.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS56 Blood from Subject Collected Despite Saying “NO”</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2061.pdf?csf=1&amp;web=1&amp;e=sJ16ul" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 61</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS54%20No%20Written%20Consent%20Obtained%20from%20Subject.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS54 No Written Consent Obtained from Subject</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2060.pdf?csf=1&amp;web=1&amp;e=QBoUAb" rel="noopener nofollow" target="_blank">HBR Case Study 60</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS55%20Subject%20Required%20to%20Pay%20for%20Research%20Procedure%20As%20A%20Result%20of%20Study%20Team%E2%80%99s%20Oversight.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS55 Subject Required to Pay for Research Procedure as a Result of Study Team’s Oversight</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS57-59%20(21%20May%202024).pdf?csf=1&amp;web=1&amp;e=HVlgTg" rel="noopener noreferrer nofollow" target="_blank"><u>CS57-59 Various Case Studies</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS56%20Blood%20From%20Subject%20Collected%20Despite%20Saying%20%E2%80%9CNO%E2%80%9D.pdf?csf=1&amp;web=1&amp;e=w235FQ" rel="noopener noreferrer nofollow" target="_blank"><u>CS56 Blood from Subject Collected Despite Saying “NO”</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS55%20Subject%20Required%20to%20Pay%20for%20Research%20Procedure%20As%20A%20Result%20of%20Study%20Team%E2%80%99s%20Oversight.pdf?csf=1&amp;web=1&amp;e=GaxBQa" rel="noopener noreferrer nofollow" target="_blank"><u>CS55 Subject Required to Pay for Research Procedure as a Result of Study Team’s Oversight</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS54%20No%20Written%20Consent%20Obtained%20from%20Subject.pdf?csf=1&amp;web=1&amp;e=yOeKWh" rel="noopener nofollow" target="_blank">CS54 No Written Consent Obtained from Subject</a>
 </p>
 </td>
 </tr>
