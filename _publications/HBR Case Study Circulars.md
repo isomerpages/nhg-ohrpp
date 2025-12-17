@@ -20,6 +20,46 @@ and how-to’s of HBRA.&nbsp;</p>
 </p>
 </li>
 </ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Case Studies 2025</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2066.pdf?csf=1&amp;web=1&amp;e=gNRng1" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 66</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2065.pdf?csf=1&amp;web=1&amp;e=30rxQd" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 65</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2064.pdf?csf=1&amp;web=1&amp;e=1JtLV9" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 64</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2063.pdf?csf=1&amp;web=1&amp;e=h5aS3v" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 63</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -92,31 +132,31 @@ and how-to’s of HBRA.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS53%20No%20Prescribed%20Witness%20During%20Consent%20Process.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS53 No Prescribed Witness During Consent Process</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS53%20No%20Prescribed%20Witness%20During%20Consent%20Process.pdf?csf=1&amp;web=1&amp;e=WvoYWC" rel="noopener noreferrer nofollow" target="_blank"><u>CS53 No Prescribed Witness During Consent Process</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS52%20Recruited%20Subjects%20Who%20Did%20Not%20Meet%20The%20Inclusion%20Criteria.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS52 Recruited Subjects Who Did Not Meet the Inclusion Criteria</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS52%20Recruited%20Subjects%20Who%20Did%20Not%20Meet%20The%20Inclusion%20Criteria.pdf?csf=1&amp;web=1&amp;e=PFKxIS" rel="noopener noreferrer nofollow" target="_blank"><u>CS52 Recruited Subjects Who Did Not Meet the Inclusion Criteria</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS51%20Conflict%20in%20Payment%20Information%20Given%20to%20Subjects.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS51 Conflict in Payment Information Given to Subjects</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS51%20Conflict%20in%20Payment%20Information%20Given%20to%20Subjects.pdf?csf=1&amp;web=1&amp;e=wdfPt8" rel="noopener noreferrer nofollow" target="_blank"><u>CS51 Conflict in Payment Information Given to Subjects</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS50%20Biospecimen%20Collected%20Without%20Informed%20Consent%20Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS50 Biospecimen Collected Without Informed Consent Documentation</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS50%20Biospecimen%20Collected%20Without%20Informed%20Consent%20Documentation.pdf?csf=1&amp;web=1&amp;e=F6bF8w" rel="noopener noreferrer nofollow" target="_blank"><u>CS50 Biospecimen Collected Without Informed Consent Documentation</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS49%20Jan%202023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS49 Jan 2023</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS49%20Jan%202023.pdf?csf=1&amp;web=1&amp;e=ZDSOP5" rel="noopener noreferrer nofollow" target="_blank"><u>CS49 Jan 2023</u></a>
 </p>
 </td>
 </tr>
@@ -131,6 +171,7 @@ and how-to’s of HBRA.&nbsp;</p>
 <summary><strong>Case Studies 2022</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -138,61 +179,61 @@ and how-to’s of HBRA.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS45%20Missing%20Informed%20Consent%20Forms.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS45 Missing Informed Consent Forms</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS48%20Investigator%20Also%20Signed%20Off%20as%20Witness%20in%20ICF.pdf?csf=1&amp;web=1&amp;e=qne3P5" rel="noopener noreferrer nofollow" target="_blank">CS48 Investigator Also Signed Off as Witness in ICF</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS46%20Recruited%20Subjects%20Did%20Not%20Fulfill%20Inclusion%20Criteria.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS46 Recruited Subjects Did Not Fulfill Inclusion Criteria</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS47%20No%20Witness%20During%20Informed%20Consent%20Process.pdf?csf=1&amp;web=1&amp;e=yPuWgC" rel="noopener noreferrer nofollow" target="_blank">CS47 No Witness During Informed Consent Process</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS47%20No%20Witness%20During%20Informed%20Consent%20Process.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS47 No Witness During Informed Consent Process</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS46%20Recruited%20Subjects%20Did%20Not%20Fulfill%20Inclusion%20Criteria.pdf?csf=1&amp;web=1&amp;e=47QwZD" rel="noopener noreferrer nofollow" target="_blank">CS46 Recruited Subjects Did Not Fulfill Inclusion Criteria</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS48%20Investigator%20Also%20Signed%20Off%20as%20Witness%20in%20ICF.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS48 Investigator Also Signed Off as Witness in ICF</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS45%20Missing%20Informed%20Consent%20Forms.pdf?csf=1&amp;web=1&amp;e=dLaFm4" rel="noopener noreferrer nofollow" target="_blank">CS45 Missing Informed Consent Forms</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS44%20Recruitment%20of%20Subject%20Below%20the%20Approved%20Age.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS44 Recruitment of Subject Below the Approved Age</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS44%20Recruitment%20of%20Subject%20Below%20the%20Approved%20Age.pdf?csf=1&amp;web=1&amp;e=DZwwRr" rel="noopener noreferrer nofollow" target="_blank">CS44 Recruitment of Subject Below the Approved Age</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS41%20Missing%20Witness%20Signature%20on%20the%20Informed%20Consent%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS41 Missing Witness Signature on the Informed Consent Form</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS43%20Subject%20Underwent%20Study%20Procedure%20Twice%20Due%20To%20Error%20in%20Visiting%20Schedule.pdf?csf=1&amp;web=1&amp;e=YghimB" rel="noopener noreferrer nofollow" target="_blank">CS43 Subject Underwent Study Procedure Twice Due To Error in Visiting Schedule</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS43%20Subject%20Underwent%20Study%20Procedure%20Twice%20Due%20To%20Error%20in%20Visiting%20Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS43 Subject Underwent Study Procedure Twice Due to Error in Visiting Schedule</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS42%20Subjects%20Recruited%20Twice.pdf?csf=1&amp;web=1&amp;e=wMQ8eZ" rel="noopener noreferrer nofollow" target="_blank">CS42 Subjects Recruited Twice</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS42%20Subjects%20Recruited%20Twice.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS42 Subjects Recruited Twice</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS41%20Missing%20Witness%20Signature%20on%20the%20Informed%20Consent%20Form.pdf?csf=1&amp;web=1&amp;e=ZmpLwT" rel="noopener noreferrer nofollow" target="_blank">CS41 Missing Witness Signature on the Informed Consent Form</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS40%20Informed%20Consent%20Obtained%20Without%20Presence%20of%20HBRA%20Witness.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS40 Informed Consent Obtained Without Presence of HBRA Witness</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS40%20Informed%20Consent%20Obtained%20Without%20Presence%20of%20HBRA%20Witness.pdf?csf=1&amp;web=1&amp;e=aKNtbv" rel="noopener noreferrer nofollow" target="_blank">CS40 Informed Consent Obtained Without Presence of HBRA Witness</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS39%20Study%20Team%20Did%20Not%20Check%20for%20Exclusion%20Criteria%20and%20Recruited%20Ineligible%20Patient%20for%20the%20Study.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS39 Study Team Did Not Check for Exclusion Criteria and Recruited Ineligible Patient for the Study</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS39%20Study%20Team%20Did%20Not%20Check%20for%20Exclusion%20Criteria%20and%20Recruited%20Ineligible%20Patient%20for%20the%20Study.pdf?csf=1&amp;web=1&amp;e=JY1a50" rel="noopener noreferrer nofollow" target="_blank">CS39 Study Team Did Not Check for Exclusion Criteria and Recruited Ineligible Patient for the Study</a>
 </p>
 </td>
 </tr>
