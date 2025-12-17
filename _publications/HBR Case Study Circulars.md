@@ -248,6 +248,7 @@ and how-to’s of HBRA.&nbsp;</p>
 <summary><strong>Case Studies 2021</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -255,73 +256,73 @@ and how-to’s of HBRA.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS37%20and%2038%20Incorrect%20Version%20of%20Consent%20Form%20Used%20and%20Incomplete%20Signatory%20of%20Informed%20Consent%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS37 and 38 Incorrect Version of Consent Form Used and Incomplete Signatory of Informed Consent Form</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS37%20and%2038%20Incorrect%20Version%20of%20Consent%20Form%20Used%20and%20Incomplete%20Signatory%20of%20Informed%20Consent%20Form.pdf?csf=1&amp;web=1&amp;e=BaWJYu" rel="noopener noreferrer nofollow" target="_blank">CS37 and 38 Incorrect Version of Consent Form Used and Incomplete Signatory of Informed Consent Form</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS36%20Over-Recuritment.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS36 Over-Recuritment</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS36%20Over-Recruitment.pdf?csf=1&amp;web=1&amp;e=oAGkSl" rel="noopener noreferrer nofollow" target="_blank">CS36 Over-Recruitment</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS35%20Additional%20Samples%20Collected%20From%20Subject.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS35 Additional Samples Collected From Subject</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS35%20Additional%20Samples%20Collected%20From%20Subject.pdf?csf=1&amp;web=1&amp;e=Lns9Y0" rel="noopener noreferrer nofollow" target="_blank">CS35 Additional Samples Collected From Subject</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS33%20and%2034%20Non-Eligible%20Subjects%20Recruited%20for%20Research.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS33 and 34 Non-Eligible Subjects Recruited for Research</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS33%20and%2034%20Non-Eligible%20Subjects%20Recruited%20for%20Research.pdf?csf=1&amp;web=1&amp;e=jGWYh0" rel="noopener noreferrer nofollow" target="_blank">CS33 and 34 Non-Eligible Subjects Recruited for Research</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS32%20Recruitment%20of%20a%20Subject%20who%20is%20Above%20the%20Approved%20Upper%20Age%20Limit.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS32 Recruitment of a Subject who is Above the Approved Upper Age Limit</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS32%20Recruitment%20of%20a%20Subject%20who%20is%20Above%20the%20Approved%20Upper%20Age%20Limit.pdf?csf=1&amp;web=1&amp;e=ejyIDh" rel="noopener noreferrer nofollow" target="_blank">CS32 Recruitment of a Subject who is Above the Approved Upper Age Limit</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS30%20Research%20Activities%20Conducted%20During%20Study%E2%80%99s%20IRB%20Approval%20Lapse%20Period.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS30 Research Activities Conducted During Study’s IRB Approval Lapse Period</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS31%20Use%20of%20ICF%20missing%2012(1)(l)%20element.pdf?csf=1&amp;web=1&amp;e=dldfzg" rel="noopener noreferrer nofollow" target="_blank">CS31 Use of ICF missing 12(1)(l) element</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS31%20Use%20of%20ICF%20missing%2012(1)(l)%20element.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS31 Use of ICF missing 12(1)(l) element</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS30%20Research%20Activities%20Conducted%20During%20Study%E2%80%99s%20IRB%20Approval%20Lapse%20Period.pdf?csf=1&amp;web=1&amp;e=OBi8o1" rel="noopener noreferrer nofollow" target="_blank">CS30 Research Activities Conducted During Study’s IRB Approval Lapse Period</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS28%20Wrongful%20Recruitment%20of%20Subjects%20Who%20Did%20Not%20Meet%20Inclusion%20Criteria.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS28 Wrongful Recruitment of Subjects Who Did Not Meet Inclusion Criteria</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS29%20Double%20Recruitment%20of%20the%20Same%20Participant.pdf?csf=1&amp;web=1&amp;e=PaCnuC" rel="noopener noreferrer nofollow" target="_blank">CS29 Double Recruitment of the Same Participant</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS29%20Double%20Recruitment%20Of%20The%20Same%20Participant.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS29 Double Recruitment of the Same Participant</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS28%20Wrongful%20Recruitment%20of%20Subjects%20Who%20Did%20Not%20Meet%20Inclusion%20Criteria.pdf?csf=1&amp;web=1&amp;e=Ltisfj" rel="noopener noreferrer nofollow" target="_blank">CS28 Wrongful Recruitment of Subjects Who Did Not Meet Inclusion Criteria</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS26%20Recruited%20Subjects%20Who%20Did%20Not%20Meet%20Study%E2%80%99s%20Inclusion%20Criteria.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS26 Recruited Subjects Who Did Not Meet Study’s Inclusion Criteria</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS27%20Recruitment%20of%20Subject%20Below%20Eligible%20Age.pdf?csf=1&amp;web=1&amp;e=XugCYu" rel="noopener noreferrer nofollow" target="_blank">CS27 Recruitment of Subject Below Eligible Age</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS25%20Minors%20Recruited%20Without%20Documented%20Informed%20Consent%20From%20The%20Parents%20Legal%20Guardian.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS25 Minors Recruited Without Documented Informed Consent from the Parents Legal Guardian</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS26%20Recruited%20Subjects%20Who%20Did%20Not%20Meet%20Study%E2%80%99s%20Inclusion%20Criteria.pdf?csf=1&amp;web=1&amp;e=Gmwb4R" rel="noopener noreferrer nofollow" target="_blank">CS26 Recruited Subjects Who Did Not Meet Study’s Inclusion Criteria</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS27%20Recruitment%20of%20Subject%20Below%20Eligible%20Age.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS27 Recruitment of Subject Below Eligible Age</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS25%20Minors%20Recruited%20Without%20Documented%20Informed%20Consent%20From%20The%20Parents%20Legal%20Guardian.pdf?csf=1&amp;web=1&amp;e=a6eorD" rel="noopener noreferrer nofollow" target="_blank">CS25 Minors Recruited Without Documented Informed Consent From The Parents Legal Guardian</a>
 </p>
 </td>
 </tr>
