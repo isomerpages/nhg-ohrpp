@@ -342,7 +342,7 @@ been obtained for storage for future research.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/18.%20TCC%20Issue%203-2021_Final_25Aug2021.pdf?csf=1&amp;web=1&amp;e=Mydgcy" rel="noopener noreferrer nofollow" target="_blank">Issure 03/2021</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/18.%20TCC%20Issue%203-2021_Final_25Aug2021.pdf?csf=1&amp;web=1&amp;e=Mydgcy" rel="noopener noreferrer nofollow" target="_blank">Issue 03/2021</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
