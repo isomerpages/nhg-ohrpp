@@ -89,7 +89,7 @@ Research</p>
 <p>Case Study: Lapses in the Management of Cord Blood Units at Cordlife Group
 Limited</p>
 <p></p>
-<p>(Released</p>
+<p>(Released 24 Jun 2024)</p>
 </td>
 </tr>
 <tr>
