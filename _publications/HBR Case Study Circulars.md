@@ -92,7 +92,7 @@ and how-to’s of HBRA.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/CS57-59%20(21%20May%202024).pdf?csf=1&amp;web=1&amp;e=HVlgTg" rel="noopener noreferrer nofollow" target="_blank"><u>CS57-59 Various Case Studies</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2057%20-%2059%20-%20ICF%20and%20Data%20Handling.pdf?csf=1&amp;web=1&amp;e=Q7cWFJ" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 57 - 59 - ICF and Data Handling.pdf</a>
 </p>
 </td>
 </tr>
