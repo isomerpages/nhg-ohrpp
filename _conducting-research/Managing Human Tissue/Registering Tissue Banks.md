@@ -62,9 +62,10 @@ Adverse Events (SAEs), &amp; Untoward Occurrences</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://healthsg.sharepoint.com/:f:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents?csf=1&amp;web=1&amp;e=1fQ9jR" rel="noopener nofollow" target="_blank">NHG Health Tissue Bank Policy, PCT SOPs*</a> &amp;
-<a href="https://healthsg.sharepoint.com/:f:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates?csf=1&amp;web=1&amp;e=PVP1Ps" rel="noopener nofollow" target="_blank">Templates*</a>
-<br>Policy, guidelines and templates developed by NHG Health Tissue Compliance
+<p><a href="https://healthsg.sharepoint.com/:f:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking?csf=1&amp;web=1&amp;e=dJOfyb" rel="noopener nofollow" target="_blank">NHG Health Tissue Bank Policy*</a>,
+<a href="https://healthsg.sharepoint.com/:f:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents?csf=1&amp;web=1&amp;e=lHEhpl" rel="noopener nofollow" target="_blank">PCT SOPs*</a>&amp; <a href="https://healthsg.sharepoint.com/:f:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates?csf=1&amp;web=1&amp;e=RebwqY" rel="noopener nofollow" target="_blank">Templates*</a>
+</p>
+<p>Policy, guidelines and templates developed by NHG Health Tissue Compliance
 Committee to provide detailed procedures on conducting tissue banking activities
 in accordance with applicable guidelines and regulations (e.g. HBRA).</p>
 </li>
