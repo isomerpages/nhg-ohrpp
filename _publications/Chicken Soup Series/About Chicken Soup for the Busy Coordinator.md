@@ -124,10 +124,11 @@ topics that are of interest to you.</p>
 have been superseded or may no longer relevant or applicable.</p>
 </li>
 <li>
-<p>For NHG and partner institutions, we encourage you to refer to our website
-or the latest NHG PCR SOPs (available via NHG Intranet access or Partner
-Institution’s CRU/Research office).&nbsp; Always refer to your own institution’s
-latest policy, SOPs, guidance documents and templates.</p>
+<p>For NHG Health and partner institutions, we encourage you to refer to
+our website or the latest NHG Health PCR SOPs (available via NHG Health
+Intranet access or Partner Institution’s CRU/Research office).&nbsp; Always
+refer to your own institution’s latest policy, SOPs, guidance documents
+and templates.</p>
 </li>
 </ul>
 <p></p>
