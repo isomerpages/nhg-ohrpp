@@ -45,13 +45,13 @@ and how-to’s of HBRA.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2064.pdf?csf=1&amp;web=1&amp;e=1JtLV9" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 64</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2064%20-%20Failure%20to%20Provide%20Required%20Discharge%20Medication.pdf?csf=1&amp;web=1&amp;e=5xD09N" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 64 - Failure to Provide Required Discharge Medication</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2063.pdf?csf=1&amp;web=1&amp;e=h5aS3v" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 63</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2063%20-%20Blood%20Sample%20Mix-up%20Leading%20to%20Repeat%20Invasive%20Procedure.pdf?csf=1&amp;web=1&amp;e=VRKSLb" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 63 - Blood Sample Mix-up Leading to Repeat Invasive Procedure</a>
 </p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ and how-to’s of HBRA.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2062%20-%20Is%20IRB%20Approval%20Required%20for%20Recruitment%20Outside%20of%20Approved%20Protocol.pdf?csf=1&amp;web=1&amp;e=hXtfoC" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 62 - Is IRB Approval Required for Recruitment Outside of Approved Protocol.pdf</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2062%20-%20Is%20IRB%20Approval%20Required%20for%20Recruitment%20Outside%20of%20Approved%20Protocol.pdf?csf=1&amp;web=1&amp;e=hXtfoC" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 62 - Is IRB Approval Required for Recruitment Outside of Approved Protocol</a>
 </p>
 </td>
 </tr>
