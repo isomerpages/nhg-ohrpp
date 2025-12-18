@@ -80,7 +80,9 @@ and how-to’s of HBRA.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2061.pdf?csf=1&amp;web=1&amp;e=sJ16ul" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 61</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2061.pdf?csf=1&amp;web=1&amp;e=sJ16ul" rel="noopener noreferrer nofollow" target="_blank">H</a>
+<a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2061%20-%20Inappropriate%20Patient%20Identifier%20Collection%20and%20Subject%20Recruitment.pdf?csf=1&amp;web=1&amp;e=cucx9Y" rel="noopener noreferrer nofollow" target="_blank">BR Case Study 61 - Inappropriate Patient Identifier Collection and Subject
+Recruitment</a>
 </p>
 </td>
 </tr>
