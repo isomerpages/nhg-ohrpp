@@ -17,7 +17,7 @@ or unauthorised access, disclosure, copying, use or modification.</p>
 research data to ensure compliance with the HBRA, Personal Data Protection
 Act (PDPA), Healthtech Instruction Manual (HIM), Synapxe policies and all
 other relevant regulations.</p>
-<p>Download the <a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/NHG%20Research%20Data%20Policy.pdf?Web=1" rel="noopener nofollow" target="_blank">NHG Health Research Data Policy here</a> (Restricted:
+<p>Download the <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Data/NHG%20Health%20Research%20Data%20Policy.pdf?csf=1&amp;web=1&amp;e=Fg5XxS" rel="noopener nofollow" target="_blank">NHG Health Research Data Policy here</a> (Restricted:
 NHG Health Intranet access required).&nbsp;</p>
 <p><strong>Who should know?</strong>
 <br>All NHG Health staff involved in handling any NHG Health research data.</p>
@@ -32,11 +32,7 @@ NHG Health Intranet access required).&nbsp;</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/NHG%20Research%20Data%20Guidance%20Document.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health Research Data Guidance Document</u></a> (Restricted:
-NHG Health Intranet access required)</p>
-</li>
-<li>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Research%20Data/PDPC%20Guide%20to%20Basic%20Data%20Anonymisation%20Techniques%20v1%20(250118).pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>PDPC Guide to Basic Data Anonymisation Techniques</u></a> (Restricted:
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Data/PDPC%20Guide%20to%20Basic%20Data%20Anonymisation%20Techniques%20v1%20(250118).pdf?csf=1&amp;web=1&amp;e=RMtbWz" rel="noopener noreferrer nofollow" target="_blank"><u>PDPC Guide to Basic Data Anonymisation Techniques</u></a> (Restricted:
 NHG Health Intranet access required)</p>
 </li>
 <li>
@@ -44,14 +40,14 @@ NHG Health Intranet access required)</p>
 NHG Health Intranet access required)</p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/Pages/NHG-Policies.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>Healthtech Instruction Manual (HIM)</u></a> (Restricted:
+<p><a href="https://healthsg.sharepoint.com/sites/HealthTechIM" rel="noopener noreferrer nofollow" target="_blank"><u>Healthtech Instruction Manual (HIM)</u></a> (Restricted:
 NHG Health Intranet access required)</p>
 </li>
 </ul>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For any enquiries, please contact the <strong>NHG Health Research Data Secretariat</strong> at
-<a href="mailto:nhggroup.RDOCSecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.RDOCSecretariat@nhghealth.com.sg</a>
+<a href="mailto:nhggroup.RDOCSecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGGroup.RDOCSecretariat@NHGHealth.com.sg</a>
 </p>
 <p></p>
 <p></p>

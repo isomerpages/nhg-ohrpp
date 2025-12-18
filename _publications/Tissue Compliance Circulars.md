@@ -21,11 +21,9 @@ involved in tissue banking activities.</p>
 </p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2024 Circulars (2)</strong>
+<summary><strong>2025 Circulars (3)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -36,7 +34,67 @@ involved in tissue banking activities.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/30.%20TCC%20Issue%202-2024_Final_28Feb2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2024</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/34.%20TCC%20Issue%203-2025_Final_16Oct25.pdf?csf=1&amp;web=1&amp;e=BmWwIf" rel="noopener noreferrer nofollow" target="_blank">Issue 03/2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guidance on Administrative Modifications Due to Rebranding</p>
+<p>(Released 16 Oct 2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/33.%20TCC%20Issue%202-2025_Final_11Sep25.pdf?csf=1&amp;web=1&amp;e=JRmBWY" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mastering Documentation In Tissue Collection Alongside An IRB-approved
+Research</p>
+<p>(Released 11 Sep 2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/32.%20TCC%20Issue%201-2025_Final_17Mar25.pdf?csf=1&amp;web=1&amp;e=eoNUSl" rel="noopener noreferrer nofollow" target="_blank">Issue 01/2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Updated Requirements on the Use of Clinical Human Tissue for Research</p>
+<p>(Released 19 Mar 2025)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2024 Circulars (3)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/31.%20TCC%20Issue%203-2024_Final_24Jun24.pdf?csf=1&amp;web=1&amp;e=PrQN9d" rel="noopener noreferrer nofollow" target="_blank">Issue 03/2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Case Study: Lapses in the Management of Cord Blood Units at Cordlife Group
+Limited</p>
+<p></p>
+<p>(Released 24 Jun 2024)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/30.%20TCC%20Issue%202-2024_Final_28Feb2024.pdf?csf=1&amp;web=1&amp;e=t6nSMa" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2024</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,7 +109,7 @@ human tissue for research
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/29.%20TCC%20Issue%201-2024_Final_16Jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 01/2024</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/29.%20TCC%20Issue%201-2024_Final_16Jan2024.pdf?csf=1&amp;web=1&amp;e=JxaJyQ" rel="noopener noreferrer nofollow" target="_blank">Issue 01/2024</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,7 +144,7 @@ Banking Activities Monitoring Plan Template
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/28.%20TCC%20Issue%203-2023_Final_10Jul2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 03/2023</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/28.%20TCC%20Issue%203-2023_Final_10Jul2023.pdf?csf=1&amp;web=1&amp;e=cmJVqz" rel="noopener noreferrer nofollow" target="_blank">Issue 03/2023</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,7 +157,7 @@ by 16 August 2023.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/27.%20TCC%20Issue%202-2023_Final_29May2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2023</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/27.%20TCC%20Issue%202-2023_Final_29May2023.pdf?csf=1&amp;web=1&amp;e=wG5vj3" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2023</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,7 +177,7 @@ Tissue Bank Review Checklist
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/26.%20TCC%20Issue%201-2023_Final_06Feb2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 01/2023</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/26.%20TCC%20Issue%201-2023_Final_06Feb2023.pdf?csf=1&amp;web=1&amp;e=HxSLlW" rel="noopener noreferrer nofollow" target="_blank">Issue 01/2023</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,16 +209,18 @@ Human Tissue Framework (HTF) Course before commencing tissue banking activities
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/25.%20TCC%20Issue%206-2022_Final_29Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 06/2022</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/25.%20TCC%20Issue%206-2022_Final_29Nov2022.pdf?csf=1&amp;web=1&amp;e=l0XOyF" rel="noopener noreferrer nofollow" target="_blank">Issue 06/2022</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health</p>
+<p>Which application form should you use? – Tissue Bank Application Form
+or Tissue Collection Application Form?</p>
+<p>(Released 06 Dec 2022)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/24.%20TCC%20Issue%205-2022_Final_29Sep2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 05/2022</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/24.%20TCC%20Issue%205-2022_Final_29Sep2022.pdf?csf=1&amp;web=1&amp;e=0lR5Jn" rel="noopener noreferrer nofollow" target="_blank">Issue 05/2022</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,7 +242,7 @@ of custodianship
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/23.%20TCC%20Issue%204-2022_Final_02Aug2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 04/2022</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/23.%20TCC%20Issue%204-2022_Final_02Aug2022.pdf?csf=1&amp;web=1&amp;e=M3GWNN" rel="noopener noreferrer nofollow" target="_blank">Issue 04/2022</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -196,7 +256,7 @@ by 16 September 2022.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/22.%20TCC%20Issue%203-2022_Final_13Jun2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 03/2022</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/22.%20TCC%20Issue%203-2022_Final_13Jun2022.pdf?csf=1&amp;web=1&amp;e=bVd0we" rel="noopener noreferrer nofollow" target="_blank">Issue 03/2022</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,7 +273,7 @@ supplying leftover diagnostic tissue
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/21.%20TCC%20Issue%202-2022_Final_29Mar2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2022</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/21.%20TCC%20Issue%202-2022_Final_29Mar2022.pdf?csf=1&amp;web=1&amp;e=TEAlXr" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2022</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -227,7 +287,7 @@ to SAF staff/doctors appointed in NHG Health (Released 29 Mar 2022)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/20.%20TCC%20Issue%201-2022_Final_03Feb2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 01/2022</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/20.%20TCC%20Issue%201-2022_Final_03Feb2022.pdf?csf=1&amp;web=1&amp;e=Gdtx4P" rel="noopener noreferrer nofollow" target="_blank">Issue 01/2022</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -260,7 +320,7 @@ Consent
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/19.%20TCC%20Issue%204-2021_Final_21Dec2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 04/2021</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/19.%20TCC%20Issue%204-2021_Final_21Dec2021.pdf?csf=1&amp;web=1&amp;e=Z28kW1" rel="noopener noreferrer nofollow" target="_blank">Issue 04/2021</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -282,7 +342,7 @@ been obtained for storage for future research.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/18.%20TCC%20Issue%203-2021_Final_25Aug2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Issure 03/2021</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/18.%20TCC%20Issue%203-2021_Final_25Aug2021.pdf?csf=1&amp;web=1&amp;e=Mydgcy" rel="noopener noreferrer nofollow" target="_blank">Issue 03/2021</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -301,7 +361,7 @@ Collection and Use of Human Tissue Version dared 01 Jul 2021
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/17.%20TCC%20Issue%202-2021_Final_07Jun2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2021</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/16.%20TCC%20March%20Issue_01-2021_Final_03Mar2021.pdf?csf=1&amp;web=1&amp;e=qxgkOn" rel="noopener noreferrer nofollow" target="_blank">Issue 02/2021</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

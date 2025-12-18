@@ -76,7 +76,7 @@ These tissue were collected before 1 Nov 2019.</p>
 <br>Please submit the TCC tissue bank application form.
 <br>
 <br>Otherwise, if the tissue had been made non-identifiable prior to 1 Nov
-2019, you can submit using the <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Tissue%20Review%20(1700)/Forms%20and%20Templates/1703-07%20Declaration%20of%20LHBM.docx" rel="noopener noreferrer nofollow" target="_blank"><u>Legacy&nbsp;Human&nbsp;Biological&nbsp;Materials&nbsp;Declaration&nbsp;form&nbsp;</u></a></strong>instead.</p>
+2019, you can submit using the <strong><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Tissue%20Review%20(1700)/1703-07%20Declaration%20of%20LHBM.docx?d=w40f1f3b17c9c4d429dd646db946a2710&amp;csf=1&amp;web=1&amp;e=HWXbt5" rel="noopener noreferrer nofollow" target="_blank"><u>Legacy&nbsp;Human&nbsp;Biological&nbsp;Materials&nbsp;Declaration&nbsp;form&nbsp;</u></a></strong>instead.</p>
 <p></p>
 </td>
 </tr>
@@ -93,7 +93,7 @@ elements.</p>
 <td rowspan="1" colspan="1">
 <p>Yes. Your tissue must be registered with TCC.
 <br>
-<br>Please submit the <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Tissue%20Review%20(1700)/Forms%20and%20Templates/1703-01%20NHG%20Tissue%20Bank%20Application%20Form.docx?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>TCC tissue bank application form</u></a></strong>.</p>
+<br>Please submit the <strong><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Tissue%20Review%20(1700)/1703-01%20Tissue%20Bank%20Application%20Form.docx?d=wc0c69ccdef524c9d8a680dc6a06035e0&amp;csf=1&amp;web=1&amp;e=5SMooa" rel="noopener noreferrer nofollow" target="_blank"><u>TCC tissue bank application form</u></a></strong>.</p>
 <p></p>
 </td>
 </tr>
@@ -111,7 +111,7 @@ unspecified research.</p>
 <p>If researchers still require the tissues for analysis, even after IRB’s
 acknowledgment of study closure, such tissues could be retained and used
 within 12 months of IRB acknowledgment for study closure. After which,
-the tissues should be discarded, transferred to a <strong><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/NHG%20Tissue%20Review%20(1700)/Forms%20and%20Templates/1703-01%20NHG%20Tissue%20Bank%20Application%20Form.docx?Web=1" rel="noopener noreferrer nofollow" target="_blank"><u>tissue bank</u></a></strong> or
+the tissues should be discarded, transferred to a <strong><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Tissue%20Review%20(1700)/1703-01%20Tissue%20Bank%20Application%20Form.docx?d=wc0c69ccdef524c9d8a680dc6a06035e0&amp;csf=1&amp;web=1&amp;e=5SMooa" rel="noopener noreferrer nofollow" target="_blank"><u>tissue bank</u></a></strong> or
 an IRB approved study or registered with the NHG Health TCC.</p>
 <p></p>
 </td>
@@ -128,15 +128,15 @@ HTF requirements need not apply.</p>
 access required) for more details.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/16.%20TCC%20March%20Issue_01-2021_Final_03Mar2021.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>March Issue 01-2021 (MOH Update on the Governance of Leftover Tissue)</u></a>
+<p><a href="https://healthsg.sharepoint.com/sites/NHGHealth-RCU/Shared%20Library/Forms/AllItems.aspx?id=%2Fsites%2FNHGHealth%2DRCU%2FShared%20Library%2FTissue%20Banking%2FTissue%20Compliance%20Circulars%2F16%2E%20TCC%20March%20Issue%5F01%2D2021%5FFinal%5F03Mar2021%2Epdf&amp;parent=%2Fsites%2FNHGHealth%2DRCU%2FShared%20Library%2FTissue%20Banking%2FTissue%20Compliance%20Circulars" rel="noopener noreferrer nofollow" target="_blank"><u>March Issue 01-2021 (MOH Update on the Governance of Leftover Tissue)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/dept/rcu/Shared%20Library/Tissue%20Banking/Tissue%20Compliance%20Circulars/17.%20TCC%20Issue%202-2021_Final_07Jun2021.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>June Issue 02-2021 (MOH Update on the Governance of Leftover Tissue (Part 2))</u></a>
+<p><a href="https://healthsg.sharepoint.com/sites/NHGHealth-RCU/Shared%20Library/Forms/AllItems.aspx?id=%2Fsites%2FNHGHealth%2DRCU%2FShared%20Library%2FTissue%20Banking%2FTissue%20Compliance%20Circulars%2F17%2E%20TCC%20Issue%202%2D2021%5FFinal%5F07Jun2021%2Epdf&amp;parent=%2Fsites%2FNHGHealth%2DRCU%2FShared%20Library%2FTissue%20Banking%2FTissue%20Compliance%20Circulars" rel="noopener noreferrer nofollow" target="_blank"><u>June Issue 02-2021 (MOH Update on the Governance of Leftover Tissue (Part 2))</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/cb5a007d-b536-499a-8a07-16863bcff795/1506-05+Guidance+To+Store+And+Use+Leftover+Human+Tissue+for+Future+Research.pdf?MOD=AJPERES&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi&amp;CVID=nJSY8Fi" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health Guidance Document to Store and Use Leftover Human Tissue for Future Research</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-05%20Guidance%20To%20Store%20And%20Use%20Leftover%20Human%20Tissue%20for%20Future%20Research.pdf?csf=1&amp;web=1&amp;e=bfgrTf" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health Guidance Document to Store and Use Leftover Human Tissue for Future Research</u></a>
 </p>
 </li>
 </ul>
@@ -146,7 +146,7 @@ access required) for more details.</p>
 Under this <strong><u>governance structure</u></strong>, each NHG Health
 institution has established an<strong> Institutional Tissue Bank Committee (ITBC)</strong> to
 oversee institutional-level tissue banking activities. Learn more about
-the <a href="https://mynhg.nhg.com.sg/dept/RCU/Shared Library/Tissue Banking/Regulations and Guidance Documents/NHG Tissue Governance Framework.pdf" rel="noopener nofollow" target="_blank">NHG Health Tissue Governance Framework here</a>.</p>
+the <a href="https://healthsg.sharepoint.com/sites/NHGHealth-RCU/Shared%20Library/Forms/AllItems.aspx?id=%2Fsites%2FNHGHealth%2DRCU%2FShared%20Library%2FTissue%20Banking%2FRegulations%20and%20Guidance%20Documents%2FNHG%20Tissue%20Governance%20Framework%2Epdf&amp;parent=%2Fsites%2FNHGHealth%2DRCU%2FShared%20Library%2FTissue%20Banking%2FRegulations%20and%20Guidance%20Documents" rel="noopener nofollow" target="_blank">NHG Health Tissue Governance Framework here</a>.</p>
 <p></p>
 <h4><strong>About NHG Health Tissue Compliance Committee (TCC)</strong></h4>
 <p>The <strong>NHG Health Tissue Compliance Committee (TCC)</strong>&nbsp;was
@@ -158,7 +158,7 @@ and comprises representatives from each NHG Health institution.</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For any enquiries, please contact the NHG Health TCC Secretariat at
-<a rel="noopener noreferrer nofollow" target="_blank">nhggroup.TCCSecretariat@nhghealth.com.sg</a>
+<a rel="noopener noreferrer nofollow" target="_blank">NHGGroup.TCCSecretariat@NHGHealth.com.sg</a>
 </p>
 <p></p>
 <p></p>
