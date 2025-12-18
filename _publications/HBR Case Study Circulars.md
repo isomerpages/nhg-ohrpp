@@ -86,13 +86,14 @@ and how-to’s of HBRA.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2060.pdf?csf=1&amp;web=1&amp;e=QBoUAb" rel="noopener nofollow" target="_blank">HBR Case Study 60</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2060.pdf?csf=1&amp;web=1&amp;e=QBoUAb" rel="noopener nofollow" target="_blank">H</a>
+<a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2060%20-%20Common%20ICF%20Mistakes.pdf?csf=1&amp;web=1&amp;e=f1U6GS" rel="noopener noreferrer nofollow" target="_blank">BR Case Study 60 - Common ICF Mistakes</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2057%20-%2059%20-%20ICF%20and%20Data%20Handling.pdf?csf=1&amp;web=1&amp;e=Q7cWFJ" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 57 - 59 - ICF and Data Handling.pdf</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2057%20-%2059%20-%20ICF%20and%20Data%20Handling.pdf?csf=1&amp;web=1&amp;e=Q7cWFJ" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 57 - 59 - ICF and Data Handling</a>
 </p>
 </td>
 </tr>
