@@ -74,7 +74,7 @@ and how-to’s of HBRA.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2062.pdf?csf=1&amp;web=1&amp;e=oHvnSW" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 62</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2062%20-%20Is%20IRB%20Approval%20Required%20for%20Recruitment%20Outside%20of%20Approved%20Protocol.pdf?csf=1&amp;web=1&amp;e=hXtfoC" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 62 - Is IRB Approval Required for Recruitment Outside of Approved Protocol.pdf</a>
 </p>
 </td>
 </tr>
