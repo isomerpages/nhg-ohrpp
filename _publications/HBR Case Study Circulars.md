@@ -33,13 +33,13 @@ and how-to’s of HBRA.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2066.pdf?csf=1&amp;web=1&amp;e=gNRng1" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 66</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2066%20-%20Patient%20Identifiers%20Collected%20Without%20IRB%20Review.pdf?csf=1&amp;web=1&amp;e=qPfs4A" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 66 - Patient Identifiers Collected Without IRB Review</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2065.pdf?csf=1&amp;web=1&amp;e=30rxQd" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 65</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Institution/Case%20Studies/HBR%20Case%20Study%2065%20-%20Inadequate%20Screening%20Process%20Leading%20to%20Inappropriate%20Enrollment.pdf?csf=1&amp;web=1&amp;e=IfIQvN" rel="noopener noreferrer nofollow" target="_blank">HBR Case Study 65 - Inadequate Screening Process Leading to Inappropriate Enrollment</a>
 </p>
 </td>
 </tr>
