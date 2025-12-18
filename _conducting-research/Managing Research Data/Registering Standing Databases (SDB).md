@@ -40,5 +40,5 @@ NHG Health Intranet access required).</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For enquiries on NHG Health Standing Database applications and registration,
-please contact the NHG Health Research Data Secretariat at <a href="mailto:RDOCSecretariat@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">RDOCSecretariat@nhg.com.sg</a>
+please contact the NHG Health Research Data Secretariat at <a href="mailto:NHGHealth.RDOCSecretariat@NHGHealth.com.sg" rel="noopener nofollow" target="_blank">NHGHealth.RDOCSecretariat@NHGHealth.com.sg</a>
 </p>
