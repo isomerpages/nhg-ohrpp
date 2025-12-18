@@ -32,10 +32,6 @@ NHG Health Intranet access required).&nbsp;</p>
 </p>
 </li>
 <li>
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Data/NHG%20Health%20Research%20Data%20Policy.pdf?csf=1&amp;web=1&amp;e=u9s9Ph" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health Research Data Guidance Document</u></a> (Restricted:
-NHG Health Intranet access required)</p>
-</li>
-<li>
 <p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Data/PDPC%20Guide%20to%20Basic%20Data%20Anonymisation%20Techniques%20v1%20(250118).pdf?csf=1&amp;web=1&amp;e=RMtbWz" rel="noopener noreferrer nofollow" target="_blank"><u>PDPC Guide to Basic Data Anonymisation Techniques</u></a> (Restricted:
 NHG Health Intranet access required)</p>
 </li>
@@ -51,7 +47,7 @@ NHG Health Intranet access required)</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For any enquiries, please contact the <strong>NHG Health Research Data Secretariat</strong> at
-<a href="mailto:nhggroup.RDOCSecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGGroup.RDOCSecretariat@NHGealth.com.sg</a>
+<a href="mailto:nhggroup.RDOCSecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHGGroup.RDOCSecretariat@NHGHealth.com.sg</a>
 </p>
 <p></p>
 <p></p>
