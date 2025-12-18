@@ -78,7 +78,7 @@ third_nav_title: Chicken Soup Series
 </p>
 <p></p>
 <p></p>
-<p><strong><sup>DISCLAIMER: </sup></strong><sup>Past Issues/Articles may contain best practices, policies or SOPs that have been superseded or may no longer relevant or applicable. For NHG and partner institutions, we encourage you to refer to the latest NHG PCR SOPs (available via NHG Intranet access or Partner Institution’s CRU/Research office).&nbsp; Always refer to your own institution’s latest policy, SOPs, guidance documents and templates.</sup>
+<p><strong><sup>DISCLAIMER: </sup></strong><sup>Past Issues/Articles may contain best practices, policies or SOPs that have been superseded or may no longer relevant or applicable. For NHG Health and partner institutions, we encourage you to refer to the latest NHG Health PCR SOPs (available via NHG Health Intranet access or Partner Institution’s CRU/Research office).&nbsp; Always refer to your own institution’s latest policy, SOPs, guidance documents and templates.</sup>
 </p>
 <p></p>
 <p><a href="https://staging.d2xg4pfdtrypjl.amplifyapp.com/cs-biosamples/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
