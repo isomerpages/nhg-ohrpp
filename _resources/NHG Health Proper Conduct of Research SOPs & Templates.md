@@ -47,7 +47,7 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-A02%20Responsibilities%20of%20the%20Research%20Team.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-A02:&nbsp;Responsibilities&nbsp;of&nbsp;the&nbsp;Research&nbsp;Team&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-A02%20Responsibilities%20of%20the%20Research%20Team.pdf?csf=1&amp;web=1&amp;e=UsksmY" rel="noopener noreferrer nofollow" target="_blank"><u>501-A02:&nbsp;Responsibilities&nbsp;of&nbsp;the&nbsp;Research&nbsp;Team&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
