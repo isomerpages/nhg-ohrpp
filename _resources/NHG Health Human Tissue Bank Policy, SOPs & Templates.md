@@ -71,11 +71,11 @@ suit your individual tissue banking activities.</p>
 <summary><strong>Checklist</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1502-01%20NHG%20Tissue%20Bank%20and%20Tissue%20Collection%20Review%20Checklist.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1502-01&nbsp;NHG&nbsp;Health Tissue&nbsp;Bank&nbsp;Review&nbsp;Checklist</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1502-01%20NHG%20Tissue%20Bank%20and%20Tissue%20Collection%20Review%20Checklist.docx?d=w38a4f3fc6c974964a517dcdf81522013&amp;csf=1&amp;web=1&amp;e=VLWt7H" rel="noopener noreferrer nofollow" target="_blank"><u>1502-01&nbsp;NHG&nbsp;Health Tissue&nbsp;Bank&nbsp;Review&nbsp;Checklist</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1502-02%20Eligibility%20Checklist.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1502-02&nbsp;Eligibility&nbsp;Checklist</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1502-02%20Eligibility%20Checklist.docx?d=weffb43e70fcc45d48586a2bd007f7816&amp;csf=1&amp;web=1&amp;e=Rvq5ew" rel="noopener noreferrer nofollow" target="_blank"><u>1502-02&nbsp;Eligibility&nbsp;Checklist</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1502-03%20Tissue%20Bank%20and%20or%20Tissue%20Collection%20Closure%20Checklist_V1.0_12Nov2024.docx" rel="noopener nofollow" target="_blank">1502-03 Tissue Bank and or Tissue Collection Closure Checklist</a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1502-03%20Tissue%20Bank%20and%20or%20Tissue%20Collection%20Closure%20Checklist_V1.0_12Nov2024.docx?d=wd8e47f7b535e4fa2a22a090af3c7b8fe&amp;csf=1&amp;web=1&amp;e=wJmbnZ" rel="noopener nofollow" target="_blank">1502-03 Tissue Bank and or Tissue Collection Closure Checklist</a>
 </p>
 </div>
 </details>
