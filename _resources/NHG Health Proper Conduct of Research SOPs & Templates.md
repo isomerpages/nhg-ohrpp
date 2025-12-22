@@ -231,39 +231,39 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-007%20Sub%20Screen%20and%20Enroll%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-007:&nbsp;Subject&nbsp;Screening&nbsp;and&nbsp;Enrollment&nbsp;Log&nbsp;(Effective&nbsp;04-Mar-2020)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-007%20Sub%20Screen%20and%20Enroll%20Log.docx?d=w9f2b4d6a9c684a37a26388f00b2515b3&amp;csf=1&amp;web=1&amp;e=yxczd3" rel="noopener noreferrer nofollow" target="_blank"><u>509-007:&nbsp;Subject&nbsp;Screening&nbsp;and&nbsp;Enrollment&nbsp;Log&nbsp;(Effective&nbsp;04-Mar-2020)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-008%20Sub%20Visit%20Sche%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-008:&nbsp;Subject&nbsp;Visit&nbsp;Schedule&nbsp;Log&nbsp;(Effective&nbsp;05-Mar-2020)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-008%20Sub%20Visit%20Sche%20Log.docx?d=wd0b30989d0a648cf8870b644f9143c6b&amp;csf=1&amp;web=1&amp;e=fIMGAV" rel="noopener noreferrer nofollow" target="_blank"><u>509-008:&nbsp;Subject&nbsp;Visit&nbsp;Schedule&nbsp;Log&nbsp;(Effective&nbsp;05-Mar-2020)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-009%20Bio%20Speci%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-009:&nbsp;Biological&nbsp;Specimen&nbsp;Log&nbsp;(Effective&nbsp;04-Mar-2020)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-009%20Bio%20Speci%20Log.docx?d=w658a82fd3ebd4d73a1e545b896b33690&amp;csf=1&amp;web=1&amp;e=n4E1TD" rel="noopener noreferrer nofollow" target="_blank"><u>509-009:&nbsp;Biological&nbsp;Specimen&nbsp;Log&nbsp;(Effective&nbsp;04-Mar-2020)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-010%20UPIRTSO%20Track%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-010:&nbsp;UPIRTSO&nbsp;Tracking&nbsp;Log&nbsp;(Effective&nbsp;25-May-2016)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-010%20UPIRTSO%20Track%20Log.docx?d=w6d0837c865384ac8ae3bf838237a03ed&amp;csf=1&amp;web=1&amp;e=0IK4GM" rel="noopener noreferrer nofollow" target="_blank"><u>509-010:&nbsp;UPIRTSO&nbsp;Tracking&nbsp;Log&nbsp;(Effective&nbsp;25-May-2016)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-011%20AE%20and%20SAE%20Track%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-011: Adverse&nbsp; Event / Serious Adverse Event Tracking Log (Effective 05-Mar-2020)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-011%20AE%20and%20SAE%20Track%20Log.docx?d=wd21cf56ae291453485a61ca1ebe613c6&amp;csf=1&amp;web=1&amp;e=tFglrR" rel="noopener noreferrer nofollow" target="_blank"><u>509-011: Adverse&nbsp; Event / Serious Adverse Event Tracking Log (Effective 05-Mar-2020)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-012%20IP%20Dispen%20and%20Accty%20Log%20Multi%20Sub.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-012: Investigational Product Dispensing &amp; Accountability Log (Multiple&nbsp;Subjects) (Effective 27-Dec-2018)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-012%20IP%20Dispen%20and%20Accty%20Log%20Multi%20Sub.docx?d=w463175502a18493a9d91d743f16097a3&amp;csf=1&amp;web=1&amp;e=gV55Tg" rel="noopener noreferrer nofollow" target="_blank"><u>509-012: Investigational Product Dispensing &amp; Accountability Log (Multiple&nbsp;Subjects) (Effective 27-Dec-2018)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-013%20IP%20Dispen%20and%20Accty%20Log%20Per%20Sub.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-013: Investigational Product Dispensing &amp; Accountability Log (Per Subject) (Effective 27-Dec-2018)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-013%20IP%20Dispen%20and%20Accty%20Log%20Per%20Sub.docx?d=w44aec0804a0b4e7fb992885928cc409d&amp;csf=1&amp;web=1&amp;e=IFoICD" rel="noopener noreferrer nofollow" target="_blank"><u>509-013: Investigational Product Dispensing &amp; Accountability Log (Per Subject) (Effective 27-Dec-2018)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-014%20Sub%20Identi%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-014:&nbsp;Subject&nbsp;Identification&nbsp;Log&nbsp;(Effective&nbsp;04-Mar-2020)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-014%20Sub%20Identi%20Log.docx?d=w2707862c2a0645e39df74618c0b9cfef&amp;csf=1&amp;web=1&amp;e=1aBpxk" rel="noopener noreferrer nofollow" target="_blank"><u>509-014:&nbsp;Subject&nbsp;Identification&nbsp;Log&nbsp;(Effective&nbsp;04-Mar-2020)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-015%20Temperature%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-015:&nbsp;Temperature&nbsp;Log&nbsp;(Effective&nbsp;15-May-2013)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-015%20Temperature%20Log.docx?d=w652aec2b60dc43519e3e2a4c88a48b03&amp;csf=1&amp;web=1&amp;e=vDGnfc" rel="noopener noreferrer nofollow" target="_blank"><u>509-015:&nbsp;Temperature&nbsp;Log&nbsp;(Effective&nbsp;15-May-2013)</u></a>
 </p>
 </li>
 <li>
