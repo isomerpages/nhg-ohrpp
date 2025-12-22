@@ -165,34 +165,34 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </details>
 </div>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Templates</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-002%20Investigator%20File%20Contents%20Template.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-002:&nbsp;Investigator&nbsp;File&nbsp;Contents&nbsp;Template&nbsp;(Effective&nbsp;08-Oct-2020)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-002%20Investigator%20File%20Contents%20Template.docx?d=w0523d37da1be464baeae69876c0aaf1c&amp;csf=1&amp;web=1&amp;e=O163GP" rel="noopener noreferrer nofollow" target="_blank"><u>507-002:&nbsp;Investigator&nbsp;File&nbsp;Contents&nbsp;Template&nbsp;(Effective&nbsp;08-Oct-2020)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-003%20Investigator%20File%20Dividers.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-003:&nbsp;Investigator&nbsp;File&nbsp;Dividers&nbsp;(Effective&nbsp;23-Oct-2018)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-003%20Investigator%20File%20Dividers.docx?d=wc60ee39e7e754397933e99675a6343aa&amp;csf=1&amp;web=1&amp;e=4zf0CX" rel="noopener noreferrer nofollow" target="_blank"><u>507-003:&nbsp;Investigator&nbsp;File&nbsp;Dividers&nbsp;(Effective&nbsp;23-Oct-2018)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-005%20CAPA%20Template.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-005:&nbsp;Corrective&nbsp;Action&nbsp;and&nbsp;Preventive&nbsp;Action&nbsp;Plan&nbsp;(Effective&nbsp;23-Dec-2024)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-005%20CAPA%20Template.docx?d=w7c7a24ad3bd5447bad3ac1fd9003c5a1&amp;csf=1&amp;web=1&amp;e=3kyzhA" rel="noopener noreferrer nofollow" target="_blank"><u>507-005:&nbsp;Corrective&nbsp;Action&nbsp;and&nbsp;Preventive&nbsp;Action&nbsp;Plan&nbsp;(Effective&nbsp;23-Dec-2024)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-006%20Note%20to%20File%20Template.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-006:&nbsp;Note-To-File&nbsp;Template&nbsp;(Effective&nbsp;13-May-2013)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-006%20Note%20to%20File%20Template.docx?d=w879ed5be21f54fc5a6f6d3ea0fe61d09&amp;csf=1&amp;web=1&amp;e=kriwPo" rel="noopener noreferrer nofollow" target="_blank"><u>507-006:&nbsp;Note-To-File&nbsp;Template&nbsp;(Effective&nbsp;13-May-2013)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-007%20Template%20for%20Doc%20of%20AE%20in%20Med%20Rec.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-007:&nbsp;Template&nbsp;for&nbsp;Documentation&nbsp;of&nbsp;Adverse&nbsp;Event&nbsp;(Effective&nbsp;13-May-2013)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-007%20Template%20for%20Doc%20of%20AE%20in%20Med%20Rec.docx?d=we1811ddbeee345aa809a3742e2964f1e&amp;csf=1&amp;web=1&amp;e=7VVDCF" rel="noopener noreferrer nofollow" target="_blank"><u>507-007:&nbsp;Template&nbsp;for&nbsp;Documentation&nbsp;of&nbsp;Adverse&nbsp;Event&nbsp;(Effective&nbsp;13-May-2013)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-008%20Monit%20Plan%20Template.docx" rel="noopener noreferrer nofollow" target="_blank"><u>507-008:&nbsp;Monitoring&nbsp;Plan&nbsp;template&nbsp;(Effective&nbsp;03-Dec-2013)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/507-008%20Monit%20Plan%20Template.docx?d=wc638f03415724e51b8eb26ee63b65410&amp;csf=1&amp;web=1&amp;e=IlN0bS" rel="noopener noreferrer nofollow" target="_blank"><u>507-008:&nbsp;Monitoring&nbsp;Plan&nbsp;template&nbsp;(Effective&nbsp;03-Dec-2013)</u></a>
 </p>
 </li>
 </ul>
