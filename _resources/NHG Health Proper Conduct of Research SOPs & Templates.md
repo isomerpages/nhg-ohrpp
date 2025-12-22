@@ -79,39 +79,39 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B07%20Study%20Conduct%20-%20Monitoring.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B07:&nbsp;Study&nbsp;Conduct&nbsp;-&nbsp;Monitoring&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B07%20Study%20Conduct%20-%20Monitoring.pdf?csf=1&amp;web=1&amp;e=m4UB5d" rel="noopener noreferrer nofollow" target="_blank"><u>501-B07:&nbsp;Study&nbsp;Conduct&nbsp;-&nbsp;Monitoring&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B08%20Data%20Collection%20and%20Handling.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B08:&nbsp;Data&nbsp;Collection&nbsp;and&nbsp;Handling&nbsp;(Effective&nbsp;10-Nov-2023)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B08%20Data%20Collection%20and%20Handling.pdf?csf=1&amp;web=1&amp;e=B9gJ5A" rel="noopener noreferrer nofollow" target="_blank"><u>501-B08:&nbsp;Data&nbsp;Collection&nbsp;and&nbsp;Handling&nbsp;(Effective&nbsp;10-Nov-2023)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B09%20Study%20Completion%20Activities.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B09:&nbsp;Study&nbsp;Completion&nbsp;Activities&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B09%20Study%20Completion%20Activities.pdf?csf=1&amp;web=1&amp;e=Mdjahr" rel="noopener noreferrer nofollow" target="_blank"><u>501-B09:&nbsp;Study&nbsp;Completion&nbsp;Activities&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B10%20Handling%20Audits.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B10:&nbsp;Handling&nbsp;Audits/&nbsp;Inspections&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B10%20Handling%20Audits.pdf?csf=1&amp;web=1&amp;e=3w1tGn" rel="noopener noreferrer nofollow" target="_blank"><u>501-B10:&nbsp;Handling&nbsp;Audits/&nbsp;Inspections&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C01%20Informed%20Consent%20Form%20and%20Process.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-C01:&nbsp;Informed&nbsp;Consent&nbsp;Form&nbsp;and&nbsp;Process&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C01%20Informed%20Consent%20Form%20and%20Process.pdf?csf=1&amp;web=1&amp;e=dlsuFe" rel="noopener noreferrer nofollow" target="_blank"><u>501-C01:&nbsp;Informed&nbsp;Consent&nbsp;Form&nbsp;and&nbsp;Process&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C02%20Subject%20Recruitment%20and%20Screening.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-C02:&nbsp;Subject&nbsp;Screening&nbsp;and&nbsp;Recruitment&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C02%20Subject%20Recruitment%20and%20Screening.pdf?csf=1&amp;web=1&amp;e=7I4MDs" rel="noopener noreferrer nofollow" target="_blank"><u>501-C02:&nbsp;Subject&nbsp;Screening&nbsp;and&nbsp;Recruitment&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C03%20Subject%20Management%20During%20Study.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-C03:&nbsp;Subject&nbsp;Management&nbsp;During&nbsp;Study&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C03%20Subject%20Management%20During%20Study.pdf?csf=1&amp;web=1&amp;e=TqGMHf" rel="noopener noreferrer nofollow" target="_blank"><u>501-C03:&nbsp;Subject&nbsp;Management&nbsp;During&nbsp;Study&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C04%20Biological%20Specimen%20Collection%20and%20Handling.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-C04: Biological Specimen Collection and Handling (Effective 01-Dec-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C04%20Biological%20Specimen%20Collection%20and%20Handling.pdf?csf=1&amp;web=1&amp;e=AAZpsx" rel="noopener noreferrer nofollow" target="_blank"><u>501-C04: Biological Specimen Collection and Handling (Effective 01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C05%20UPIRTSO.pdf" rel="noopener nofollow" target="_blank">501-C05: Unanticipated Problems Involving Risks to Subjects or Others and Expected Serious Adverse Event (Effective 01-Sept-2025)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-C05%20UPIRTSO.pdf?csf=1&amp;web=1&amp;e=rDlIhN" rel="noopener nofollow" target="_blank">501-C05: Unanticipated Problems Involving Risks to Subjects or Others and Expected Serious Adverse Event (Effective 01-Sept-2025)</a>
 </p>
 </li>
 </ul>
