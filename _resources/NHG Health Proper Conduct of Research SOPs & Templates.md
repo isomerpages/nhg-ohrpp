@@ -290,11 +290,13 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/599-002_Categorisation%20of%20Deficiencies%20Identified.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>599-002: Categorisation of Deficiencies Identified (Effective 29-Dec-2021)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/599-002_Categorisation%20of%20Deficiencies%20Identified.pdf?csf=1&amp;web=1&amp;e=AuvBkI" rel="noopener noreferrer nofollow" target="_blank"><u>599-002: Categorisation of Deficiencies Identified (Effective 29-Dec-2021)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/599-005%20Guidance%20Document%20on%20Electronic%20IC%20Process.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>599-005:&nbsp;Guidance&nbsp;Document&nbsp;on&nbsp;Electronic&nbsp;Informed&nbsp;Consent&nbsp;Process&nbsp;(Effective&nbsp;28-Mar-2023)</u></a>
+<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/599-005%20Guidance%20Document%20on%20Electronic%20IC%20Process.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>599-</u></a>
+<a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/599-005%20Guidance%20Document%20on%20Electronic%20IC%20Process.pdf?csf=1&amp;web=1&amp;e=z1Fthb" rel="noopener noreferrer nofollow" target="_blank"><u>005:&nbsp;Guidance&nbsp;Document&nbsp;on&nbsp;Electronic&nbsp;Informed&nbsp;Consent&nbsp;Process&nbsp;(Effective&nbsp;28-Mar-2023)</u>
+</a>
 </p>
 </li>
 <li>
