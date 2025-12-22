@@ -300,7 +300,7 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/599-006%20Guidance%20Document%20on%20Electronic%20Filing%20of%20Essential%20Documents.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>599-006: Guidance Document on Electronic Filing of Essential Documents (Effective 01-Apr-2020)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/599-006%20Guidance%20Document%20on%20Electronic%20Filing%20of%20Essential%20Documents.pdf?csf=1&amp;web=1&amp;e=F1cVI0" rel="noopener noreferrer nofollow" target="_blank"><u>599-006: Guidance Document on Electronic Filing of Essential Documents (Effective 01-Apr-2020)</u></a>
 </p>
 </li>
 </ul>
