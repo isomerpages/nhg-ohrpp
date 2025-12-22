@@ -128,7 +128,7 @@ suit your individual tissue banking activities.</p>
 </p>
 <p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-06%20Withdrawal%20of%20Participation%20Form.docx?d=w0265aaa03f9544738c15e772d6cf2c61&amp;csf=1&amp;web=1&amp;e=aqjPpH" rel="noopener noreferrer nofollow" target="_blank"><u>1504-06&nbsp;Withdrawal&nbsp;of&nbsp;Participation&nbsp;Form</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-09%20Tissue%20Handover%20Form.docx" rel="noopener nofollow" target="_blank">1504-09 Tissue Handover Form</a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-09%20Tissue%20Handover%20Form.docx?d=wacbbca47280d458887c63730affdc24e&amp;csf=1&amp;web=1&amp;e=15LUY4" rel="noopener nofollow" target="_blank">1504-09 Tissue Handover Form</a>
 </p>
 <p></p>
 </div>
@@ -140,7 +140,7 @@ suit your individual tissue banking activities.</p>
 <summary><strong>Templates</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1505-01%20Tissue%20File%20Contents%20Template.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1505-01 Tissue File Contents Template</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1505-01%20Tissue%20File%20Contents%20Template.docx?d=wa341109facf141ca936dd8d21af6526e&amp;csf=1&amp;web=1&amp;e=Pjr4nX" rel="noopener noreferrer nofollow" target="_blank"><u>1505-01 Tissue File Contents Template</u></a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1505-02%20Corrective%20Action%20and%20Preventive%20Action%20Plan%20(CAPA)%20Template.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1505-02&nbsp;Corrective&nbsp;Action&nbsp;and&nbsp;Preventive&nbsp;Action&nbsp;Plan&nbsp;(CAPA)&nbsp;Template</u></a>
 </p>
