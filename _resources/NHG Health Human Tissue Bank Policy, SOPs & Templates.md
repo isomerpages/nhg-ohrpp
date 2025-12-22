@@ -118,11 +118,11 @@ suit your individual tissue banking activities.</p>
 <summary><strong>Forms</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-02%20Training%20Record%20Form.doc" rel="noopener noreferrer nofollow" target="_blank"><u>1504-02&nbsp;Training&nbsp;Record&nbsp;Form</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-02%20Training%20Record%20Form.doc?d=we2d37aaed9bd4700836a3a32288ae2e4&amp;csf=1&amp;web=1&amp;e=SGUhIs" rel="noopener noreferrer nofollow" target="_blank"><u>1504-02&nbsp;Training&nbsp;Record&nbsp;Form</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-03%20Laboratory%20Request%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-03&nbsp;Laboratory&nbsp;Request&nbsp;Form</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-03%20Laboratory%20Request%20Form.docx?d=w81b5a65db7044d6da7dd84ac64117c8b&amp;csf=1&amp;web=1&amp;e=A8pvIL" rel="noopener noreferrer nofollow" target="_blank"><u>1504-03&nbsp;Laboratory&nbsp;Request&nbsp;Form</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-04%20Tissue%20Specimen%20Request%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-04&nbsp;Tissue&nbsp;Specimen&nbsp;Request&nbsp;Form</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-04%20Tissue%20Specimen%20Request%20Form.docx?d=wac33dbf4a4e64cfd90ab1ff87a25baa2&amp;csf=1&amp;web=1&amp;e=7Ci6ax" rel="noopener noreferrer nofollow" target="_blank"><u>1504-04&nbsp;Tissue&nbsp;Specimen&nbsp;Request&nbsp;Form</u></a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1504-05%20Tissue%20Specimen%20Retrieval%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>1504-05&nbsp;Tissue Specimen Retrieval&nbsp;Form</u></a>
 </p>
