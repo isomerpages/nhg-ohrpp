@@ -157,7 +157,7 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/505-001%20Training%20Record%20Form.docx" rel="noopener noreferrer nofollow" target="_blank"><u>505-001:&nbsp;Training&nbsp;Record&nbsp;Form&nbsp;(Effective&nbsp;11-Nov-2016)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/505-001%20Training%20Record%20Form.docx?d=w483d0a7620d84bf7a22a08825b19f4fb&amp;csf=1&amp;web=1&amp;e=YbiBLc" rel="noopener noreferrer nofollow" target="_blank"><u>505-001:&nbsp;Training&nbsp;Record&nbsp;Form&nbsp;(Effective&nbsp;11-Nov-2016)</u></a>
 </p>
 </li>
 </ul>
