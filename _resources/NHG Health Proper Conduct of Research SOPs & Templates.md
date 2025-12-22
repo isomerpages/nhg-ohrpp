@@ -267,15 +267,15 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-016%20Stdy%20Initi%20Mtg%20Attend%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-016:&nbsp;Study&nbsp;Initiation&nbsp;Meeting&nbsp;Attendance&nbsp;Log&nbsp;(Effective&nbsp;15-May-2013)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-016%20Stdy%20Initi%20Mtg%20Attend%20Log.docx?d=w91841d1247c34fe0837818833cd805f2&amp;csf=1&amp;web=1&amp;e=xgPlmD" rel="noopener noreferrer nofollow" target="_blank"><u>509-016:&nbsp;Study&nbsp;Initiation&nbsp;Meeting&nbsp;Attendance&nbsp;Log&nbsp;(Effective&nbsp;15-May-2013)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-017%20ICF%20Tracking%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-017:&nbsp;ICF&nbsp;Tracking&nbsp;Log&nbsp;(Effective&nbsp;20-May-2020)&nbsp;</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-017%20ICF%20Tracking%20Log.docx?d=w09953ae7cfca4eac8edf6040a36bb181&amp;csf=1&amp;web=1&amp;e=1cFbfy" rel="noopener noreferrer nofollow" target="_blank"><u>509-017:&nbsp;ICF&nbsp;Tracking&nbsp;Log&nbsp;(Effective&nbsp;20-May-2020)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-018%20Study%20Doc%20Translation%20Tracking%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-018&nbsp;Study&nbsp;Document&nbsp;Translation&nbsp;Tracking&nbsp;Log&nbsp;(Effective&nbsp;08-Oct-2020)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-018%20Study%20Doc%20Translation%20Tracking%20Log.docx?d=wd2bc422250b1468784defcef059749ea&amp;csf=1&amp;web=1&amp;e=dzvyAX" rel="noopener noreferrer nofollow" target="_blank"><u>509-018&nbsp;Study&nbsp;Document&nbsp;Translation&nbsp;Tracking&nbsp;Log&nbsp;(Effective&nbsp;08-Oct-2020)</u></a>
 </p>
 </li>
 </ul>
