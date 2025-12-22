@@ -67,15 +67,15 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B04%20Interactions%20with%20DSRB.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B04:&nbsp;Interactions&nbsp;with&nbsp;DSRB&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B04%20Interactions%20with%20DSRB.pdf?csf=1&amp;web=1&amp;e=JlUVnc" rel="noopener noreferrer nofollow" target="_blank"><u>501-B04:&nbsp;Interactions&nbsp;with&nbsp;DSRB&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B05%20Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B05:&nbsp;Documentation&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B05%20Documentation.pdf?csf=1&amp;web=1&amp;e=y2aoRl" rel="noopener noreferrer nofollow" target="_blank"><u>501-B05:&nbsp;Documentation&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B06%20IP%20Accountability.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B06:&nbsp;Investigational&nbsp;Product&nbsp;Accountability&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B06%20IP%20Accountability.pdf?csf=1&amp;web=1&amp;e=4kC0Op" rel="noopener noreferrer nofollow" target="_blank"><u>501-B06:&nbsp;Investigational&nbsp;Product&nbsp;Accountability&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
