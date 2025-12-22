@@ -148,7 +148,7 @@ suit your individual tissue banking activities.</p>
 </p>
 <p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1505-04%20Monitoring%20Plan%20Template.docx?d=wda830cb912d54f479b9a9ce7e82aefc8&amp;csf=1&amp;web=1&amp;e=VcyuXU" rel="noopener nofollow" target="_blank">1505-04 Monitoring Plan Template</a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1505-05%20Note%20to%20File%20Template_V1.0_12Nov2024.docx" rel="noopener nofollow" target="_blank">1505-05 Note to File Template</a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20Forms%20and%20Templates/1505-05%20Note%20to%20File%20Template_V1.0_12Nov2024.docx?d=w1a338c4d0a14490e86caed8b0334af2c&amp;csf=1&amp;web=1&amp;e=Bkc3fP" rel="noopener nofollow" target="_blank">1505-05 Note to File Template</a>
 </p>
 </div>
 </details>
