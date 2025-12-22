@@ -207,27 +207,27 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-001%20SOP%20Comm%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-001:&nbsp;SOP&nbsp;Communication&nbsp;Log&nbsp;(Effective&nbsp;01-Jun-2006)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-001%20SOP%20Comm%20Log.docx?d=w6461b1df20b04194a8f442361ab09cd7&amp;csf=1&amp;web=1&amp;e=dWPzqL" rel="noopener noreferrer nofollow" target="_blank"><u>509-001:&nbsp;SOP&nbsp;Communication&nbsp;Log&nbsp;(Effective&nbsp;01-Jun-2006)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-002%20Study%20Respon%20or%20Del%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-002:&nbsp;Study&nbsp;Responsibility&nbsp;/&nbsp;Delegation&nbsp;Log&nbsp;(Effective&nbsp;05-Mar-2020)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-002%20Study%20Respon%20or%20Del%20Log.docx?d=wd2152569f1b748298d34a9a68d62d05b&amp;csf=1&amp;web=1&amp;e=8Cy4WV" rel="noopener noreferrer nofollow" target="_blank"><u>509-002:&nbsp;Study&nbsp;Responsibility&nbsp;/&nbsp;Delegation&nbsp;Log&nbsp;(Effective&nbsp;05-Mar-2020)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-003%20NC%20Proto%20Deviation%20Track%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-003:&nbsp;Non-compliance / Protocol Deviation Tracking Log (Effective&nbsp;05-Mar-2020)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-003%20NC%20Proto%20Deviation%20Track%20Log.docx?d=w89b9da351b0c46e082c2daa70c3f1f98&amp;csf=1&amp;web=1&amp;e=k4UjGi" rel="noopener noreferrer nofollow" target="_blank"><u>509-003:&nbsp;Non-compliance / Protocol Deviation Tracking Log (Effective&nbsp;05-Mar-2020)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-004%20Device%20Accountability%20Log.doc" rel="noopener noreferrer nofollow" target="_blank"><u>509-004:&nbsp;Device&nbsp;Accountability&nbsp;Log&nbsp;(Effective&nbsp;27-Dec-2018)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-004%20Device%20Accountability%20Log.doc?d=wf56bb9c7007c40bc8ccfc001066a783f&amp;csf=1&amp;web=1&amp;e=FYfiTY" rel="noopener noreferrer nofollow" target="_blank"><u>509-004:&nbsp;Device&nbsp;Accountability&nbsp;Log&nbsp;(Effective&nbsp;27-Dec-2018)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-005%20IP%20Inven%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-005:&nbsp;Investigational&nbsp;Product&nbsp;Inventory&nbsp;Log&nbsp;(Effective&nbsp;14-May-2013)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-005%20IP%20Inven%20Log.docx?d=wee3bb09af057403e97bff8eb6d5abd7d&amp;csf=1&amp;web=1&amp;e=WpYrtP" rel="noopener noreferrer nofollow" target="_blank"><u>509-005:&nbsp;Investigational&nbsp;Product&nbsp;Inventory&nbsp;Log&nbsp;(Effective&nbsp;14-May-2013)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-006%20Site%20Monit%20Log.docx" rel="noopener noreferrer nofollow" target="_blank"><u>509-006:&nbsp;Site&nbsp;Monitoring&nbsp;Log&nbsp;(Effective&nbsp;14-May-2013)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/509-006%20Site%20Monit%20Log.docx?d=w5072a5a0e91d4b81b2de9c05d63e76d8&amp;csf=1&amp;web=1&amp;e=eT1Hmh" rel="noopener noreferrer nofollow" target="_blank"><u>509-006:&nbsp;Site&nbsp;Monitoring&nbsp;Log&nbsp;(Effective&nbsp;14-May-2013)</u></a>
 </p>
 </li>
 <li>
