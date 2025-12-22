@@ -51,19 +51,19 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-A03%20Training%20and%20Education.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-A03:&nbsp;Training&nbsp;and&nbsp;Education&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-A03%20Training%20and%20Education.pdf?csf=1&amp;web=1&amp;e=EZpBLW" rel="noopener noreferrer nofollow" target="_blank"><u>501-A03:&nbsp;Training&nbsp;and&nbsp;Education&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B01%20Assessing%20Protocol%20Feasibility.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B01:&nbsp;Assessing&nbsp;Protocol&nbsp;Feasibility&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B01%20Assessing%20Protocol%20Feasibility.pdf?csf=1&amp;web=1&amp;e=47gCdX" rel="noopener noreferrer nofollow" target="_blank"><u>501-B01:&nbsp;Assessing&nbsp;Protocol&nbsp;Feasibility&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B02%20Pre%20Study%20Activities.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B02:&nbsp;Pre-study&nbsp;Activities&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B02%20Pre%20Study%20Activities.pdf?csf=1&amp;web=1&amp;e=v6aiMu" rel="noopener noreferrer nofollow" target="_blank"><u>501-B02:&nbsp;Pre-study&nbsp;Activities&nbsp;(Effective&nbsp;01-Dec-2025)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B03%20Study%20Initiation.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>501-B03:&nbsp;Study&nbsp;Initiation&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B03%20Study%20Initiation.pdf?csf=1&amp;web=1&amp;e=c73SZM" rel="noopener noreferrer nofollow" target="_blank"><u>501-B03:&nbsp;Study&nbsp;Initiation&nbsp;(Effective&nbsp;01-Sept-2025)</u></a>
 </p>
 </li>
 <li>
