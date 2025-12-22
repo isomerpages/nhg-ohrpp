@@ -126,23 +126,23 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-002%20Feasibility%20Assessment%20Checklist.doc" rel="noopener noreferrer nofollow" target="_blank"><u>504-002:&nbsp;Feasibility&nbsp;Assessment&nbsp;Checklist&nbsp;(Effective&nbsp;17-Jan-2019)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-002%20Feasibility%20Assessment%20Checklist.doc?d=wdc6370e309434572bc19a738b0b3e88c&amp;csf=1&amp;web=1&amp;e=F7p7sv" rel="noopener noreferrer nofollow" target="_blank"><u>504-002:&nbsp;Feasibility&nbsp;Assessment&nbsp;Checklist&nbsp;(Effective&nbsp;17-Jan-2019)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-004%20Study%20Closure%20Checklist.docx" rel="noopener noreferrer nofollow" target="_blank"><u>504-004:&nbsp;Study&nbsp;Closure&nbsp;Checklist&nbsp;(Effective&nbsp;04-Aug-2021)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-004%20Study%20Closure%20Checklist.docx?d=w1695de251b7145c38cbde23cd2b97ea1&amp;csf=1&amp;web=1&amp;e=Z57yn9" rel="noopener noreferrer nofollow" target="_blank"><u>504-004:&nbsp;Study&nbsp;Closure&nbsp;Checklist&nbsp;(Effective&nbsp;04-Aug-2021)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-005%20Pre%20Audit%20Checklist.docx" rel="noopener noreferrer nofollow" target="_blank"><u>504-005:&nbsp;Pre-Audit&nbsp;Checklist&nbsp;(Effective&nbsp;04-Mar-2020)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-005%20Pre%20Audit%20Checklist.docx?d=w3c6027635a3b40afa566c0efcad68bf2&amp;csf=1&amp;web=1&amp;e=GfjpfE" rel="noopener noreferrer nofollow" target="_blank"><u>504-005:&nbsp;Pre-Audit&nbsp;Checklist&nbsp;(Effective&nbsp;04-Mar-2020)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-007_RQM%20PI%20SAF.docx" rel="noopener noreferrer nofollow" target="_blank"><u>504-007:&nbsp;NHG&nbsp;RQM&nbsp;PISAF&nbsp;(Effective&nbsp;30-Oct-2019)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-007_RQM%20PI%20SAF.docx?d=w9ea833f1becb4af5a41b7a91a650afc0&amp;csf=1&amp;web=1&amp;e=Owf0FW" rel="noopener noreferrer nofollow" target="_blank"><u>504-007:&nbsp;NHG&nbsp;RQM&nbsp;PISAF&nbsp;(Effective&nbsp;30-Oct-2019)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://mynhg.nhg.com.sg/DEPT/RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-008%20Eligibility%20Checklist.docx" rel="noopener noreferrer nofollow" target="_blank"><u>504-008:&nbsp;Eligibility&nbsp;Checklist&nbsp;(Effective&nbsp;17-Jan-2019)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-008%20Eligibility%20Checklist.docx?d=w3861f59f9eae4595b97412a73da2381d&amp;csf=1&amp;web=1&amp;e=Bj1Kvr" rel="noopener noreferrer nofollow" target="_blank"><u>504-008:&nbsp;Eligibility&nbsp;Checklist&nbsp;(Effective&nbsp;17-Jan-2019)</u></a>
 </p>
 </li>
 </ul>
