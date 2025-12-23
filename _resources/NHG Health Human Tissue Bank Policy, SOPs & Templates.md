@@ -59,7 +59,7 @@ suit your individual tissue banking activities.</p>
 </p>
 <p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1501-C04%20Management%20of%20Incidental%20Findings.pdf?csf=1&amp;web=1&amp;e=4nUAy9" rel="noopener noreferrer nofollow" target="_blank"><u>1501-C04&nbsp;Management&nbsp;of&nbsp;Incidental&nbsp;Findings</u></a>
 </p>
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1501-C05%20Human%20Tissue%20Specimen%20Management.pdf?csf=1&amp;web=1&amp;e=icIUuh" rel="noopener noreferrer nofollow" target="_blank"><u>1501-C05&nbsp;Human&nbsp;Tissue&nbsp;Specimen</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1501-C05%20Human%20Tissue%20Specimen%20Management.pdf?csf=1&amp;web=1&amp;e=icIUuh" rel="noopener noreferrer nofollow" target="_blank"><u>1501-C05&nbsp;Human&nbsp;Tissue&nbsp;Specimen Management</u></a>
 </p>
 <p></p>
 </div>
