@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>About our Publications</strong></h4>
-<p>The NHG OHRPP and her units regularly publishes several newsletters and
-circulars to educate and inform the NHG research community and to foster
-a research culture grounded in high ethical standards, responsible conduct
-of research and continuous education.</p>
+<p>The NHG Health OHRPP and its units regularly publishes several newsletters
+and circulars to educate and inform the NHG Health research community and
+to foster a research culture grounded in high ethical standards, responsible
+conduct of research and continuous education.</p>
 <p></p>
 <h4>Chicken Soup for the Busy Coordinator</h4>
 <p>The Chicken Soup for the Busy Coordinator is an email circular which contain
@@ -31,10 +31,10 @@ conduct operating on high ethical standards.
 <br>See the <a href="/ohrpp-post-its/" rel="noopener nofollow" target="_blank">OHRPP Post-Its here</a>.</p>
 <p></p>
 <h4>Tissue Compliance Circular</h4>
-<p>In an effort to educate the NHG research community on the Human Tissue
-Framework, the Tissue Secretariat have initiated a publication series called
-“Tissue Compliance Circular” for tissue custodians and individuals involved
-in tissue banking activities.
+<p>In an effort to educate the NHG Health research community on the Human
+Tissue Framework, the Tissue Secretariat have initiated a publication series
+called “Tissue Compliance Circular” for tissue custodians and individuals
+involved in tissue banking activities.
 <br>See the <a href="/tissue-compliance-circular/" rel="noopener nofollow" target="_blank">Tissue Compliance Circular here</a>.</p>
 <p></p>
 <p></p>
