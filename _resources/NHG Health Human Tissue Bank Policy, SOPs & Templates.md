@@ -178,7 +178,7 @@ suit your individual tissue banking activities.</p>
 </details>
 </div>
 <p></p>
-<p><strong>* Access to these files is Restricted (NHG Health Intranet access required).</strong>
+<p><strong>* Access to these files is Restricted (NHG Health Intranet access required). </strong>
 </p>
 <p></p>
 <p></p>
