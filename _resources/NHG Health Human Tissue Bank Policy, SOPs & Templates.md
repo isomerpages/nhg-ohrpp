@@ -11,7 +11,7 @@ banking activities in accordance with applicable guidelines and regulations
 (e.g. HBRA). You may adapt and modify these guidelines and templates to
 suit your individual tissue banking activities.</p>
 <p><strong>These documents are strictly for internal circulation among NHG Health Staff and Authorized personnel only.</strong>
-<br><strong>* Access to these files is Restricted (NHG Health Intranet access required). </strong>
+<br><strong>* Access to these files is Restricted (NHG Health Intranet access required).</strong>
 </p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
