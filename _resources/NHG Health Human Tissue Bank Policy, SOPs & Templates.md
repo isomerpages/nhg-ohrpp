@@ -171,14 +171,14 @@ suit your individual tissue banking activities.</p>
 </p>
 <p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-06%20Introduction%20to%20Tissue%20Bank%20Quality%20Management%20Audit.pdf?csf=1&amp;web=1&amp;e=tVOQaW" rel="noopener noreferrer nofollow" target="_blank"><u>1506-06 Introduction to Tissue Bank Quality Management Audit</u></a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/dept/RCU/Shared%20Library/Tissue%20Banking/NHG%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-07%20Introduction%20to%20Tissue%20Bank%20Quality%20Management%20Site%20Initiation%20Visit.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1506-07 Introduction to Tissue Quality Management Site Initiation Visit</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Proper%20Conduct%20of%20Tissue%20Bank%20(1500)%20SOPs%20%26%20guidance%20documents/1506-07%20Introduction%20to%20Tissue%20Bank%20Quality%20Management%20Site%20Initiation%20Visit.pdf?csf=1&amp;web=1&amp;e=a3a9qQ" rel="noopener noreferrer nofollow" target="_blank"><u>1506-07 Introduction to Tissue Quality Management Site Initiation Visit</u></a>
 </p>
 <p></p>
 </div>
 </details>
 </div>
 <p></p>
-<p><strong>* Access to these files is Restricted (NHG Health Intranet access required). </strong>
+<p><strong>* Access to these files is Restricted (NHG Health Intranet access required).</strong>
 </p>
 <p></p>
 <p></p>
