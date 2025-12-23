@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>About our Publications</strong></h4>
-<p>The NHG Health OHRPP and her units regularly publishes several newsletters
+<p>The NHG Health OHRPP and its units regularly publishes several newsletters
 and circulars to educate and inform the NHG Health research community and
 to foster a research culture grounded in high ethical standards, responsible
 conduct of research and continuous education.</p>
