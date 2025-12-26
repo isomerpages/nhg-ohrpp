@@ -51,9 +51,9 @@ to facilitate research conduct operating on high ethical standards.</p>
 </p>
 <p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2027_OHRPP%20POST-ITS_NHG_Feb23.pdf?csf=1&amp;web=1&amp;e=j9wV2t" rel="noopener noreferrer nofollow" target="_blank">Issue 27 (Feb 2023)</a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_OCT_22_Newsletter_NHG.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 26 (Oct&nbsp;2022)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2026_OHRPP%20POST-ITS_NHG_Oct22.pdf?csf=1&amp;web=1&amp;e=uIBiqt" rel="noopener noreferrer nofollow" target="_blank">Issue 26 (Oct&nbsp;2022)</a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_JUL_22_Newsletter%20(NHG).pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 25 (Jul 2022)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2025_OHRPP%20POST-ITS_NHG_Jul22.pdf?csf=1&amp;web=1&amp;e=wn2Oim" rel="noopener noreferrer nofollow" target="_blank">Issue 25 (Jul 2022)</a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_APR%2022_Newsletter%20(NHG).pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 24 (Apr 2022)</a>
 </p>
