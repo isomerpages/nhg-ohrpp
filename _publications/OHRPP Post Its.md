@@ -43,7 +43,7 @@ to facilitate research conduct operating on high ethical standards.</p>
 </p>
 <p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2031_OHRPP%20POST-ITS_NHG_Dec23.pdf?csf=1&amp;web=1&amp;e=fkLCCV" rel="noopener noreferrer nofollow" target="_blank">Issue 31 (Dec 2023)</a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_Sept_23_Newsletter_NHG.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 30&nbsp;(Sep 2023)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2030_OHRPP%20POST-ITS_NHG_Sep23.pdf?csf=1&amp;web=1&amp;e=Us7OGr" rel="noopener noreferrer nofollow" target="_blank">Issue 30&nbsp;(Sep 2023)</a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_MAY_23_Newsletter_NHG.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 29&nbsp;(May 2023)</a>
 </p>
