@@ -39,9 +39,9 @@ to facilitate research conduct operating on high ethical standards.</p>
 </p>
 <p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2033_OHRPP%20POST-ITS_NHG_Dec24.pdf?csf=1&amp;web=1&amp;e=E6V9UV" rel="noopener nofollow" target="_blank">Issue 33 (Dec 2024)</a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_JULY_24_Newsletter_NHG.pdf" rel="noopener nofollow" target="_blank">Issue 32 (Jul 2024)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2032_OHRPP%20POST-ITS_NHG_Jul24.pdf?csf=1&amp;web=1&amp;e=RpTwcm" rel="noopener nofollow" target="_blank">Issue 32 (Jul 2024)</a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_DEC_23_Newsletter_NHG.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 31 (Dec 2023)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2031_OHRPP%20POST-ITS_NHG_Dec23.pdf?csf=1&amp;web=1&amp;e=fkLCCV" rel="noopener noreferrer nofollow" target="_blank">Issue 31 (Dec 2023)</a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_Sept_23_Newsletter_NHG.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 30&nbsp;(Sep 2023)</a>
 </p>
