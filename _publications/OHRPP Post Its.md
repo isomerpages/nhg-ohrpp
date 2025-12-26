@@ -57,14 +57,15 @@ to facilitate research conduct operating on high ethical standards.</p>
 </p>
 <p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2024_OHRPP%20POST-ITS_NHG_Apr22.pdf?csf=1&amp;web=1&amp;e=DcQA0F" rel="noopener noreferrer nofollow" target="_blank">Issue 24 (Apr 2022)</a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_Nov%2021_(NHG).pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 23 (Nov&nbsp;2021)</a>&nbsp;</p>
-<p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/d36bb4d6-1fd7-4348-ac3c-3e368d02b698/OHRPP+POST-ITS_Oct+21.pdf?MOD=AJPERES&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox" rel="noopener noreferrer nofollow" target="_blank">Issue 22&nbsp;(Oct 2021)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2023_OHRPP%20POST-ITS_NHG_Nov21.pdf?csf=1&amp;web=1&amp;e=xpEreJ" rel="noopener noreferrer nofollow" target="_blank">Issue 23 (Nov&nbsp;2021)</a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_Jun21%20newsletter_(NHG)_rv220621_Final.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue&nbsp;21&nbsp;(Jun&nbsp;2021)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2022_OHRPP%20POST-ITS_NHG_Oct21.pdf?csf=1&amp;web=1&amp;e=ZyzRu3" rel="noopener noreferrer nofollow" target="_blank">Issue 22&nbsp;(Oct 2021)</a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS%20(for%20NHG)_Issue%2020(Mar%2021)_Final.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 20 (Mar 2021)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2021_OHRPP%20POST-ITS_NHG_Jun21.pdf?csf=1&amp;web=1&amp;e=N4Z30D" rel="noopener noreferrer nofollow" target="_blank">Issue&nbsp;21&nbsp;(Jun&nbsp;2021)</a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS%20(for%20NHG)_Issue%2019(Oct%2020)_Final.pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 19 (Oct 2020)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2020_OHRPP%20POST-ITS_NHG_Mar21.pdf?csf=1&amp;web=1&amp;e=JqMRcC" rel="noopener noreferrer nofollow" target="_blank">Issue 20 (Mar 2021)</a>
+</p>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2019_OHRPP%20POST-ITS_NHG_Oct20.pdf?csf=1&amp;web=1&amp;e=Qu9qWu" rel="noopener noreferrer nofollow" target="_blank">Issue 19 (Oct 2020)</a>
 </p>
 <p></p>
 </div>
