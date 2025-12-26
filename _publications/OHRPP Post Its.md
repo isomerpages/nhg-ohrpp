@@ -55,7 +55,7 @@ to facilitate research conduct operating on high ethical standards.</p>
 </p>
 <p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2025_OHRPP%20POST-ITS_NHG_Jul22.pdf?csf=1&amp;web=1&amp;e=wn2Oim" rel="noopener noreferrer nofollow" target="_blank">Issue 25 (Jul 2022)</a>
 </p>
-<p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_APR%2022_Newsletter%20(NHG).pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 24 (Apr 2022)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2024_OHRPP%20POST-ITS_NHG_Apr22.pdf?csf=1&amp;web=1&amp;e=DcQA0F" rel="noopener noreferrer nofollow" target="_blank">Issue 24 (Apr 2022)</a>
 </p>
 <p><a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/OHRPP%20POST-ITS_Nov%2021_(NHG).pdf?Web=1" rel="noopener noreferrer nofollow" target="_blank">Issue 23 (Nov&nbsp;2021)</a>&nbsp;</p>
 <p><a href="https://www.research.nhg.com.sg/wps/wcm/connect/d36bb4d6-1fd7-4348-ac3c-3e368d02b698/OHRPP+POST-ITS_Oct+21.pdf?MOD=AJPERES&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox&amp;CVID=nSoGsox" rel="noopener noreferrer nofollow" target="_blank">Issue 22&nbsp;(Oct 2021)</a>
