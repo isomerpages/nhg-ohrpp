@@ -31,7 +31,7 @@ to facilitate research conduct operating on high ethical standards.</p>
 <p></p>
 <p>(Restricted: NHG Intranet access required)</p>
 <p></p>
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2036_OHRPP%20POST-ITS_NHG_Health_Nov25.pdf?csf=1&amp;web=1&amp;e=GFPHwb" rel="noopener noreferrer nofollow" target="_blank">Issue 36 (Nov 2025)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2036_OHRPP%20POST-ITS_NHG_Health_Nov25.pdf?csf=1&amp;web=1&amp;e=WoubbN" rel="noopener noreferrer nofollow" target="_blank">Issue 36 (Nov 2025)</a>
 </p>
 <p><a href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/issue_35_sep_25_ohrpp_post_its.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 35 (Sep 2025)</a>
 </p>
