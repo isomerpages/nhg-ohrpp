@@ -11,8 +11,7 @@ the clinical research units/centres for more information:
 <br>
 <br><strong>1. Institute of Mental Health</strong>
 <br>&nbsp;&nbsp;&nbsp; Research Division
-<br>&nbsp;&nbsp;&nbsp; Contact Number: 6389 3640
-<br>&nbsp;&nbsp;&nbsp; Email Address: <a href="mailto:IMHRESEARCH@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">IMHRESEARCH@imh.com.sg</a>
+<br>&nbsp;&nbsp;&nbsp; Email Address: <a href="mailto:IMHRESEARCH@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.research@nhghealth.com.sg</a>
 <br>
 <br><strong>2. National Healthcare Group Polyclinics</strong>
 <br>&nbsp;&nbsp;&nbsp; Clinical Research Unit
