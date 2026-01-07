@@ -44,6 +44,10 @@ NHG Health Intranet access required)</p>
 NHG Health Intranet access required)</p>
 </li>
 </ul>
+<h4><strong>TRUST Matters </strong></h4>
+<p>For Trust matters, please contact your designated <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Data/NHG%20TRUST%20POC%20List.pdf?csf=1&amp;web=1&amp;e=sfUAfn" rel="noopener noreferrer nofollow" target="_blank">Institution Point of Contact (POC).</a>
+</p>
+<p>For more information about TRUST, please visit the <a href="https://trustplatform.sg/" rel="noopener noreferrer nofollow" target="_blank">official TRUST website</a>.</p>
 <p></p>
 <h4><strong>Contact Information</strong></h4>
 <p>For any enquiries, please contact the <strong>NHG Health Research Data Secretariat</strong> at

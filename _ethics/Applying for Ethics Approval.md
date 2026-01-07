@@ -75,7 +75,7 @@ and availability of a meeting quorum.</p>
 <p></p>
 <h4><strong>DSRB Full Board Review Meeting Schedule</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 FB Dates v2" src="/images/Ethics/2025_FB_Dates_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ethics/2026_DSRB_Full_Board_Dates.png">
 </div>
 <p>Please note that Full Board meeting dates may change without prior notice.</p>
 <p>Kindly note that the DSRB submission deadline for Full Board studies is

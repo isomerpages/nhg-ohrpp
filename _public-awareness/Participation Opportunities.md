@@ -46,9 +46,8 @@ the clinical research units/centres for more information:
 <br>
 <br><strong>4. Khoo Teck Puat Hospital</strong>
 <br>&nbsp;&nbsp; Clinical Research Unit
-<br>&nbsp;&nbsp;&nbsp; Contact Number: 6602 4606
-<br>&nbsp;&nbsp;&nbsp; Email Address: <a href="mailto:ktph_cru_admin@alexandrahealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">ktph_cru_admin@alexandrahealth.com.sg</a>
-<br>&nbsp;</p>
+<br>&nbsp;&nbsp;&nbsp; Email Address: <a href="mailto:ktph.cru.admin@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">ktph.cru.admin@nhghealth.com.sg</a>
+</p>
 <p><strong>5. National University Health System</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp; For Healthy Volunteer studies:</p>
