@@ -20,21 +20,20 @@ for you!</p>
 <p></p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/UPIRTSO/nov25_how _to_identify_upirtso.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Nov 2025: Identifying and Reporting Unanticipated Problems Involving Risks To Subjects or Others (UPIRTSO)</div><div class="isomer-card-description">Understand how to identify UPIRTSO based on the 3 key criteria and UPIRTSO reporting requirements.</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyTeamResponsibilities/oct25_crc_transitions_effectively_for_study_continuity.pdf" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ResearchPolicySOPUpdates/dec25_ich_e6_r3_gcp_guideline.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Aug 2025: Biological Samples Non-Compliances</div><div class="isomer-card-description">Learn more about the changes to ICH E6 (R3) GCP Guidelines here! Effective from 1 Jan 2026.</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/UPIRTSO/nov25_how _to_identify_upirtso.pdf" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Oct 2025: Managing Clinical Research Coordinator (CRC) Transitions Effectively
-for Study Continuity</div>
-<div class="isomer-card-description">Read more on how to manage transitions effectively during coordinator
-changes</div>
+<div class="isomer-card-title">Nov 2025: Identifying and Reporting Unanticipated Problems Involving Risks
+To Subjects or Others (UPIRTSO)</div>
+<div class="isomer-card-description">Understand how to identify UPIRTSO based on the 3 key criteria and UPIRTSO
+reporting requirements.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyTeamResponsibilities/sep25_managingstudyteamchanges.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sep 2025: Managing Study Team Changes (Co-Investigators)</div><div class="isomer-card-description">Find out how best to manage changes in study team, specifically for Co-Investigators.</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/Biological%20Samples/aug_25_biological_samples_non-compliances.pdf" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyTeamResponsibilities/oct25_crc_transitions_effectively_for_study_continuity.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Oct 2025: Managing Clinical Research Coordinator (CRC) Transitions Effectively for Study Continuity</div><div class="isomer-card-description">Read more on how to manage transitions effectively during coordinator changes</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyTeamResponsibilities/sep25_managingstudyteamchanges.pdf" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Aug 2025: Biological Samples Non-Compliances</div>
-<div class="isomer-card-description">Learn prevention tactics that eliminate potential biological sample-related
-compliance issues</div>
+<div class="isomer-card-title">Sep 2025: Managing Study Team Changes (Co-Investigators)</div>
+<div class="isomer-card-description">Find out how best to manage changes in study team, specifically for Co-Investigators.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a>
