@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/ResearchPolicySOPUpdates/dec25_ich_e6_r3_gcp_guideline.pdf" rel="noopener noreferrer nofollow" target="_blank">(Dec 2025) Highlights from ICH E6 (R3) GCP Guideline</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/ResearchPolicySOPUpdates/may25_rcr_peer review.pdf" rel="noopener noreferrer nofollow" target="_blank">(May 2025) Responsible Conduct of Research (RCR) – Peer Review</a>
 </p>
 </li>
