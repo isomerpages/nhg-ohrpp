@@ -7,10 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><u>CHANGE IN FEBRUARY FB SUBMISSION DEADLINE FOR DOMAIN B1 DUE TO CNY HOLIDAYS</u></strong>
+<p><strong><u>CHANGE IN FEBRUARY FULL BOARD SUBMISSION DEADLINE FOR DOMAIN B1 DUE TO CNY HOLIDAYS</u></strong>
 </p>
-<p>Please note that the submission deadline for B1 February FB would be changed
-to <strong><u>28 Jan 2026</u></strong>.</p>
+<p>Please note that the submission deadline for B1 February Full Board (FB)
+would be changed to <strong><u>28 Jan 2026</u></strong>.</p>
 <p>The B1 FB Meeting will be held earlier on 10 Feb 2026, in view of the
 CNY holidays.</p>
 <p>Please submit your studies with sufficient lead time for the Department
