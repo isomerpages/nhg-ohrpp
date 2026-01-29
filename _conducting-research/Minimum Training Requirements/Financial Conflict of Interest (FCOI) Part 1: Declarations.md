@@ -55,14 +55,10 @@ studies at the annual submission of their FCOI Declaration Form.</p>
 <p>Download the <a href="/files/FCOI_Guide_v011225__Clean_.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to the FCOI Declaration Requirements here</a>.</p>
 <p></p>
 <h4><strong>Submission of Annual FCOI Declarations</strong></h4>
-<p>Please note that there are some changes made to the validity period of
-the submitted 2023 and 2024 FCOI Declarations. Please <a href="/files/FCOI Files/DSRB_291223_Adjustments_to_FCOI_Declaration_Cycle_2023_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">click here for more information.</a>
-</p>
-<p>From May 2024 onwards, please submit the FCOI Declaration via the Ethics
-and Compliance Online System (ECOS). You may refer to the <strong>ECOS User Guide for FCOI Module</strong> which
+<p>Investigators and study team members should submit FCOI Declarations via
+the Ethics and Compliance Online System (ECOS). You may refer to the <strong>ECOS User Guide for FCOI Module</strong> which
 can be <a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener nofollow" target="_blank">downloaded from here.</a>
 </p>
-<p></p>
 <h4><strong>Useful Links</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
