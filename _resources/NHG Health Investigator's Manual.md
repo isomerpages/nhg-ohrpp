@@ -13,11 +13,11 @@ convolutions of the research maze.</p>
 requirements (especially the revised regulatory framework for clinical
 trials), ethical provisions and institutional policies governing research
 conduct for Investigators, Researchers &amp; Study Administrators.</p>
-<p><strong>Download the</strong>  <a href="/files/Investigator Manual/NHG_Health_Investigation_Manual_5th_Edition.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Investigator Manual – All That an Investigator Needs to Know (5<sup>th</sup> Edition)</a>  <strong>here</strong>.</p>
+<p><strong>Download the</strong>  <a href="/files/Investigator Manual/NHG_Health_Investigator_Manual_All_That_an_Investigator_Needs_to_Know_5th_Edition.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Investigator Manual – All That an Investigator Needs to Know (5<sup>th</sup> Edition)</a>  <strong>here</strong>.</p>
 <h4><strong>Summary of Updates</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Investigator Manual/Summary_of_Change_November25.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Change (November 2025)</a>
+<p><a href="/files/Investigator Manual/Summary_of_Change_Jan26.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Change (January 2026)</a>
 </p>
 </li>
 </ul>
@@ -27,15 +27,15 @@ conduct for Investigators, Researchers &amp; Study Administrators.</p>
 above NHG Health Investigator’s Manual which are of interest.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Investigator Manual/a_IM_5th_Ed_Cover_and_Foreword_Clean_Aug_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Cover &amp; Foreword</a>
+<p><a href="/files/Investigator Manual/IM_5th_Ed_Cover_and_Foreword_Clean_January_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Cover &amp; Foreword</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/b_IM_5th_edition_CONTENTS_Clean_August_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Content Page</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_CONTENTS_Clean_January_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Content Page</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_1_Research_Governance_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 1 -&nbsp;Research Governance</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_1_Research_Governance_Clean_30_Jan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 1 -&nbsp;Research Governance</a>
 </p>
 </li>
 <li>
@@ -47,7 +47,7 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_4_Submissions_to_DSRB_Clean_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 4 -&nbsp;Submission to DSRB</a>&nbsp;</p>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_4_Submissions_to_DSRB_CLEAN_30_Jan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 4 -&nbsp;Submission to DSRB</a>&nbsp;</p>
 </li>
 <li>
 <p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_5_Informed_Consent_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 5 -&nbsp;Informed Consent</a>
@@ -58,7 +58,7 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_7_Study_Conduct_Clean_28_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 7 - Study Conduct</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_7_Study_Conduct_Clean_28_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 7 - Study Conduct</a>
 </p>
 </li>
 <li>
@@ -70,7 +70,7 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/References_and_Suggest_Readings_and_links_August_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">References and Suggested Readings</a>
+<p><a href="/files/Investigator Manual/References_and_Suggest_Readings_and_links_Clean_January_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] References and Suggested Readings</a>
 </p>
 </li>
 </ul>
