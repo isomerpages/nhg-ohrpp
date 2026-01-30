@@ -13,7 +13,7 @@ convolutions of the research maze.</p>
 requirements (especially the revised regulatory framework for clinical
 trials), ethical provisions and institutional policies governing research
 conduct for Investigators, Researchers &amp; Study Administrators.</p>
-<p><strong>Download the</strong>  <a href="/files/Investigator Manual/NHG_Health_Investigator_Manual_All_That_An_Investigator_Needs_to_Know_5th_Ed.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Investigator Manual – All That an Investigator Needs to Know (5<sup>th</sup> Edition)</a>  <strong>here</strong>.</p>
+<p><strong>Download the</strong>  <a href="/files/Investigator Manual/NHG_Health_Investigator_Manual_All_That_an_Investigator_Needs_to_Know_5th_Edition.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Investigator Manual – All That an Investigator Needs to Know (5<sup>th</sup> Edition)</a>  <strong>here</strong>.</p>
 <h4><strong>Summary of Updates</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
