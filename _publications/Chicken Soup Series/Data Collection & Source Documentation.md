@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/DataCollectionSourceDocs/jan_26_protecting_research_and_participant_data.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jan 2026) Protecting Research and Participant Data: Best Practices</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/DataCollectionSourceDocs/dec_24_electronic_patient_reported_outcomes.pdf" rel="noopener noreferrer nofollow" target="_blank">(Dec 2024) Use of Electronic Patient Reported Outcomes (ePRO) in Clinical Trials</a>
 </p>
 </li>
