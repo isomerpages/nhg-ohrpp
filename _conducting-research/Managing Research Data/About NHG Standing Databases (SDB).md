@@ -6,19 +6,43 @@ description: ""
 third_nav_title: Managing Research Data
 ---
 <h4><strong>What are Standing Databases?</strong></h4>
-<p><strong>Standing Databases (SDBs)</strong> contain electronic data stored
-for the purposes of patient care / services and/or as a potential resource
-for future research.</p>
+<p>Research<strong> Standing Databases (SDBs)</strong> are structured collection
+&amp; storage of individual-level personal information, for future research
+purposes.</p>
 <p>For the purposes of these guidelines, any collected and arranged private
 information stored electronically will be considered a database.</p>
 <p></p>
 <h4><strong>What is the Purpose of Registering a Standing Database?</strong></h4>
-<p>To allow NHG Health Domain Specific Review Board (DSRB) to review key
-specific issues pertaining to tissue and data banking, such as collection,
-storage, privacy and confidentiality, and informed consent. With the registration,
-custodians provide assurance to comply with NHG and BAC’s guidelines for
-data and tissue banking activities for potential research.</p>
+<p>Registering a research Standing Database is crucial for NHG Health to
+maintain ethical oversight ad ensure regulatory compliance. The registration
+will allow the NHG Health to guide a custodian's research data collection
+activities, including</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Data collection and storage procedures</p>
+</li>
+<li>
+<p>Privacy and confidentiality measures</p>
+</li>
+<li>
+<p>Informed consent documentation and processes.</p>
 <p></p>
+</li>
+</ul>
+<p>Custodians will need to comply with relevant policies, regulations and
+guidelines including</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Human Biomedical Research Act (HBRA)</p>
+</li>
+<li>
+<p>HealthTech Instruction Manual (HIM)</p>
+</li>
+<li>
+<p>NHG Health Polices (e.g. <a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RCU/Shared%20Library/Research%20Data/NHG%20Health%20Research%20Data%20Policy.pdf?csf=1&amp;web=1&amp;e=jPXtuD" rel="noopener nofollow" target="_blank">NHG Health Research Data Policy</a>,
+<a href="https://mynhg.nhg.com.sg/NHG%20Data%20Policies/NHG%20Data%20Policies/NHG%20Data%20Protection%20Policy/240916%20NHG%20Data%20Protection%20Policy%20v7_0.pdf" rel="noopener nofollow" target="_blank">NHG Health Data Protection Policy</a>and <a href="https://healthsg.sharepoint.com/sites/NHGHealth/NHG%20Data%20Policies/Forms/AllItems.aspx?id=%2Fsites%2FNHGHealth%2FNHG%20Data%20Policies%2FNHG%20Data%20Policies%2FNHG%20Data%20Access%20and%20Sharing%20Policy%2FNHG%20Data%20Access%20and%20Sharing%20Policy%20v3%5F0%2Epdf&amp;parent=%2Fsites%2FNHGHealth%2FNHG%20Data%20Policies%2FNHG%20Data%20Policies%2FNHG%20Data%20Access%20and%20Sharing%20Policy" rel="noopener nofollow" target="_blank">NHG Health Data Access and Sharing Policy</a>)</p>
+</li>
+</ul>
 <h4><strong>Who should be the “Owner” of the Standing Database?</strong></h4>
 <p>The <strong>respective Institutions/Cluster (“Owner”)</strong> possesses
 ownership of Standing Databases set up by their staff.</p>
