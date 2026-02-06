@@ -70,7 +70,7 @@ most suitable "Custodian".</p>
 <p>For Standing Databases that are set up with an external institution, institutions
 within NHG Health should appoint an NHG Health "Custodian" to protect NHG
 Health’s interest in the joint database.</p>
-<p></p>
+<p>Learn more about the <a href="https://healthsg.sharepoint.com/sites/NHGHealth-RCU/Shared%20Library/Forms/AllItems.aspx?id=%2Fsites%2FNHGHealth%2DRCU%2FShared%20Library%2FResearch%20Data%2F1602%5FB01%5FResponsibilities%20of%20Custodians%20and%20Database%20Team%20Members%2Epdf&amp;parent=%2Fsites%2FNHGHealth%2DRCU%2FShared%20Library%2FResearch%20Data" rel="noopener nofollow" target="_blank">Responsibilities of a Custodian and Database Team Member here</a>.</p>
 <h4><strong>How to Register a Standing Database?</strong></h4>
 <p><strong>With effect from 01 August 2020</strong>, all NHG Health Standing
 Database applications will be routed to the <strong>NHG Health Research Data Institutional Deputies (IDs)</strong> for
