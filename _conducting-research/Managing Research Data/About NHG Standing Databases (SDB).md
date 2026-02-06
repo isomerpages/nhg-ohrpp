@@ -43,6 +43,7 @@ guidelines including</p>
 <a href="https://mynhg.nhg.com.sg/NHG%20Data%20Policies/NHG%20Data%20Policies/NHG%20Data%20Protection%20Policy/240916%20NHG%20Data%20Protection%20Policy%20v7_0.pdf" rel="noopener nofollow" target="_blank">NHG Health Data Protection Policy</a>and <a href="https://healthsg.sharepoint.com/sites/NHGHealth/NHG%20Data%20Policies/Forms/AllItems.aspx?id=%2Fsites%2FNHGHealth%2FNHG%20Data%20Policies%2FNHG%20Data%20Policies%2FNHG%20Data%20Access%20and%20Sharing%20Policy%2FNHG%20Data%20Access%20and%20Sharing%20Policy%20v3%5F0%2Epdf&amp;parent=%2Fsites%2FNHGHealth%2FNHG%20Data%20Policies%2FNHG%20Data%20Policies%2FNHG%20Data%20Access%20and%20Sharing%20Policy" rel="noopener nofollow" target="_blank">NHG Health Data Access and Sharing Policy</a>)</p>
 </li>
 </ul>
+<p></p>
 <h4><strong>Who should be the “Owner” of the Standing Database?</strong></h4>
 <p>The <strong>respective Institutions/Cluster (“Owner”)</strong> possesses
 ownership of Standing Databases set up by their staff.</p>
