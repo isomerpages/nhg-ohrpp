@@ -18,7 +18,6 @@ NHG Health Standing Database.</p>
 <p>From October 2024, researchers who intend to store data for future research
 must submit an SDB application via the <a href="https://www.ecos-research.com.sg/ihis-ecos/home/dashboard" rel="noopener nofollow" target="_blank">ECOS</a>.
 More information will be released soon.</p>
-<p></p>
 <h4><strong>Resources</strong></h4>
 <p>Learn more about SDB application form and ECOS guide for register a SDB
 here<a href="https://ecossupport.gri.nhg.com.sg/userguides/" rel="noopener nofollow" target="_blank">SDB application form and ECOS guide for register a SDB here</a>.</p>
