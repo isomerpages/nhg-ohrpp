@@ -19,14 +19,13 @@ ethics matters.</p>
 </div>
 <p>The Singapore Research Ethics Conference, was held virtually on <strong>23 - 25 October 2024</strong>,
 was jointly organised by <strong>NHG Health</strong>, <strong>National University of Singapore (NUS)</strong> and <strong>Singapore Health Services (SingHealth)</strong>.</p>
-<p>This year’s theme on "<strong>Navigating the Ethical and Regulatory Challenges with Technological Advances in Research</strong>",
-aims to discuss a wide variety of hot topics relevant to human subject
+<p>The year’s theme was on "<strong>Navigating the Ethical and Regulatory Challenges with Technological Advances in Research</strong>",
+aimed to discuss a wide variety of hot topics relevant to human subject
 research and to build consensus in key areas of research ethics by promoting
 knowledge sharing and best practices.</p>
 <p>Featured topics include the role of generative AI in research, precision
 medicine, research involving vulnerable population and ethical challenges
 of IRBs in Singapore.</p>
-<p>Visit the <a href="https://www.singhealthacademy.edu.sg/srec/Pages/default.aspx" rel="noopener nofollow" target="_blank">SREC 2024 Website here</a> for
-more information.</p>
+<p></p>
 <p></p>
 <p></p>
