@@ -82,8 +82,8 @@ products in accordance with Good Clinical Practice principles.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In this online module, participants will learn about the general principles
 involved in budgeting, design and use of a case report form, database design
-and have an overview understanding of how REDCap is used in NHG to aid
-in data analysis and capture in research.</p>
+and have an overview understanding of how REDCap is used in NHG Health
+to aid in data analysis and capture in research.</p>
 <p></p>
 <p><a href="/pcr-003/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
 <p></p>
