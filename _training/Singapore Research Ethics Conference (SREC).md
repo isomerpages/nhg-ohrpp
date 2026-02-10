@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>About SREC</strong></h4>
-<p>NHG co-organised the <strong>Singapore Research Ethics Conference (SREC)</strong> in
+<p>NHG Health co-organised the <strong>Singapore Research Ethics Conference (SREC)</strong> in
 collaboration with NUS and SingHealth in 2018, 2021 and 2024.</p>
 <p>Through this joint event to share knowledge and best practices in Research
 Ethics &amp; Integrity, Human Subject Protection and Regulations for Human
@@ -18,7 +18,7 @@ ethics matters.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training/SREC 2024/Web_Banner_1_Save_the_Date.jpg">
 </div>
 <p>The Singapore Research Ethics Conference, to be held virtually on <strong>23 - 25 October 2024</strong>,
-is jointly organised by the <strong>National Healthcare Group (NHG)</strong>, <strong>National University of Singapore (NUS)</strong> and <strong>Singapore Health Services (SingHealth)</strong>.</p>
+is jointly organised by the <strong>NHG Health</strong>, <strong>National University of Singapore (NUS)</strong> and <strong>Singapore Health Services (SingHealth)</strong>.</p>
 <p>This year’s theme on "<strong>Navigating the Ethical and Regulatory Challenges with Technological Advances in Research</strong>",
 aims to discuss a wide variety of hot topics relevant to human subject
 research and to build consensus in key areas of research ethics by promoting
