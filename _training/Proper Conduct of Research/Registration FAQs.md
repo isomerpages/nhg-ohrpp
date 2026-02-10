@@ -18,7 +18,9 @@ event that you had registered for.</p>
 a arrange for a one-for-one substitution, and relevant justifications.</p>
 <p><strong>Course Withdrawal</strong>
 <br>Refer to chart below for the respective refund amounts:</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training/withdrawal.jpg">
+</div>
 <p></p>
 <p>No-Shows’ will not qualify for refunds and the Institution or participants
 whom has registered and provided the information prior remains liable for
@@ -43,15 +45,13 @@ right to cancel the course and will fully refund all paid fees.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>I have attended a course. Would I receive a Certificate of Attendance?</strong>
+<summary><strong>I have attended a course. Would I receive a Certificate of Completion?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Below are the minimum requirements to obtain the E-Certificate of Attendance
-/ Achievement respectively.</p>
-<p></p>
-<p></p>
-<p>The e-certificates would be sent to you via email after course completion.</p>
-<p>&nbsp;</p>
+<p>You will receive your e-Certificate of Completion upon successful completion
+of the following components:</p>
+<p>1. Completed the Online Quiz/Assessment (≥ 75% Passing Score)</p>
+<p>2. Completed the Online Evaluation Form</p>
 <p>All requests for re-issuance of e-certificates for courses that were conducted
 more than 1 year before the date of request, would be dependent on the
 availability of proof of record and subject to approval and an administrative
@@ -121,11 +121,16 @@ Health Residency Programme.</p>
 <summary><strong>I have registered for the event but did not receive any confirmation. What should I do?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>For Proper Conduct of Research courses:</strong>
+</p>
 <p>Please email <a href="mailto:nhggroup.research.courseadmin@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.courseadmin@nhghealth.com.sg</a> with
 your name, contact number, institution and the full title of the event
 that you had registered for.</p>
-<p></p>
+<p><strong>For all other training courses:</strong>
+</p>
+<p>Please email <a href="mailto:nhggroup.researchtraining@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.researchtraining@nhghealth.com.sg</a> with
+your name, contact number, institution and the full title of the event
+that you had registered for.</p>
 <p></p>
 </div>
 </details>

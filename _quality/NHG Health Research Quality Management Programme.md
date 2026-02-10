@@ -1,5 +1,5 @@
 ---
-title: NHG Research Quality Management Programme
+title: NHG Health Research Quality Management Programme
 permalink: /research-quality/
 variant: tiptap
 description: ""

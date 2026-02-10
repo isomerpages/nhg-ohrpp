@@ -8,8 +8,9 @@ third_nav_title: Proper Conduct of Research
 <h4><strong>Proper Conduct of Research (PCR) Course</strong></h4>
 <p>The Proper Conduct of Research (PCR)<strong> </strong>Standard Operating
 Procedures, known as the PCR-SOPs, are a set of guidelines developed by
-the NHG Group Research &amp; Innovation&nbsp;to provide detailed procedures
-on conducting research in accordance with applicable guidelines and regulations.
+the NHG Health Group Research &amp; Innovation&nbsp;to provide detailed
+procedures on conducting research in accordance with applicable guidelines
+and regulations.
 <br>
 <br>The <strong>Proper Conduct of Research (PCR) Course</strong> seeks to equip
 Clinical Research professionals with the knowledge and skills in the proper
@@ -81,8 +82,8 @@ products in accordance with Good Clinical Practice principles.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In this online module, participants will learn about the general principles
 involved in budgeting, design and use of a case report form, database design
-and have an overview understanding of how REDCap is used in NHG to aid
-in data analysis and capture in research.</p>
+and have an overview understanding of how REDCap is used in NHG Health
+to aid in data analysis and capture in research.</p>
 <p></p>
 <p><a href="/pcr-003/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
 <p></p>

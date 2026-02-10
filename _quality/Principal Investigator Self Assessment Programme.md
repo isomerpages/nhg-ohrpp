@@ -19,7 +19,7 @@ by the NHG Health RQM Unit.</p>
 <p>Download the <a href="/files/Quality/PISAF_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">PISAF FAQs here</a>.</p>
 </li>
 <li>
-<p>Download the <a href="https://for.sg/rqm-pisaf-form" rel="noopener nofollow" target="_blank">PI Self-Assessment Form (PISAF) here</a>.</p>
+<p>Download the <a href="/files/Quality/504_007_RQM_PI_SAF_Final_V6_0_04Feb26_Clean_.pdf" rel="noopener nofollow" target="_blank">PI Self-Assessment Form (PISAF) here</a>.</p>
 </li>
 </ul>
 <p></p>

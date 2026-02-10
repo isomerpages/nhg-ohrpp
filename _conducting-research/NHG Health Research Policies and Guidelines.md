@@ -1,5 +1,5 @@
 ---
-title: NHG Research Policies and Guidelines
+title: NHG Health Research Policies and Guidelines
 permalink: /nhg-research-policies/
 variant: tiptap
 description: ""

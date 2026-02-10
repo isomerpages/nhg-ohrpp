@@ -27,7 +27,7 @@ notification through the NHG Health Group Research.</p>
 <h4><strong>Contact Information</strong></h4>
 <p>For claims notification or any further clarifications on the National
 CT Insurance, please contact the following:</p>
-<p>NHG Health Group Research Office&nbsp;&nbsp;
+<p>NHG Health Group Research and Innovation (GRI) Office&nbsp;&nbsp;
 <br>Name: Ms Zhang JingYang
 <br>Email: <a href="mailto:jingyang.zhang@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">jingyang.zhang@nhghealth.com.sg</a>
 </p>
