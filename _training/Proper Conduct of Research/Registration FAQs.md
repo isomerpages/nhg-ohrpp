@@ -121,11 +121,16 @@ Health Residency Programme.</p>
 <summary><strong>I have registered for the event but did not receive any confirmation. What should I do?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>For Proper Conduct of Research courses:</strong>
+</p>
 <p>Please email <a href="mailto:nhggroup.research.courseadmin@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.courseadmin@nhghealth.com.sg</a> with
 your name, contact number, institution and the full title of the event
 that you had registered for.</p>
-<p></p>
+<p><strong>For all other training courses:</strong>
+</p>
+<p>Please email <a href="mailto:nhggroup.researchtraining@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.researchtraining@nhghealth.com.sg</a> with
+your name, contact number, institution and the full title of the event
+that you had registered for.</p>
 <p></p>
 </div>
 </details>
