@@ -14,8 +14,6 @@ centres, and community-based ambulatory care centres.</p>
 towards building healthier and resilient communities, and Adding Years
 of Healthy Life to the people we serve.​</p>
 <p>Learn more about the <strong><a href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx" rel="noopener nofollow" target="_blank"><u>NHG Health</u></a></strong> here.</p>
-<p></p><a class="isomer-image-wrapper" href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/GRI/NHG_Insts_Logo.png"></a>
-<p></p>
 <h4><strong>NHG Health Group Research &amp; Innovation</strong></h4>
 <p>At NHG Health, we believe that <strong>Research </strong>and <strong>Innovation </strong>are
 at the heart of <strong>advancing healthcare</strong>.</p>
