@@ -18,7 +18,9 @@ event that you had registered for.</p>
 a arrange for a one-for-one substitution, and relevant justifications.</p>
 <p><strong>Course Withdrawal</strong>
 <br>Refer to chart below for the respective refund amounts:</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training/withdrawal.jpg">
+</div>
 <p></p>
 <p>No-Shows’ will not qualify for refunds and the Institution or participants
 whom has registered and provided the information prior remains liable for
