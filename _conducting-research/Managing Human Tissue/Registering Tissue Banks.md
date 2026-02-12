@@ -54,6 +54,21 @@ HBM and intends to store or use them for future research from 01 November
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Tissue%20Review%20(1700)/1704-05%20Informed%20Consent%20Form%20for%20Donation%20of%20Biological%20Material.docx?d=w28e6f1299f9446969e885f2c528d2d5a&amp;csf=1&amp;web=1&amp;e=qXS2Tj" rel="noopener nofollow" target="_blank">Informed Consent Form for Donation of Biological Material Template</a>
+</p>
+<p></p>
+</li>
+<li>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Tissue%20Review%20(1700)/1704-15%20(Optional)%20Donation%20of%20Leftover%20Biological%20Samples.docx?d=w6ec0c1f0897043b4a04dd946b5bed384&amp;csf=1&amp;web=1&amp;e=bqWCOO" rel="noopener nofollow" target="_blank">Optional Consent Form for the Donation of Leftover Biological Samples Template</a>
+</p>
+<p></p>
+</li>
+<li>
+<p><a href="https://healthsg.sharepoint.com/:f:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Tissue%20Review%20(1700)?csf=1&amp;web=1&amp;e=OsBLcX" rel="noopener nofollow" target="_blank">Other Informed Consent Form Templates</a>
+</p>
+<p></p>
+</li>
+<li>
 <p><a href="https://healthsg.sharepoint.com/:f:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Tissue%20Review%20(1700)?csf=1&amp;web=1&amp;e=8cGFV1" rel="noopener noreferrer nofollow" target="_blank"><u>Other&nbsp;Supplementary&nbsp;Forms*</u></a>&nbsp;
 <br>For reporting of Non-compliances, Amendments, Continuing Reviews, Serious
 Adverse Events (SAEs), &amp; Untoward Occurrences</p>
