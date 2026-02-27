@@ -27,7 +27,7 @@ conduct for Investigators, Researchers &amp; Study Administrators.</p>
 above NHG Health Investigator’s Manual which are of interest.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_Ed_Cover_and_Foreword_Clean_January_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Cover &amp; Foreword</a>
+<p><a href="/files/Investigator Manual/IM_5th_Ed_Cover_and_Foreword_February_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Cover &amp; Foreword</a>
 </p>
 </li>
 <li>
