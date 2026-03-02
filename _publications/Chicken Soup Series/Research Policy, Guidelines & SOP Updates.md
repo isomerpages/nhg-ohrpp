@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/ResearchPolicySOPUpdates/feb26_rcr_conflict_of_interest.pdf" rel="noopener noreferrer nofollow" target="_blank">(Feb 2026) Responsible Conduct of Research (RCR) – Conflict of Interest</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/ResearchPolicySOPUpdates/dec25_ich_e6_r3_gcp_guideline.pdf" rel="noopener noreferrer nofollow" target="_blank">(Dec 2025) Highlights from ICH E6 (R3) GCP Guideline</a>
 </p>
 </li>
