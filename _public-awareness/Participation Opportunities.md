@@ -52,10 +52,10 @@ the clinical research units/centres for more information:
 </p>
 <p>&nbsp;&nbsp;&nbsp; For Healthy Volunteer studies:</p>
 <p>&nbsp;&nbsp;&nbsp; Investigational Medicine Unit
-<br>&nbsp;&nbsp;&nbsp; Contact Number: 6601 2471 / 6601 2472
+<br>&nbsp;&nbsp;&nbsp; Email Address: <a href="mailto:imu@nuhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">imu@nuhs.edu.sg</a>
 <br>
 <br>&nbsp;&nbsp;&nbsp; For all other studies:
-<br>&nbsp;&nbsp;&nbsp; NUHS Research Office
+<br>&nbsp;&nbsp;&nbsp; NUHS Research and Innovation Office
 <br>&nbsp;&nbsp;&nbsp; Contact Number: 6772 3710 /6772 3716
 <br>&nbsp;&nbsp;&nbsp; Email Address: <a href="mailto:clinical_research@nuhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clinical_research@nuhs.edu.sg</a>
 </p>
