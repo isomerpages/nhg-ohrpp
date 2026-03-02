@@ -80,14 +80,6 @@ to facilitate research conduct operating on high ethical standards.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/OHRPP Post Its (Non NHG)/issue_37_feb26_ohrpp_post_its.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 37 (Feb 2026)</a>
-<a href="/files/OHRPP Post Its (Non NHG)/issue36_Nov_25_Non_NHG.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 36 (Nov 2025)</a>
-</p>
-</div>
-</details>
 <p><a href="/files/OHRPP Post Its (Non NHG)/issue_35_sep_25_ohrpp_post_its.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 35 (Sep 2025)</a>
 </p>
 <p><a href="/files/OHRPP Post Its (Non NHG)/issue_34_may_2025_ohrpp_post_its.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 34 (May 2025)</a>
