@@ -12,11 +12,11 @@ SOPs, training events, educational resources and research tools from OHRPP
 to facilitate research conduct operating on high ethical standards.</p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2036_OHRPP%20POST-ITS_NHG_Health_Nov25.pdf?csf=1&amp;web=1&amp;e=WoubbN" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Current Issue for NHG Staff *</div><div class="isomer-card-link">Issue 36 (Nov 2025)</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/issue36_Nov_25_Non_NHG.pdf" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/issue_37_feb26_ohrpp_post_its" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Current Issue for NHG Staff *</div><div class="isomer-card-link">Issue 37 (Feb 2026)</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/issue_37_feb26_ohrpp_post_its" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Current Issue for Non-NHG readers</div>
-<div class="isomer-card-link">Issue 36 (Nov 2025)</div>
+<div class="isomer-card-link">Issue 37 (Feb 2026)</div>
 </div>
 </a>
 </div>
@@ -31,6 +31,8 @@ to facilitate research conduct operating on high ethical standards.</p>
 <p></p>
 <p>(Restricted: NHG Intranet access required)</p>
 <p></p>
+<p><a href="/files/OHRPP Post Its (Non NHG)/issue_37_feb26_ohrpp_post_its.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 37 (Feb 2026)</a>
+</p>
 <p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2036_OHRPP%20POST-ITS_NHG_Health_Nov25.pdf?csf=1&amp;web=1&amp;e=WoubbN" rel="noopener noreferrer nofollow" target="_blank">Issue 36 (Nov 2025)</a>
 </p>
 <p><a href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/issue_35_sep_25_ohrpp_post_its.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 35 (Sep 2025)</a>
@@ -78,6 +80,8 @@ to facilitate research conduct operating on high ethical standards.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><a href="/files/OHRPP Post Its (Non NHG)/issue_37_feb26_ohrpp_post_its.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 37 (Feb 2026)</a>
+</p>
 <p><a href="/files/OHRPP Post Its (Non NHG)/issue36_Nov_25_Non_NHG.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 36 (Nov 2025)</a>
 </p>
 <p><a href="/files/OHRPP Post Its (Non NHG)/issue_35_sep_25_ohrpp_post_its.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 35 (Sep 2025)</a>
