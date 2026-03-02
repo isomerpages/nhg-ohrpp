@@ -23,9 +23,9 @@ system. The following OHRPP courses will be impacted:</p>
 </p>
 </li>
 </ol>
-<p><strong>The above courses will be available in the new learning management system from 23 February 2026.</strong>
+<p><strong>The above courses will be available in the new learning management system from 23 March 2026.</strong>
 </p>
-<p><strong>[Actions Required] By 23 February 2026:</strong>
+<p><strong>[Actions Required] By 23 March 2026:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -35,16 +35,17 @@ system. The following OHRPP courses will be impacted:</p>
 <p>Complete outstanding courses</p>
 </li>
 </ul>
-<p>After 23 February 2026, the current system will be inaccessible, and certificates
+<p>After 23 March 2026, the current system will be inaccessible, and certificates
 cannot be downloaded. Incomplete courses must be restarted in the new system.</p>
 <p><strong>NOTE: </strong>Please ensure your research staff complete all
-required trainings and download training records by 23 February 2026. Additionally,
+required trainings and download training records by 23 March 2026. Additionally,
 please watch for further information regarding the new learning management
 system from the NHG Group eLearn administrator.</p>
 <p>For assistance or enquiries, please contact the NHG Group eLEARN (Group)
 Administrator at <a href="mailto:nhggroup.elearn@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.elearn@nhghealth.com.sg</a>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announce n Events/pic2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lens2.png">
 </div>
-<p>Image adapted from NHG Group eLearn administrator email (sent on 19 Nov
-25).</p>
+<p>Image adapted from NHG Group eLearn administrator email (sent on 13 Feb
+26).</p>
