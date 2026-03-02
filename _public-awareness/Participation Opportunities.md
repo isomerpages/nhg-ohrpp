@@ -23,8 +23,8 @@ the clinical research units/centres for more information:
 <br>&nbsp;&nbsp;&nbsp; Email Address: <a href="mailto:mychin@nsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mychin@nsc.gov.sg</a>
 <br>
 <br><strong>4. Tan Tock Seng Hospital</strong>
-<br>&nbsp;&nbsp;&nbsp; Clinical Research Unit
-<br>&nbsp;&nbsp;&nbsp; Contact Number: 6357 8390 / 6357 8359
+<br>&nbsp;&nbsp;&nbsp; TTSH Clinical Trial Unit
+<br>&nbsp;&nbsp;&nbsp; Email Address: <a href="mailto:ttsh.ClinicalTrial@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">ttsh.ClinicalTrial@nhghealth.com.sg</a>
 <br>
 <br>
 <br><strong>Partner Institutions:</strong>
