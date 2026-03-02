@@ -56,6 +56,6 @@ the clinical research units/centres for more information:
 <br>
 <br>&nbsp;&nbsp;&nbsp; For all other studies:
 <br>&nbsp;&nbsp;&nbsp; NUHS Research and Innovation Office
-<br>&nbsp;&nbsp;&nbsp; Contact Number: 6772 3710 /6772 3716
 <br>&nbsp;&nbsp;&nbsp; Email Address: <a href="mailto:clinical_research@nuhs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clinical_research@nuhs.edu.sg</a>
 </p>
+<p></p>
