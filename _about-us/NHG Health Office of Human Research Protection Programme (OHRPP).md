@@ -52,7 +52,7 @@ offering resources and information sessions.</p>
 </p>
 </li>
 <li>
-<p><a href="/po/" rel="noopener nofollow" target="_blank">Partnership &amp; Outreach (P&amp;O)</a>
+<p><a href="https://ethics.gri.nhg.com.sg/partnerships/" rel="noopener nofollow" target="_blank">Partnership &amp; Outreach (P&amp;O).</a>
 </p>
 </li>
 <li>
