@@ -43,7 +43,7 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_3_The_Study_Team_01Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 3 -&nbsp;The Study Team</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_3_The_Study_Team_1Sep25.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 3 -&nbsp;The Study Team</a>
 </p>
 </li>
 <li>
