@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>About the NHG Health Monitoring Programme</strong></h4>
-<p>&nbsp;&nbsp;</p>
 <p><strong>CLINICAL TRIALS INVOLVING THERAPEUTIC PRODUCTS, CELL AND GENE THERAPY AND/ OR COMPLEMENTARY HEALTH PRODUCTS REGULATED BY THE HEALTH SCIENCES AUTHORITY (HSA)</strong>
 <br>
 <br>Monitoring is a function that is mandated by ICH-GCP for the conduct of
