@@ -16,7 +16,6 @@ of the Sponsor to establish a thorough monitoring system.
 <br>
 <br>For <strong>Principal Investigator (PI)-Initiated</strong> Clinical Trials,
 the monitoring function is usually performed by the Institution/Investigator.</p>
-<p>&nbsp;</p>
 <p><strong>HUMAN BIOMEDICAL RESEARCH (HBR) STUDIES REGULATED BY THE MINISTRY OF HEALTH (MOH)</strong>
 </p>
 <p>Under the Human Biomedical Research Act (HBRA), part 5, section 23(2),
