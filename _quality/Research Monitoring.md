@@ -6,14 +6,11 @@ description: ""
 ---
 <h4><strong>About the NHG Health Monitoring Programme</strong></h4>
 <p><strong>CLINICAL TRIALS INVOLVING THERAPEUTIC PRODUCTS, CELL AND GENE THERAPY AND/ OR COMPLEMENTARY HEALTH PRODUCTS REGULATED BY THE HEALTH SCIENCES AUTHORITY (HSA)</strong>
-<br>
 <br>Monitoring is a function that is mandated by ICH-GCP for the conduct of
 Clinical Trials that are regulated by the Health Sciences Authority (HSA)
 under the Health Products Act and Medicines Act.
-<br>
 <br>For <strong>Industry-Sponsored</strong> Clinical Trials, it is the responsibility
 of the Sponsor to establish a thorough monitoring system.
-<br>
 <br>For <strong>Principal Investigator (PI)-Initiated</strong> Clinical Trials,
 the monitoring function is usually performed by the Institution/Investigator.</p>
 <p><strong>HUMAN BIOMEDICAL RESEARCH (HBR) STUDIES REGULATED BY THE MINISTRY OF HEALTH (MOH)</strong>
