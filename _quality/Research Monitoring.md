@@ -38,12 +38,20 @@ to:</p>
 policies and guidelines</p>
 </li>
 </ul>
-<p>The NHG Health Monitoring Programme focuses on PI-Initiated studies conducted
-in NHG Health institutions. The extent of monitoring depends on the nature
-and risks of the study and the experience of the PI.</p>
+<p>The NHG Health Monitoring Programme focuses on <strong>PI-Initiated</strong> studies
+conducted in NHG Health institutions. The extent of monitoring depends
+on the nature and risks of the study and the experience of the PI.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="/files/Quality/NHG_Monitoring_Programme_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Health Monitoring Programme FAQs here</a>.</p>
+<p>Download the <a href="/files/Quality/NHG_Monitoring_Programme_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Health Monitoring Programme FAQs here</a>
+</p>
 </li>
 </ul>
+<p>For <strong>Industry-Sponsored</strong> HBR studies conducted in NHG Health
+Institutions, Industry Sponsors must ensure there is adequate monitoring
+on appropriate informed consent processes, check on data integrity and
+maintain contemporary IRB approval.</p>
+<p>&nbsp;</p>
+<p>•&nbsp; Download the <a href="/files/Quality/Industry_HBR_Study_Monitoring_Checklist_Ver1_0_2Mar26.pdf" rel="noopener noreferrer nofollow" target="_blank">Industry-Sponsored HBR Study Monitoring Oversight Checklist here</a>
+</p>
 <p></p>
