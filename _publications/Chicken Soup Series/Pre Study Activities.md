@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/PreStudyActivities/mar26_ensuring_ethical_compliantstudystartup&amp;initiation.pdf" rel="noopener noreferrer nofollow" target="_blank">(Mar 2026) Ensuring Ethical &amp; Compliant Study Start-Up &amp; Initiation</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/PreStudyActivities/Sep_21__How_to_conduct_and_document_E_SIV.pdf" rel="noopener noreferrer nofollow" target="_blank">(Sep 2021) How to conduct and document E-SIV</a>
 </p>
 </li>
