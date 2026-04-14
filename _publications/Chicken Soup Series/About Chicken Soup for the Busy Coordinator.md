@@ -20,20 +20,20 @@ for you!</p>
 <p></p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ResearchPolicySOPUpdates/feb26_rcr_conflict_of_interest.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Feb 2026: Responsible Conduct of Research (RCR) – Conflict of Interest</div><div class="isomer-card-description">Read more about conflict of interests in research, to ensure responsible conduct.</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken Soup/DataCollectionSourceDocs/jan_26_protecting_research_and_participant_data.pdf" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/PreStudyActivities/mar26_ensuring_ethical_compliantstudystartup&amp;initiation.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mar 2026: Ensuring Ethical &amp; Compliant Study Start-Up &amp; Initiation</div><div class="isomer-card-description">Understand the importance of ensuring proper initiation of your research through this scenario where Dr Ace needs to fast-track study initiation.</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ResearchPolicySOPUpdates/feb26_rcr_conflict_of_interest.pdf" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Jan 2026: Protecting Research and Participant Data: Best Practices</div>
-<div class="isomer-card-description">Find out how best to protect research and participant data.</div>
+<div class="isomer-card-title">Feb 2026: Responsible Conduct of Research (RCR) – Conflict of Interest</div>
+<div class="isomer-card-description">Read more about conflict of interests in research, to ensure responsible
+conduct.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ResearchPolicySOPUpdates/dec25_ich_e6_r3_gcp_guideline.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Dec 2025: Highlights from ICH E6 (R3) GCP Guideline</div><div class="isomer-card-description">Learn more about the changes to ICH E6 (R3) GCP Guidelines here! Effective from 1 Jan 2026.</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/UPIRTSO/nov25_how _to_identify_upirtso.pdf" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken Soup/DataCollectionSourceDocs/jan_26_protecting_research_and_participant_data.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jan 2026: Protecting Research and Participant Data: Best Practices</div><div class="isomer-card-description">Find out how best to protect research and participant data.</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ResearchPolicySOPUpdates/dec25_ich_e6_r3_gcp_guideline.pdf" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Nov 2025: Identifying and Reporting Unanticipated Problems Involving Risks
-To Subjects or Others (UPIRTSO)</div>
-<div class="isomer-card-description">Understand how to identify UPIRTSO based on the 3 key criteria and UPIRTSO
-reporting requirements.</div>
+<div class="isomer-card-title">Dec 2025: Highlights from ICH E6 (R3) GCP Guideline</div>
+<div class="isomer-card-description">Learn more about the changes to ICH E6 (R3) GCP Guidelines here! Effective
+from 1 Jan 2026.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a>
