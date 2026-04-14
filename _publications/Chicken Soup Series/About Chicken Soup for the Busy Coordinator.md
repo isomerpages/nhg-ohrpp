@@ -20,7 +20,7 @@ for you!</p>
 <p></p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/PreStudyActivities/mar26_ensuring_ethical_compliantstudystartup&amp;initiation.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mar 2026: Ensuring Ethical &amp; Compliant Study Start-Up &amp; Initiation</div><div class="isomer-card-description">Understand the importance of ensuring proper initiation of your research through this scenario where Dr Ace needs to fast-track study initiation. </div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/PreStudyActivities/mar26_ensuring_ethical_compliantstudystartup&amp;initiation.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mar 2026: Ensuring Ethical &amp; Compliant Study Start-Up &amp; Initiation</div><div class="isomer-card-description">Understand the importance of ensuring proper initiation of your research through this scenario where Dr Ace needs to fast-track study initiation.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/ResearchPolicySOPUpdates/feb26_rcr_conflict_of_interest.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Feb 2026: Responsible Conduct of Research (RCR) – Conflict of Interest</div>
