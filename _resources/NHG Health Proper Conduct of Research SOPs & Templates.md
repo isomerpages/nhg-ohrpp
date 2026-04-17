@@ -307,6 +307,10 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </div>
 </details>
 </div>
+<p></p>
+<h4><strong>Pocket Guides</strong></h4>
+<p><strong>These pocket guides provide quick reference for research conduct within NHG Health, derived from NHG Health PCR SOPs. They offer NHG Health-specific guidance and should be used alongside official guidelines, regulations and institutional policies.</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Pocket Guides</strong>
@@ -329,6 +333,9 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
