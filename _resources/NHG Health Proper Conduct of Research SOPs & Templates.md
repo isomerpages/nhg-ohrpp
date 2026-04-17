@@ -307,8 +307,28 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Pocket Guides</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/PCR/01_Your_Pocket_Guide_Informed_Consent_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">01. Informed Consent Cheat Sheet</a>
+</p>
+</li>
+<li>
+<p><a href="/files/PCR/02_Your_Pocket_Guide_Informed_Consent_Essentials.pdf" rel="noopener noreferrer nofollow" target="_blank">02. Informed Consent Essentials</a>
+</p>
+</li>
+<li>
+<p><a href="/files/PCR/03_Your_Pocket_Guide_Study_Documentation.pdf" rel="noopener noreferrer nofollow" target="_blank">03. Study Documentation</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
