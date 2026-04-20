@@ -20,7 +20,7 @@ experts to share their knowledge and insights.</p>
 are available for download below:</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CRCS Forum (6 Feb 2026) <sup><sub>N</sub></sup><em><sup><sub>ew!</sub></sup></em></strong>
+<summary><strong>CRCS Forum (6 Feb 2026) <sup>N</sup><em><sup>ew!</sup></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
