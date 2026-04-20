@@ -20,14 +20,13 @@ initiatives.</p>
 are available for download below:</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong><em>(new)</em> CRCS Forum (6 Feb 2026)</strong>
+<summary><strong>CRCS Forum (6 Feb 2026) <sup><sub>N</sub></sup><em><sup><sub>ew!</sub></sup></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://asia-southeast1-menlo-inspect.menlosecurity.com/safeview-fileserv/tc_download/36082d5b1d64806f1538e30f5cf4f889a635552b6aa43c4ea659481e82e5c3f6/?&amp;cid=NC1A7DF39B0E4&amp;rid=9e269db880a3fad194dd38919a1c91f9&amp;cl=od_menlo_2b&amp;file_url=https%3A%2F%2Fwww.hsa.gov.sg%2Fdocs%2Fdefault-source%2Fhprg-io-ctb%2Fslides-gcp%2Flooking-back-at-2025_6feb2026.pdf%3Fsfvrsn%3D9e1b1f26_9&amp;type=original" rel="noopener nofollow" target="_blank">Looking Back at 2025</a>
-</p>
-<p>By Sumitra Sachidanandan, Regulatory Consultant - GCP Unit
+<p><a href="https://ddei5-0-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.hsa.gov.sg%2fdocs%2fdefault%2dsource%2fhprg%2dio%2dctb%2fslides%2dgcp%2flooking%2dback%2dat%2d2025%5f6feb2026.pdf%3fsfvrsn%3d9e1b1f26%5f9&amp;umid=BD360D67-4B2A-E006-AB13-CA58DFBDACE6&amp;auth=47c05c838325d75a419a880435ac0d2beef06415-bdcb0fed365c9512d4195cb325a9a360e7d7d7bc" rel="noopener nofollow" target="_blank">Looking Back at 2025</a>
+<br>By Sumitra Sachidanandan, Regulatory Consultant - GCP Unit
 <br>Innovation Office &amp; Clinical Trials Branch
 <br>Health Products Regulation Group
 <br>Health Sciences Authority Singapore</p>
