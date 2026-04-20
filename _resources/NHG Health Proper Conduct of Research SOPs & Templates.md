@@ -29,6 +29,10 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 <p><a href="/files/PCR/PCR_SOP_Key_updates_Final06Nov2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes 06-Nov-2025</a>
 </p>
 </li>
+<li>
+<p><a href="/files/PCR/PCR_SOP_Key_updates_Final20Apr2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes 20-Apr-2026</a>
+</p>
+</li>
 </ul>
 <p></p>
 <h4><strong>PCR SOPs &amp; Templates</strong></h4>
