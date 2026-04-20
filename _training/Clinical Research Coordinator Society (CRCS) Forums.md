@@ -223,6 +223,10 @@ Office, National Healthcare Group (NHG)</p>
 </details>
 </div>
 <p></p>
-<p></p>
+<h4>Join Our Mailing List</h4>
+<p>Fill up this form via <a href="https://form.gov.sg/66e0e6304cccbc8d09706c68" rel="noopener noreferrer nofollow" target="_blank">FormSG</a> to receive
+research related newsletters, training/events information.</p>
+<p>Contact information
+<br>For any enquiries, please contact&nbsp;<a href="mailto:nhggroup.research.education@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.education@nhghealth.com.sg</a>.</p>
 <p></p>
 <p></p>
