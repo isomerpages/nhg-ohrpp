@@ -29,6 +29,10 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 <p><a href="/files/PCR/PCR_SOP_Key_updates_Final06Nov2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes 06-Nov-2025</a>
 </p>
 </li>
+<li>
+<p><a href="/files/PCR/PCR_SOP_Key_updates_Final20Apr2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Changes 20-Apr-2026</a>
+</p>
+</li>
 </ul>
 <p></p>
 <h4><strong>PCR SOPs &amp; Templates</strong></h4>
@@ -83,7 +87,7 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </p>
 </li>
 <li>
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B08%20Data%20Collection%20and%20Handling.pdf?csf=1&amp;web=1&amp;e=B9gJ5A" rel="noopener noreferrer nofollow" target="_blank"><u>501-B08:&nbsp;Data&nbsp;Collection&nbsp;and&nbsp;Handling&nbsp;(Effective&nbsp;10-Nov-2023)</u></a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/501-B08%20Data%20Collection%20and%20Handling.pdf?csf=1&amp;web=1&amp;e=B9gJ5A" rel="noopener noreferrer nofollow" target="_blank"><u>501-B08:&nbsp;Data&nbsp;Collection&nbsp;and&nbsp;Handling&nbsp;(Effective&nbsp;02-Jun-2026)</u></a>
 </p>
 </li>
 <li>

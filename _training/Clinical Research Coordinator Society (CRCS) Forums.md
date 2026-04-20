@@ -10,16 +10,31 @@ various public healthcare institutions in Singapore. CRCS seeks to address
 the training and educational needs for clinical research coordinators involved
 in supporting the conduct of research studies.
 <br>
-<br>As part of these educational efforts, CRCS forums are held several times
-a year, as a platform for information sharing, exchange of ideas and networking
-across the community. CRCS also collaborates with the Clinical Research
-Professional (CRP) community in Singapore in organizing these educational
-initiatives.
-<br>&nbsp;<strong>&nbsp;</strong>
-</p>
-<h4><strong>CRCS Forums</strong></h4>
+<br>As part of these educational efforts, CRCS forums are held once a year,
+as a platform for information sharing, exchange of ideas and networking
+across the community. CRCS collaborates with partners in the research community
+and industry to organise these educational initiatives, including inviting
+experts to share their knowledge and insights.</p>
+<h4><strong>Past CRCS Forums</strong></h4>
 <p>Presentation materials (with speakers’ agreement) from past CRCS forums
 are available for download below:</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>CRCS Forum (6 Feb 2026) <sup>N</sup><em><sup>ew!</sup></em></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://ddei5-0-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fwww.hsa.gov.sg%2fdocs%2fdefault%2dsource%2fhprg%2dio%2dctb%2fslides%2dgcp%2flooking%2dback%2dat%2d2025%5f6feb2026.pdf%3fsfvrsn%3d9e1b1f26%5f9&amp;umid=BD360D67-4B2A-E006-AB13-CA58DFBDACE6&amp;auth=47c05c838325d75a419a880435ac0d2beef06415-bdcb0fed365c9512d4195cb325a9a360e7d7d7bc" rel="noopener nofollow" target="_blank">Looking Back at 2025</a>
+<br>By Sumitra Sachidanandan, Regulatory Consultant - GCP Unit
+<br>Innovation Office &amp; Clinical Trials Branch
+<br>Health Products Regulation Group
+<br>Health Sciences Authority Singapore</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>SCRI-NHG CRC Appreciation Day 2025 (21 Feb 2025)</strong>
@@ -37,8 +52,6 @@ are available for download below:</p>
 </div>
 </details>
 </div>
-<p></p>
-<h4><strong>Past CRCS Forums</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>CRCS Forum (26 Jan 2024)</strong>
@@ -121,97 +134,10 @@ Innovation</p>
 </div>
 </details>
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>CRCS-CRP Forum (3 Dec 2019)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://www.hsa.gov.sg/docs/default-source/hprg-io-ctb/looking-back-at-2019-(crcs_3dec2019).pdf?sfvrsn=a19a028c_2)" rel="noopener noreferrer nofollow" target="_blank"><u>Looking back at 2019</u></a></strong>
-<br>Ms. Sumitra Sachidanandan, Regulatory Consultant – GCP Unit
-<br>Innovation Office &amp; Clinical Trials Branch,
-<br>Medicinal Products Pre-market Cluster,
-<br>Health Products Regulation Group,
-<br>Health Sciences Authority</p>
-<p></p>
-</li>
-<li>
-<p><strong><a href="https://www.research.nhg.com.sg/wps/wcm/connect/7dfb242b-df5c-4e7e-86ed-4e345806a1ed/CRC+forum+2019+Consent+requirements.pdf?MOD=AJPERES&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb&amp;CVID=nfxGqEb" rel="noopener noreferrer nofollow" target="_blank"><u>Requirement of Appropriate Consent for Conduct of Human Biomedical Research and Handling of Human Tissue</u></a></strong>
-<br>Dr. May Thu MA
-<br>Senior Manager, Biomedical Research Regulation Branch, Regulatory Compliance
-&amp; Enforcement Division, Health Regulation Group, Ministry of Health</p>
-<p></p>
-</li>
-</ul>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>CRCS-CRP Forum (07 Dec 2018)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://ethics.gri.nhg.com.sg/files/Training%20Files/CRCS%20Forum%202018/Looking_back_at_2018_7_Dec_2018.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Looking back at 2018</u></a></strong>
-<br>Ms Sumitra Sachidanandan
-<br>Regulatory Consultants - GCP Unit, Innovation Office &amp; Clinical Trials
-Branch, Medicinal Products Pre-market Cluster, Health Products Regulation
-Group, HSA</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://ethics.gri.nhg.com.sg/files/Training%20Files/CRCS%20Forum%202018/Post_Activation_of_Human_Biomedical_Research_Act_7_Dec_2018.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Post Activation of Human Biomedical Research Act: Compliance and Risks</u></a></strong>
-<br>Dr Yeo Jing Ping
-<br>Director, Office of Research Integrity, Compliance and Ethics, SingHealth</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://ethics.gri.nhg.com.sg/files/Training%20Files/CRCS%20Forum%202018/Monitoring_Programme_for_Human_Biomedical_Research_Studies_7_Dec_2018.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Monitoring Programme for Human Biomedical Research Studies</u></a></strong>
-<br>Ms Jaslin Tan Shen Fong
-<br>Senior Executive, Research Quality Management Unit, Research &amp; Development
-Office, National Healthcare Group (NHG)</p>
-</li>
-</ul>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>CRCS-CRP Forum (14 Sep 2018)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://ethics.gri.nhg.com.sg/files/Training%20Files/CRCS%20Forum%202018/Developing_Sound_Communication_And_Interpersonal_Skills_14_Sep_2018.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CRCs/CRPs and CIS: Developing Sound Communication and Interpersonal Skills (CIS) Is Essential for Success</u></a></strong>
-<br>Dr Aamir Shaikh, MD, DPBM
-<br>Founder, Health Care Consultant, Assansa</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://ethics.gri.nhg.com.sg/files/Training%20Files/CRCS%20Forum%202018/Conflict_Management_14_Sep_2018.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Conflict Management / Problem Solving</u></a></strong>
-<br>Mr Nelson Wong
-<br>Founder &amp; Director, CSI Medical Research</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://ethics.gri.nhg.com.sg/files/Training%20Files/CRCS%20Forum%202018/Why_Service_Excellence_Matters_14_Sep_2018.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Why Service Excellence Matters and How to EXC3ITE (Execute) It?</u></a></strong>
-<br>Mr Chan Peng, Tech Observer Asia Pacific</p>
-</li>
-</ul>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
+<h4>Join Our Mailing List</h4>
+<p>Fill up this form via <a href="https://form.gov.sg/66e0e6304cccbc8d09706c68" rel="noopener noreferrer nofollow" target="_blank">FormSG</a> to receive
+research related newsletters, training/events information.</p>
+<p>Contact information
+<br>For any enquiries, please contact&nbsp;<a href="mailto:nhggroup.research.education@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.research.education@nhghealth.com.sg</a>.</p>
 <p></p>
 <p></p>
