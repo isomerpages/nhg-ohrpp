@@ -10,11 +10,11 @@ various public healthcare institutions in Singapore. CRCS seeks to address
 the training and educational needs for clinical research coordinators involved
 in supporting the conduct of research studies.
 <br>
-<br>As part of these educational efforts, CRCS forums are held several times
-a year, as a platform for information sharing, exchange of ideas and networking
-across the community. CRCS also collaborates with the Clinical Research
-Professional (CRP) community in Singapore in organizing these educational
-initiatives.</p>
+<br>As part of these educational efforts, CRCS forums are held once a year,
+as a platform for information sharing, exchange of ideas and networking
+across the community. CRCS collaborates with partners in the research community
+and industry to organise these educational initiatives, including inviting
+experts to share their knowledge and insights.</p>
 <h4><strong>Past CRCS Forums</strong></h4>
 <p>Presentation materials (with speakers’ agreement) from past CRCS forums
 are available for download below:</p>
