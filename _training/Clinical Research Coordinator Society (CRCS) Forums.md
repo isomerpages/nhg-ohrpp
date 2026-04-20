@@ -23,13 +23,16 @@ are available for download below:</p>
 <summary><strong><em>(new)</em> CRCS Forum (6 Feb 2026)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://asia-southeast1-menlo-inspect.menlosecurity.com/safeview-fileserv/tc_download/36082d5b1d64806f1538e30f5cf4f889a635552b6aa43c4ea659481e82e5c3f6/?&amp;cid=NC1A7DF39B0E4&amp;rid=9e269db880a3fad194dd38919a1c91f9&amp;cl=od_menlo_2b&amp;file_url=https%3A%2F%2Fwww.hsa.gov.sg%2Fdocs%2Fdefault-source%2Fhprg-io-ctb%2Fslides-gcp%2Flooking-back-at-2025_6feb2026.pdf%3Fsfvrsn%3D9e1b1f26_9&amp;type=original" rel="noopener nofollow" target="_blank">Looking Back at 2025</a>
 </p>
-<p>By Sumitra Sachidanandan, Regulatory Consultant - GCP Unit</p>
-<p>Innovation Office &amp; Clinical Trials Branch</p>
-<p>Health Products Regulation Group</p>
-<p>Health Sciences Authority Singapore</p>
-<p></p>
+<p>By Sumitra Sachidanandan, Regulatory Consultant - GCP Unit
+<br>Innovation Office &amp; Clinical Trials Branch
+<br>Health Products Regulation Group
+<br>Health Sciences Authority Singapore</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
