@@ -71,7 +71,7 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/References_and_Suggest_Readings_and_links_Clean_January_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] References and Suggested Readings</a>
+<p><a href="/files/Investigator Manual/References_and_Suggest_Readings_and_links_Clean_January_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">References and Suggested Readings</a>
 </p>
 </li>
 </ul>
