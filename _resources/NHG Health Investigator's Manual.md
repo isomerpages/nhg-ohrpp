@@ -13,11 +13,11 @@ convolutions of the research maze.</p>
 requirements (especially the revised regulatory framework for clinical
 trials), ethical provisions and institutional policies governing research
 conduct for Investigators, Researchers &amp; Study Administrators.</p>
-<p><strong>Download the</strong>  <a href="/files/Investigator Manual/NHG_Health_Investigator_Manual_Edition5_27Feb26.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Health Investigator Manual – All That an Investigator Needs to Know (5<sup>th</sup> Edition)</a>  <strong>here</strong>.</p>
+<p><strong>Download the</strong>  <a href="/files/Investigator Manual/NHG_Health_Investigator_Manual.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Health Investigator Manual – All That an Investigator Needs to Know (5<sup>th</sup> Edition)</a>  <strong>here</strong>.</p>
 <h4><strong>Summary of Updates</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Investigator Manual/Summary_of_Change_27Feb26.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Change (February 2026)</a>
+<p><a href="/files/Investigator Manual/Summary_of_Change_30Apr26.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary of Change (April 2026)</a>
 </p>
 </li>
 </ul>
@@ -27,15 +27,15 @@ conduct for Investigators, Researchers &amp; Study Administrators.</p>
 above NHG Health Investigator’s Manual which are of interest.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_Ed_Cover_and_Foreword_February_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Cover &amp; Foreword</a>
+<p><a href="/files/Investigator Manual/IM_5th_Ed_Cover_and_Foreword_February_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Cover &amp; Foreword</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_CONTENTS_Clean_January_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Content Page</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_CONTENTS_Clean_January_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Content Page</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_1_Research_Governance_Clean_30_Jan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 1 -&nbsp;Research Governance</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_1_Research_Governance_Clean_30_Jan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 1 -&nbsp;Research Governance</a>
 </p>
 </li>
 <li>
@@ -47,7 +47,7 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_4_Submissions_to_DSRB_27Feb26.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 4 -&nbsp;Submission to DSRB</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_4_Submissions_to_DSRB_Clean_30Apr2026.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 4 -&nbsp;Submission to DSRB</a>
 </p>
 </li>
 <li>
@@ -59,7 +59,7 @@ above NHG Health Investigator’s Manual which are of interest.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_7_Study_Conduct_Clean_28_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 7 - Study Conduct</a>
+<p><a href="/files/Investigator Manual/IM_5th_edition_Chapt_7_Study_Conduct_Clean_30Apr2026.pdf" rel="noopener noreferrer nofollow" target="_blank">[Updated] Chapter 7 - Study Conduct</a>
 </p>
 </li>
 <li>
