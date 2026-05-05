@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/StudyConduct/apr_26_missed_study_visits_and_procedures.pdf" rel="noopener noreferrer nofollow" target="_blank">(Apr 2026) Management of Research Participants' Missed Study Visits and Procedures</a>
+</p>
+</li>
+<li>
 <p><a href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyConduct/nov24_studyconduct.pdf" rel="noopener nofollow" target="_blank">(Nov 2024) Best Practices to Ensure Timely Submission to IRB for Study Continuing Review</a>
 </p>
 </li>
