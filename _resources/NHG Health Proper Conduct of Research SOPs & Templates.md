@@ -142,7 +142,7 @@ HBRA. Please familiarize yourselves with the new requirements.</p>
 </p>
 </li>
 <li>
-<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RQM/Shared%20Library/PCR%20SOP%20and%20Templates/504-007_RQM%20PI%20SAF.docx?d=w9ea833f1becb4af5a41b7a91a650afc0&amp;csf=1&amp;web=1&amp;e=Owf0FW" rel="noopener noreferrer nofollow" target="_blank"><u>504-007:&nbsp;NHG&nbsp;RQM&nbsp;PISAF&nbsp;(Effective&nbsp;30-Oct-2019)</u></a>
+<p><a href="/files/PCR/Checklist_504_007_RQM_PI_SAF_Final_V6_0_04Feb26.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>504-007:&nbsp;NHG&nbsp;RQM&nbsp;PISAF&nbsp;(Effective&nbsp;4-Feb-2026)</u></a>
 </p>
 </li>
 <li>
