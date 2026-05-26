@@ -139,6 +139,15 @@ below:</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Woodlands Hospital (WH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Sze Kee (Monitor):&nbsp;<a href="mailto:Koh.Sze.Kee1@nhghealth.com.sg" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">Koh.Sze.Kee1@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;For queries, guidance, or to report research misconduct involving
