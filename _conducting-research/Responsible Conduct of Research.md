@@ -68,9 +68,84 @@ listed above.</p>
 the suspected research misconduct) adheres to his/her institution’s policies
 and or guidelines for whistle-blowing if there is suspected research misconduct.</p>
 <p></p>
-<p>Download the <a href="/files/Resp Conduct Research Manual/RCR_Research_Misconduct_Event_Report_Form_For_Institution_Jul25.pdf" rel="noopener noreferrer nofollow" target="_blank">RCR Event/ RCR Research Misconduct Event Report Form for Institution here</a>.</p>
+<p>For queries, guidance, or to report research misconduct involving personnel
+from or occurring at our institutions, please contact the respective persons
+below:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contact</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Institute of Mental Health (IMH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:imh.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.research@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Khoo Teck Puat Hospital (KTPH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Johanan Aow (Manager): <a href="mailto:aow.johanan.sb@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">aow.johanan.sb@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Skin Centre (NSC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Veron Lu (Senior Manager): <a href="mailto:nsc.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nsc.research@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NHG Group Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nhggroup.rcrsecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.rcrsecretariat@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NHG Population Health</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jacinta Ong (Asst Director): <a href="mailto:jacinta.sm.ong@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">jacinta.sm.ong@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Tock Seng Hospital (TTSH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Koo Xin Ni (Asst Director): <a href="mailto:xin.ni.koo@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">xin.ni.koo@nhghealth.com.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;For queries, guidance, or to report research misconduct involving
+senior research appointment holders, please contact the RCR Secretariat
+at <a href="mailto:nhggroup.rcrsecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.rcrsecretariat@nhghealth.com.sg</a>.&nbsp;</p>
 <p></p>
-<p></p>
+<p>Updated on 26 May 2026.</p>
 </div>
 </details>
 </div>
