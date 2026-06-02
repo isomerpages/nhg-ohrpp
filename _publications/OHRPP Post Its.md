@@ -30,7 +30,7 @@ to facilitate research conduct operating on high ethical standards.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>(Restricted: NHG Intranet access required)</p>
-<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2036_OHRPP%80POST-ITS_NHG_Health_Nov25.pdMays6=1&amp;web=1&amp;e=WoubbNdTr18g" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">Issue 38 (May 2026)</a>
+<p><a href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2038_OHRPP%20POST-ITS_NHG_Health_May26.pdf?csf=1&amp;web=1&amp;e=Qf1TE3" rel="noopener nofollow" target="_blank">Issue 38 (May 2026)</a>
 </p>
 <p><a href="/files/OHRPP Post Its (Non NHG)/issue_37_feb26_ohrpp_post_its.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 37 (Feb 2026)</a>
 </p>
