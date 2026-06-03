@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/InformedConsent/May_26_Conducting_Remote_Re_consenting.pdf" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">(May 2026) Conducting Remote Re-consenting of Participants</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/InformedConsent/mar_25_how_should_consent_be_obtained_for_the_collection_of_tissue  .pdf" rel="noopener noreferrer nofollow" target="_blank">(Mar 2025) How Should Consent Be Obtained for the Collection of Tissue</a>
 </p>
 </li>
