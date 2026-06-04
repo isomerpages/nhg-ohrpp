@@ -84,8 +84,11 @@ of the online course do not need to repeat V.3 online course to meet the
 minimum training requirements but may do so for refresher or enhanced learning
 purposes. Please access our course via this LENS link&nbsp;<strong><a href="https://lens-mgt.nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://lens-mgt.nhghealth.com.sg</a></strong>
 </p>
+<p>Refer to: <a href="/files/Minimum Training/LENS_NHG_Staff_Registration_Guide_for_HBR_ERC_Online.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Health Staff Guide for HBR ERC Online Course on LENS</a>
+</p>
 <p><strong>Information for NHG Health-based MOHH Residents &amp; NHG Health-based SAF Staff/Doctors</strong>:&nbsp;<strong><a href="/files/Minimum Training/NHG_based_MOHH_Res_Template_Access_Request_HBR_ERC_Online_Ver4_3Jun26.pdf" rel="noopener noreferrer nofollow" target="_blank">(Template) NHG Health-based MOHH Residents</a></strong>
 </p>
+<p></p>
 <h4><strong>Supplementary Readings</strong></h4>
 <p>1. Information on Human Biomedical Research Act (HBRA) – Regulatory Framework
 &amp; Requirements.</p>
