@@ -75,16 +75,20 @@ to complete the HBR ERC Online Course (HBR Minimum Training).
 </p>
 <p></p>
 <h4><strong>HBR ERC Online Course</strong></h4>
-<p><strong><u>Announcement: HBR ERC Online Course V.3 has been launched on eLEARN</u>&nbsp;</strong>
+<p><strong><u>Announcement: HBR ERC Online Course V.3 has been launched on LENS</u>&nbsp;</strong>
 </p>
 <p><strong>Effective 17 May 2024, all new HBR PI &amp; Study team members will only need to complete the updated HBR ERC Online V.3.</strong>
 </p>
 <p>Existing HBR PI &amp;&nbsp;Study Team members who completed past versions
 of the online course do not need to repeat V.3 online course to meet the
 minimum training requirements but may do so for refresher or enhanced learning
-purposes. Please access our course via this eLEARN link <strong><a href="https://elearn.sg/nhg" rel="noopener noreferrer nofollow" target="_blank"><u>https://elearn.sg/nhg</u></a></strong>.</p>
-<p><strong>Information for NHG Health-based MOHH Residents &amp; NHG Health-based SAF Staff/Doctors</strong>:&nbsp;<strong><a href="/files/Minimum Training/nhg_based_mohh_template_access_request_to_hbr_erc_online_guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>(Template) NHG Health-based MOHH Residents</u></a></strong>
+purposes. Please access our course via this LENS link&nbsp;<strong><a href="https://lens-mgt.nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://lens-mgt.nhghealth.com.sg</a></strong>
 </p>
+<p>Refer to: <a href="/files/Minimum Training/LENS_NHG_Staff_Registration_Guide_for_HBR_ERC_Online.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Health Staff Guide for HBR ERC Online Course on LENS</a>
+</p>
+<p><strong>Information for NHG Health-based MOHH Residents &amp; NHG Health-based SAF Staff/Doctors</strong>:&nbsp;<strong><a href="/files/Minimum Training/NHG_based_MOHH_Res_Template_Access_Request_HBR_ERC_Online_Ver4_3Jun26.pdf" rel="noopener noreferrer nofollow" target="_blank">(Template) NHG Health-based MOHH Residents</a></strong>
+</p>
+<p></p>
 <h4><strong>Supplementary Readings</strong></h4>
 <p>1. Information on Human Biomedical Research Act (HBRA) – Regulatory Framework
 &amp; Requirements.</p>
