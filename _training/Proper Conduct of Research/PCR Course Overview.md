@@ -120,7 +120,7 @@ the <a href="/files/Training Files/PCR Course/NHG_Staff_Registration_Guide_for_P
 <p>See the Course <a href="/registration-faqs/" rel="noopener nofollow" target="_blank">Registration FAQs here</a>.</p>
 </li>
 <li>
-<p>See how to <a href="/files/Training Files/PCR Course/How_to_Download_your_eCertification_from_eLEARN.pdf" rel="noopener noreferrer nofollow" target="_blank">Download your Course E-Certificate here</a>.</p>
+<p>See how to <a href="/files/Training Files/PCR Course/To_Download_eCert_LENS_Guide_11Jun26.pdf" rel="noopener noreferrer nofollow" target="_blank">Download your Course E-Certificate here</a>.</p>
 </li>
 </ul>
 <p></p>
