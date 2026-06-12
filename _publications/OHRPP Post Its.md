@@ -80,7 +80,7 @@ to facilitate research conduct operating on high ethical standards.</p>
 <summary><strong>Issues for Non-NHG Health readers</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/OHRPP Post Its (Non NHG)/Issue_38_OHRPP_POST_ITS_May26.pdf" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">Issue 38 (May 2026)</a>
+<p><a href="/files/OHRPP Post Its (Non NHG)/Issue_38_OHRPP_POST_ITS_May26__revised_12Jun26.pdf" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">Issue 38 (May 2026)</a>
 </p>
 <p><a href="/files/OHRPP Post Its (Non NHG)/issue_37_feb26_ohrpp_post_its.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 37 (Feb 2026)</a>
 </p>
