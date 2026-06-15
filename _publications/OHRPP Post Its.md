@@ -13,7 +13,7 @@ to facilitate research conduct operating on high ethical standards.</p>
 <p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://healthsg.sharepoint.com/:b:/r/sites/NHGHealth-GRDO/Shared%20Library/Research%20Education/OHRPP%20POST-ITS%20Newsletter/Issue%2038_OHRPP%20POST-ITS_NHG_Health_May26__revised_12Jun26.pdf?csf=1&amp;web=1&amp;e=6c3UGI" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Current Issue for NHG Staff *</div><div class="isomer-card-link">Issue 38 (May 2026)</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/Issue_38_OHRPP_POST_ITS_May26.pdf" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/OHRPP%20Post%20Its%20(Non%20NHG)/Issue_38_OHRPP_POST_ITS_May26__revised_12Jun26.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Current Issue for Non-NHG readers</div>
 <div class="isomer-card-link">Issue 38 (May 2026)</div>
