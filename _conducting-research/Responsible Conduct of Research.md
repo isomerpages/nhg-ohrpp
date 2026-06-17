@@ -52,7 +52,7 @@ institutions and relevant laws.</p>
 <p>The components of RCR are summarized as follows.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>1. Research Misconduct</strong>
+<summary><strong>1a. Research Misconduct</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>(A) RCR Research Misconduct Event(s) is defined as Falsification, Fabrication
@@ -61,9 +61,14 @@ research results.</p>
 <p>(B) A RCR Event may refer research misconduct events as defined above
 or any other RCR Event(s) that may be categorized under one of the components
 listed above.</p>
-<p></p>
-<p><strong>What to do if there is suspected Research Misconduct?</strong>
-</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>1b. What to do if there is suspected Research Misconduct</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>NHG Health OHRPP recommends that the Whistle-Blower (the individual reporting
 the suspected research misconduct) adheres to his/her institution’s policies
 and or guidelines for whistle-blowing if there is suspected research misconduct.</p>
@@ -90,7 +95,7 @@ below:</p>
 <p>Institute of Mental Health (IMH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:imh.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.research@nhghealth.com.sg</a>
+<p>Clinical Research Unit: <a href="mailto:imh.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.research@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
@@ -99,7 +104,7 @@ below:</p>
 <p>Khoo Teck Puat Hospital (KTPH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Johanan Aow (Manager): <a href="mailto:aow.johanan.sb@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">aow.johanan.sb@nhghealth.com.sg</a>
+<p>Dr. Johanan Aow (Manager): <a href="mailto:aow.johanan.sb@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">aow.johanan.sb@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
@@ -108,7 +113,7 @@ below:</p>
 <p>National Skin Centre (NSC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Veron Lu (Senior Manager): <a href="mailto:nsc.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nsc.research@nhghealth.com.sg</a>
+<p>Ms. Veron Lu (Senior Manager): <a href="mailto:nsc.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nsc.research@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
@@ -117,7 +122,7 @@ below:</p>
 <p>NHG Group Office</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nhggroup.rcrsecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.rcrsecretariat@nhghealth.com.sg</a>
+<p>RCR Secretariat: <a href="mailto:nhggroup.rcrsecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.rcrsecretariat@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
@@ -126,7 +131,7 @@ below:</p>
 <p>NHG Population Health</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jacinta Ong (Asst Director): <a href="mailto:jacinta.sm.ong@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">jacinta.sm.ong@nhghealth.com.sg</a>
+<p>Ms. Jacinta Ong (Asst Director): <a href="mailto:jacinta.sm.ong@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">jacinta.sm.ong@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
@@ -135,7 +140,7 @@ below:</p>
 <p>Tan Tock Seng Hospital (TTSH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koo Xin Ni (Asst Director): <a href="mailto:xin.ni.koo@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">xin.ni.koo@nhghealth.com.sg</a>
+<p>Ms. Koo Xin Ni (Asst Director): <a href="mailto:xin.ni.koo@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">xin.ni.koo@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
@@ -144,7 +149,7 @@ below:</p>
 <p>Woodlands Hospital (WH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Sze Kee (Monitor):&nbsp;<a href="mailto:Koh.Sze.Kee1@nhghealth.com.sg" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">Koh.Sze.Kee1@nhghealth.com.sg</a>
+<p>Ms. Koh Sze Kee (Monitor): <a href="mailto:Koh.Sze.Kee1@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">Koh.Sze.Kee1@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
