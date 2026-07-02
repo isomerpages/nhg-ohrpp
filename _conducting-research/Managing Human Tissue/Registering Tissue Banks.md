@@ -54,12 +54,12 @@ HBM and intends to store or use them for future research from 01 November
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Tissue%20Review%20(1700)/1704-05%20Informed%20Consent%20Form%20for%20Donation%20of%20Biological%20Material.docx?d=w28e6f1299f9446969e885f2c528d2d5a&amp;csf=1&amp;web=1&amp;e=qXS2Tj" rel="noopener nofollow" target="_blank">Informed Consent Form for Donation of Biological Material Template</a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Tissue%20Review%20(1700)/1704-05%20Informed%20Consent%20Form%20for%20Donation%20of%20Biological%20Material.docx?d=wa21bb27f913c49bfb827bac9ae844182&amp;csf=1&amp;web=1&amp;e=ZMnb1x" rel="noopener nofollow" target="_blank">Informed Consent Form for Donation of Biological Material Template</a>
 </p>
 <p></p>
 </li>
 <li>
-<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Tissue%20Review%20(1700)/1704-15%20(Optional)%20Donation%20of%20Leftover%20Biological%20Samples.docx?d=w6ec0c1f0897043b4a04dd946b5bed384&amp;csf=1&amp;web=1&amp;e=bqWCOO" rel="noopener nofollow" target="_blank">Optional Consent Form for the Donation of Leftover Biological Samples Template</a>
+<p><a href="https://healthsg.sharepoint.com/:w:/r/sites/NHGHealth-RCU/Shared%20Library/Tissue%20Banking/NHG%20Health%20Tissue%20Review%20(1700)/1704-15%20(Optional)%20Donation%20of%20Leftover%20Biological%20Samples.docx?d=w0bdb4094608d4a6093dc0201a6e9a94c&amp;csf=1&amp;web=1&amp;e=Nw8uTg" rel="noopener nofollow" target="_blank">Optional Consent Form for the Donation of Leftover Biological Samples Template</a>
 </p>
 <p></p>
 </li>
