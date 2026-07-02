@@ -20,7 +20,7 @@ for you!</p>
 <p></p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InformedConsent/May_26_Conducting_Remote_Re-consenting.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">May 2026: Conducting Remote Re-consenting of Participants</div><div class="isomer-card-description">Find out how to conduct remote re-consenting while staying compliant with PCR SOP and the latest ICH E6(R3) GCP guidelines.</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InformedConsent/May_26_Conducting_Remote_Re_consenting.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">May 2026: Conducting Remote Re-consenting of Participants</div><div class="isomer-card-description">Find out how to conduct remote re-consenting while staying compliant with PCR SOP and the latest ICH E6(R3) GCP guidelines.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyConduct/apr_26_missed_study_visits_and_procedures.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Apr 2026: Management of Research Participants' Missed Study Visits and
