@@ -20,7 +20,7 @@ for you!</p>
 <p></p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyConduct/Jun26_Multi-Site_Studies.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jun 2026: Multi-Site Studies: Best Practices for Navigating the Complexities</div><div class="isomer-card-description">Running a multi-site study? Learn the best practices that keep complex research on track across every site.</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyConduct/Jun26_Multi_Site_Studies.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jun 2026: Multi-Site Studies: Best Practices for Navigating the Complexities</div><div class="isomer-card-description">Running a multi-site study? Learn the best practices that keep complex research on track across every site.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InformedConsent/May_26_Conducting_Remote_Re_consenting.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">May 2026: Conducting Remote Re-consenting of Participants</div>
