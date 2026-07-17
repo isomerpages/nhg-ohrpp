@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Proper Conduct of Research
 ---
-<h4><strong>PCR-400: Monitoring, Audits and Inspections Module</strong></h4>
+<h4><strong>PCR-004: Monitoring, Audits and Inspections</strong></h4>
 <p>This online PCR module covers the closely related topics of monitoring,
 audits, and inspections across all research types. Participants will understand
 the purposes, processes and preparation required for monitoring, audit
