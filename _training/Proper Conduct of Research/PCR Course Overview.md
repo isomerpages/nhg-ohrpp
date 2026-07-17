@@ -114,7 +114,7 @@ audit findings and corrective actions will also be covered in this module.&nbsp;
 </li>
 <li>
 <p><strong>For NHG Health Staff: </strong>Register <a href="https://lens.nhghealth.com.sg" rel="noopener nofollow" target="_blank">here for the PCR course</a>. Download
-the <a href="/files/Minimum Training/LENS_NHG_Staff_Registration_Guide_for_HBR_ERC_Online.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Health Staff Self-Registration Guide for PCR Course here</a>.</p>
+the <a href="/files/Minimum Training/PCR_NHG_Staff_LENS_Registration_Guide_17Jul26.pdf" rel="noopener noreferrer nofollow" target="_blank">NHG Health Staff Self-Registration Guide for PCR Course here</a>.</p>
 </li>
 <li>
 <p>See the Course <a href="/registration-faqs/" rel="noopener nofollow" target="_blank">Registration FAQs here</a>.</p>
