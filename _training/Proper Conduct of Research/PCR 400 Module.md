@@ -6,43 +6,54 @@ description: ""
 third_nav_title: Proper Conduct of Research
 ---
 <h4><strong>PCR-400: Monitoring, Audits and Inspections Module</strong></h4>
-<p>This course features the closely related topics of monitoring, audits
-and inspections. The online modules will allow participants to understand
-the purpose of site monitoring, responsibilities of monitors, and concepts
-surrounding risk-based monitoring; including the process of audits and
-inspections, conducted either by external parties and/or regulatory authorities.</p>
-<h4><strong>Agenda</strong></h4>
-<p>This online course encompasses the following topics relating to monitoring,
+<p>This online PCR module covers the closely related topics of monitoring,
+audits, and inspections across all research types. Participants will understand
+the purposes, processes and preparation required for monitoring, audit
+and inspection by institution, sponsors and regulatory authorities. Common
+audit findings and corrective actions will also be covered in this module.</p>
+<p>This online course encompasses the following topics related to monitoring,
 audits and inspections:</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>An Introduction to Site Monitoring</p>
-</li>
-<li>
-<p>How to Conduct Site Monitoring (Site Monitoring Visit Preparation, Conduct
-&amp; Follow-Up)</p>
-</li>
 <li>
 <p>Overview of Monitoring, Audits and Inspections</p>
 </li>
 <li>
-<p>Preparing for Audits and Inspections</p>
+<p>Monitoring, Audits and Inspections activities and governing regulatory
+frameworks</p>
 </li>
 <li>
-<p>Risk-Based Monitoring: An Introduction</p>
+<p>Preparation and Follow-up Activities: Before, During, and After Monitoring
+Visits, Audits, and Inspections</p>
+</li>
+<li>
+<p>Quality Management of Tissue Banks or Tissue Collections</p>
+</li>
+<li>
+<p>Common Audit Findings: Impact and Corrective Actions</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>Learning Objectives</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>To apply concepts of risk-based monitoring to clinical trials.</p>
+<p>To differentiate between monitoring, audits and inspections and understand
+their respective roles in research oversight.</p>
 </li>
 <li>
-<p>To be familiar with the procedures to be followed before, during and after
-audits and inspections.</p>
+<p>To be familiar with the key activities required before, during, and after
+monitoring visits, audits, and inspections.</p>
 </li>
 <li>
-<p>To prepare research studies for audits and inspections.</p>
+<p>To prepare for and follow up effectively on monitoring, audit, and inspection
+visits.</p>
+</li>
+<li>
+<p>To understand quality management and processes of Tissue Banks and Tissue
+Collections for compliance under the Human Tissue Framework.</p>
+</li>
+<li>
+<p>To identify common findings from audits and inspections and take appropriate
+corrective action.</p>
 </li>
 </ul>
 <h4><strong>Schedule</strong></h4>
