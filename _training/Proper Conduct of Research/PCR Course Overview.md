@@ -92,13 +92,13 @@ to aid in data analysis and capture in research.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>PCR-400: Monitoring, Audits and Inspections</strong>&nbsp;</summary>
+<summary><strong>PCR-004: Monitoring, Audits and Inspections</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This online course features the closely related topics of monitoring,
-audits and inspections. The content will allow participants to understand
-the purpose of site monitoring, responsibilities of monitors, and concepts
-surrounding risk-based monitoring; including the process of audits and
-inspections, conducted either by external parties and/or regulatory authorities.&nbsp;</p>
+<p>This online PCR module covers the closely related topics of monitoring,
+audits, and inspections across all research types. Participants will understand
+the purposes, processes and preparation required for monitoring, audit
+and inspection by institution, sponsors and regulatory authorities. Common
+audit findings and corrective actions will also be covered in this module.&nbsp;</p>
 <p><a href="/pcr-400/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
 <p></p>
 </div>
