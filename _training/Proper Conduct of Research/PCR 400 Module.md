@@ -68,4 +68,9 @@ corrective action.</p>
 the <a href="/files/Training Files/PCR Course/PCR_NHG_Staff_LENS_Registration_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health Staff Self-Registration Guide for PCR Course here</u></a>.</p>
 </li>
 </ul>
+<h4><strong>Who should attend</strong></h4>
+<p>This online course is designed for all research personnel, including Investigators,
+Clinical Research Coordinators, Research Assistants, Tissue Bank Custodians,
+Tissue Collection Applicants, Research Compliance Officers, Quality Assurance
+staff, and institution monitors.</p>
 <p></p>
