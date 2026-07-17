@@ -73,7 +73,7 @@ to closure.</p>
 </li>
 <li>
 <p><strong>For NHG Health Staff: </strong>Register <a href="https://lens.nhghealth.com.sg" rel="noopener nofollow" target="_blank">here for the PCR course</a>. Download
-the <a href="/files/Training Files/PCR Course/PCR_NHG_Staff_LENS_Registration_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health Staff Self-Registration Guide for PCR Course here</u></a>.</p>
+the <a href="/files/Minimum Training/LENS_NHG_Staff_Registration_Guide_for_HBR_ERC_Online.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NHG Health Staff Self-Registration Guide for PCR Course here</u></a>.</p>
 </li>
 </ul>
 <p></p>
