@@ -89,7 +89,22 @@ determining subject’s eligibility, subject follow-up and retention strategies.
 <h4><strong>Registration</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Registration for this Course is currently open. Go to the <a href="https://form.gov.sg/66177cd0a14ba8cd75876ca4" rel="noopener nofollow" target="_blank">Course Registration (via FormSG) here</a>.</p>
+<p><strong>For Non-NHG Health staff</strong>: Registration for this Course
+is currently open. Go to the <a href="https://form.gov.sg/66177cd0a14ba8cd75876ca4" rel="noopener nofollow" target="_blank">Course Registration (via FormSG) here</a>.</p>
+<p><strong>Type of participants / Fees</strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NHG Academic Partner / Joint Institutions / $373.87&nbsp;</p>
+</li>
+<li>
+<p>Non-NHG Healthcare Institutions / Academic Institutions / $560.81&nbsp;</p>
+</li>
+<li>
+<p>Others / Private / $747.741&nbsp;</p>
+</li>
+</ul>
+<p><em>Please note that all course fees quoted above are inclusive of 9% GST and for further enquries (e.g. Course Fee Category) please contact our training administrator at 6038 3669 or <a href="mailto:nhggroup.research.courseadmin@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nhggroup.research.courseadmin@nhghealth.com.sg</u></a></em>
+</p>
 </li>
 <li>
 <p><strong>For NHG Health Staff: </strong>Register <a href="https://lens.nhghealth.com.sg" rel="noopener nofollow" target="_blank">here for the PCR course</a>. Download
