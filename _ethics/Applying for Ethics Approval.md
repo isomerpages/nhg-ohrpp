@@ -118,4 +118,27 @@ of privacy of research participants and confidentiality of data collected.</p>
 <p></p>
 <p><strong>Resources</strong>: See the <a href="/dsrb-reviewguide/" rel="noopener nofollow" target="_blank">DSRB Review Requirements &amp; Process Guide here</a>.</p>
 <p></p>
+<h4><strong>DSRB Green Lane</strong></h4>
+<p>DSRB <strong>Green Lane</strong> provides comprehensive end-to-end IRB support
+from start to finish. We partner with industry sponsors through fast-track
+ethical reviews to arrive at prompt outcomes for your clinical trials.</p>
+<p>Contact us to position your clinical trial on the DSRB Green Lane:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hwee Hian (Director, OHRPP) - <a href="mailto:hwee.hian.ng@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">hwee.hian.ng@nhghealth.com.sg</a>
+</p>
+</li>
+<li>
+<p>Yuan Ting (Snr Manager, OHRPP) - <a href="mailto:yuan.ting.leong@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">yuan.ting.leong@nhghealth.com.sg</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p>For more information, please download the <strong>Green Lane</strong> 
+<a href="/files/Ethics/Green_Lane_Brochure_V1_1_28Jul26.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>brochure</u>
+</a>.</p>
+<p></p>
+<p><strong><u>Your Trial Matters To Us</u></strong>
+</p>
+<p></p>
 <p></p>
