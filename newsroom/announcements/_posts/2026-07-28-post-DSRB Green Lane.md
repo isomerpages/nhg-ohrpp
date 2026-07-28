@@ -8,10 +8,9 @@ image: ""
 variant: tiptap
 ---
 <h3><strong>DSRB</strong> <strong>Green Lane</strong></h3>
-<p>&nbsp;DSRB <strong>Green Lane</strong> provides comprehensive end-to-end
-IRB support from start to finish. We partner with industry sponsors through
-fast-track ethical reviews to arrive at prompt outcomes for your clinical
-trials.</p>
+<p>DSRB <strong>Green Lane</strong> provides comprehensive end-to-end IRB support
+from start to finish. We partner with industry sponsors through fast-track
+ethical reviews to arrive at prompt outcomes for your clinical trials.</p>
 <p></p>
 <p>Contact us to position your clinical trial on the DSRB Green Lane:</p>
 <ul data-tight="true" class="tight">
