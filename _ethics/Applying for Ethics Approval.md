@@ -134,7 +134,9 @@ ethical reviews to arrive at prompt outcomes for your clinical trials.</p>
 </li>
 </ul>
 <p></p>
-<p>For more information, please download the <strong>Green Lane</strong>  <u>brochure</u>.</p>
+<p>For more information, please download the <strong>Green Lane</strong> 
+<a href="/files/Ethics/Green_Lane_Brochure_V1_1_28Jul26.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>brochure</u>
+</a>.</p>
 <p></p>
 <p><strong><u>Your Trial Matters To Us</u></strong>
 </p>
