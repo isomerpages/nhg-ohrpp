@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/StudyTeamResponsibilities/Jul26_Managing_Service_Providers.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jul 2026) Managing Involvement of Service Providers in Research</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/StudyTeamResponsibilities/oct25_crc_transitions_effectively_for_study_continuity.pdf" rel="noopener noreferrer nofollow" target="_blank">(Oct 2025) Managing Clinical Research Coordinator (CRC) Transitions Effectively for Study Continuity</a>
 </p>
 </li>
