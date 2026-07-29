@@ -20,7 +20,7 @@ for you!</p>
 <p></p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/PreStudyActivities/mar26_ensuring_ethical_compliantstudystartup&amp;initiation.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jul 2026: Managing Involvement of Service Providers in Research</div><div class="isomer-card-description">Find out how to manage service providers in research without compromising research compliance</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyTeamResponsibilities/Jul26_Managing_Service_Providers.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jul 2026: Managing Involvement of Service Providers in Research</div><div class="isomer-card-description">Find out how to manage service providers in research without compromising research compliance</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyConduct/Jun26_Multi_Site_Studies.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Jun 2026: Multi-Site Studies: Best Practices for Navigating the Complexities</div>
