@@ -95,7 +95,8 @@ below:</p>
 <p>Institute of Mental Health (IMH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Clinical Research Unit: <a href="mailto:imh.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.research@nhghealth.com.sg</a>
+<p>Clinical Research Unit:</p>
+<p><a href="mailto:imh.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">imh.research@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
@@ -104,7 +105,7 @@ below:</p>
 <p>Khoo Teck Puat Hospital (KTPH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr. Johanan Aow (Manager): <a href="mailto:aow.johanan.sb@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">aow.johanan.sb@nhghealth.com.sg</a>
+<p>Dr Johanan Aow (Manager): <a href="mailto:aow.johanan.sb@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">aow.johanan.sb@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
@@ -113,7 +114,8 @@ below:</p>
 <p>National Skin Centre (NSC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Veron Lu (Senior Manager): <a href="mailto:nsc.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nsc.research@nhghealth.com.sg</a>
+<p>Ms. Veron Lu (Senior Manager):</p>
+<p><a href="mailto:nsc.research@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nsc.research@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
@@ -122,7 +124,8 @@ below:</p>
 <p>NHG Group Office</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RCR Secretariat: <a href="mailto:nhggroup.rcrsecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.rcrsecretariat@nhghealth.com.sg</a>
+<p>RCR Secretariat:</p>
+<p><a href="mailto:nhggroup.rcrsecretariat@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">nhggroup.rcrsecretariat@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
@@ -137,19 +140,19 @@ below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Tock Seng Hospital (TTSH)</p>
+<p>NHG Polyclinics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Koo Xin Ni (Asst Director): <a href="mailto:xin.ni.koo@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">xin.ni.koo@nhghealth.com.sg</a>
+<p>Ms. Lee Ying Hui (Asst Director): <a href="mailto:ying.hui.lee@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">ying.hui.lee@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Woodlands Hospital (WH)</p>
+<p>Tan Tock Seng Hospital (TTSH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Koh Sze Kee (Monitor): <a href="mailto:Koh.Sze.Kee1@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">Koh.Sze.Kee1@nhghealth.com.sg</a>
+<p>Ms. Koo Xin Ni (Asst Director): <a href="mailto:xin.ni.koo@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">xin.ni.koo@nhghealth.com.sg</a>
 </p>
 </td>
 </tr>
