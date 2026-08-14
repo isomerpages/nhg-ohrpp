@@ -156,6 +156,15 @@ below:</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Woodlands Hospital (WH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Koh Sze Kee (Monitor): <a href="mailto:Koh.Sze.Kee1@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Koh.Sze.Kee1@nhghealth.com.sg</u></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;For queries, guidance, or to report research misconduct involving
