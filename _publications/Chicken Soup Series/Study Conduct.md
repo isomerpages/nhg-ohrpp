@@ -9,6 +9,10 @@ third_nav_title: Chicken Soup Series
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Chicken Soup/StudyConduct/Aug26_Management_Adverse_Events.pdf" rel="noopener noreferrer nofollow" target="_blank">(Aug 2026) Management &amp; Documentation of Adverse Events (AE): Best Practices</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Chicken Soup/StudyConduct/Jun26_Multi_Site_Studies.pdf" rel="noopener noreferrer nofollow" target="_blank">(Jun 2026) Multi-Site Studies: Best Practices for Navigating the Complexities</a>
 </p>
 </li>

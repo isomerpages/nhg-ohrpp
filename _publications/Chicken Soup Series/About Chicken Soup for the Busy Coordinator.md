@@ -20,21 +20,20 @@ for you!</p>
 <p></p>
 <h4><strong>Latest Issues</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyTeamResponsibilities/Jul26_Managing_Service_Providers.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jul 2026: Managing Involvement of Service Providers in Research</div><div class="isomer-card-description">Find out how to manage service providers in research without compromising research compliance</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyConduct/Jun26_Multi_Site_Studies.pdf" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyConduct/apr_26_missed_study_visits_and_procedures.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Aug 2026: Management &amp; Documentation of Adverse Events (AE): Best Practices</div><div class="isomer-card-description">Find out how a routine monitoring visit uncovered what should have been caught much earlier — and the best practices for managing and documenting adverse events that could have made the difference.</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyTeamResponsibilities/Jul26_Managing_Service_Providers.pdf" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Jun 2026: Multi-Site Studies: Best Practices for Navigating the Complexities</div>
-<div class="isomer-card-description">Running a multi-site study? Learn the best practices that keep complex
-research on track across every site.</div>
+<div class="isomer-card-title">Jul 2026: Managing Involvement of Service Providers in Research</div>
+<div class="isomer-card-description">Find out how to manage service providers in research without compromising
+research compliance</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InformedConsent/May_26_Conducting_Remote_Re_consenting.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">May 2026: Conducting Remote Re-consenting of Participants</div><div class="isomer-card-description">Find out how to conduct remote re-consenting while staying compliant with PCR SOP and the latest ICH E6(R3) GCP guidelines.</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyConduct/apr_26_missed_study_visits_and_procedures.pdf" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/StudyConduct/Jun26_Multi_Site_Studies.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jun 2026: Multi-Site Studies: Best Practices for Navigating the Complexities</div><div class="isomer-card-description">Running a multi-site study? Learn the best practices that keep complex research on track across every site.</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://ethics.gri.nhg.com.sg/files/Chicken%20Soup/InformedConsent/May_26_Conducting_Remote_Re_consenting.pdf" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Apr 2026: Management of Research Participants' Missed Study Visits and
-Procedures</div>
-<div class="isomer-card-description">Learn more about managing research participants' missed study visits and
-procedures here!</div>
+<div class="isomer-card-title">May 2026: Conducting Remote Re-consenting of Participants</div>
+<div class="isomer-card-description">Find out how to conduct remote re-consenting while staying compliant with
+PCR SOP and the latest ICH E6(R3) GCP guidelines.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a>
